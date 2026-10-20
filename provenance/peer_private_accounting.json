@@ -1,0 +1,24 @@
+{
+  "primary_status": "COMPLETE_130",
+  "replication_status": "PARTIAL_DO_NOT_USE_AS_FINAL",
+  "physical": {
+    "input_usage_missing": 0,
+    "known_input_tokens_lower_bound": 1375087,
+    "known_output_tokens_lower_bound": 453493,
+    "output_usage_missing": 0,
+    "physical_attempts": 1212,
+    "physical_completions": 1210,
+    "rejected_attempts": 1,
+    "uncertain_attempts": 1
+  },
+  "known_planning_cost_usd": 7.9726475,
+  "unresolved_reservation": {
+    "attempt_id": "aa98d2adc16c48d6a7cf7a5437b01837",
+    "input_tokens": 1908,
+    "output_tokens": 4096
+  },
+  "planning_cost_including_unknown_reservation_usd": 8.0183775,
+  "actual_currency_cost": null,
+  "further_paid_calls_authorized_by_this_artifact": false,
+  "note": "Original deadline has passed. Preserve unknown reservation; no retry. Archived first-run ledger is already included in continuation."
+}

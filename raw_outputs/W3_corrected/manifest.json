@@ -1,0 +1,17 @@
+{
+  "experiment": "W3_corrected",
+  "dataset": "Open-Book HotpotQA (fullwiki)",
+  "dataset_examples": 100,
+  "model": "gpt-oss-120b",
+  "provider": "Azure OpenAI",
+  "temperature": 0.0,
+  "n_agents": 3,
+  "max_rounds": 3,
+  "sprt_tau": 1.3862943611198906,
+  "seed": 42,
+  "git_commit": "79a02ff158c6aa6768147825ee5a6f2b7f9b4692",
+  "started_at": "2026-10-07 17:30:46",
+  "status": "completed",
+  "completed_at": "2026-10-07 18:08:37",
+  "elapsed_seconds": 2270.94
+}

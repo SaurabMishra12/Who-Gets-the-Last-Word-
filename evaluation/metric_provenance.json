@@ -1,0 +1,12 @@
+{
+  "source": "WEBExtension/web_reasoning/references/2wiki_official.py",
+  "source_sha256": "7c09ee2ec98c7ecb57df79eb68dba22eb381ab58d50e730dfcefafb4dda31458",
+  "functions": [
+    "normalize_answer",
+    "f1_score",
+    "exact_match_score",
+    "eval_answer"
+  ],
+  "transformation": "Extract four unchanged function definitions; replace unused CLI and ujson import with stdlib imports. Hotpot answer scoring uses the same normalization and special-answer convention.",
+  "scope": "Answer EM and F1 only; no semantic entailment or source-necessity verification."
+}

@@ -1,0 +1,58 @@
+tabular,row,column,cell_tex
+1,1,1,"\toprule
+\textbf{Protocol}"
+1,1,2,\textbf{Dataset / Regime}
+1,1,3,\textbf{Cohort Size}
+1,1,4,\textbf{Primary Intervention}
+1,1,5,\textbf{Statistical Procedure}
+1,2,1,"\midrule
+2Wiki Pilot / Ext. / Pooled"
+1,2,2,2WikiMultihopQA train / $P$
+1,2,3,$20$ / $130$ / $150$ paired
+1,2,4,"$7$ routing arms $\times 3$ readouts ($\Rsink,\Rsp,\Raa$)"
+1,2,5,Paired bootstrap CI; exact McNemar
+1,3,1,HotpotQA E1
+1,3,2,"\texttt{fullwiki} dev / $R,P$"
+1,3,3,$300$ paired ($240$ dev / $60$ tune)
+1,3,4,$2\times 4$ evidence regime $\times$ routing
+1,3,5,Paired bootstrap; sign randomization
+1,4,1,HotpotQA E2 \
+1,4,2,E3-v2
+1,4,3,\texttt{fullwiki} dev / $R$
+1,4,4,$300$ (E2); $299$ eligible (E3-v2)
+1,4,5,Frozen CW vs.\ CCW (E2); $128$-tok prefix vs.\ crop (E3-v2)
+1,4,6,Paired bootstrap; sign randomization
+1,5,1,HotpotQA E4 \
+1,5,2,E5
+1,5,3,"\texttt{fullwiki} / $R,P$"
+1,5,4,$300$ test ($\times 3$ seeds in E5)
+1,5,5,Consensus-stop replay (E4); $55$-action PPO
+1,5,6,Bootstrap; Holm ($M=20$ in E5)
+1,6,1,HotpotQA Gold Strata
+1,6,2,E1/E5 shared test IDs
+1,6,3,$62$ Disjoint / $14$ Co-loc / $224$ Miss
+1,6,4,Post-hoc gold-coverage $\times$ readout audit
+1,6,5,Paired bootstrap; exact McNemar
+1,7,1,Reasoning P1 / P1b
+1,7,2,GSM8K / AQuA / HotpotQA
+1,7,3,P1: $300\times 3$; P1b: $551/254/863$
+1,7,4,NoComm vs.\ MAD vs.\ \sys{}
+1,7,5,BCa bootstrap; one-sided NI ($\delta=5$ pp)
+1,8,1,Reasoning P2b \
+1,8,2,P3
+1,8,3,GSM8K diagnostic
+1,8,4,P2b: $150$; P3: $150$ matched
+1,8,5,$2\times 2$ routing $\times$ filtering (P2b); $6$ static motifs (P3)
+1,8,6,Question-clustered CR1; Holm ($M=12$)
+1,9,1,Reasoning P4 \
+1,9,2,P5
+1,9,3,Arithmetic diagnostics
+1,9,4,P4: $150\times(15+5)$; P5: $100$
+1,9,5,All $15$ two-edge supports (P4); $2\times 2$ route $\times$ stop (P5)
+1,9,6,Wilson CI; BCa bootstrap; exact McNemar
+1,10,1,Web W1--W4
+1,10,2,HotpotQA \texttt{fullwiki} val
+1,10,3,"$100$ paired ($1{,}500$ traces)"
+1,10,4,"Policy, sentence rationing, and consensus stopping"
+1,10,5,Paired bootstrap; Holm adjustment
+1,11,1,\bottomrule

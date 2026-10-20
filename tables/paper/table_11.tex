@@ -1,0 +1,32 @@
+% Fragment transcribed from the supplied TeX; see paper/reference.json.
+\begin{table}[!h]
+\centering
+\caption{Supplementary HotpotQA E5 gold-coverage strata ($n=14$ Co-located-Gold, $n=224$ Missing-Gold; regime $P$) and additional protocol diagnostics (W1--W4, P3).}
+\label{tab:web_w1_w4}
+\scriptsize
+\setlength{\tabcolsep}{3.0pt}
+\renewcommand{\arraystretch}{1.03}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}llccc@{}}
+\toprule
+\textbf{Panel A: E5 Arm ($P$)} & \textbf{Stratum} & \textbf{$\Rorig$ (EM/$F_1$)} & \textbf{$\Rsink$ (EM/$F_1$)} & \textbf{$\Raa$ (EM/$F_1$)} \\
+\midrule
+NoComm & Co-located ($n=14$) & $7.14/7.14$ & $21.43/22.18$ & $64.29/68.51$ \\
+Projected In-Star & Co-located ($n=14$) & $21.43/21.43$ & $35.71/41.94$ & $64.29/68.51$ \\
+Broadcast & Co-located ($n=14$) & $35.71/35.71$ & $35.71/41.94$ & $64.29/68.48$ \\
+NoComm & Missing ($n=224$) & $2.23/3.39$ & $6.25/9.38$ & $10.71/16.78$ \\
+Projected In-Star & Missing ($n=224$) & $2.68/4.31$ & $6.25/10.12$ & $10.27/16.49$ \\
+Broadcast & Missing ($n=224$) & $6.25/8.99$ & $6.25/10.12$ & $11.16/17.45$ \\
+\midrule
+\textbf{Panel B: Protocol} & \textbf{Comparison} & \multicolumn{2}{c}{\textbf{Answer $F_1$ / Accuracy (\%)}} & \textbf{Comm.\ Tokens} \\
+\midrule
+W1 ($N=100$) & MAD vs.\ \sys{} & \multicolumn{2}{c}{$48.36$ vs.\ $44.51$ ($F_1$)} & $297.0$ vs.\ $44.9$ \\
+W2 ($N=100$) & Prefix vs.\ Crop & \multicolumn{2}{c}{$46.57$ vs.\ $44.49$ ($F_1$)} & $66.3$ vs.\ $66.9$ \\
+W3 ($N=100$, Top-2) & Fixed vs.\ Adaptive & \multicolumn{2}{c}{$46.17$ vs.\ $48.30$ ($F_1$)} & $89.9$ vs.\ $55.2$ \\
+W3 ($N=100$, All-10) & Fixed vs.\ Adaptive & \multicolumn{2}{c}{$52.07$ vs.\ $52.67$ ($F_1$)} & $95.2$ vs.\ $56.8$ \\
+W4 ($N=100$) & Static / Ctrl / Rand & \multicolumn{2}{c}{$44.9 / 43.0 / 45.6$ ($F_1$)} & $24.1$ (matched) \\
+P3 ($N=150$, GSM8K) & Ring / Full / \sys{} & \multicolumn{2}{c}{$95.3 / 98.7 / 95.3$ (Acc.)} & $337 / 305 / 51.1$ \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

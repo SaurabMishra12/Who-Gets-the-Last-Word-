@@ -1,0 +1,26 @@
+\begin{table}[t]
+\centering
+\caption{Realized token volume across 2$\times$2 factorial arms (GSM8K). Token reduction = $1 - V_{\text{tx}}/V_{\text{full}}$.}
+\label{tab:factorial_volume}
+\small
+\begin{tabular}{ccrrrrr}
+\toprule
+$n_{\text{train}}$ & Arm & $n$ & Acc (\%) & $\bar{V}_{\text{tx}}$ & $\bar{V}_{\text{full}}$ & Reduction (\%) \\
+\midrule
+  200 & Static Ring + No Compression & 150 & 95.3 & 366 & 629 & 15.2 \\
+   & Learned Topology + No Compression & 150 & 92.0 & 137 & 223 & 15.5 \\
+   & Static Ring + Learned Compression & 150 & 94.7 & 384 & 680 & 15.7 \\
+   & Learned Topology + Learned Compression (Full SparseComm) & 150 & 98.0 & 125 & 189 & 11.2 \\
+\midrule
+  300 & Static Ring + No Compression & 150 & 94.7 & 369 & 648 & 15.6 \\
+   & Learned Topology + No Compression & 150 & 94.0 & 124 & 206 & 14.6 \\
+   & Static Ring + Learned Compression & 150 & 94.7 & 355 & 638 & 15.7 \\
+   & Learned Topology + Learned Compression (Full SparseComm) & 150 & 92.7 & 123 & 199 & 13.2 \\
+\midrule
+  400 & Static Ring + No Compression & 150 & 93.3 & 366 & 653 & 16.0 \\
+   & Learned Topology + No Compression & 150 & 96.7 & 109 & 176 & 11.5 \\
+   & Static Ring + Learned Compression & 150 & 95.3 & 344 & 609 & 15.4 \\
+   & Learned Topology + Learned Compression (Full SparseComm) & 150 & 93.3 & 59 & 187 & 22.6 \\
+\bottomrule
+\end{tabular}
+\end{table}

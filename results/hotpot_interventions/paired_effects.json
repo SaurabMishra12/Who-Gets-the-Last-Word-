@@ -1,0 +1,218 @@
+[
+  {
+    "experiment": "E1",
+    "contrast": "(CW-NoComm)_P - (CW-NoComm)_R",
+    "primary": true,
+    "n": 300,
+    "effect": 2.8815065834673677,
+    "ci95": [
+      -0.25996063576945927,
+      6.010893847437964
+    ],
+    "randomization_p": 0.07129287071292871,
+    "helped": 25,
+    "harmed": 16,
+    "unchanged": 259
+  },
+  {
+    "experiment": "E1",
+    "contrast": "R_CW - R_NoComm",
+    "primary": false,
+    "n": 300,
+    "effect": 0.9847568916196368,
+    "ci95": [
+      -0.7680588093823387,
+      2.893296595379929
+    ],
+    "randomization_p": 0.29547045295470453,
+    "helped": 14,
+    "harmed": 6,
+    "unchanged": 280,
+    "holm_p_within_experiment": 0.857914208579142,
+    "holm_across_completed_secondary_contrasts": 1
+  },
+  {
+    "experiment": "E1",
+    "contrast": "P_CW - P_NoComm",
+    "primary": false,
+    "n": 300,
+    "effect": 3.8662634750870044,
+    "ci95": [
+      1.356056786350904,
+      6.485954184704185
+    ],
+    "randomization_p": 0.0014998500149985001,
+    "helped": 20,
+    "harmed": 5,
+    "unchanged": 275,
+    "holm_p_within_experiment": 0.008999100089991,
+    "holm_across_completed_secondary_contrasts": 0.0134986501349865
+  },
+  {
+    "experiment": "E1",
+    "contrast": "R_CCW - R_NoComm",
+    "primary": false,
+    "n": 300,
+    "effect": 1.0912809231436682,
+    "ci95": [
+      -0.8013360790444124,
+      3.144086659074404
+    ],
+    "randomization_p": 0.285971402859714,
+    "helped": 14,
+    "harmed": 10,
+    "unchanged": 276,
+    "holm_p_within_experiment": 0.857914208579142,
+    "holm_across_completed_secondary_contrasts": 1
+  },
+  {
+    "experiment": "E1",
+    "contrast": "P_CCW - P_NoComm",
+    "primary": false,
+    "n": 300,
+    "effect": 3.7733002291825826,
+    "ci95": [
+      1.4206812876665817,
+      6.354451447245564
+    ],
+    "randomization_p": 0.0023997600239976003,
+    "helped": 20,
+    "harmed": 4,
+    "unchanged": 276,
+    "holm_p_within_experiment": 0.011998800119988001,
+    "holm_across_completed_secondary_contrasts": 0.019198080191980802
+  },
+  {
+    "experiment": "E1",
+    "contrast": "R_CW - R_SelfUpdate",
+    "primary": false,
+    "n": 300,
+    "effect": 0.6435719127208491,
+    "ci95": [
+      -0.870582611832612,
+      2.2149882209988596
+    ],
+    "randomization_p": 0.420957904209579,
+    "helped": 13,
+    "harmed": 6,
+    "unchanged": 281,
+    "holm_p_within_experiment": 0.857914208579142,
+    "holm_across_completed_secondary_contrasts": 1
+  },
+  {
+    "experiment": "E1",
+    "contrast": "P_CW - P_SelfUpdate",
+    "primary": false,
+    "n": 300,
+    "effect": 3.3773745861981155,
+    "ci95": [
+      0.8490954715219422,
+      6.052734487734487
+    ],
+    "randomization_p": 0.010998900109989001,
+    "helped": 18,
+    "harmed": 7,
+    "unchanged": 275,
+    "holm_p_within_experiment": 0.043995600439956005,
+    "holm_across_completed_secondary_contrasts": 0.07699230076992301
+  },
+  {
+    "experiment": "E2",
+    "contrast": "R_CW - R_CCW",
+    "primary": false,
+    "n": 300,
+    "effect": -0.1065240315240315,
+    "ci95": [
+      -1.4761482730232731,
+      1.147305934805935
+    ],
+    "randomization_p": 0.8801119888011198,
+    "helped": 10,
+    "harmed": 6,
+    "unchanged": 284,
+    "holm_p_within_experiment": 0.8801119888011198,
+    "holm_across_completed_secondary_contrasts": 1
+  },
+  {
+    "experiment": "E3_original",
+    "contrast": "R_prefix - R_crop",
+    "primary": false,
+    "n": 300,
+    "effect": 0.14502164502164502,
+    "ci95": [
+      -0.13636363636363635,
+      0.5714285714285714
+    ],
+    "randomization_p": 1.0,
+    "helped": 1,
+    "harmed": 1,
+    "unchanged": 298,
+    "holm_p_within_experiment": 1,
+    "holm_across_completed_secondary_contrasts": 1
+  },
+  {
+    "experiment": "E4",
+    "contrast": "P_stopped - P_final",
+    "primary": false,
+    "n": 300,
+    "effect": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ],
+    "randomization_p": 1.0,
+    "helped": 0,
+    "harmed": 0,
+    "unchanged": 300,
+    "holm_p_within_experiment": 1,
+    "holm_across_completed_secondary_contrasts": 1
+  },
+  {
+    "experiment": "E3_v2",
+    "contrast": "R_prefix - R_crop",
+    "metric": "f1",
+    "scope": "EXPLORATORY_PRIMARY_F1_SECONDARY_DESCRIPTIVE",
+    "n": 299,
+    "effect": -1.795393296672069,
+    "ci95": [
+      -4.197328083964913,
+      0.47078098088328013
+    ],
+    "randomization_p": 0.1401859814018598,
+    "helped": 8,
+    "harmed": 18,
+    "unchanged": 273
+  },
+  {
+    "experiment": "E3_v2",
+    "contrast": "R_prefix - R_crop",
+    "metric": "em",
+    "scope": "EXPLORATORY_PRIMARY_F1_SECONDARY_DESCRIPTIVE",
+    "n": 299,
+    "effect": -1.6722408026755853,
+    "ci95": [
+      -4.013377926421405,
+      0.6688963210702341
+    ],
+    "randomization_p": 0.27387261273872615,
+    "helped": 4,
+    "harmed": 9,
+    "unchanged": 286
+  },
+  {
+    "experiment": "E3_v2",
+    "contrast": "R_prefix - R_crop",
+    "metric": "answer_support_recall",
+    "scope": "EXPLORATORY_PRIMARY_F1_SECONDARY_DESCRIPTIVE",
+    "n": 299,
+    "effect": -0.005295429208472685,
+    "ci95": [
+      -0.023690078037904124,
+      0.013935340022296542
+    ],
+    "randomization_p": 0.6101389861013898,
+    "helped": 14,
+    "harmed": 22,
+    "unchanged": 263
+  }
+]

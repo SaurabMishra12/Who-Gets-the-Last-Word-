@@ -1,0 +1,222 @@
+{
+  "status": "Source-extracted strings; does not establish the exact prompt version used by every historical trace. Original instantiated requests are unavailable for these reasoning streams.",
+  "entries": [
+    {
+      "source": "llm_backend.py",
+      "source_sha256": "fa884c8414a60c8f9c654ff74079e6bdee2f1526f6ec27766f173c3441467711",
+      "function": "_get_system_prompt",
+      "line": 60,
+      "text_literals": [
+        "Compact system prompts (30% fewer tokens, same quality).",
+        "Be analytical. Show every step.",
+        "Be methodical. Break into sub-problems.",
+        "Be creative. Consider multiple approaches.",
+        "Be careful. Verify each step.",
+        "Be efficient. Find direct solutions.",
+        "gsm8k",
+        " Solve step-by-step. List all given numbers first. End with numeric answer. Last line: Confidence: X",
+        " Answer by reasoning through facts. Give concise final answer. Last line: Confidence: X"
+      ],
+      "format_templates": [
+        "f\"{style} Solve step-by-step. List all given numbers first. End with numeric answer. Last line: Confidence: X\"",
+        "f\"{style} Answer by reasoning through facts. Give concise final answer. Last line: Confidence: X\""
+      ]
+    },
+    {
+      "source": "llm_backend.py",
+      "line": 502,
+      "system": "You are a communication compressor. Extract only the essential information from the user's message."
+    },
+    {
+      "source": "llm_backend.py",
+      "line": 762,
+      "system": "You are a communication compressor. Extract only the essential information from the user's message."
+    },
+    {
+      "source": "SparseComm_Kaggle.py",
+      "source_sha256": "84b43e0df4802045ab64652ebb61c98e68a3961260d039bb7c378caef3e6305d",
+      "function": "_get_system_prompt",
+      "line": 512,
+      "text_literals": [
+        "Compact system prompts (30% fewer tokens, same quality).",
+        "Be analytical. Show every step.",
+        "Be methodical. Break into sub-problems.",
+        "Be creative. Consider multiple approaches.",
+        "Be careful. Verify each step.",
+        "Be efficient. Find direct solutions.",
+        "gsm8k",
+        " Solve step-by-step. List all given numbers first. End with numeric answer. Last line: Confidence: X",
+        " Answer by reasoning through facts. Give concise final answer. Last line: Confidence: X"
+      ],
+      "format_templates": [
+        "f\"{style} Solve step-by-step. List all given numbers first. End with numeric answer. Last line: Confidence: X\"",
+        "f\"{style} Answer by reasoning through facts. Give concise final answer. Last line: Confidence: X\""
+      ]
+    },
+    {
+      "source": "SparseComm_Kaggle.py",
+      "source_sha256": "84b43e0df4802045ab64652ebb61c98e68a3961260d039bb7c378caef3e6305d",
+      "function": "_build_prompt",
+      "line": 1094,
+      "text_literals": [
+        "Build the full prompt for the LLM.",
+        "analytical",
+        "step_by_step",
+        "creative",
+        "careful",
+        "efficient",
+        "Analyze the problem systematically, identifying all relevant quantities and relationships.",
+        "Break the problem into clear, numbered steps and solve each one.",
+        "Consider multiple approaches and choose the most elegant solution.",
+        "Double-check each step of your reasoning before proceeding.",
+        "Find the most direct path to the solution.",
+        "gsm8k",
+        "Solve this math word problem. Show your work and provide a numeric answer.",
+        "Answer this multi-hop question by reasoning through the connected facts.",
+        "\nProvide your reasoning and final answer.",
+        "analytical",
+        "Question: ",
+        "\n\n",
+        "\n"
+      ],
+      "format_templates": [
+        "f\"Question: {question}\"",
+        "f\"\\n{context}\""
+      ]
+    },
+    {
+      "source": "SparseComm_Kaggle.py",
+      "line": 738,
+      "system": "You are a communication compressor. Extract only the essential information from the user's message."
+    },
+    {
+      "source": "SparseComm_Kaggle.py",
+      "line": 971,
+      "system": "You are a communication compressor. Extract only the essential information from the user's message."
+    },
+    {
+      "source": "GSM8K_Experiment.py",
+      "source_sha256": "7c20dd6ee0c655dad4b23250656bd2389b51558be84edc7c4260915859d67b43",
+      "function": "_get_system_prompt",
+      "line": 504,
+      "text_literals": [
+        "Compact system prompts (30% fewer tokens, same quality).",
+        "Be analytical. Show every step.",
+        "Be methodical. Break into sub-problems.",
+        "Be creative. Consider multiple approaches.",
+        "Be careful. Verify each step.",
+        "Be efficient. Find direct solutions.",
+        "gsm8k",
+        " Solve step-by-step. List all given numbers first. End with numeric answer. Last line: Confidence: X",
+        " Answer by reasoning through facts. Give concise final answer. Last line: Confidence: X"
+      ],
+      "format_templates": [
+        "f\"{style} Solve step-by-step. List all given numbers first. End with numeric answer. Last line: Confidence: X\"",
+        "f\"{style} Answer by reasoning through facts. Give concise final answer. Last line: Confidence: X\""
+      ]
+    },
+    {
+      "source": "GSM8K_Experiment.py",
+      "source_sha256": "7c20dd6ee0c655dad4b23250656bd2389b51558be84edc7c4260915859d67b43",
+      "function": "_build_prompt",
+      "line": 1086,
+      "text_literals": [
+        "Build the full prompt for the LLM.",
+        "analytical",
+        "step_by_step",
+        "creative",
+        "careful",
+        "efficient",
+        "Analyze the problem systematically, identifying all relevant quantities and relationships.",
+        "Break the problem into clear, numbered steps and solve each one.",
+        "Consider multiple approaches and choose the most elegant solution.",
+        "Double-check each step of your reasoning before proceeding.",
+        "Find the most direct path to the solution.",
+        "gsm8k",
+        "Solve this math word problem. Show your work and provide a numeric answer.",
+        "Answer this multi-hop question by reasoning through the connected facts.",
+        "\nProvide your reasoning and final answer.",
+        "analytical",
+        "Question: ",
+        "\n\n",
+        "\n"
+      ],
+      "format_templates": [
+        "f\"Question: {question}\"",
+        "f\"\\n{context}\""
+      ]
+    },
+    {
+      "source": "GSM8K_Experiment.py",
+      "line": 730,
+      "system": "You are a communication compressor. Extract only the essential information from the user's message."
+    },
+    {
+      "source": "GSM8K_Experiment.py",
+      "line": 963,
+      "system": "You are a communication compressor. Extract only the essential information from the user's message."
+    },
+    {
+      "source": "Scale_Experiment.py",
+      "source_sha256": "3e4c6af1d85ff0c93bc3b158ad851b3eeb65a08995d9a6d38dadbc99429ca9f9",
+      "function": "_get_system_prompt",
+      "line": 504,
+      "text_literals": [
+        "Compact system prompts (30% fewer tokens, same quality).",
+        "Be analytical. Show every step.",
+        "Be methodical. Break into sub-problems.",
+        "Be creative. Consider multiple approaches.",
+        "Be careful. Verify each step.",
+        "Be efficient. Find direct solutions.",
+        "gsm8k",
+        " Solve step-by-step. List all given numbers first. End with numeric answer. Last line: Confidence: X",
+        " Answer by reasoning through facts. Give concise final answer. Last line: Confidence: X"
+      ],
+      "format_templates": [
+        "f\"{style} Solve step-by-step. List all given numbers first. End with numeric answer. Last line: Confidence: X\"",
+        "f\"{style} Answer by reasoning through facts. Give concise final answer. Last line: Confidence: X\""
+      ]
+    },
+    {
+      "source": "Scale_Experiment.py",
+      "source_sha256": "3e4c6af1d85ff0c93bc3b158ad851b3eeb65a08995d9a6d38dadbc99429ca9f9",
+      "function": "_build_prompt",
+      "line": 1086,
+      "text_literals": [
+        "Build the full prompt for the LLM.",
+        "analytical",
+        "step_by_step",
+        "creative",
+        "careful",
+        "efficient",
+        "Analyze the problem systematically, identifying all relevant quantities and relationships.",
+        "Break the problem into clear, numbered steps and solve each one.",
+        "Consider multiple approaches and choose the most elegant solution.",
+        "Double-check each step of your reasoning before proceeding.",
+        "Find the most direct path to the solution.",
+        "gsm8k",
+        "Solve this math word problem. Show your work and provide a numeric answer.",
+        "Answer this multi-hop question by reasoning through the connected facts.",
+        "\nProvide your reasoning and final answer.",
+        "analytical",
+        "Question: ",
+        "\n\n",
+        "\n"
+      ],
+      "format_templates": [
+        "f\"Question: {question}\"",
+        "f\"\\n{context}\""
+      ]
+    },
+    {
+      "source": "Scale_Experiment.py",
+      "line": 730,
+      "system": "You are a communication compressor. Extract only the essential information from the user's message."
+    },
+    {
+      "source": "Scale_Experiment.py",
+      "line": 963,
+      "system": "You are a communication compressor. Extract only the essential information from the user's message."
+    }
+  ]
+}

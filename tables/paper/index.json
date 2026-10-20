@@ -1,0 +1,79 @@
+[
+  {
+    "table": 1,
+    "label": "tab:readout_theory",
+    "tex": "tables/paper/table_01.tex",
+    "cell_csv": "tables/paper/table_01_cells.csv",
+    "status": "reported values; raw-evidence checks separate"
+  },
+  {
+    "table": 2,
+    "label": "tab:2wiki_main",
+    "tex": "tables/paper/table_02.tex",
+    "cell_csv": "tables/paper/table_02_cells.csv",
+    "status": "reported values; raw-evidence checks separate"
+  },
+  {
+    "table": 3,
+    "label": "peer_private",
+    "tex": "tables/paper/table_03.tex",
+    "cell_csv": "tables/paper/table_03.csv",
+    "status": "transcribed reference PDF; checked against released per-question scores"
+  },
+  {
+    "table": 4,
+    "label": "tab:hotpot_main",
+    "tex": "tables/paper/table_04.tex",
+    "cell_csv": "tables/paper/table_04_cells.csv",
+    "status": "reported values; raw-evidence checks separate"
+  },
+  {
+    "table": 5,
+    "label": "tab:colocated_main",
+    "tex": "tables/paper/table_05.tex",
+    "cell_csv": "tables/paper/table_05_cells.csv",
+    "status": "reported values; raw-evidence checks separate"
+  },
+  {
+    "table": 6,
+    "label": "tab:guidelines",
+    "tex": "tables/paper/table_06.tex",
+    "cell_csv": "tables/paper/table_06_cells.csv",
+    "status": "reported values; raw-evidence checks separate"
+  },
+  {
+    "table": 7,
+    "label": "tab:positioning",
+    "tex": "tables/paper/table_07.tex",
+    "cell_csv": "tables/paper/table_07_cells.csv",
+    "status": "reported values; raw-evidence checks separate"
+  },
+  {
+    "table": 8,
+    "label": "tab:hyperparams",
+    "tex": "tables/paper/table_08.tex",
+    "cell_csv": "tables/paper/table_08_cells.csv",
+    "status": "reported values; raw-evidence checks separate"
+  },
+  {
+    "table": 9,
+    "label": "tab:master_protocols",
+    "tex": "tables/paper/table_09.tex",
+    "cell_csv": "tables/paper/table_09_cells.csv",
+    "status": "reported values; raw-evidence checks separate"
+  },
+  {
+    "table": 10,
+    "label": "tab:p4_15supports",
+    "tex": "tables/paper/table_10.tex",
+    "cell_csv": "tables/paper/table_10_cells.csv",
+    "status": "reported values; raw-evidence checks separate"
+  },
+  {
+    "table": 11,
+    "label": "tab:web_w1_w4",
+    "tex": "tables/paper/table_11.tex",
+    "cell_csv": "tables/paper/table_11_cells.csv",
+    "status": "reported values; raw-evidence checks separate"
+  }
+]

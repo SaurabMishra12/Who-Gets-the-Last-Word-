@@ -1,0 +1,38 @@
+{
+  "split_seed": 20271014,
+  "train_questions": 100,
+  "validation_questions": 30,
+  "test_questions": 300,
+  "pilot_questions": 12,
+  "split_pool_per_type": 5000,
+  "training_seeds": [
+    7,
+    19,
+    31
+  ],
+  "collection_epochs": 3,
+  "ppo_epochs": 4,
+  "batch_size": 32,
+  "learning_rate": 0.0003,
+  "hidden": 64,
+  "clip": 0.2,
+  "entropy_coef": 0.01,
+  "target_kl": 0.03,
+  "quotas": [
+    64,
+    128,
+    256
+  ],
+  "lambda_payload": 0.05,
+  "lambda_calls": 0.02,
+  "regimes": [
+    "R",
+    "P"
+  ],
+  "static_candidates": [
+    "CW",
+    "CCW",
+    "OUTSTAR"
+  ],
+  "max_physical_calls": 46000
+}

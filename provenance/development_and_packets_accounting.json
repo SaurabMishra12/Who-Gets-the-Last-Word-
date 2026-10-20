@@ -1,0 +1,79 @@
+{
+  "actual_billed_currency": null,
+  "combined": {
+    "input_usage_missing": 0,
+    "known_input_tokens_lower_bound": 1833396,
+    "known_output_tokens_lower_bound": 602144,
+    "output_usage_missing": 0,
+    "physical_attempts": 1598,
+    "physical_completions": 1596,
+    "rejected_attempts": 1,
+    "uncertain_attempts": 1
+  },
+  "new_this_followup": {
+    "input_usage_missing": 0,
+    "known_input_tokens_lower_bound": 458309,
+    "known_output_tokens_lower_bound": 148651,
+    "output_usage_missing": 0,
+    "physical_attempts": 386,
+    "physical_completions": 386,
+    "rejected_attempts": 0,
+    "uncertain_attempts": 0
+  },
+  "note": "Do not add archived peer_private_run: already included in peer_private_continuation. Imported development responses are counted in original replication ledger only.",
+  "original_unresolved_attempt": {
+    "attempt_id": "aa98d2adc16c48d6a7cf7a5437b01837",
+    "billing_status": "unknown; reserve retained",
+    "reserved_input": 1908,
+    "reserved_output": 4096
+  },
+  "physical_by_nonoverlapping_source": {
+    "WWW2027_strengthening_20261019/peer_private_continuation": {
+      "input_usage_missing": 0,
+      "known_input_tokens_lower_bound": 839632,
+      "known_output_tokens_lower_bound": 286859,
+      "output_usage_missing": 0,
+      "physical_attempts": 781,
+      "physical_completions": 780,
+      "rejected_attempts": 1,
+      "uncertain_attempts": 0
+    },
+    "WWW2027_strengthening_20261019/replication_run": {
+      "input_usage_missing": 0,
+      "known_input_tokens_lower_bound": 535455,
+      "known_output_tokens_lower_bound": 166634,
+      "output_usage_missing": 0,
+      "physical_attempts": 431,
+      "physical_completions": 430,
+      "rejected_attempts": 0,
+      "uncertain_attempts": 1
+    },
+    "WWW2027_strengthening_20261020/development_continuation": {
+      "input_usage_missing": 0,
+      "known_input_tokens_lower_bound": 205587,
+      "known_output_tokens_lower_bound": 59728,
+      "output_usage_missing": 0,
+      "physical_attempts": 170,
+      "physical_completions": 170,
+      "rejected_attempts": 0,
+      "uncertain_attempts": 0
+    },
+    "WWW2027_strengthening_20261020/packet_ablation": {
+      "input_usage_missing": 0,
+      "known_input_tokens_lower_bound": 252722,
+      "known_output_tokens_lower_bound": 88923,
+      "output_usage_missing": 0,
+      "physical_attempts": 216,
+      "physical_completions": 216,
+      "rejected_attempts": 0,
+      "uncertain_attempts": 0
+    }
+  },
+  "planning_cost_known_usd": 10.60493,
+  "planning_cost_new_followup_usd": 2.6322825,
+  "planning_cost_plus_old_unknown_reservation_usd": 10.65066,
+  "planning_rates_usd_per_million": {
+    "input": 2.5,
+    "output": 10
+  }
+}

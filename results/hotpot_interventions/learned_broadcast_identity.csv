@@ -1,0 +1,7 @@
+regime,seed,answers_equal_to_broadcast,F1_equal_to_broadcast,n
+R,7,273,283,300
+R,19,274,283,300
+R,31,266,275,300
+P,7,300,300,300
+P,19,271,275,300
+P,31,259,266,300

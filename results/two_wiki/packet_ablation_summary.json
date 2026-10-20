@@ -1,0 +1,149 @@
+{
+  "answer_field_intervention": {
+    "questions_with_explicit_peer_answer": 8,
+    "recipient_requests_unchanged_without_answers": 56,
+    "recipients_with_explicit_peer_answer": 16,
+    "total": 72
+  },
+  "condition_resources": {
+    "facts_only": {
+      "completion_tokens": 58325,
+      "logical_calls": 144,
+      "prompt_tokens": 154953
+    },
+    "genuine": {
+      "completion_tokens": 58861,
+      "logical_calls": 144,
+      "prompt_tokens": 155023
+    },
+    "placebo": {
+      "completion_tokens": 51249,
+      "logical_calls": 144,
+      "prompt_tokens": 155023
+    }
+  },
+  "contrasts": {
+    "facts_only - placebo": {
+      "em": {
+        "ci95_pp": [
+          4.166666666666667,
+          45.833333333333336
+        ],
+        "delta_pp": 25.0,
+        "exact_mcnemar_p": 0.0703125,
+        "holm_secondary_family_2": 0.140625,
+        "losses": 1,
+        "n_questions": 24,
+        "ties": 16,
+        "wins": 7
+      },
+      "f1": {
+        "ci95_pp": [
+          18.92857142857143,
+          57.197495791245785
+        ],
+        "delta_pp": 37.86495911495911,
+        "losses": 1,
+        "n_questions": 24,
+        "ties": 12,
+        "wins": 11
+      }
+    },
+    "genuine - facts_only": {
+      "em": {
+        "ci95_pp": [
+          -8.333333333333334,
+          16.666666666666668
+        ],
+        "delta_pp": 4.166666666666667,
+        "exact_mcnemar_p": 1.0,
+        "holm_secondary_family_2": 1,
+        "losses": 1,
+        "n_questions": 24,
+        "ties": 21,
+        "wins": 2
+      },
+      "f1": {
+        "ci95_pp": [
+          -2.0833333333333344,
+          9.226190476190473
+        ],
+        "delta_pp": 2.827380952380951,
+        "losses": 1,
+        "n_questions": 24,
+        "ties": 21,
+        "wins": 2
+      }
+    },
+    "genuine - placebo": {
+      "em": {
+        "ci95_pp": [
+          12.5,
+          45.93749999999849
+        ],
+        "delta_pp": 29.166666666666668,
+        "exact_mcnemar_p": 0.015625,
+        "losses": 0,
+        "n_questions": 24,
+        "ties": 17,
+        "wins": 7
+      },
+      "f1": {
+        "ci95_pp": [
+          22.662037037037038,
+          59.236111111111114
+        ],
+        "delta_pp": 40.69234006734007,
+        "losses": 0,
+        "n_questions": 24,
+        "ties": 13,
+        "wins": 11
+      }
+    }
+  },
+  "n": 24,
+  "parse_kinds": {
+    "facts_only:valid": 72,
+    "genuine:valid": 72,
+    "placebo:valid": 72
+  },
+  "physical": {
+    "input_usage_missing": 0,
+    "known_input_tokens_lower_bound": 252722,
+    "known_output_tokens_lower_bound": 88923,
+    "output_usage_missing": 0,
+    "physical_attempts": 216,
+    "physical_completions": 216,
+    "rejected_attempts": 0,
+    "uncertain_attempts": 0
+  },
+  "provider_input_length": {
+    "matched_recipient_pairs": 72,
+    "max_difference": 0,
+    "min_difference": 0,
+    "total": 72
+  },
+  "raw_audit_completions": 216,
+  "scope": "Exploratory selected24 diagnostic, not another independent dataset. Exact user-text token matching is not equal output tokens or realized compute. Provider input-token matching is audited after execution.",
+  "stats": {
+    "facts_only": {
+      "correct": 12,
+      "em": 50.0,
+      "f1": 66.43638768638769,
+      "n": 24
+    },
+    "genuine": {
+      "correct": 13,
+      "em": 54.166666666666664,
+      "f1": 69.26376863876864,
+      "n": 24
+    },
+    "placebo": {
+      "correct": 6,
+      "em": 25.0,
+      "f1": 28.57142857142857,
+      "n": 24
+    }
+  },
+  "status": "COMPLETE_24"
+}

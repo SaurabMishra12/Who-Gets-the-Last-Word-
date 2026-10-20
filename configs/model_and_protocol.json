@@ -1,0 +1,51 @@
+{
+  "model": "gpt-oss-120b",
+  "deployment": "Azure OpenAI-compatible deployment alias",
+  "immutable_model_snapshot": "not exposed by provider",
+  "temperature": 0,
+  "top_p": {
+    "paper_reports": 1.0,
+    "note": "Some saved request decoding objects omit top_p; no per-call value is invented."
+  },
+  "output_caps": {
+    "paper_web_qa": 8192,
+    "peer_private_and_development": 4096,
+    "paper_colocated": 512
+  },
+  "context_capacity_paper": 32768,
+  "two_wiki_packet_cap": 512,
+  "two_wiki_tokenizer_revision": "b5c939de8f754692c1647ca79fbf85e8c1e70f8a",
+  "hotpot_e3_v2_message_budget": 128,
+  "hotpot_bm25": {
+    "k1": 1.5,
+    "b": 0.75,
+    "top_k": 6
+  },
+  "e5_architecture": {
+    "state": 53,
+    "hidden": [
+      64,
+      64
+    ],
+    "activation": "Tanh",
+    "actions": 55
+  },
+  "colocated_architecture_paper": {
+    "state": 20,
+    "hidden": [
+      64,
+      64
+    ],
+    "low_rank": 2,
+    "bias": 0.5,
+    "lambda_info": 0.3,
+    "lambda_KL": 0.01,
+    "gamma": 0.99,
+    "lambda_GAE": 0.95
+  },
+  "stopping_log_odds": {
+    "P1_P5": "log(19)",
+    "W3": "log(4)"
+  },
+  "colocated_provenance": "P4 and P5 released rows contain arithmetic templates. Do not label them verified GSM8K instances. Communication fields in P5 are word-based proxy units, not provider tokenizer counts."
+}

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "5ae61dce5542992663a4f262",
+    "gold": "emotionally troubled women",
+    "clean_fixed_pred": "Virginia Woolf",
+    "clean_adaptive_pred": "Virginia Woolf",
+    "noisy_fixed_pred": "Virginia Woolf",
+    "noisy_adaptive_pred": "",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae0cf8355429945ae959464",
+    "gold": "musician",
+    "clean_fixed_pred": "musicians",
+    "clean_adaptive_pred": "musicians",
+    "noisy_fixed_pred": "alternative rock artists",
+    "noisy_adaptive_pred": "alternative rock artists",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ac3a4ab5542993915413870",
+    "gold": "no",
+    "clean_fixed_pred": "No",
+    "clean_adaptive_pred": "No",
+    "noisy_fixed_pred": "No",
+    "noisy_adaptive_pred": "No",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a83d7d05542992ef85e237a",
+    "gold": "Liberty Enlightening the World",
+    "clean_fixed_pred": "Statue of Liberty",
+    "clean_adaptive_pred": "Statue of Liberty",
+    "noisy_fixed_pred": "Statue of Liberty",
+    "noisy_adaptive_pred": "Statue of Liberty",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae0d52e554299603e418469",
+    "gold": "Douglas Jackson",
+    "clean_fixed_pred": "Douglas Jackson",
+    "clean_adaptive_pred": "Douglas Jackson",
+    "noisy_fixed_pred": "Douglas Jackson",
+    "noisy_adaptive_pred": "Douglas Jackson",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a75e62f5542992d0ec06013",
+    "gold": "Tropicana Casino & Resort",
+    "clean_fixed_pred": "Tropicana Casino & Resort Atlantic City",
+    "clean_adaptive_pred": "Tropicana Casino & Resort Atlantic City",
+    "noisy_fixed_pred": "Tropicana Casino & Resort Atlantic City",
+    "noisy_adaptive_pred": "Tropicana Casino & Resort Atlantic City",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5add84a15542997545bbbd5e",
+    "gold": "American family comedy adventure",
+    "clean_fixed_pred": "animated movies",
+    "clean_adaptive_pred": "animated movies",
+    "noisy_fixed_pred": "",
+    "noisy_adaptive_pred": "",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae73eca5542991e8301cc37",
+    "gold": "the voice of The Beast",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "",
+    "noisy_adaptive_pred": "",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae123875542997b2ef7d0fa",
+    "gold": "City Mazda Stadium",
+    "clean_fixed_pred": "We need to browse for West Adelaide home base current name.",
+    "clean_adaptive_pred": "We need to browse for West Adelaide home base current name.",
+    "noisy_fixed_pred": "",
+    "noisy_adaptive_pred": "",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae4d8475542993aec5ec0e0",
+    "gold": "Giuseppe Verdi",
+    "clean_fixed_pred": "Jeremy Sams",
+    "clean_adaptive_pred": "Jeremy Sams",
+    "noisy_fixed_pred": "Giuseppe Verdi",
+    "noisy_adaptive_pred": "Giuseppe Verdi",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ac0e064554299012d1db64e",
+    "gold": "almost 3 million",
+    "clean_fixed_pred": "2.88 million",
+    "clean_adaptive_pred": "2.88 million",
+    "noisy_fixed_pred": "2,886,000 inhabitants",
+    "noisy_adaptive_pred": "2,886,000 inhabitants",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5abe3f3455429976d4830aa8",
+    "gold": "MGM Resorts International",
+    "clean_fixed_pred": "MGM Resorts International",
+    "clean_adaptive_pred": "MGM Resorts International",
+    "noisy_fixed_pred": "MGM Resorts International",
+    "noisy_adaptive_pred": "MGM Resorts International",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a74c85055429916b0164218",
+    "gold": "Alistair Grant",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "",
+    "noisy_adaptive_pred": "",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a7326cd5542991f29ee2d11",
+    "gold": "Bruce Lee",
+    "clean_fixed_pred": "Bruce Lee",
+    "clean_adaptive_pred": "Bruce Lee",
+    "noisy_fixed_pred": "Bruce Lee",
+    "noisy_adaptive_pred": "Bruce Lee",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a86ea445542994775f60780",
+    "gold": "the second half of the third season",
+    "clean_fixed_pred": "In the second half of the third season",
+    "clean_adaptive_pred": "In the second half of the third season",
+    "noisy_fixed_pred": "In the second half of the third season of Once Upon a Time",
+    "noisy_adaptive_pred": "In the second half of the third season of Once Upon a Time",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5a8b99c355429950cd6afd28",
+    "gold": "Columbus",
+    "clean_fixed_pred": "Columbus",
+    "clean_adaptive_pred": "Columbus",
+    "noisy_fixed_pred": "Columbus",
+    "noisy_adaptive_pred": "Columbus",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a8cea40554299441c6b9f76",
+    "gold": "Gasherbrum II",
+    "clean_fixed_pred": "Gasherbrum II",
+    "clean_adaptive_pred": "Gasherbrum II",
+    "noisy_fixed_pred": "Gasherbrum II",
+    "noisy_adaptive_pred": "Gasherbrum II",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae532e955429908b632656f",
+    "gold": "Chilopsis",
+    "clean_fixed_pred": "No",
+    "clean_adaptive_pred": "No",
+    "noisy_fixed_pred": "No",
+    "noisy_adaptive_pred": "No",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5a78e86f55429974737f78fb",
+    "gold": "the long history of Japan",
+    "clean_fixed_pred": "the long history of Japan and its Imperial dynasty",
+    "clean_adaptive_pred": "the long history of Japan and the Imperial dynasty",
+    "noisy_fixed_pred": "It emphasizes the long history of Japan and the Imperial dynasty",
+    "noisy_adaptive_pred": "It emphasizes the long history of Japan and the Imperial dynasty",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5a7e618155429949594199b0",
+    "gold": "Albany",
+    "clean_fixed_pred": "Albany County",
+    "clean_adaptive_pred": "Albany County",
+    "noisy_fixed_pred": "Albany County",
+    "noisy_adaptive_pred": "Albany County",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a85b2ac5542991dd0999e90",
+    "gold": "Lamar Hunt",
+    "clean_fixed_pred": "Lamar Hunt",
+    "clean_adaptive_pred": "Lamar Hunt",
+    "noisy_fixed_pred": "Lamar Hunt",
+    "noisy_adaptive_pred": "Lamar Hunt",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae5c8cf554299546bf82f5f",
+    "gold": "Rockland",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "",
+    "noisy_adaptive_pred": "",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a7a83b3554299042af8f652",
+    "gold": "\"Murder Request\"",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "",
+    "noisy_adaptive_pred": "",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae5ff635542996de7b71ace",
+    "gold": "number 8",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "6",
+    "noisy_adaptive_pred": "6",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a8b515e55429971feec46bb",
+    "gold": "Red Dead Redemption",
+    "clean_fixed_pred": "Red Dead Revolver",
+    "clean_adaptive_pred": "Red Dead Revolver",
+    "noisy_fixed_pred": "Red Dead Redemption",
+    "noisy_adaptive_pred": "Red Dead Redemption",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5a8789115542994846c1cd9a",
+    "gold": "Pollywood",
+    "clean_fixed_pred": "Lollywood and Pollywood films",
+    "clean_adaptive_pred": "Pollywood films",
+    "noisy_fixed_pred": "Pollywood films",
+    "noisy_adaptive_pred": "Pollywood films",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5ae0039555429942ec259be1",
+    "gold": "Chicago",
+    "clean_fixed_pred": "Chicago Magazine",
+    "clean_adaptive_pred": "Chicago",
+    "noisy_fixed_pred": "Chicago",
+    "noisy_adaptive_pred": "Chicago",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae32b6755429928c4239644",
+    "gold": "Portal A Interactive",
+    "clean_fixed_pred": "Google",
+    "clean_adaptive_pred": "Google",
+    "noisy_fixed_pred": "Google",
+    "noisy_adaptive_pred": "Google",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ab58ee6554299488d4d99d6",
+    "gold": "February 13, 1946",
+    "clean_fixed_pred": "Birthdate not available in the provided sources",
+    "clean_adaptive_pred": "Birthdate not available in the provided sources",
+    "noisy_fixed_pred": "",
+    "noisy_adaptive_pred": "November 15, 1929",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5a828c8355429966c78a6a50",
+    "gold": "Henry J. Kaiser",
+    "clean_fixed_pred": "Henry J. Kaiser",
+    "clean_adaptive_pred": "Henry J. Kaiser",
+    "noisy_fixed_pred": "Henry J. Kaiser",
+    "noisy_adaptive_pred": "Henry J. Kaiser",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5add64065542995b365fab25",
+    "gold": "poet and novelist",
+    "clean_fixed_pred": "Both are poets",
+    "clean_adaptive_pred": "Both are poets",
+    "noisy_fixed_pred": "Both are poets",
+    "noisy_adaptive_pred": "Both are poets",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a8eabf755429917b4a5bdaa",
+    "gold": "Bollywood playback singer",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "fashion designer",
+    "noisy_adaptive_pred": "fashion designer",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a78c7db55429974737f7882",
+    "gold": "Christina Ricci",
+    "clean_fixed_pred": "Christina Ricci",
+    "clean_adaptive_pred": "Christina Ricci",
+    "noisy_fixed_pred": "Christina Ricci",
+    "noisy_adaptive_pred": "Christina Ricci",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a78f59755429970f5fffdf8",
+    "gold": "Michael Monroe",
+    "clean_fixed_pred": "Michael Monroe",
+    "clean_adaptive_pred": "Michael Monroe",
+    "noisy_fixed_pred": "Cannot determine from provided evidence",
+    "noisy_adaptive_pred": "Unknown",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5add8f055542990dbb2f7e6d",
+    "gold": "Rudolf Höss",
+    "clean_fixed_pred": "Kurt Gerstein; Rudolf Höss",
+    "clean_adaptive_pred": "Kurt Gerstein; Rudolf Höss",
+    "noisy_fixed_pred": "Kurt Gerstein and Rudolf Höss",
+    "noisy_adaptive_pred": "Kurt Gerstein; Rudolf Höss",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae2d8fb55429928c42394fa",
+    "gold": "Brig Gen Augustine Warner Robins",
+    "clean_fixed_pred": "Augustine Warner Robins",
+    "clean_adaptive_pred": "Augustine Warner Robins",
+    "noisy_fixed_pred": "Augustine Warner Robins",
+    "noisy_adaptive_pred": "Augustine Warner Robins",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae113de55429901ffe4ad51",
+    "gold": "110",
+    "clean_fixed_pred": "110 acres",
+    "clean_adaptive_pred": "110 acres",
+    "noisy_fixed_pred": "approximately 110 acres",
+    "noisy_adaptive_pred": "approximately 110 acres",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5a78e3b955429974737f78f1",
+    "gold": "Sherwood Stewart",
+    "clean_fixed_pred": "Sherwood Stewart",
+    "clean_adaptive_pred": "Sherwood Stewart",
+    "noisy_fixed_pred": "Sherwood Stewart",
+    "noisy_adaptive_pred": "Sherwood Stewart",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5abcfd7e5542993a06baf9df",
+    "gold": "Las Vegas Strip",
+    "clean_fixed_pred": "Las Vegas, Nevada",
+    "clean_adaptive_pred": "Las Vegas, Nevada",
+    "noisy_fixed_pred": "Las Vegas, Nevada, USA",
+    "noisy_adaptive_pred": "Las Vegas, Nevada, USA",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae63dad55429929b0807afe",
+    "gold": "7 January 1936",
+    "clean_fixed_pred": "16 June 1936",
+    "clean_adaptive_pred": "16 June 1936",
+    "noisy_fixed_pred": "16 June 1936",
+    "noisy_adaptive_pred": "16 June 1936",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5a7b7bed5542997c3ec971bc",
+    "gold": "reigning monarch of the United Kingdom",
+    "clean_fixed_pred": "Buckingham Palace",
+    "clean_adaptive_pred": "Buckingham Palace",
+    "noisy_fixed_pred": "Buckingham Palace",
+    "noisy_adaptive_pred": "Buckingham Palace",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae713af554299572ea546bb",
+    "gold": "Soviet Union",
+    "clean_fixed_pred": "Lake Placid, New York",
+    "clean_adaptive_pred": "Lake Placid, New York",
+    "noisy_fixed_pred": "Lake Placid, New York, USA",
+    "noisy_adaptive_pred": "Lake Placid, New York",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae7bdc05542993210983f29",
+    "gold": "skiing and mountaineering",
+    "clean_fixed_pred": "Lake Lucerne and the Jungfrau region",
+    "clean_adaptive_pred": "Lake Lucerne and the Jungfrau region",
+    "noisy_fixed_pred": "Search web for Jakob Ragaz attractions.Search.Search query: \"Jakob Ragaz grand hotels Swiss attractions\".Search.Search results.We need to simulate browsing.Search.Result: Wikipedia page \"Jakob Ragaz\". Open.Open.The page likely mentions his works: \"Rigi Kulm Hotel\", \"Grand Hotel in St. Moritz\", \"Hotel Waldhaus in Sils-Maria\"? Need attractions causing grand hotels: maybe \"Lake Lucerne\" and \"Jungfrau\". Let's search for \"Swiss tourism boom attractions 19th century grand hotels\".Search.Search results show: \"Swiss Grand Hotels: Rigi, Jungfrau, Gotthard\". Let's open a page about \"Swiss Grand Hotels 19th century\".Open.Scrolling.",
+    "noisy_adaptive_pred": "Search web for Jakob Ragaz attractions.Search.Search query: \"Jakob Ragaz grand hotels Swiss attractions\".Search.Search results.We need to simulate browsing.Search.Result: Wikipedia page \"Jakob Ragaz\". Open.Open.The page likely mentions his works: \"Rigi Kulm Hotel\", \"Grand Hotel in St. Moritz\", \"Hotel Waldhaus in Sils-Maria\"? Need attractions causing grand hotels: maybe \"Lake Lucerne\" and \"Jungfrau\". Let's search for \"Swiss tourism boom attractions 19th century grand hotels\".Search.Search results show: \"Swiss Grand Hotels: Rigi, Jungfrau, Gotthard\". Let's open a page about \"Swiss Grand Hotels 19th century\".Open.Scrolling.",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ab283d9554299449642c8d8",
+    "gold": "107 mi southwest of Louisville",
+    "clean_fixed_pred": "Unknown",
+    "clean_adaptive_pred": "Unknown",
+    "noisy_fixed_pred": "about 115 miles west of Louisville",
+    "noisy_adaptive_pred": "about 115 miles west of Louisville",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5addc2b75542997dc7907017",
+    "gold": "four sections",
+    "clean_fixed_pred": "four sections",
+    "clean_adaptive_pred": "four sections",
+    "noisy_fixed_pred": "four",
+    "noisy_adaptive_pred": "four",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae5f1a8554299546bf82fd9",
+    "gold": "in Bolton",
+    "clean_fixed_pred": "Manchester, England",
+    "clean_adaptive_pred": "Manchester, England",
+    "noisy_fixed_pred": "Bolton, England",
+    "noisy_adaptive_pred": "Bolton, England",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a7c8e7955429935c91b521a",
+    "gold": "Hayley Catherine Rose Vivien Mills",
+    "clean_fixed_pred": "Hayley Mills",
+    "clean_adaptive_pred": "Hayley Mills",
+    "noisy_fixed_pred": "Hayley Mills",
+    "noisy_adaptive_pred": "Hayley Mills",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ab5a7f45542997d4ad1f1a5",
+    "gold": "University",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "None",
+    "noisy_fixed_pred": "University",
+    "noisy_adaptive_pred": "University",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5ab412da5542996a3a969f15",
+    "gold": "eight",
+    "clean_fixed_pred": "8",
+    "clean_adaptive_pred": "8",
+    "noisy_fixed_pred": "eight",
+    "noisy_adaptive_pred": "eight",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae5a63c5542992663a4f203",
+    "gold": "Geordie",
+    "clean_fixed_pred": "Geordie",
+    "clean_adaptive_pred": "Geordie",
+    "noisy_fixed_pred": "Geordie",
+    "noisy_adaptive_pred": "Geordie",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a8c06bb5542995e66a47530",
+    "gold": "\"Rich Girl\"",
+    "clean_fixed_pred": "Rich Girl",
+    "clean_adaptive_pred": "Rich Girl",
+    "noisy_fixed_pred": "Rich Girl",
+    "noisy_adaptive_pred": "Rich Girl",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a73520c5542994cef4bc53f",
+    "gold": "The Little Match Girl",
+    "clean_fixed_pred": "La niña de los fósforos",
+    "clean_adaptive_pred": "La niña de los fósforos",
+    "noisy_fixed_pred": "La niña de la cerilla",
+    "noisy_adaptive_pred": "La niña de la cerilla",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae325bd5542991a06ce9936",
+    "gold": "Marine Corps Air Station Kaneohe Bay",
+    "clean_fixed_pred": "Naval Air Station Barbers Point",
+    "clean_adaptive_pred": "Naval Air Station Barbers Point",
+    "noisy_fixed_pred": "Naval Air Station Barbers Point",
+    "noisy_adaptive_pred": "Naval Air Station Barbers Point",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5a8f44135542992414482a24",
+    "gold": "Sedgwick County, Kansas",
+    "clean_fixed_pred": "Sedgwick County",
+    "clean_adaptive_pred": "Sedgwick County",
+    "noisy_fixed_pred": "Sedgwick County",
+    "noisy_adaptive_pred": "Sedgwick County",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5adff2aa554299603e4183d0",
+    "gold": "songwriter",
+    "clean_fixed_pred": "singer",
+    "clean_adaptive_pred": "singer",
+    "noisy_fixed_pred": "Singer",
+    "noisy_adaptive_pred": "Singer",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5a888d535542997e5c09a617",
+    "gold": "Cheshire County, New Hampshire",
+    "clean_fixed_pred": "Cheshire County",
+    "clean_adaptive_pred": "Cheshire County",
+    "noisy_fixed_pred": "Cheshire County, New Hampshire",
+    "noisy_adaptive_pred": "Cheshire County, New Hampshire",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5ac2eaab5542990b17b154a4",
+    "gold": "Ant-Man",
+    "clean_fixed_pred": "We need to use search tool.Search for \"Paul Rudd co-writer Joe Cornish\".We need to use the tool.Probably need to call a search function.Probably the tool is called `search`. Let's try.",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "Ant‑Man",
+    "noisy_adaptive_pred": "Ant‑Man",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a7f39d055429934daa2fd2a",
+    "gold": "The Million Dollar Duck",
+    "clean_fixed_pred": "The Million Dollar Duck",
+    "clean_adaptive_pred": "The Million Dollar Duck",
+    "noisy_fixed_pred": "The Million Dollar Duck",
+    "noisy_adaptive_pred": "The Million Dollar Duck",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5abd580855429924427fcfb8",
+    "gold": "country",
+    "clean_fixed_pred": "country music",
+    "clean_adaptive_pred": "country music",
+    "noisy_fixed_pred": "country music",
+    "noisy_adaptive_pred": "country music",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5adbd68155429947ff173842",
+    "gold": "American Chopper",
+    "clean_fixed_pred": "American Chopper",
+    "clean_adaptive_pred": "American Chopper",
+    "noisy_fixed_pred": "American Chopper",
+    "noisy_adaptive_pred": "American Chopper",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5adcf3e35542994ed6169c3a",
+    "gold": "Rivington Moor",
+    "clean_fixed_pred": "Bolton",
+    "clean_adaptive_pred": "Bolton",
+    "noisy_fixed_pred": "Bolton",
+    "noisy_adaptive_pred": "Bolton",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a8c92dd554299653c1aa0c4",
+    "gold": "Big Pig",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "Big Pig",
+    "noisy_adaptive_pred": "Big Pig",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a7c80ab55429907fabeefa3",
+    "gold": "Norbertine",
+    "clean_fixed_pred": "Premonstratensian (Norbertine) order",
+    "clean_adaptive_pred": "Premonstratensian (Norbertine) order",
+    "noisy_fixed_pred": "Premonstratensian (Norbertine) order",
+    "noisy_adaptive_pred": "Premonstratensian (Norbertine) order",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5adc126f5542996e685252c5",
+    "gold": "Victoria",
+    "clean_fixed_pred": "North Queensland",
+    "clean_adaptive_pred": "North Queensland",
+    "noisy_fixed_pred": "North Queensland, Australia",
+    "noisy_adaptive_pred": "North Queensland, Australia",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a749af055429979e28829b7",
+    "gold": "The Apple Dumpling Gang",
+    "clean_fixed_pred": "The Apple Dumpling Gang",
+    "clean_adaptive_pred": "The Apple Dumpling Gang",
+    "noisy_fixed_pred": "The Apple Dumpling Gang",
+    "noisy_adaptive_pred": "The Apple Dumpling Gang",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a8b78775542997f31a41d3d",
+    "gold": "\"Peshwa\" (Prime Minister)",
+    "clean_fixed_pred": "Peshwa (Prime Minister)",
+    "clean_adaptive_pred": "Peshwa (Prime Minister)",
+    "noisy_fixed_pred": "Peshwa (Prime Minister)",
+    "noisy_adaptive_pred": "Peshwa (Prime Minister)",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a848eff5542990548d0b2cd",
+    "gold": "Missouri River",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "",
+    "noisy_adaptive_pred": "",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a73bddb55429978a71e909d",
+    "gold": "Mohamed Sanu Sr.",
+    "clean_fixed_pred": "Mohamed Sanu",
+    "clean_adaptive_pred": "Mohamed Sanu",
+    "noisy_fixed_pred": "Mohamed Sanu",
+    "noisy_adaptive_pred": "Mohamed Sanu",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5abbee315542993f40c73c1d",
+    "gold": "yes",
+    "clean_fixed_pred": "Only National Review",
+    "clean_adaptive_pred": "I can read National Review (evidenced by the National Review Board and Jim Geraghty documents), but there is no provided evidence that I can read Bicycling",
+    "noisy_fixed_pred": "Only National Review information is available; no evidence about Bicycling was retrieved",
+    "noisy_adaptive_pred": "Only National Review information is available; no evidence about Bicycling was retrieved",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae2cda55542992decbdcdb7",
+    "gold": "Bryan Shelton White",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "Bryan White",
+    "noisy_adaptive_pred": "Bryan White",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5a79c9c05542994bb94570a5",
+    "gold": "Robert \"Bobby\" Bunda",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "",
+    "noisy_fixed_pred": "",
+    "noisy_adaptive_pred": "",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae72b96554299572ea5474e",
+    "gold": "Mezzanine",
+    "clean_fixed_pred": "Mezzanine",
+    "clean_adaptive_pred": "Mezzanine",
+    "noisy_fixed_pred": "Mezzanine",
+    "noisy_adaptive_pred": "Mezzanine",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5abb11c15542992ccd8e7ef8",
+    "gold": "March 30, 2025",
+    "clean_fixed_pred": "March 30, 2025",
+    "clean_adaptive_pred": "March 30, 2025",
+    "noisy_fixed_pred": "March 30, 2025",
+    "noisy_adaptive_pred": "March 30, 2025",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5abface75542990832d3a196",
+    "gold": "Honey Irani",
+    "clean_fixed_pred": "Honey Irani",
+    "clean_adaptive_pred": "Honey Irani",
+    "noisy_fixed_pred": "Farhan Akhtar",
+    "noisy_adaptive_pred": "Farhan Akhtar",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5a7577145542996c70cfaf03",
+    "gold": "Sierra Nevada National Park",
+    "clean_fixed_pred": "Sierra Nevada National Park is larger than Timanfaya National Park",
+    "clean_adaptive_pred": "Sierra Nevada National Park",
+    "noisy_fixed_pred": "Sierra Nevada National Park",
+    "noisy_adaptive_pred": "Sierra Nevada National Park",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5ae1e9635542997f29b3c19e",
+    "gold": "Grand Junction Regional Airport",
+    "clean_fixed_pred": "Grand Junction Regional Airport",
+    "clean_adaptive_pred": "Grand Junction Regional Airport",
+    "noisy_fixed_pred": "Grand Junction Regional Airport",
+    "noisy_adaptive_pred": "Grand Junction Regional Airport",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5abb14d85542996cc5e49f92",
+    "gold": "no",
+    "clean_fixed_pred": "[FAILED]",
+    "clean_adaptive_pred": "No",
+    "noisy_fixed_pred": "No",
+    "noisy_adaptive_pred": "No",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae2a9c6554299492dc91c42",
+    "gold": "Tumi Holdings, Inc.",
+    "clean_fixed_pred": "Tumi",
+    "clean_adaptive_pred": "Tumi",
+    "noisy_fixed_pred": "Tumi",
+    "noisy_adaptive_pred": "Tumi",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae70369554299572ea54683",
+    "gold": "1918",
+    "clean_fixed_pred": "1918",
+    "clean_adaptive_pred": "1918",
+    "noisy_fixed_pred": "1918",
+    "noisy_adaptive_pred": "1918",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ae0de1455429924de1b71b4",
+    "gold": "orange juice",
+    "clean_fixed_pred": "A mixture of ice, orange juice, sweetener, milk, powdered egg whites, and vanilla flavoring",
+    "clean_adaptive_pred": "ice, orange juice, sweetener, milk, powdered egg whites, and vanilla flavoring",
+    "noisy_fixed_pred": "ice, orange juice, sweetener, milk, powdered egg whites and vanilla flavoring",
+    "noisy_adaptive_pred": "ice, orange juice, sweetener, milk, powdered egg whites and vanilla flavoring",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5ac3d667554299076e296ca5",
+    "gold": "Appenzeller Sennenhund",
+    "clean_fixed_pred": "Appenzeller Sennenhund",
+    "clean_adaptive_pred": "Appenzeller Sennenhund",
+    "noisy_fixed_pred": "Appenzeller Sennenhund",
+    "noisy_adaptive_pred": "Appenzeller Sennenhund",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a88d745554299206df2b378",
+    "gold": "director",
+    "clean_fixed_pred": "film director",
+    "clean_adaptive_pred": "film director",
+    "noisy_fixed_pred": "film director",
+    "noisy_adaptive_pred": "film director",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a83438955429966c78a6b61",
+    "gold": "Bill McCutcheon",
+    "clean_fixed_pred": "",
+    "clean_adaptive_pred": "We need to browse for KWPW owner.Search web.Search query: KWPW owner.Let's simulate browsing.Search.Search results likely show KWPW is a radio station in Texas? Let's recall: KWPW 107.9 FM, \"Power 107.9\" in Waco, Texas? Actually KWPW is a station licensed to Robinson, Texas? Let's check.",
+    "noisy_fixed_pred": "Bill McCutcheon",
+    "noisy_adaptive_pred": "Bill McCutcheon",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ab1d2585542997061209581",
+    "gold": "yes",
+    "clean_fixed_pred": "Insufficient evidence",
+    "clean_adaptive_pred": "Insufficient evidence",
+    "noisy_fixed_pred": "",
+    "noisy_adaptive_pred": "",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5abc3c545542993a06baf89f",
+    "gold": "Mexico",
+    "clean_fixed_pred": "Mexico",
+    "clean_adaptive_pred": "Mexico",
+    "noisy_fixed_pred": "Mexico",
+    "noisy_adaptive_pred": "Mexico",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a734ca85542994cef4bc51b",
+    "gold": "tile-based board game",
+    "clean_fixed_pred": "tile‑based board games",
+    "clean_adaptive_pred": "tile‑based board games",
+    "noisy_fixed_pred": "tile‑based board game",
+    "noisy_adaptive_pred": "tile‑based board game",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ab5b0f75542992aa134a38c",
+    "gold": "\"Mona Leaves-a\"",
+    "clean_fixed_pred": "Mona Leaves‑a",
+    "clean_adaptive_pred": "Mona Leaves‑a",
+    "noisy_fixed_pred": "“Mona Leaves‑a” (Season 19, Episode 19)",
+    "noisy_adaptive_pred": "Mona Leaves‑a",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5a886886554299206df2b258",
+    "gold": "international football competition",
+    "clean_fixed_pred": "FIFA Women’s World Cup",
+    "clean_adaptive_pred": "FIFA Women’s World Cup",
+    "noisy_fixed_pred": "FIFA Women’s World Cup",
+    "noisy_adaptive_pred": "FIFA Women’s World Cup",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5a73235c5542994cef4bc475",
+    "gold": "Jones was born in Rosedale, Indiana",
+    "clean_fixed_pred": "Grover Jones",
+    "clean_adaptive_pred": "Grover Jones",
+    "noisy_fixed_pred": "Yes",
+    "noisy_adaptive_pred": "Yes",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5a80993d5542996402f6a589",
+    "gold": "Spike Jonze",
+    "clean_fixed_pred": "Steve Golin",
+    "clean_adaptive_pred": "Steve Golin",
+    "noisy_fixed_pred": "Steve Golin",
+    "noisy_adaptive_pred": "Steve Golin",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a89d26b5542992e4fca83d1",
+    "gold": "Donald Duck",
+    "clean_fixed_pred": "Donald Duck",
+    "clean_adaptive_pred": "Donald Duck",
+    "noisy_fixed_pred": "Donald Duck",
+    "noisy_adaptive_pred": "Donald Duck",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5abd2eab5542992ac4f38210",
+    "gold": "Erinsborough",
+    "clean_fixed_pred": "Erinsborough",
+    "clean_adaptive_pred": "Erinsborough",
+    "noisy_fixed_pred": "Erinsborough",
+    "noisy_adaptive_pred": "Erinsborough",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a7100435542994082a3e4a3",
+    "gold": "Shikashika is a shaved ice drink",
+    "clean_fixed_pred": "No",
+    "clean_adaptive_pred": "No",
+    "noisy_fixed_pred": "No",
+    "noisy_adaptive_pred": "No",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5ade99295542992fa25da7d8",
+    "gold": "linguistic analysis",
+    "clean_fixed_pred": "Anonymous early quartos and stylistic evidence suggesting co‑authorship with George Peele",
+    "clean_adaptive_pred": "Anonymous early quartos and stylistic evidence suggesting co‑authorship with George Peele",
+    "noisy_fixed_pred": "The three early quarto editions that name no author and stylistic analysis suggesting George Peele’s co‑authorship",
+    "noisy_adaptive_pred": "The three early quarto editions that name no author and stylistic analysis suggesting George Peele’s co‑authorship",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5abbfbcf55429965836003cf",
+    "gold": "National Mall",
+    "clean_fixed_pred": "Washington, D.C",
+    "clean_adaptive_pred": "Washington, D.C",
+    "noisy_fixed_pred": "Washington, D.C",
+    "noisy_adaptive_pred": "Washington, D.C",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a7b5aff55429931da12ca6d",
+    "gold": "Bangalore University",
+    "clean_fixed_pred": "Visvesvaraya Technological University",
+    "clean_adaptive_pred": "Visvesvaraya Technological University",
+    "noisy_fixed_pred": "Bangalore University",
+    "noisy_adaptive_pred": "Bangalore University",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 1
+  },
+  {
+    "id": "5a8b051255429971feec460e",
+    "gold": "U.S. Senator Pat McCarran",
+    "clean_fixed_pred": "Senator Pat McCarran",
+    "clean_adaptive_pred": "Senator Pat McCarran",
+    "noisy_fixed_pred": "Pat McCarran",
+    "noisy_adaptive_pred": "Pat McCarran",
+    "clean_adaptive_rounds": 2,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5a8c03415542995e66a4752a",
+    "gold": "Grand Duke Konstantin Konstantinovich of Russia",
+    "clean_fixed_pred": "Grand Duke Konstantin Konstantinovich of Russia",
+    "clean_adaptive_pred": "Grand Duke Konstantin Konstantinovich of Russia",
+    "noisy_fixed_pred": "Grand Duke Konstantin Konstantinovich of Russia",
+    "noisy_adaptive_pred": "Grand Duke Konstantin Konstantinovich of Russia",
+    "clean_adaptive_rounds": 3,
+    "noisy_adaptive_rounds": 3
+  },
+  {
+    "id": "5ae324775542994393b9e62f",
+    "gold": "16th",
+    "clean_fixed_pred": "23rd",
+    "clean_adaptive_pred": "23rd",
+    "noisy_fixed_pred": "23rd",
+    "noisy_adaptive_pred": "23rd",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 2
+  },
+  {
+    "id": "5ab864945542990e739ec8e1",
+    "gold": "Nobel Prize",
+    "clean_fixed_pred": "Nobel Prize in Physics",
+    "clean_adaptive_pred": "Nobel Prize in Physics",
+    "noisy_fixed_pred": "the Nobel Prize in Physics",
+    "noisy_adaptive_pred": "the Nobel Prize in Physics",
+    "clean_adaptive_rounds": 1,
+    "noisy_adaptive_rounds": 1
+  }
+]

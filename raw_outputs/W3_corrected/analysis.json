@@ -1,0 +1,23 @@
+{
+  "Clean_Evidence_Adaptive_vs_Fixed": {
+    "mean_f1_diff": 0.0213020313020313,
+    "ci_95": [
+      0.0033333333333333335,
+      0.04654172494172491
+    ],
+    "p_value": 0.0333,
+    "comm_token_savings_pct": 38.60527193860527,
+    "round_savings_pct": 39.33333333333333
+  },
+  "Noisy_Evidence_Adaptive_vs_Fixed": {
+    "mean_f1_diff": 0.005952380952380951,
+    "ci_95": [
+      0.0,
+      0.0169047619047619
+    ],
+    "p_value": 0.5029,
+    "comm_token_savings_pct": 40.35714285714286,
+    "round_savings_pct": 41.66666666666667
+  },
+  "verdict": "SUPPORTED (Adaptive stopping achieves substantial round and communication token reductions with statistically indistinguishable task accuracy relative to fixed depth)"
+}

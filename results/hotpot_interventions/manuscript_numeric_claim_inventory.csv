@@ -1,0 +1,869 @@
+pdf_page,extracted_line,verification_status
+1,"closed-book reasoning (GSM8K, AQuA-RAT, HotpotQA) and open-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,book Web candidate retrieval (HotpotQA fullwiki with BM25).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,transmitted tokens by 50.4%–90.2% while remaining statistically,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,over zero-communication ensembles by 3.9–8.5 percentage points.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"realized token volume by 3.4×, showing that unconstrained topol-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"enumeration of directed two-edge topologies on GSM8K, SparseC-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"ing less than 32% of the nominal token budget. Finally, component-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,are available at https://anonymous.4open.science/r/sparsecomm-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,WWW2027.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"Anonymous Author(s). 2027. Signal over Chatter: Decomposing Routing,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,Reasoning. In Proceedings of The ACM Web Conference 2027 (WWW ’27).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"ACM, New York, NY, USA, 13 pages.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"WWW ’27, Dublin, Ireland",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,2027.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,1 Introduction,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"liberation improve mathematical and factual reasoning [7, 17, 19],",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"repository-levelsoftwareengineering[11,24],andopen-endedWeb",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"task automation [9, 15, 34, 38]. Across the Web ecosystem, however,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,traffic to scale with both the number of directed channels 𝑁(𝑁 −1),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"works prune agents or messages [32, 36], while topology-learning",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"systems optimize the communication graph itself [16, 27, 37, 38].",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"(PPO) [26], as a controllable experimental instrument that parame-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"a common three-agent deliberation pipeline. Across GSM8K [4],",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"AQuA-RAT[18],andclosed-bookHotpotQA[35](ProtocolsP1–P5),",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,"fullwiki (Protocols W1–W4), SparseComm substantially reduces",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+1,with a standard 2×2 factorial intervention (Protocols P2/P2b). They,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"WWW ’27, May 10–14, 2027, Dublin, Ireland Anon.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,routing: 3.4x,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,msg rule: 1.06x,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,Cap ̄ V=50 Cap ̄ V=100,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,GSM8K accuracy (%),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,+16.1 pp +12.9 pp,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(b) P4 support comparison,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,15 static 2-edge supports,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,Complete (6 edges),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,Star (4 edges),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,NoComm (78.67%),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,Static 15-support mean,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,Learned PPO (5 seeds),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(50),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(50),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(50),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(100),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(100),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(100),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,GSM8K accuracy (%),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,Max |Δ0−2|=0.67 pp,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,All McNemar p=1.000,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,Root = Agent 0,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,Root = Agent 2,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,Figure 1: The paper in one figure. (a) Why the 2×2 factorial does not identify a pure routing effect (Protocol P2b): switching only,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"routing moves realized volume from 366 to 109 tokens per question (3.4×), whereas switching the message rule alone moves",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,volume from 366 to 344 (1.06×). (b) The exhaustive Protocol P4 comparison on 150 matched GSM8K questions: all 15 directed,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"two-edge supports use the same per-edge ceiling, while the learned PPO policy (5 seeds) outperforms the static-support mean",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"at both ¯ 𝑉 = 50 (91.87% vs. 75.78%) and ¯ 𝑉 = 100 (92.00% vs. 79.11%). (c) Matched role-permutation control: permuting analytical,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"creative, and step-by-step roles while swapping the out-star root between agents 0 and 2 changes accuracy by at most 0.67",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,percentage points (𝑝 = 1.000).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"cannot in our setting. As shown in Figure 1(a), switching routing",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,contracts realized volume from 366 to 109 tokens per question (a,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"factor of 3.4×), whereas switching the message filter alone moves",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"volume from 366 to 344 tokens (a factor of 1.06×). Thus, the facto-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,direct/indirect mediation decompositions in Propositions 1–2.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,sion budget (Propositions 3–4). Rather than cherry-picking a single,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"static baseline, Protocol P4 exhaustively enumerates all",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(︁6,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,= 15,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,directed two-edge supports for 𝑁 = 3 agents under a common,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,per-edge transmission ceiling (¯ 𝑉 = 50 and ¯ 𝑉 = 100 tokens) and a,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"shared truncation procedure. As illustrated in Figure 1(b), the 15",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,static supports remain tightly clustered (75.78% ± 2.43% at ¯ 𝑉 = 50,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"and 79.11%±2.74% at ¯ 𝑉 = 100), whereas five independently trained",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,PPO realizations reach 91.87% ± 1.81% and 92.00% ± 1.33% while,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,consuming only 15.10 and 31.50 realized tokens per question. Per-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,0 and 2 changes accuracy by at most 0.67 percentage points (Fig-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"ure 1(c), exact McNemar 𝑝 = 1.000). Protocol P5 then isolates",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,controller-induced top-2 routing from adaptive stopping under,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,matched depth and realized volume on 100 matched GSM8K ques-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"tions, showing that top-2 routing coincides with the static out-star",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"𝑆1 = (0 → 1,0 → 2) at 91.0% accuracy (46 tokens), while adaptive",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,stopping cuts realized communication by 69.6% (to 14 tokens and 1,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,round) and lifts point accuracy to 93.0%.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"mation seeking (Protocols W1–W4), where retrieval, verification,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,by BM25 on HotpotQA fullwiki and are audited with the official,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"HotpotQA EM/F1 evaluator [12]. Across W1–W4, we show how",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"policies (84.87% proxy reduction in W1), sentence-prefix rationing",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"(+2.08 F1 points over random cropping in W2), consensus stop-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"ping (38.61–40.36% volume reduction in W3), and question-level",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,volume-matched frozen-pool delivery (W4).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(1) Formal Attribution Theory (Propositions 1–4): We for-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"in variable-length LLM systems contract volume (Prop. 1),",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"(Prop. 2), and require simplex face restrictions or capped",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,residual bounds (Props. 3–4).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(2) Empirical Volume-Confounding Diagnostic (P2/P2b):,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,ken volume are strongly coupled (3.4× volume shift under,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"routing changes vs. 1.06× under message filtering), mak-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,ing unconstrained 2 × 2 factorials insufficient for isolating,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,(3) ExhaustiveSupportEnumeration&ComponentIsola-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,tion (P4/P5): We introduce a budget-controlled evaluation,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,"across all 15 directed two-edge supports, multi-seed PPO",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+2,depthcomponent-isolationcontrolseparatingtop-2routing,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"Signal over Chatter WWW ’27, May 10–14, 2027, Dublin, Ireland",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,(4) Cross-RegimeEvaluationAcrossReasoning&WebIn-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,formation Seeking (P1–P5 & W1–W4): Using SparseC-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"nication savings across GSM8K, AQuA-RAT, closed-book",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"HotpotQA, and open-book BM25 HotpotQA candidate re-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,2 Related Work,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"instances to critique intermediate solutions across rounds [2, 7,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"17, 19]. Similar collaborative message-passing architectures power",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"such as AutoGen [34], CAMEL [15], MetaGPT [11], ChatDev [24],",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"AgentVerse [3], and AgentScope [9]. Because these systems fix a",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"agentelimination,includingAgentPrune[36]andAgentDropout[32],",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,alongside prompt compression methods such as LLMLingua [13],MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,and LLMLingua-2 [21]. A third line optimizes the communica-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"ation, or autoregressive generation, including GPTSwarm [38], G-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"Designer [37], ARG-Designer [16], and propagation analyses [27],",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"ature on targeted continuous or gated communication [5, 8, 14, 28,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,29].,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"variable-length payloads simultaneously; by Proposition 2, even",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,transmitted mass is explicitly constrained. Table 7 in Appendix A,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,Multi-hopWebinformationaccess. HotpotQA[35]evaluatesmulti-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"P1/P1b) from open-book candidate retrieval (where retrieval, verifi-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,via local BM25 and are scored with the official HotpotQA evalua-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,tor [12]; Protocols W1–W4).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,3 What a Component Intervention Identifies,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"𝑖 ≠ 𝑗,1 ≤ 𝑖, 𝑗 ≤ 𝑁} of dimension |O| = 𝑁(𝑁 −1). All formal proofs",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"Separate an allowed binary graph support A ∈ {0,1}𝑁×𝑁 from",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"≥0 ,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"with 𝐴𝑖𝑖 = 𝐵𝑖𝑖 = 0, so that the realized transmission matrix M and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,𝐴𝑖𝑗𝐵𝑖𝑗. (1),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,Equation (1) serves as intervention bookkeeping that separates,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,every empirical cost reported in Sections 6–7 measures the realized,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"Proposition1(Routingcontractsvolume). LetT = {(𝑖, 𝑗) ∈",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,O : 𝐴𝑖𝑗 = 1}. The mapping PA(B) = A ⊙ B is the orthogonal,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"0 ∀(𝑖, 𝑗) ∉ T} of the selected support, and Vol(A,B) ≤ ∥B∥1,off, with",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"imental arm with message rationing rule 𝑐 ∈ {0,1} and routing",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"policy 𝑡 ∈ {0,1}, let𝑉𝑞(𝑐,𝑡) = ˜︃ Vol𝑞 denote its realized volume, and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,Proposition 2 (Total-effect decomposition). For a fixed mes-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"sagerationingrule𝑐,thefactorialroutingcontrast𝛽𝑇 (𝑐) = E[𝑌(𝑐,1,𝑉 (𝑐,1))−",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"𝑌(𝑐,0,𝑉 (𝑐,0))] decomposes as",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"𝛽𝑇 (𝑐) = Δroute(𝑐) + Δvolume(𝑐), (2)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"where Δroute(𝑐) = E[𝑌(𝑐,1,𝑉 (𝑐,0)) − 𝑌(𝑐,0,𝑉 (𝑐,0))] is the natu-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"ral direct effect of routing 𝑇 and Δvolume(𝑐) = E[𝑌(𝑐,1,𝑉 (𝑐,1)) −",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"𝑌(𝑐,1,𝑉 (𝑐,0))] is the natural indirect effect mediated by realized",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,"volume𝑉 [22, 25, 30]. Randomizing𝑇 identifies only the sum 𝛽𝑇 (𝑐);",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,tested in Section 6.2: switching𝑇 at 𝑐 = 0 changes realized volume,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,by a factor of 3.4× (removing 257 tokens per question). Fixing the,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,Proposition 3 (Fixed-mass comparison). Fix a total budget,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,¯ 𝑉 > 0 and let Δ¯ 𝑉 = {M ∈ RO,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,≥0 :,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+3,of Δ¯ 𝑉 [39]. Randomizing routing across faces 𝐹T while holding non-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"WWW ’27, May 10–14, 2027, Dublin, Ireland Anon.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"common cap ¯ 𝑉, and Proposition 4 characterizes the resulting bias:",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,Proposition 4 (Capped comparison and its residual). Sup-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"+𝑅, (3)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,(𝑣𝑡 = 𝑣𝑡′) collapses V to a point (𝑅 = 0) and recovers Proposition 3.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,integerrounding(boundedby |T| ≤ 1tokenperactivechannel)and,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"such as 𝑌𝑞(𝑣) = 𝑣2/4 on 𝑣 ∈ [0,2], volume allocations (0,2) and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"(1,1) share mean 1 but yield different expected outcomes (0.50 vs.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"0.25). Consequently, our P4 design evaluates sensitivity across a",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"doubling of the cap (¯ 𝑉 ∈ {50,100}, Appendix C), P5 matches depth",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"and realized volume on identical round-0 traces (Appendix C), and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,W4 enforces exact per-question proxy equality on frozen initial,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,pools (Section 7.2).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,4 The SparseComm Instrument,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,4.1 Continuously Weighted Channel,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,round 𝑟 = 0. Let ℓ(·) denote message length and𝑚(𝑟),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"W(𝑟) ∈ [0,1]𝑁×𝑁 with𝑊 (𝑟)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,𝑖𝑖 = 0 governs both the participation of,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,. (4),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"In our closed-book reasoning protocols (P1–P5), ℓ(·) is the exact",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"Web retrieval protocols (W1–W4), ℓ(·) is the recorded word-based",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"0, 𝑚 = ∅,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"max{1, ⌊1.3𝑛words(𝑚)⌋}, otherwise.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,(5),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,4.2 Actor–Critic Controller and Retention,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,Asharedtwo-layeractor–criticnetwork(hiddenwidth64)observes,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"a 20-dimensional collective state vector s𝑟 ∈ R20 for 𝑁 = 3 agents,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"strength, individual agent confidences (3), the flattened previous",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"communication matrix (9), normalized round progress 𝑟/𝑇, unique-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"set to the constant 0.5 in the standalone Web runners), ensuring",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"Rather than sampling from 2𝑁 (𝑁−1) discrete graphs, the actor",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"parameterizes low-rank sender and receiver factors H𝑠,H𝑑 ∈ R𝑁×2",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,𝑑 + 0.5,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"𝑖𝑖 = 0, (6)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,where 𝜎(𝑧) = (1 + 𝑒−𝑧)−1 is the logistic function and the +0.5,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,bias initializes the policy toward moderate participation (𝜎(0.5) ≈,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,0.622) so early training episodes transmit sufficient text for the,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,all-MiniLM-L6-v2 (22M parameters) and scored by cosine similar-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"ity 𝑠𝑘 ∈ [−1,1] against sender 𝑖’s current-round answer. Mapping",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"= (𝑠𝑘 + 1)/2 ∈ [0,1] and normalizing by the trace mean yields",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"𝑤𝑖𝑗 ¯ 𝑠𝑘, 0, 1",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,𝑗=1 𝑠′,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,", 𝜀 = 10−9",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,. (7),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,Because ¯ 𝑠𝑘 is centered on 1 and may exceed 1 for high-salience sen-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"tences, clipping to [0,1] yields a valid retention probability 𝑝𝑘. In",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"budget-controlled support evaluations (P4, P5, and Web protocols",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"W1–W4), where support topology must be decoupled from sto-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,4.3 Reward Structure and PPO Optimization,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,tropy regularization [26] (Appendix B). The actor parameterizes a,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"61-dimensionaldiagonalGaussianovera𝑟 = [vec(H𝑠),vec(H𝑑),vec(Q),𝑧𝑟];",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,= I(𝑧𝑟 > 0) or the consensus score 𝑆 exceeds 𝜏halt. The per-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,𝑟𝑟 = (1.5𝑎𝑞 − 0.5)Ifinal − 𝜆info𝐶(𝑟),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"persist − 0.1𝑟 Ifinal,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,(8),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,"where 𝑎𝑞 ∈ {0,1} is per-question correctness (yielding +1.0 for",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,a correct final answer and −0.5 otherwise; dataset percentage ac-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,",1) penal-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+4,𝑖𝑗 ) from a sparse prior Bern(𝑝0 = 0.1); and,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"Signal over Chatter WWW ’27, May 10–14, 2027, Dublin, Ireland",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,persist = 1,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,𝑁 (𝑁−1),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,𝑖𝑗 𝑊 (𝑟−1),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,4.4 Consensus Aggregation and Stopping,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"Step-by-Step, and Creative in closed-book reasoning [7, 17, 19], and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,book Web QA. Choosing 𝑁 = 3 yields |O| = 6 directed non-self,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,(︁6,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,= 15 two-edge,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,latent-truth error model [6] over the distinct normalized candidate,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"ness probabilities 𝜃𝑖 ∈ [𝛿,1 −𝛿] (𝛿 = 10−6) [23]:",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,log𝑝(𝑦 | 𝑎1:𝑁 ) ∝,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,1 −𝜃𝑖,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,𝐾𝑞 − 1,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,. (9),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,(𝐾𝑞 = 1) well-defined without evaluating the 𝐾𝑞 − 1 denominator.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,Adaptive depth combines the learned halt logit 𝑧𝑟 > 0 disjunctively,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,5 Experimental Setup and Protocols,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"5.1 Tasks, Models, and Baselines",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,Weevaluateacrosstwodistinctoperationalregimesusinggpt-oss-120b[20],MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"at temperature 0, top-𝑝 = 1.0, and a 512-token generation cap:",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,(1) Closed-Book Reasoning & Multi-Hop QA (Protocols,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,P1–P5):WeevaluatemathematicalreasoningonGSM8K[4],MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,(normalized numeric matching) and AQuA-RAT [18] (nor-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,soning on closed-book HotpotQA [35] (agents see only the,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,ized token-level 𝐹1 ≥ 0.5 correctness in P1/P1b to align,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"with binary reward 𝑎𝑞 ∈ {0,1}).",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,(2) Open-Book Web Information Seeking (Protocols W1–,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,W4): We evaluate 100 paired HotpotQA fullwiki valida-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"articles ranked via local BM25 (𝑘1 = 1.5,𝑏 = 0.75 over title",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"plus text; top-3 articles in W1/W2/W4, and top-2 vs. all 10",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,candidates in W3). To ensure strict alignment with Web,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"QA standards, all 1,500 saved predictions in W1–W4 are",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,token-overlap 𝐹1 evaluation script [12].,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"agents independently (𝑟 = 0) and aggregates via Eq. (9), forming",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"a calibrated multi-agent self-consistency baseline [31, 33]. MAD",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,plete 6-edge graph for up to 𝑇 = 3 post-initial rounds and stops,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"early on unanimity [7, 17]. All methods share the backbone, prompt",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"roles,𝑇 = 3 cap, Platt calibration split, and MAP aggregator.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,Table 1: Summary of evaluation protocols across closed-book,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,reasoning (P1–P5) and open-book Web candidate retrieval,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,(W1–W4).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"P1 300 held-out × 3 seeds (GSM8K, AQuA, Hotpot) Descriptive seed s.d. Tab. 2",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"P1b Paired per-question (𝑛 = 551,254,863) 10k BCa CI / NI 𝑝 (𝛿 = 5) Tab. 2, 8",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,P2 2 × 2 factorial sensitivity (𝑛train = 100..400) Question-clustered CR1 SE Tab. 10,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,P2b Expanded 2 × 2 volume audit (𝑛 = 150) Realized vs. full volume Tab. 9,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,P3 150 GSM8K; learned vs. 6 fixed graph motifs Binomial CI / Spearman 𝜌𝑠 Tab. 12,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"P4 150 GSM8K; all 15 2-edge supports + 5 PPO seeds 95% Wilson / seed s.d. Tab. 3, 11",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,P5 100 GSM8K; 2 × 2 routing × stopping control BCa CI / exact McNemar Tab. 4,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"W1 100 HotpotQA Web; NoComm, MAD, Sparse 10k paired bootstrap / Holm Tab. 5, 6",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"W2 100 HotpotQA Web; Full, Prefix, Random crop 10k paired bootstrap / Holm Tab. 5, 6",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"W3 100 HotpotQA Web; Top-2 vs. All evidence stop 10k paired bootstrap / Holm Tab. 5, 13",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,W4 100 HotpotQA Web; Question-matched frozen pool 10k paired bootstrap / Holm Tab. 5,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,5.2 Protocol Map and Statistical Inference,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,Table 1 defines our eleven evaluation protocols (P1–P5 and W1–,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"W4). In P1b, because three seed means provide minimal statistical",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"tions (𝑛 = 551 GSM8K, 254 AQuA-RAT, and 863 closed-book Hot-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"potQA records) as the primary unit of analysis, reporting 95% bias-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"corrected and accelerated (BCa) bootstrap intervals over 𝐵 = 10,000",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"𝐻0 : ΔSparseComm−MAD ≤ −𝛿 at margins 𝛿 ∈ {3,5,10} percentage",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"points (𝛿 = 5 primary). In W1–W4, we report 95% paired percentile",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"bootstrap intervals (𝐵 = 10,000) and exact two-sided sign-flip 𝑝-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,values with Holm step-down multiplicity adjustment [10].,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,6 Closed-Book Reasoning and Attribution,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,Results (P1–P5),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,6.1 How Much Communication Can Be,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,Removed? (P1 & P1b),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,Table 2 and Figure 4(a) show that SparseComm transmits substan-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"a 90.2% reduction on GSM8K (530.8 → 52.2 tokens/question), a",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"50.4% reduction on AQuA-RAT (850.3 → 421.6), and an 83.8%",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,reduction on closed-book HotpotQA (2914.1 → 473.2). On both,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,point with 95% BCa intervals covering zero (−1.09 pp on GSM8K;,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,−0.39 pp on AQuA-RAT). All three benchmarks pass one-sided,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,non-inferiority at the prespecified 5-point margin (𝑝 = 0.002 on,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"GSM8K, 𝑝 < 0.001 on AQuA-RAT, and 𝑝 = 0.0012 on HotpotQA);",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"at the stricter 3-point margin, AQuA-RAT also passes (𝑝 = 0.001,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,Table 8).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"P1b comparisons (Table 8), SparseComm gains +8.53 percentage",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"points over NoComm on GSM8K (95% BCa CI [+4.90,+11.80]) and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"+3.94 points on AQuA-RAT ([+1.57,+6.69]). In contrast, on closed-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,on internal parametric memory—the gain over NoComm is +1.51,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,"points ([−0.35,+3.24]), while SparseComm expends 473.2 tokens",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,(9.1×itsGSM8Ktokenspend)ataround-1edge-intensityentropyof,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+5,2.5840 bits against the six-edge uniform maximum log2 6 ≈ 2.5850,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"WWW ’27, May 10–14, 2027, Dublin, Ireland Anon.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Table 2: Cost and accuracy across closed-book benchmarks. Left (Protocol P1): 400-sample controller evaluated on 300 held-out,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,examples per seed; token reduction is 1 − SparseComm/MAD. Right (Protocol P1b): Primary paired accuracy analysis across,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"common question records (𝑛 = 551,254,863) with 95% BCa bootstrap intervals (𝐵 = 10,000) and one-sided non-inferiority 𝑝-values",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"at primary margin𝛿 = 5 percentage points against𝐻0 : Δ ≤ −5 (bold indicates non-inferiority at𝛼 = 0.05). Full margins𝛿 ∈ {3,10}",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,and NoComm contrasts are in Table 8.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"Accuracy % (P1, seed mean ± s.d.) Comm. tokens / question (P1) Paired SparseComm − MAD (P1b)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Dataset NoComm MAD SparseComm MAD SparseComm Reduction 𝑛 Δ̂ (95% BCa CI) NI 𝑝 at 𝛿 = 5,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"GSM8K 87.00 ± 0.67 96.22 ± 0.19 95.00 ± 0.88 530.8 52.2 90.2% 551 −1.09 [−3.81,+1.27] .002",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"AQuA-RAT 79.52 ± 5.46 85.34 ± 2.33 86.28 ± 0.31 850.3 421.6 50.4% 254 −0.39 [−2.64,+0.39] < .001",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"HotpotQA (Closed) 30.00 ± 2.33 34.00 ± 3.48 31.67 ± 4.26 2914.1 473.2 83.8% 863 −2.43 [−4.17,−1.04] .0012",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,6.2 Why the 2 × 2 Factorial Estimates a Total,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Effect (P2 & P2b),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"In Protocol P2, Factor𝑇 ∈ {0,1} switches a fixed ring support to",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"the learned continuous intensity policy, while Factor 𝐶 ∈ {0,1}",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,(Arm 00: fixed/full; Arm 01: learned/full; Arm 10: fixed/filtered;,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Arm 11: full SparseComm). We fit the saturated linear probability,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,model 𝑌𝑞 = 𝛽0 + 𝛽𝐶𝐶𝑞 + 𝛽𝑇𝑇𝑞 + 𝛽𝐶𝑇𝐶𝑞𝑇𝑞 + 𝜖𝑞 with CR1 standard,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,errors clustered by question [1] across separate controllers trained,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"on 𝑛train ∈ {100,200,300,400} examples (Figure 2, Table 10). After",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"Holm correction across the twelve non-intercept tests [10], no main",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"𝑝Holm ≥ 0.416; widest 95% CI half-width ≈ 16 points, yielding 80%",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,power only for effects of 11.5–16.5 points).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"Theper-cellvolumelogsinProtocolP2b(Table9andFigure1(a)),",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,sition 2. Holding the message rule fixed at full transmission (𝑐 = 0),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"and switching only routing (𝑇 : 0 → 1), realized volume drops",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"from 366 tokens (Arm 00) to 109 tokens (Arm 01), a contraction fac-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,tor of 3.4× (removing 257 tokens/question). Holding routing fixed,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"(𝑡 = 0) and switching only the message filter (𝐶 : 0 → 1), volume",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"moves from 366 to 344 tokens, a factor of only 1.06×. Furthermore,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"344 to 59 tokens (5.8×), while filtering contracts learned-routing",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"volume from 109 to 59 tokens (1.85×). Thus, toggling the routing",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,6.3 Adaptive Communication Under a Common,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Transmission Constraint (P4),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"To remove the unconstrained volume confounder, Protocol P4 en-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,each directed edge in a two-edge support receives at most 25 tokens,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,at ¯ 𝑉 = 50and50tokensat ¯ 𝑉 = 100)usingasinglesharedtruncation,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,tively evaluate all 15 directed two-edge supports on 150 matched,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Table 3: Protocol P4: Budget-controlled support comparison,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,on 150 matched GSM8K questions under common per-edge,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,ceilings (¯ 𝑉 = 50 and ¯ 𝑉 = 100). Individual supports and 5 PPO,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,seeds are in Appendix C (Tables 11–11). 𝑆1 is the out-star,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"(0 → 1,0 → 2).",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Nominal Cap ¯ 𝑉 = 50 Nominal Cap ¯ 𝑉 = 100,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"NoComm (P0) 78.67 [71.4,84.5] 0.00 78.67 [71.4,84.5] 0.00",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"Complete (6 edges) 78.67 [71.4,84.5] 50.00 75.33 [67.9,81.5] 100.00",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"Star (4 edges) 80.00 [72.9,85.6] 50.00 76.00 [68.6,82.1] 100.00",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Static 15-support mean 75.78 ± 2.43 22.50 79.11 ± 2.74 44.70,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"Static 𝑆1 (out-star) 73.33 [65.7,79.8] 22.70 76.67 [69.3,82.7] 45.30",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Learned PPO (5 seeds) 91.87 ± 1.81 15.10 92.00 ± 1.33 31.50,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"Learned PPO (peak) 95.33 [90.7,97.7] 49.65 92.67 [87.3,95.9] 95.10",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,GSM8K questions and compare them against five independently,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Table 3 and Figure 1(b) reveal three key findings:,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,(1) Dense broadcast degrades under higher budgets: In-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,creasing the nominal cap from ¯ 𝑉 = 50 to ¯ 𝑉 = 100 causes,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,Complete Graph (6 edges) accuracy to drop from 78.67% to,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,75.33%(−3.34ppbelowNoComm)andStar(4edges)todrop,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"from 80.00% to 76.00%, demonstrating that uncalibrated all-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,(2) Static two-edge supports cluster tightly: Across all 15,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,static two-edge supports (Table 11) and their four structural,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,paths—mean accuracy is 75.78%±2.43% at ¯ 𝑉 = 50 (realizing,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,22.50 tokens) and 79.11% ± 2.74% at ¯ 𝑉 = 100 (realizing,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"44.70 tokens). Static out-star 𝑆1 = (0 → 1,0 → 2) achieves",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,73.33% and 76.67%.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,(3) Learned adaptive control outperforms static supports,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"trainingseeds(Table11),thelearnedpolicyachieves91.87% ± 1.81%",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"at ¯ 𝑉 = 50 (realizing 15.10 tokens, or 30.2% of the budget)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"and 92.00% ± 1.33% at ¯ 𝑉 = 100 (realizing 31.50 tokens, or",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"31.5% of the budget), outperforming the static 15-support",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,"mean by +16.09 and +12.89 percentage points, respectively.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,The peak PPO realization reaches 95.33% at ¯ 𝑉 = 50 and,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+6,92.67% at ¯ 𝑉 = 100.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"Signal over Chatter WWW ’27, May 10–14, 2027, Dublin, Ireland",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,100 200 300 400,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"Arm 00 (fixed, full)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"Arm 10 (fixed, filtered)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"Arm 01 (learned, full)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Arm 11 (SparseComm),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,−0.3 −0.2 −0.1 0.0 0.1 0.2 0.3,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=100: Compr.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=100: Route,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=100: Inter.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=200: Compr.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=200: Route,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=200: Inter.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=300: Compr.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=300: Route,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=300: Inter.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=400: Compr.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=400: Route,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,n=400: Inter.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,(b) Question-clustered CR1 estimates,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,80% power band (±0.15),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Arm 11 comm. tokens,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,496.7,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,124.6 123.3,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,58.9,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Figure 2: Protocol P2 (2 × 2 factorial analysis on GSM8K). (a) Matched-question accuracy of the four factorial arms across,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"controller training scales 𝑛train ∈ {100,200,300,400} alongside Arm-11 transmitted tokens. (b) Saturated linear probability model",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,effect estimates ˆ 𝛽 with 95% question-clustered CR1 confidence intervals; eleven of twelve intervals cover zero and the twelfth,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"(𝑛train = 200 interaction, unadjusted 𝑝 = 0.035) does not survive Holm correction (𝑝Holm = 0.416).",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,0 50 100 150 200 250 300,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Official HotpotQA Answer F1 (%),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,W1 NoComm,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"(0, 46.8%)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,W1 Broadcast,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"(297, 48.4%)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,W1 Sparse,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"(44.9, 44.5%)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"W3 All-Adap (56.8, 52.7%)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"W3 Top2-Adap (55.2, 48.3%)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,(a) Web W1-W3 operating points,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,−10 −5 0 5,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Paired Answer F1 difference (percentage points),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,W1: Sparse - Broadcast,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,W2: Prefix - Random crop,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,W3: Adap - Fixed (top-2),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,W3: Adap - Fixed (all),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,W4: Controller - Static,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,-3.85 pp,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,+2.08 pp,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,+2.13 pp,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,+0.60 pp,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,-1.87 pp,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,(b) Web contrasts & 95% bootstrap CIs,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Figure 3: Open-book Web information seeking on HotpotQA candidate retrieval (Protocols W1–W4). (a) Recorded operating,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"points in official Answer 𝐹1 vs. communication proxy ˆ︁ 𝑉 space across W1, W2, and W3. (b) Paired 𝐹1 differences (percentage",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,points) and 95% percentile bootstrap intervals across the five contrasts in Table 6; positive values favor the first-listed condition.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Table 4: Protocol P5: Component-isolation control on 100,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,matched GSM8K questions. Routing compares static out-star,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"𝑆1 = (0 → 1,0 → 2) against controller-induced top-2 routing",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,reduces realized communication by 69.6% (46 → 14 tokens).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Condition Accuracy [95% Wilson CI] Realized ˜︃ Vol Rounds Δstop (BCa CI; McNemar 𝑝),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"Static 𝑆1 + fixed 91.0% [83.8,95.2] 46 3 Base",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"Static 𝑆1 + adaptive 93.0% [86.3,96.6] 14 1 +2.0 pp [−2.0,+5.0] (𝑝 = .625)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"Top-2 + fixed 91.0% [83.8,95.2] 46 3 Base (selects 𝑆1 in 300/300 rounds)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"Top-2 + adaptive 93.0% [86.3,96.6] 14 1 +2.0 pp [−2.0,+5.0] (𝑝 = .625)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,6.4 Component-Isolation and Role Permutation,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Controls (P5),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Why does the full learned policy in P4 outperform static 𝑆1 so,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"dramaticallywhenbothusetwoedges?InP4,thefulllearnedpolicy",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"differs from static 𝑆1 not only in its routing mechanism, but also",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,in adaptive stopping and realized volume (15.10 vs. 22.70 tokens).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,Protocol P5 isolates these two components on 100 matched GSM8K,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,questions using a 2 × 2 matched control: routing is either fixed to,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,"static 𝑆1 = (0 → 1,0 → 2) or dynamically selects the top-2 edges",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+7,while stopping is either fixed at𝑇 = 3 post-initial rounds (allocating,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"WWW ’27, May 10–14, 2027, Dublin, Ireland Anon.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"[16,17,17] tokens across rounds, or 8–9 tokens per active edge) or",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"As shown in Table 4, under fixed 3-round depth and matched",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"realized volume (46 tokens/question), the controller’s top-2 ranking",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"selects 𝑆1 = (0 → 1,0 → 2) in 100% of forced rounds (300/300",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,question-rounds) and exactly matches static 𝑆1 at 91.0% accuracy.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Enabling adaptive stopping reduces executed rounds from 3 to 1,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,and cuts realized communication by 69.6% (from 46 to 14 tokens,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"91.0% to 93.0% (+2.0 pp, 95% BCa CI [−2.0,+5.0], exact McNemar",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"𝑝 = 0.625). Thus, once the out-star support anchored at the An-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"alytical agent (0 → 1,0 → 2) and the per-round token rationing",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,non-degraded accuracy in P5 are driven by adaptive stopping,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,across node indices and swap the out-star root between Agent 0,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"and Agent 2 across six matched configurations at ¯ 𝑉 ∈ {50,100}",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"(Figure 1(c) and Appendix C). Across all six matched pairs, the",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"maximum root-swap accuracy difference is 0.67 percentage points,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,with exact McNemar 𝑝 = 1.000 in every comparison.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,7 Open-Book Web Information Seeking,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,(Protocols W1–W4),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"In closed-book HotpotQA (Protocol P1), agents lacked external",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,passages and routed almost uniformly (entropy 2.5840 bits). To,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"agents exchange retrieved Web evidence, Protocols W1–W4 evalu-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,ate100pairedHotpotQAfullwikivalidationquestionsunderlocal,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"BM25 candidate retrieval (𝑘1 = 1.5,𝑏 = 0.75) with role prompts",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"specialized for Retrieval Inspection (Agent 0), Verification (Agent 1),",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,and Multi-Hop Synthesis (Agent 2). We audit the saved execution,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,HotpotQA exact match (EM) and token-overlap 𝐹1 scorer [12]. Ta-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"ble 5, Table 6, and Figure 3 summarize the results.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,7.1 W1 & W2: Policy Trade-Off and Prefix,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"In W1, open-book BM25 candidate retrieval lifts baseline HotpotQA",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,performance substantially compared to closed-book P1 (NoComm,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"reaches31.00%EMand46.79%𝐹1,whilefullbroadcastMADreaches",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,30.00% EM and 48.36% 𝐹1 at ˆ︁ 𝑉 = 296.98 proxy units). The sparse,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,policy reduces the communication proxy by 84.87% (to 44.94 units,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"across 3.00 executed rounds), achieving 29.00% EM and 44.51%",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"𝐹1 (Δ𝐹1 = −3.85 pp vs. MAD, 95% CI [−8.85,+0.88]). Because all",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"agents in W1 receive the same top-3 BM25 passages in Round 0,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"intermediate synthesis details, placing the W1 sparse point slightly",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,below zero-communication ensemble voting (46.79% 𝐹1) and under-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Protocol W2 holds the topology fixed to the role-aligned chain,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,0 → 1 → 2 across two rounds and compares full transmission,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Table 5: Open-book Web information seeking (Protocols W1–,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,W4) on 100 paired HotpotQA fullwiki candidate-retrieval,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"questions,scoredwiththeofficialHotpotQAEMand𝐹1 evalu-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,ator[12]. ˆ︁ 𝑉 istherecordedword-basedcommunicationproxy,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,per question (Eq. 5); Depth is the mean post-initial rounds.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Protocol Condition EM (%) 𝐹1 (%) Proxy ˆ︁ 𝑉 Depth,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,W1 No communication (NoComm) 31.00 46.79 0.00 0.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Full broadcast (MAD) 30.00 48.36 296.98 3.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Sparse policy (SparseComm) 29.00 44.51 44.94 3.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,W2 Full transmission (0 → 1 → 2) 29.00 47.15 75.65 2.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Sentence-prefix rationing 29.00 46.57 66.25 2.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Random contiguous word crop 27.00 44.49 66.86 2.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"W3 Top-two candidates, fixed stop 28.00 46.17 89.91 3.00",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"Top-two candidates, adaptive stop 31.00 48.30 55.20 1.82",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"All candidates, fixed stop 36.00 52.07 95.20 3.00",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"All candidates, adaptive stop 36.00 52.67 56.78 1.75",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"W4 Static role chain (0 → 1,1 → 2) 29.00 44.89 24.08 2.00",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"Controller support (1 → 0,1 → 2) 28.00 43.02 24.08 2.00",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Random two-edge support 30.00 45.59 24.08 2.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Table 6: Paired answer 𝐹1 contrasts (in percentage points),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"across Web protocols W1–W4, with 95% percentile bootstrap",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"intervals (𝐵 = 10,000), nonzero pair counts, and exact two-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Web Contrast Δ𝐹1 (pp) 95% CI Nonzero Exact 𝑝 Holm 𝑝,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"W1: Sparse − Broadcast −3.85 [−8.85,+0.88] 14 0.132 0.528",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"W2: Prefix − Random crop +2.08 [−0.92,+5.75] 5 0.250 0.750",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"W3: Adaptive − Fixed (top-2) +2.13 [+0.33,+4.70] 6 0.031 0.156",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"W3: Adaptive − Fixed (all) +0.60 [+0.00,+1.69] 2 0.500 0.750",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"W4: Controller − Static −1.87 [−5.53,+1.20] 11 0.303 0.750",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"(ˆ︁ 𝑉 = 75.65, 𝐹1 = 47.15%) against order-preserving sentence-prefix",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"rationing (ˆ︁ 𝑉 = 66.25, 𝐹1 = 46.57%) and random contiguous word",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"cropping (ˆ︁ 𝑉 = 66.86, 𝐹1 = 44.49%) under a 50-unit per-edge ceil-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,ing. Preserving coherent lead sentences reduces volume by 12.43%,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"relative to full transmission with only a 0.58-point 𝐹1 dip, and out-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,performs random cropping at matched volume by +2.08 𝐹1 points,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"(95%CI [−0.92,+5.75],+2.00EMpoints),demonstratingthatretain-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,7.2 W3 & W4: Consensus Stopping and,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Protocol W3 evaluates consensus-triggered adaptive stopping (𝜏 =,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"log4, triggered upon unanimous 3-agent agreement; Appendix D)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,on the 0 → 1 → 2 chain across two retrieval regimes: Top-Two,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,Candidates and All (10) Candidates. Expanding the evidence pool,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,quality from 46.17% to 52.07% 𝐹1 (+8.00 EM points) under fixed,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,"3-round stopping. In both evidence regimes, adaptive stopping sub-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,nication proxy by 38.61% (89.91 → 55.20 units) and mean,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+8,depth from 3.00 → 1.82 rounds (halting early on 65% of,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"Signal over Chatter WWW ’27, May 10–14, 2027, Dublin, Ireland",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,0 10 50 200 1000 3000,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,GSM8K (-90.2%),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,AQuA-RAT (-50.4%),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,HotpotQA (-83.8%),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,(a) P1: Multi-benchmark trade-off,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,NoComm (0 tokens),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,50 100 150 200 250 300 350,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,87.5,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,90.0,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,92.5,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,95.0,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,97.5,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,100.0,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,GSM8K accuracy (%),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"Fixed motifs: ρs =0.73,p=0.10,n=6",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,(b) P3: Learned policy vs. fixed motifs,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"Figure 4: Communication cost against accuracy. (a) Protocol P1 across GSM8K, AQuA-RAT, and closed-book HotpotQA:",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,SparseComm sits far to the left of MAD on every benchmark while preserving accuracy within the 5-point non-inferiority,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,margin. (b) Protocol P3 on 150 GSM8K questions: the learned policy matches Ring’s accuracy (95.33%) with 84.8% fewer,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"communication tokens (51.1 vs. 337.0) and 44.5% fewer total tokens (2435.7 vs. 4387.7, Table 12). Among the six fixed motifs,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"which share message and stopping rules, cost and accuracy are positively rank-correlated (𝜌𝑠 = 0.73,𝑝 = 0.10,𝑛 = 6), illustrating",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"questions), while lifting EM from 28.00% → 31.00% and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"𝐹1 by +2.13 points (46.17% → 48.30%, unadjusted 95% CI",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"[+0.33,+4.70], exact 𝑝 = 0.031, Holm 𝑝 = 0.156).",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,munication proxy by 40.36% (95.20 → 56.78 units) and,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,mean depth from 3.00 → 1.75 rounds (halting early on 71%,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"of questions), while maintaining 36.00% EM and lifting 𝐹1",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,by +0.60 points (52.07% → 52.67%).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,Protocol W4 enforces exact question-level proxy volume match-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,ing (ˆ︁ 𝑉𝑞 difference = 0 on all 100 questions; mean ˆ︁ 𝑉 = 24.08 units,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,across 2 scheduled rounds) by truncating each sender’s frozen,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,Round-0 message to the minimum initial message length on ques-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"supports: Static role chain {0 → 1,1 → 2} (44.89% 𝐹1), Controller-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"selectedsupport(43.02%𝐹1),andRandomtwo-edgesupport(45.59%",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,𝐹1). Auditing the W4 logs reveals that the loaded controller check-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"point selects the fixed out-star {1 → 0,1 → 2} on all 100 ques-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,tions (since the accuracy state feature was held constant at 0.5 and,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,W4 shows no advantage for static replay from Agent 1 over the role-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"aligned chain 0 → 1 → 2 (Δ𝐹1 = −1.87 pp, 95% CI [−5.53,+1.20]),",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,reasoning propagation (as in P4) rather than static Round-0 payload,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,8 Discussion and Implications,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,change variable-length natural language. Proposition 2 proves that,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"Δvolume, and Protocol P2b measures its magnitude at 3.4× (257 to-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"kens/question). Prior communication-efficient frameworks [32, 36]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"and graph learners [16, 37, 38] report substantial pipeline-level",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"ized volume via shared caps (P4), matched-depth isolation (P5), or",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,per-question quota matching (W4).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,of all 15 directed two-edge supports in P4 (Table 11) demonstrates,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,that static sparse wirings cluster within a narrow band (75.56%–,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"76.22% across motif classes at ¯ 𝑉 = 50), whereas the full learned PPO",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,policy reaches 91.87%–92.00% across 5 seeds. When P5 matches the,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"static out-star support 𝑆1 = (0 → 1,0 → 2), per-edge token sched-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"ule, and round depth, controller-induced top-2 routing coincides",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"with 𝑆1 on 100% of rounds (91.0% accuracy), while adaptive stop-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,ping delivers the 69.6% token reduction (46 → 14 tokens) and +2.0,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"point accuracy lift (93.0%). Likewise, in open-book Web QA (W3),",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,consensus stopping delivers 38.6–40.4% communication reductions,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,while improving or preserving 𝐹1 across both retrieval regimes. To-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"paring closed-book math reasoning (GSM8K, AQuA-RAT), closed-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"book multi-hop QA (HotpotQA P1), and open-book Web candidate",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,retrieval (HotpotQA W1–W4) reveals a clear mechanism bound-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"(GSM8KandAQuA-RAT),sparsedirectedcommunicationanchored",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,"at the Analytical solver (0 → 1,0 → 2) yields large gains over No-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+9,Comm (+8.53 and +3.94 pp) at a fraction of broadcast cost. When,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"WWW ’27, May 10–14, 2027, Dublin, Ireland Anon.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,driving edge entropy to 2.5840/2.5850 bits. When agents share iden-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"tical retrieved Web passages (W1–W4), expanding retrieval recall",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,(All Candidates vs. Top-Two in W3) and halting on consensus yield,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,the strongest quality-per-token operating points (52.67% 𝐹1 at 56.78,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,9 Limitations and Ethical Considerations,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"Our empirical attribution study focuses on 𝑁 = 3 agents, where all (︁6",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,= 15 directed two-edge supports can be exhaustively enumer-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"3) is outside our primary attribution scope. In P1–P5, communica-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"tokens(˜︃ Vol),whichexcludesthelocal22M-parameterall-MiniLM-L6-v2",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"arately in Table 12). In the saved Web runners (W1–W4), commu-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"nication is recorded via the word-based proxy ˆ︁ 𝑉 (Eq. 5), prompt",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"strings include condition tags, and W4 replays frozen Round-0 pay-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,https://anonymous.4open.science/r/sparsecomm-WWW2027.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,10 Conclusion,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,volume.Throughformalmediationdecompositions(Propositions1–,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"4), 2×2 volume diagnostics (P2/P2b), exhaustive 15-support budget-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"controlledcomparisons(P4),matchedcomponent-isolationcontrols",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"(P5), and open-book Web information-seeking evaluations (W1–",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,"W4), we show that SparseComm cuts inter-agent communication",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+10,by 50–90% while maintaining non-inferior accuracy relative to full,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Signal over Chatter WWW ’27, May 10–14, 2027, Dublin, Ireland",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,[1] A. Colin Cameron and Douglas L. Miller. 2015. A Practitioner’s Guide to Cluster-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Robust Inference. Journal of Human Resources 50, 2 (2015), 317–372.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[2] Chi-Min Chan, Weize Chen, Yusheng Su, Jianxuan Yu, Wei Xue, Shanghang",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Zhang, Jie Fu, and Zhiyuan Liu. 2023. ChatEval: Towards Better LLM-Based",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Evaluators through Multi-Agent Debate. arXiv:2308.07201.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[3] Weize Chen, Yusheng Su, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chi-Min",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Ruobing Xie, Zhiyuan Liu, Maosong Sun, and Jie Zhou. 2023. AgentVerse:",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Agents. arXiv:2308.10848.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[4] Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Christopher Hesse, and John Schulman. 2021. Training Verifiers to Solve Math",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Word Problems. arXiv:2110.14168.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[5] Abhishek Das, Théophile Gervet, Joshua Romoff, Dhruv Batra, Devi Parikh, Mike",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Rabbat, and Joelle Pineau. 2019. TarMAC: Targeted Multi-Agent Communication.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,In Proceedings of the 36th International Conference on Machine Learning (ICML).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,1538–1546.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,[6] A. P. Dawid and A. M. Skene. 1979. Maximum Likelihood Estimation of Observer,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Series C (Applied Statistics) 28, 1 (1979), 20–28.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[7] Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, and Igor Mor-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,datch. 2024. Improving Factuality and Reasoning in Language Models through,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Multiagent Debate. In Proceedings of the 41st International Conference on Machine,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Learning (ICML), Vol. 235. PMLR, 11733–11763.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[8] Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, and Shimon Whiteson.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,2016. Learning to Communicate with Deep Multi-Agent Reinforcement Learning.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"In Advances in Neural Information Processing Systems (NeurIPS), Vol. 29.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[9] Dawei Gao, Zitao Li, Xuchen Pan, Weirui Kuang, Zhijian Ma, Bingchen Qian,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Jingren Zhou. 2024. AgentScope: A Flexible yet Robust Multi-Agent Platform.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,arXiv:2402.14034.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,[10] Sture Holm. 1979. A Simple Sequentially Rejective Multiple Test Procedure.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Scandinavian Journal of Statistics 6, 2 (1979), 65–70.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[11] Sirui Hong, Mingchen Zhuge, Jonathan Chen, Xiawu Zheng, Yuheng Cheng,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu, and Jürgen Schmidhuber. 2024.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,[12] HotpotQA.2018. HotpotQAOfficialEvaluationScript:hotpot_evaluate_v1.py.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,https://github.com/hotpotqa/hotpot/blob/master/hotpot_evaluate_v1.py.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[13] Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, and Lili Qiu. 2023.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Models. In Proceedings of the 2023 Conference on Empirical Methods in Natural,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Language Processing (EMNLP). Association for Computational Linguistics, 13358–",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,13376.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,[14] Jiechuan Jiang and Zongqing Lu. 2018. Learning Attentional Communication,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,for Multi-Agent Cooperation. arXiv:1805.07733.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[15] Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Bernard Ghanem. 2023. CAMEL: Communicative Agents for “Mind” Exploration,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Systems (NeurIPS), Vol. 36.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[16] Shiyuan Li, Yixin Liu, Qingsong Wen, Chengqi Zhang, and Shirui Pan. 2026.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Artificial Intelligence, Vol. 40. 23142–23150.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[17] Tian Liang, Zhiwei He, Wenxiang Jiao, Xing Wang, Yan Wang, Rui Wang, Yujiu",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Yang, Shuming Shi, and Zhaopeng Tu. 2024. Encouraging Divergent Thinking",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,2024 Conference on Empirical Methods in Natural Language Processing (EMNLP).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Association for Computational Linguistics, 17889–17904.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[18] Wang Ling, Dani Yogatama, Chris Dyer, and Phil Blunsom. 2017. Program",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Word Problems. In Proceedings of the 55th Annual Meeting of the Association,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,158–167.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[19] Yexiang Liu, Jie Cao, Zekun Li, Ran He, and Tieniu Tan. 2025. Breaking Mental",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,[20] OpenAI. 2025. gpt-oss-120b & gpt-oss-20b Model Card. OpenAI Technical,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[21] Zhuoshi Pan, Qianhui Wu, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,and Dongmei Zhang. 2024. LLMLingua-2: Data Distillation for Efficient and,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Computational Linguistics: ACL 2024. Association for Computational Linguistics,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,963–981.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,[22] Judea Pearl. 2001. Direct and Indirect Effects. In Proceedings of the Seventeenth,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Conference on Uncertainty in Artificial Intelligence (UAI). 411–420.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,[23] John C. Platt. 1999. Probabilistic Outputs for Support Vector Machines and,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Classifiers. MIT Press, 61–74.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[24] Chen Qian, Wei Liu, Hongzhang Liu, Nuo Chen, Yufan Dang, Jiahao Li, Cheng",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,MaosongSun.2024. ChatDev:CommunicativeAgentsforSoftwareDevelopment.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,In Proceedings of the 62nd Annual Meeting of the Association for Computational,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Linguistics (ACL). Association for Computational Linguistics, 15174–15186.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,[25] James M. Robins and Sander Greenland. 1992. Identifiability and Exchangeability,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"for Direct and Indirect Effects. Epidemiology 3, 2 (1992), 143–155.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[26] John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,2017. Proximal Policy Optimization Algorithms. arXiv:1707.06347.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[27] Xu Shen, Yixin Liu, Yiwei Dai, Yili Wang, Rui Miao, Yue Tan, Shirui Pan, and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Xin Wang. 2025. Understanding the Information Propagation Effects of Commu-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,2025 Conference on Empirical Methods in Natural Language Processing (EMNLP).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Association for Computational Linguistics, 12347–12361.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[28] Amanpreet Singh, Tushar Jain, and Sainbayar Sukhbaatar. 2019. Individual-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[29] Sainbayar Sukhbaatar, Arthur Szlam, and Rob Fergus. 2016. Learning Multiagent",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Communication with Backpropagation. arXiv:1605.07736.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,[30] TylerJ.VanderWeele.2015. ExplanationinCausalInference:MethodsforMediation,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[31] Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Aakanksha Chowdhery, and Denny Zhou. 2023. Self-Consistency Improves",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Chain of Thought Reasoning in Language Models. arXiv:2203.11171.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[32] Zhexuan Wang, Yutong Wang, Xuebo Liu, Liang Ding, Miao Zhang, Jie Liu, and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,MinZhang.2025. AgentDropout:DynamicAgentEliminationforToken-Efficient,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,the 63rd Annual Meeting of the Association for Computational Linguistics (ACL).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Association for Computational Linguistics, 24013–24035.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[33] Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Xia, Ed H. Chi, Quoc V. Le, and Denny Zhou. 2022. Chain-of-Thought Prompting",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[34] Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu, Li",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Ryen W. White, Doug Burger, and Chi Wang. 2024. AutoGen: Enabling Next-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[35] Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William Cohen, Rus-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"lan Salakhutdinov, and Christopher D. Manning. 2018. HotpotQA: A Dataset",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,2018 Conference on Empirical Methods in Natural Language Processing (EMNLP).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Association for Computational Linguistics, 2369–2380.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[36] Guibin Zhang, Yanwei Yue, Zhixun Li, Sukwon Yun, Guancheng Wan, Kun",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Wang, Dawei Cheng, Jeffrey Xu Yu, and Tianlong Chen. 2025. Cut the Crap: An",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[37] Guibin Zhang, Yanwei Yue, Xiangguo Sun, Guancheng Wan, Miao Yu, Junfeng",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Fang, Kun Wang, Tianlong Chen, and Dawei Cheng. 2025. G-Designer: Archi-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Proceedings of the 42nd International Conference on Machine Learning (ICML).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[38] Mingchen Zhuge, Wenyi Wang, Louis Kirsch, Francesco Faccio, Dmitrii",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Khizbullin, and Jürgen Schmidhuber. 2024. GPTSwarm: Language Agents as Op-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,timizable Graphs. In Proceedings of the 41st International Conference on Machine,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Learning (ICML), Vol. 235. PMLR, 62743–62767.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"[39] Günter M. Ziegler. 1995. Lectures on Polytopes. Graduate Texts in Mathematics,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,Vol. 152. Springer.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"O = {(𝑖, 𝑗) : 𝑖 ≠ 𝑗} and 𝐴𝑖𝑖 = 𝐵𝑖𝑖 = 0, equipped with inner product",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"𝑖≠𝑗 𝑋𝑖𝑗𝑌𝑖𝑗 and ℓ1 norm ∥B∥1,off =",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"Proof of Proposition 1. Let T = {(𝑖, 𝑗) ∈ O : 𝐴𝑖𝑗 = 1} and",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+11,"A ∈ {0,1}O is binary, A ⊙ A = A, so P2",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"WWW ’27, May 10–14, 2027, Dublin, Ireland Anon.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"0 ∀(𝑖, 𝑗) ∉ T}. For B ≥ 0, Vol(A,B) = ∥PAB∥1,off =",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"𝑖≠𝑗 𝐵𝑖𝑗 = ∥B∥1,off, with equality iff supp(B) ⊆ T. □",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"Proof of Proposition 2. AddingandsubtractingE[𝑌(𝑐,1,𝑉 (𝑐,0))]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"inside𝛽𝑇 (𝑐) = E[𝑌(𝑐,1,𝑉 (𝑐,1))−𝑌(𝑐,0,𝑉 (𝑐,0))] yieldsΔroute(𝑐) =",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"E[𝑌(𝑐,1,𝑉 (𝑐,0))−𝑌(𝑐,0,𝑉 (𝑐,0))] andΔvolume(𝑐) = E[𝑌(𝑐,1,𝑉 (𝑐,1))−",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"𝑌(𝑐,1,𝑉 (𝑐,0))],thenaturaldirectandindirecteffectsof𝑇 mediated",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"by 𝑉 [22, 25, 30]. By Eq. (1), Vol′",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,which is non-zero in general (confirmed empirically in Table 9). □,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,Proof of Proposition 3. Δ¯ 𝑉 = {M ∈ RO,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,≥0 :,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,thestandardsimplexscaledby ¯ 𝑉 ofdimension𝑁(𝑁−1)−1.Zeroing,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,𝐹T = Δ¯ 𝑉 ∩𝑉T is a proper face of Δ¯ 𝑉 [39]. Every M ∈ 𝐹T satisfies,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"Vol(M) = ¯ 𝑉, so𝑉 = ¯ 𝑉 is constant across arms and Δvolume = 0. □",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"Proof of Proposition 4. DecomposeE[𝑌(𝑐,𝑡,𝑣𝑡)]−E[𝑌(𝑐,𝑡′,𝑣𝑡′)] =",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,𝑅 = 0. □,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,Table 7: Positioning by primary mechanism as described in,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,MAD [7] – – ✓ –,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,GPTSwarm [38] ✓ – – –,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,G-Designer [37] ✓ – – –,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,ARG-Designer [16] ✓ – – –,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,AgentPrune [36] ✓ ✓ – –,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,AgentDropout [32] ✓ – ✓ –,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,Algorithm 1 summarizes a SparseComm deliberation episode. If 𝑘,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"confidence 𝑝maj ← max(𝑝maj,𝑝base) ∈ [𝛿,1 − 𝛿] (𝛿 = 10−6), the",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,1 − 𝑝maj,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,1 − 𝑝base,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,. (10),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"ˆ 𝐴𝑟,clip(𝜌𝑟,1−",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"𝜖,1+𝜖) ˆ 𝐴𝑟)]−𝑐𝑣L𝑣+𝑐𝑒H,withpersistenceandKLroutingpenalties:",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,𝑁(𝑁 − 1),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,𝑖𝑗 𝑊 (𝑟−1),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,𝑁(𝑁 − 1),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,𝑖𝑗 ) ∥ Bern(𝑝0),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,(11),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,Algorithm 1: SparseComm Multi-Agent Deliberation Episode,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"Input: Question 𝑞, agents 1,. . .,𝑁, max rounds𝑇, frozen 𝑠acc",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"1: Each agent 𝑖 ∈ {1,. . .,𝑁 } generates initial trace and confidence (𝑚",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,(0),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,(0),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"2: for round 𝑟 = 1,. ..,𝑇 do",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"3: Construct 20-D state s𝑟 from disagreement, overlap, diversity, confidences,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"W(𝑟−1), 𝑟/𝑇, and 𝑠acc.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"4: Actor emits H𝑠,H𝑑,Q,𝑧𝑟 ; compute W(𝑟) = 𝜎(H𝑠H⊤",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,+ 0.5) with𝑊,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,𝑖𝑖 = 0,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,(Eq. 6).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,5: Filter each sender’s trace on active channels via MiniLM retention (Eq. 7) or,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,6: Each recipient 𝑗 revises (𝑚,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,7: if 𝑧𝑟 > 0 or 𝑆 > 𝜏halt then break,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,8: end for; return MAP consensus answer ˆ 𝑦𝑞 via Eq. (9).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,Table 8: Protocol P1b: Full paired per-question accuracy dif-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"ferences (percentage points), 95% BCa bootstrap intervals",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"(𝐵 = 10,000), and one-sided non-inferiority 𝑝-values against",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,𝐻0 : Δ ≤ −𝛿. Bold denotes non-inferiority at 𝛼 = 0.05.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,Dataset Contrast 𝑛 Δ̂ (95% BCa CI) 3 5 10,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"GSM8K SparseComm − MAD 551 −1.09 [−3.81,+1.27] .069 .002 < .001",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"SparseComm − NoComm 551 +8.53 [+4.90,+11.80] — — —",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"AQuA-RAT SparseComm − MAD 254 −0.39 [−2.64,+0.39] .001 < .001 < .001",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"SparseComm − NoComm 254 +3.94 [+1.57,+6.69] — — —",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"HotpotQA SparseComm − MAD 863 −2.43 [−4.17,−1.04] .247 .001 < .0012",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"(Closed) SparseComm − NoComm 863 +1.51 [−0.35,+3.24] — — —",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,Tables (P2–P4),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"Tables 9–12 report the P2b volume audit, P2 per-scale factorial re-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"gressions, P4 exhaustive 15-support enumeration, P4 multi-seed",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"PPOrobustness,andP3fixedgraphmotifcomparisons.Fullrole/root",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"permutation tables (6 matched swaps, max |Δ0−2| = 0.67 pp, all Mc-",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,Nemar 𝑝 = 1.000) and P4 shortfall sensitivity audits (≤ 0.33 pp,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,residual under Prop. 4) are provided in the anonymous repository.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,Table 9: Protocol P2b: Mean realized (˜︃ Vol) and unfiltered full-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,trace (Volfull) volume per question (tokens) across the 2 × 2,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"factorial arms (150-question pool, 400-sample controller).",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,00 Fixed support / Full messages 366 653,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,01 Learned routing / Full messages 109 176,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,10 Fixed support / Filtered messages 344 609,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,11 Learned routing / Filtered (SparseComm) 59 187,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,Figure 5 shows pretraining convergence (𝑠acc) across dataset sizes,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"𝑛train ∈ {100,200,300,400}.Inround-1non-unanimoussteps(𝑁valid =",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"1,185), the highest outgoing intensity agent is Analytical on 97.89%",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"of GSM8K samples, Creative on 58.46% of AQuA-RAT samples",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+12,"(27.69% Analytical), and Step-by-Step on 100.00% of closed-book",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"Signal over Chatter WWW ’27, May 10–14, 2027, Dublin, Ireland",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,100 200 300 400,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,GSM8K (Rapid Convergence),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Figure5:Pretrainingaccuracy(𝑠acc)acrossdatasetsizes𝑛train ∈,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"{100,200,300,400} for GSM8K, AQuA-RAT, and HotpotQA.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"Table 14: Controller, PPO optimization, and Web evaluation",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"Backbone LLM / decoding gpt-oss-120b, temp = 0, top-𝑝 = 1.0, cap = 512",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Outer passes / PPO inner epochs / clip 𝜖 5 / 3 / 0.2 (batch size 16),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,GAE 𝜆 / discount𝛾 / entropy 𝑐𝑒 0.95 / 0.99 / 0.01,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Actor & critic hidden / state / action dim 2 × 64 / 20 (𝑁 = 3) / 61 (6 + 6 + 48 + 1),MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"Edge-factor rank / bias / log-scale clip 2 / +0.5 / [−2,0.5]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Optimizer / LR / grad clip AdamW / 10−3 / 1.0,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,𝜆info / 𝜆KL /𝛾persist / prior 𝑝0 0.3 / 0.01 / 0.1 / 0.1,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"Halting threshold 𝜏halt (P1–P5 / W3) log19 / log4 (BM25 𝑘1 = 1.5,𝑏 = 0.75)",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"Bootstrap replicates 𝐵 / seed 10,000 / 20261013",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Table 10: Protocol P2: Saturated 2 × 2 linear probability fits,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"on GSM8K across training scales 𝑛train ∈ {100,200,300,400}.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Standard errors are CR1 clustered by question; 𝑝Holm adjusts,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,across all 12 non-intercept tests.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,𝑛train Effect ˆ 𝛽 CR1 SE Unadjusted 𝑝 𝑝Holm,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,100 Intercept (𝛽0) / Compr. (𝛽𝐶) 0.580/0.050 0.050/0.056 < .001/.374 − − −/1.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Routing (𝛽𝑇 ) / Inter. (𝛽𝐶𝑇 ) 0.080/−0.060 0.058/0.079 .173/.451 1.00/1.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,200 Intercept (𝛽0) / Compr. (𝛽𝐶) 0.980/−0.080 0.020/0.049 < .001/.106 − − −/1.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Routing (𝛽𝑇 ) / Inter. (𝛽𝐶𝑇 ) −0.060/0.140 0.045/0.064 .186/.035 1.00/.416,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,300 Intercept (𝛽0) / Compr. (𝛽𝐶) 0.960/−0.040 0.028/0.050 < .001/.423 − − −/1.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Routing (𝛽𝑇 ) / Inter. (𝛽𝐶𝑇 ) −0.020/0.020 0.045/0.079 .662/.801 1.00/1.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,400 Intercept (𝛽0) / Compr. (𝛽𝐶) 0.920/0.040 0.039/0.050 < .001/.423 − − −/1.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Routing (𝛽𝑇 ) / Inter. (𝛽𝐶𝑇 ) 0.040/−0.100 0.040/0.059 .326/.098 1.00/1.00,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Table 11: Protocol P4: Exhaustive enumeration of all 15 di-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,rected two-edge supports on 𝑁 = 3 agents over 150 matched,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,GSM8K questions (accuracy % with 95% Wilson CIs). Mo-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"tif class means: Out-stars 75.56/78.22%, In-stars 75.78/78.44%,",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"Dyads 76.22/79.78%, Relays 75.67/79.56%.",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,ID Directed Support Motif Class Cap ¯ 𝑉 = 50 Cap ¯ 𝑉 = 100,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S01 0 → 1, 0 → 2 Out-star 73.33 [65.7,79.8] 76.67 [69.3,82.7]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S02 0 → 1, 1 → 0 Reciprocal dyad 76.67 [69.3,82.7] 80.67 [73.6,86.2]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S03 0 → 1, 1 → 2 Relay path 78.00 [70.7,83.9] 82.00 [75.1,87.3]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S04 0 → 1, 2 → 0 Relay path 73.33 [65.7,79.8] 76.00 [68.6,82.1]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S05 0 → 1, 2 → 1 In-star 73.33 [65.7,79.8] 75.33 [67.9,81.5]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S06 0 → 2, 1 → 0 Relay path 76.67 [69.3,82.7] 82.00 [75.1,87.3]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S07 0 → 2, 1 → 2 In-star 78.67 [71.4,84.5] 82.00 [75.1,87.3]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S08 0 → 2, 2 → 0 Reciprocal dyad 73.33 [65.7,79.8] 77.33 [70.0,83.3]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S09 0 → 2, 2 → 1 Relay path 73.33 [65.7,79.8] 77.33 [70.0,83.3]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S10 1 → 0, 1 → 2 Out-star 80.00 [72.9,85.6] 82.67 [75.8,87.9]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S11 1 → 0, 2 → 0 In-star 75.33 [67.9,81.5] 78.00 [70.7,83.9]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S12 1 → 0, 2 → 1 Relay path 74.00 [66.4,80.4] 77.33 [70.0,83.3]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S13 1 → 2, 2 → 0 Relay path 78.67 [71.4,84.5] 82.67 [75.8,87.9]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S14 1 → 2, 2 → 1 Reciprocal dyad 78.67 [71.4,84.5] 81.33 [74.3,86.8]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"S15 2 → 0, 2 → 1 Out-star 73.33 [65.7,79.8] 75.33 [67.9,81.5]",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Mean All 15 Static Supports Overall ± s.d. 75.78 ± 2.43 79.11 ± 2.74,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"PPO 5 Seeds (90.7,90.0,90.7,94.7,93.3%) ¯ 𝑉 = 50 (˜︃ Vol = 15.1) 91.87 ± 1.81 —",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"PPO 5 Seeds (92.7,92.0,90.0,94.0,91.3%) ¯ 𝑉 = 100 (˜︃ Vol = 31.5) — 92.00 ± 1.33",MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Table 12: Protocol P3: Learned policy vs. six fixed graph mo-,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,tifs on 150 GSM8K questions (400-sample controller).,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Fully connected 98.67 ± 1.8 304.8 3828.0 4132.8,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Small world 96.00 ± 3.1 292.9 3810.8 4103.7,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Ring 95.33 ± 3.4 337.0 4050.8 4387.7,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Learned (SparseComm) 95.33 ± 3.4 51.1 2384.6 2435.7,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Star 94.67 ± 3.6 203.9 3776.1 3980.0,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Random 94.67 ± 3.6 191.4 3574.9 3766.3,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Scale-free 92.67 ± 4.2 192.6 3612.7 3805.2,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,HotpotQA samples. Tables 13 and 14 summarize W3 stopping depth,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Table 13: Protocol W3 executed-depth distribution (question,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,counts out of 100) and W4 complete-graph references.,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,W3 Evidence Pool / Rule Round 1 Round 2 Round 3 Early Exit Rate,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,Top-two / fixed vs. adaptive 0/53 0/12 100/35 0% / 65%,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,All candidates / fixed vs. adaptive 0/54 0/17 100/29 0% / 71%,MANUSCRIPT_REPORTED_NOT_REVALIDATED
+13,"W4 Complete-Graph References: Divided allowance: 30.00% EM, 41.67% 𝐹1, ˆ︁ 𝑉 = 20.88; 50-unit cap: 28.00% EM, 45.54% 𝐹1, ˆ︁ 𝑉 = 167.52.",MANUSCRIPT_REPORTED_NOT_REVALIDATED

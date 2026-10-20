@@ -1,0 +1,6 @@
+{
+  "lean_toolchain": "leanprover/lean4:v4.16.0",
+  "lakefile_toml": "name = \"who_gets_last_word\"\nversion = \"0.1.0\"\ndefaultTargets = [\"WhoGetsLastWord\"]\n\n[leanOptions]\npp.unicode.fun = true\nautoImplicit = false\nrelaxedAutoImplicit = false\n\n[[lean_lib]]\nname = \"WhoGetsLastWord\"\n",
+  "command": "python evaluation/verify_formal.py",
+  "scope": "Checks encoded assumptions and finite/discrete theorems; does not prove empirical model determinism or a continuous-distribution limit theorem."
+}

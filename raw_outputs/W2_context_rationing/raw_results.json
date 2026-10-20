@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "5ae61dce5542992663a4f262",
+    "question": "What role did Julianne Moore play in the 2002 Oscar winning movie?",
+    "gold_answer": "emotionally troubled women",
+    "Full_Transmission": {
+      "answer": "Virginia Woolf",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 24,
+      "latency_sec": 7.525
+    },
+    "Semantic_Rationing": {
+      "answer": "Virginia Woolf",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 24,
+      "latency_sec": 5.298
+    },
+    "Random_Truncation": {
+      "answer": "Virginia Woolf",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 24,
+      "latency_sec": 4.77
+    }
+  },
+  {
+    "id": "5ae0cf8355429945ae959464",
+    "question": "Ben Folds and Nic Offer are both considered to be which type of artists?",
+    "gold_answer": "musician",
+    "Full_Transmission": {
+      "answer": "musicians",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 49,
+      "latency_sec": 6.892
+    },
+    "Semantic_Rationing": {
+      "answer": "musicians",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 49,
+      "latency_sec": 12.538
+    },
+    "Random_Truncation": {
+      "answer": "We need to retrieve web evidence for Nic Offer.",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 49,
+      "latency_sec": 8.009
+    }
+  },
+  {
+    "id": "5ac3a4ab5542993915413870",
+    "question": "Are both Days of the New and TV on the Radio from New York?",
+    "gold_answer": "no",
+    "Full_Transmission": {
+      "answer": "No",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 21,
+      "latency_sec": 4.658
+    },
+    "Semantic_Rationing": {
+      "answer": "No",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 21,
+      "latency_sec": 5.314
+    },
+    "Random_Truncation": {
+      "answer": "No",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 21,
+      "latency_sec": 6.098
+    }
+  },
+  {
+    "id": "5a83d7d05542992ef85e237a",
+    "question": "What is the name of the statue whose replica have been created in many landmarks world-wide such as near Pont de Grenelle in Paris?",
+    "gold_answer": "Liberty Enlightening the World",
+    "Full_Transmission": {
+      "answer": "Statue of Liberty",
+      "is_em": false,
+      "f1": 0.3333333333333333,
+      "comm_tokens": 60,
+      "latency_sec": 3.566
+    },
+    "Semantic_Rationing": {
+      "answer": "Statue of Liberty",
+      "is_em": false,
+      "f1": 0.3333333333333333,
+      "comm_tokens": 60,
+      "latency_sec": 5.537
+    },
+    "Random_Truncation": {
+      "answer": "Statue of Liberty",
+      "is_em": false,
+      "f1": 0.3333333333333333,
+      "comm_tokens": 60,
+      "latency_sec": 4.059
+    }
+  },
+  {
+    "id": "5ae0d52e554299603e418469",
+    "question": "The actress that played the leading role in the independent film \"A Perfect Ending\" also stars with John Bregar in a 2008 film directed by who?",
+    "gold_answer": "Douglas Jackson",
+    "Full_Transmission": {
+      "answer": "Douglas Jackson",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 108,
+      "latency_sec": 4.909
+    },
+    "Semantic_Rationing": {
+      "answer": "Douglas Jackson",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 108,
+      "latency_sec": 4.431
+    },
+    "Random_Truncation": {
+      "answer": "Douglas Jackson",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 108,
+      "latency_sec": 5.695
+    }
+  },
+  {
+    "id": "5a75e62f5542992d0ec06013",
+    "question": "Johnny Mathis: Wonderful Wonderful aired at what luxury hotel, casino and spa resort located in Atlantic City, New Jersey?",
+    "gold_answer": "Tropicana Casino & Resort",
+    "Full_Transmission": {
+      "answer": "Tropicana Casino & Resort Atlantic City",
+      "is_em": true,
+      "f1": 0.7499999999999999,
+      "comm_tokens": 106,
+      "latency_sec": 4.443
+    },
+    "Semantic_Rationing": {
+      "answer": "Tropicana Casino & Resort Atlantic City",
+      "is_em": true,
+      "f1": 0.7499999999999999,
+      "comm_tokens": 106,
+      "latency_sec": 4.298
+    },
+    "Random_Truncation": {
+      "answer": "Tropicana Casino & Resort Atlantic City",
+      "is_em": true,
+      "f1": 0.7499999999999999,
+      "comm_tokens": 106,
+      "latency_sec": 3.676
+    }
+  },
+  {
+    "id": "5add84a15542997545bbbd5e",
+    "question": "What type of movies are 101 Dalmatians and G-Force?",
+    "gold_answer": "American family comedy adventure",
+    "Full_Transmission": {
+      "answer": "family adventure movies",
+      "is_em": true,
+      "f1": 0.5714285714285715,
+      "comm_tokens": 193,
+      "latency_sec": 5.316
+    },
+    "Semantic_Rationing": {
+      "answer": "family adventure movies",
+      "is_em": true,
+      "f1": 0.5714285714285715,
+      "comm_tokens": 49,
+      "latency_sec": 6.358
+    },
+    "Random_Truncation": {
+      "answer": "family adventure movies",
+      "is_em": true,
+      "f1": 0.5714285714285715,
+      "comm_tokens": 109,
+      "latency_sec": 4.844
+    }
+  },
+  {
+    "id": "5ae73eca5542991e8301cc37",
+    "question": "What other notable role did the star actor from Jeremy perform? ",
+    "gold_answer": "the voice of The Beast",
+    "Full_Transmission": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 0,
+      "latency_sec": 0.0
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 0,
+      "latency_sec": 0.0
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 0,
+      "latency_sec": 0.0
+    }
+  },
+  {
+    "id": "5ae123875542997b2ef7d0fa",
+    "question": "The 2003 South Australian National Football League Grand Final saw the Central District Bulldogs defeat a football club whose home base is currently known as what?",
+    "gold_answer": "City Mazda Stadium",
+    "Full_Transmission": {
+      "answer": "We need to browse.",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 29,
+      "latency_sec": 5.809
+    },
+    "Semantic_Rationing": {
+      "answer": "Richmond Oval",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 16,
+      "latency_sec": 4.232
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 22,
+      "latency_sec": 5.7
+    }
+  },
+  {
+    "id": "5ae4d8475542993aec5ec0e0",
+    "question": "Repertoire of Plácido Domingo appeared in an opera written by whom which was based on a play by William Shakespeare?",
+    "gold_answer": "Giuseppe Verdi",
+    "Full_Transmission": {
+      "answer": "Jeremy Sams",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 90,
+      "latency_sec": 4.095
+    },
+    "Semantic_Rationing": {
+      "answer": "Jeremy Sams",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 90,
+      "latency_sec": 3.641
+    },
+    "Random_Truncation": {
+      "answer": "Jeremy Sams",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 90,
+      "latency_sec": 3.762
+    }
+  },
+  {
+    "id": "5ac0e064554299012d1db64e",
+    "question": "the municipality of Mirditë is in a country that had how many inhabitants in 2016 ?",
+    "gold_answer": "almost 3 million",
+    "Full_Transmission": {
+      "answer": "2,886,000",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 57,
+      "latency_sec": 5.818
+    },
+    "Semantic_Rationing": {
+      "answer": "2,886,000",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 57,
+      "latency_sec": 5.274
+    },
+    "Random_Truncation": {
+      "answer": "2,886,000",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 59,
+      "latency_sec": 4.656
+    }
+  },
+  {
+    "id": "5abe3f3455429976d4830aa8",
+    "question": "What company started the urban complex development that included the highrise building, The Harmon?",
+    "gold_answer": "MGM Resorts International",
+    "Full_Transmission": {
+      "answer": "MGM Resorts International (formerly MGM Mirage)",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 40,
+      "latency_sec": 4.123
+    },
+    "Semantic_Rationing": {
+      "answer": "MGM Resorts International (formerly MGM Mirage)",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 40,
+      "latency_sec": 5.776
+    },
+    "Random_Truncation": {
+      "answer": "MGM Resorts International (formerly MGM Mirage)",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 36,
+      "latency_sec": 5.47
+    }
+  },
+  {
+    "id": "5a74c85055429916b0164218",
+    "question": "Born on 6 March 1937, this man was also a citizen of the United Kingdom.",
+    "gold_answer": "Alistair Grant",
+    "Full_Transmission": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 279,
+      "latency_sec": 6.417
+    },
+    "Semantic_Rationing": {
+      "answer": "Arild Nyquist",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 75,
+      "latency_sec": 6.018
+    },
+    "Random_Truncation": {
+      "answer": "Arild Nyquist",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 112,
+      "latency_sec": 6.586
+    }
+  },
+  {
+    "id": "5a7326cd5542991f29ee2d11",
+    "question": "In the television series Green Hornet, which actor played the role of Kato?",
+    "gold_answer": "Bruce Lee",
+    "Full_Transmission": {
+      "answer": "Bruce Lee",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 52,
+      "latency_sec": 4.19
+    },
+    "Semantic_Rationing": {
+      "answer": "Bruce Lee",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 52,
+      "latency_sec": 4.212
+    },
+    "Random_Truncation": {
+      "answer": "Bruce Lee",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 52,
+      "latency_sec": 3.791
+    }
+  },
+  {
+    "id": "5a86ea445542994775f60780",
+    "question": "When was the female character that on June 9, 2015 was promoted to a series regular first introduced on \"Once Upon a Time\"?",
+    "gold_answer": "the second half of the third season",
+    "Full_Transmission": {
+      "answer": "In the second half of the third season of Once Upon a Time",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 40,
+      "latency_sec": 2.04
+    },
+    "Semantic_Rationing": {
+      "answer": "In the second half of the third season of Once Upon a Time",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 40,
+      "latency_sec": 2.637
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 40,
+      "latency_sec": 2.37
+    }
+  },
+  {
+    "id": "5a8b99c355429950cd6afd28",
+    "question": "The La Senza brand is currently owned by a fashion retailer based in what Ohio city?",
+    "gold_answer": "Columbus",
+    "Full_Transmission": {
+      "answer": "Columbus",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 58,
+      "latency_sec": 3.577
+    },
+    "Semantic_Rationing": {
+      "answer": "Columbus",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 58,
+      "latency_sec": 4.816
+    },
+    "Random_Truncation": {
+      "answer": "Columbus",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 58,
+      "latency_sec": 3.548
+    }
+  },
+  {
+    "id": "5a8cea40554299441c6b9f76",
+    "question": "Which mountain is taller, Gasherbrum II or Langtang Ri?",
+    "gold_answer": "Gasherbrum II",
+    "Full_Transmission": {
+      "answer": "Gasherbrum II",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 96,
+      "latency_sec": 2.967
+    },
+    "Semantic_Rationing": {
+      "answer": "Gasherbrum II",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 96,
+      "latency_sec": 3.519
+    },
+    "Random_Truncation": {
+      "answer": "Gasherbrum II",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 96,
+      "latency_sec": 4.309
+    }
+  },
+  {
+    "id": "5ae532e955429908b632656f",
+    "question": "Does the genus Cunninghamia or Chilopsis contain only one species?",
+    "gold_answer": "Chilopsis",
+    "Full_Transmission": {
+      "answer": "Chilopsis contains only one species",
+      "is_em": false,
+      "f1": 0.33333333333333337,
+      "comm_tokens": 20,
+      "latency_sec": 5.428
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 20,
+      "latency_sec": 5.824
+    },
+    "Random_Truncation": {
+      "answer": "No",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 20,
+      "latency_sec": 4.4
+    }
+  },
+  {
+    "id": "5a78e86f55429974737f78fb",
+    "question": "What does the unique calendar system in Japan, who the first Emperor of Japan created, emphasize?",
+    "gold_answer": "the long history of Japan",
+    "Full_Transmission": {
+      "answer": "the long history of Japan and the Imperial dynasty",
+      "is_em": true,
+      "f1": 0.7272727272727273,
+      "comm_tokens": 60,
+      "latency_sec": 3.183
+    },
+    "Semantic_Rationing": {
+      "answer": "the long history of Japan and the Imperial dynasty",
+      "is_em": true,
+      "f1": 0.7272727272727273,
+      "comm_tokens": 60,
+      "latency_sec": 3.371
+    },
+    "Random_Truncation": {
+      "answer": "the long history of Japan and the Imperial dynasty",
+      "is_em": true,
+      "f1": 0.7272727272727273,
+      "comm_tokens": 60,
+      "latency_sec": 3.486
+    }
+  },
+  {
+    "id": "5a7e618155429949594199b0",
+    "question": "New York State Route 9R rejoins its parent in a hamlet located  in what New York County?",
+    "gold_answer": "Albany",
+    "Full_Transmission": {
+      "answer": "Albany County",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 138,
+      "latency_sec": 3.225
+    },
+    "Semantic_Rationing": {
+      "answer": "Albany County",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 112,
+      "latency_sec": 3.051
+    },
+    "Random_Truncation": {
+      "answer": "Albany County",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 108,
+      "latency_sec": 3.199
+    }
+  },
+  {
+    "id": "5a85b2ac5542991dd0999e90",
+    "question": "Brad Budde played professionally for a team in the NFL that was founded in 1960 as the Dallas Texans by who?",
+    "gold_answer": "Lamar Hunt",
+    "Full_Transmission": {
+      "answer": "Lamar Hunt",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 204,
+      "latency_sec": 3.632
+    },
+    "Semantic_Rationing": {
+      "answer": "Lamar Hunt",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 108,
+      "latency_sec": 3.468
+    },
+    "Random_Truncation": {
+      "answer": "Lamar Hunt",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 108,
+      "latency_sec": 3.675
+    }
+  },
+  {
+    "id": "5ae5c8cf554299546bf82f5f",
+    "question": "Fiske O'Hara was born in what city Knox County, Maine, that had a population of 2,297 as of the 2010 census?",
+    "gold_answer": "Rockland",
+    "Full_Transmission": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 0,
+      "latency_sec": 0.0
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 0,
+      "latency_sec": 0.0
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 0,
+      "latency_sec": 0.0
+    }
+  },
+  {
+    "id": "5a7a83b3554299042af8f652",
+    "question": "WHAT WAS THE NAME OF THE BOOK MADE INTO THE 2015 SOUTH KOREAN CRIME THRILLER, THE DEAL, DIRECTED BY SON YONG-HO AND FEATURING SOUTH KOREAN ACTOR PARK SUNG-WOONG (BORN JANUARY 9, 1973) AS A SERIAL KILLER?",
+    "gold_answer": "\"Murder Request\"",
+    "Full_Transmission": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 12,
+      "latency_sec": 3.807
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 12,
+      "latency_sec": 3.48
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 12,
+      "latency_sec": 3.615
+    }
+  },
+  {
+    "id": "5ae5ff635542996de7b71ace",
+    "question": "Chuck Berry House was where the 1957 hit single that reached what ranking on the R&B singles chart was composed?",
+    "gold_answer": "number 8",
+    "Full_Transmission": {
+      "answer": "6",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 84,
+      "latency_sec": 4.66
+    },
+    "Semantic_Rationing": {
+      "answer": "6",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 84,
+      "latency_sec": 3.921
+    },
+    "Random_Truncation": {
+      "answer": "6",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 84,
+      "latency_sec": 4.695
+    }
+  },
+  {
+    "id": "5a8b515e55429971feec46bb",
+    "question": "Which Western action-adventure video game by Rockstar did Tyler Bunch act for?",
+    "gold_answer": "Red Dead Redemption",
+    "Full_Transmission": {
+      "answer": "Red Dead Revolver",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 53,
+      "latency_sec": 3.746
+    },
+    "Semantic_Rationing": {
+      "answer": "Red Dead Revolver",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 60,
+      "latency_sec": 6.81
+    },
+    "Random_Truncation": {
+      "answer": "Red Dead Revolver",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 60,
+      "latency_sec": 5.564
+    }
+  },
+  {
+    "id": "5a8789115542994846c1cd9a",
+    "question": "Imran Khan has worked in what type of films refering to the Pashto Language film industry?",
+    "gold_answer": "Pollywood",
+    "Full_Transmission": {
+      "answer": "Pollywood",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 41,
+      "latency_sec": 4.841
+    },
+    "Semantic_Rationing": {
+      "answer": "Pollywood",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 41,
+      "latency_sec": 5.094
+    },
+    "Random_Truncation": {
+      "answer": "Pollywood",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 41,
+      "latency_sec": 4.42
+    }
+  },
+  {
+    "id": "5ae0039555429942ec259be1",
+    "question": "Between MetroSource and Chicago, which magazine is published more frequently?",
+    "gold_answer": "Chicago",
+    "Full_Transmission": {
+      "answer": "Chicago",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 108,
+      "latency_sec": 5.811
+    },
+    "Semantic_Rationing": {
+      "answer": "Chicago",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 145,
+      "latency_sec": 5.682
+    },
+    "Random_Truncation": {
+      "answer": "MetroSource",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 109,
+      "latency_sec": 6.369
+    }
+  },
+  {
+    "id": "5ae32b6755429928c4239644",
+    "question": "Wendy Ayche was featured in 2016 in an annual production created by Youtube and what other organization?",
+    "gold_answer": "Portal A Interactive",
+    "Full_Transmission": {
+      "answer": "Google",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 54,
+      "latency_sec": 5.133
+    },
+    "Semantic_Rationing": {
+      "answer": "Google",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 54,
+      "latency_sec": 6.959
+    },
+    "Random_Truncation": {
+      "answer": "Google",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 54,
+      "latency_sec": 4.668
+    }
+  },
+  {
+    "id": "5ab58ee6554299488d4d99d6",
+    "question": "What is the birthdate of this American actor, director, and producer, who starred in Not Another B Movie?",
+    "gold_answer": "February 13, 1946",
+    "Full_Transmission": {
+      "answer": "March 20, 1969",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 52,
+      "latency_sec": 5.147
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 54,
+      "latency_sec": 5.316
+    },
+    "Random_Truncation": {
+      "answer": "March 20, 1969",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 52,
+      "latency_sec": 5.035
+    }
+  },
+  {
+    "id": "5a828c8355429966c78a6a50",
+    "question": "Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?",
+    "gold_answer": "Henry J. Kaiser",
+    "Full_Transmission": {
+      "answer": "Henry J. Kaiser",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 278,
+      "latency_sec": 4.615
+    },
+    "Semantic_Rationing": {
+      "answer": "Henry J. Kaiser",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 108,
+      "latency_sec": 5.54
+    },
+    "Random_Truncation": {
+      "answer": "Henry J. Kaiser",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 104,
+      "latency_sec": 4.029
+    }
+  },
+  {
+    "id": "5add64065542995b365fab25",
+    "question": "What do Lavinia Greenlaw and Nâzım Hikmet have in common?",
+    "gold_answer": "poet and novelist",
+    "Full_Transmission": {
+      "answer": "They are both poets",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 54,
+      "latency_sec": 4.919
+    },
+    "Semantic_Rationing": {
+      "answer": "Both are poets",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 56,
+      "latency_sec": 3.213
+    },
+    "Random_Truncation": {
+      "answer": "They are both poets",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 54,
+      "latency_sec": 4.398
+    }
+  },
+  {
+    "id": "5a8eabf755429917b4a5bdaa",
+    "question": "What was the job title of the wife of the director of the film \"Aaina?\"",
+    "gold_answer": "Bollywood playback singer",
+    "Full_Transmission": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 32,
+      "latency_sec": 5.227
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 38,
+      "latency_sec": 7.067
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 32,
+      "latency_sec": 5.406
+    }
+  },
+  {
+    "id": "5a78c7db55429974737f7882",
+    "question": "Who played Selby Wall in the film that Charlize Theron won an Academy Award for?",
+    "gold_answer": "Christina Ricci",
+    "Full_Transmission": {
+      "answer": "Christina Ricci",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 74,
+      "latency_sec": 4.43
+    },
+    "Semantic_Rationing": {
+      "answer": "Christina Ricci",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 74,
+      "latency_sec": 3.359
+    },
+    "Random_Truncation": {
+      "answer": "Christina Ricci",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 74,
+      "latency_sec": 4.51
+    }
+  },
+  {
+    "id": "5a78f59755429970f5fffdf8",
+    "question": "Who can play more instruments, Michael Monroe or Alison Goldfrapp?",
+    "gold_answer": "Michael Monroe",
+    "Full_Transmission": {
+      "answer": "Insufficient information",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 138,
+      "latency_sec": 4.008
+    },
+    "Semantic_Rationing": {
+      "answer": "Insufficient information",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 132,
+      "latency_sec": 4.567
+    },
+    "Random_Truncation": {
+      "answer": "Insufficient information",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 108,
+      "latency_sec": 5.258
+    }
+  },
+  {
+    "id": "5add8f055542990dbb2f7e6d",
+    "question": "Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?",
+    "gold_answer": "Rudolf Höss",
+    "Full_Transmission": {
+      "answer": "Kurt Gerstein",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 80,
+      "latency_sec": 5.723
+    },
+    "Semantic_Rationing": {
+      "answer": "Kurt Gerstein",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 80,
+      "latency_sec": 4.494
+    },
+    "Random_Truncation": {
+      "answer": "Kurt Gerstein",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 80,
+      "latency_sec": 4.988
+    }
+  },
+  {
+    "id": "5ae2d8fb55429928c42394fa",
+    "question": "Who was the base where the 413th Flight Test Group is stationed named after?",
+    "gold_answer": "Brig Gen Augustine Warner Robins",
+    "Full_Transmission": {
+      "answer": "Augustine Warner Robins",
+      "is_em": true,
+      "f1": 0.7499999999999999,
+      "comm_tokens": 136,
+      "latency_sec": 3.514
+    },
+    "Semantic_Rationing": {
+      "answer": "Augustine Warner Robins",
+      "is_em": true,
+      "f1": 0.7499999999999999,
+      "comm_tokens": 84,
+      "latency_sec": 4.43
+    },
+    "Random_Truncation": {
+      "answer": "General Augustine Warner Robins",
+      "is_em": true,
+      "f1": 0.6666666666666665,
+      "comm_tokens": 112,
+      "latency_sec": 4.508
+    }
+  },
+  {
+    "id": "5ae113de55429901ffe4ad51",
+    "question": "Berthold Louis Ullman died in a country that is approximately how many acres?",
+    "gold_answer": "110",
+    "Full_Transmission": {
+      "answer": "110 acres",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 53,
+      "latency_sec": 3.738
+    },
+    "Semantic_Rationing": {
+      "answer": "110 acres",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 53,
+      "latency_sec": 3.592
+    },
+    "Random_Truncation": {
+      "answer": "110 acres",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 53,
+      "latency_sec": 3.862
+    }
+  },
+  {
+    "id": "5a78e3b955429974737f78f1",
+    "question": "Who was born first, Javier Frana or Sherwood Stewart?",
+    "gold_answer": "Sherwood Stewart",
+    "Full_Transmission": {
+      "answer": "Sherwood Stewart",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 94,
+      "latency_sec": 4.181
+    },
+    "Semantic_Rationing": {
+      "answer": "Sherwood Stewart",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 94,
+      "latency_sec": 3.985
+    },
+    "Random_Truncation": {
+      "answer": "Sherwood Stewart",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 94,
+      "latency_sec": 4.196
+    }
+  },
+  {
+    "id": "5abcfd7e5542993a06baf9df",
+    "question": "Igor Naming Agency named a resort located where?",
+    "gold_answer": "Las Vegas Strip",
+    "Full_Transmission": {
+      "answer": "Las Vegas, Nevada",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 28,
+      "latency_sec": 4.773
+    },
+    "Semantic_Rationing": {
+      "answer": "Las Vegas, Nevada",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 28,
+      "latency_sec": 3.691
+    },
+    "Random_Truncation": {
+      "answer": "Las Vegas, Nevada",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 28,
+      "latency_sec": 4.757
+    }
+  },
+  {
+    "id": "5ae63dad55429929b0807afe",
+    "question": "When was the British author who wrote the novel on which \"Here We Go Round the Mulberry Bush\" was based born? ",
+    "gold_answer": "7 January 1936",
+    "Full_Transmission": {
+      "answer": "16 June 1936",
+      "is_em": false,
+      "f1": 0.3333333333333333,
+      "comm_tokens": 106,
+      "latency_sec": 3.329
+    },
+    "Semantic_Rationing": {
+      "answer": "16 June 1936",
+      "is_em": false,
+      "f1": 0.3333333333333333,
+      "comm_tokens": 140,
+      "latency_sec": 3.843
+    },
+    "Random_Truncation": {
+      "answer": "16 June 1936",
+      "is_em": false,
+      "f1": 0.3333333333333333,
+      "comm_tokens": 106,
+      "latency_sec": 4.044
+    }
+  },
+  {
+    "id": "5a7b7bed5542997c3ec971bc",
+    "question": "The Waterloo Vase has been used as a garden ornament at whose residence and administrative headquarters?",
+    "gold_answer": "reigning monarch of the United Kingdom",
+    "Full_Transmission": {
+      "answer": "Buckingham Palace",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 90,
+      "latency_sec": 4.195
+    },
+    "Semantic_Rationing": {
+      "answer": "Buckingham Palace",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 90,
+      "latency_sec": 4.55
+    },
+    "Random_Truncation": {
+      "answer": "Buckingham Palace",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 90,
+      "latency_sec": 3.247
+    }
+  },
+  {
+    "id": "5ae713af554299572ea546bb",
+    "question": "Where did Mark Pavelich win Gold in 1980?",
+    "gold_answer": "Soviet Union",
+    "Full_Transmission": {
+      "answer": "Lake Placid, New York",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 89,
+      "latency_sec": 5.405
+    },
+    "Semantic_Rationing": {
+      "answer": "Lake Placid, New York",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 89,
+      "latency_sec": 3.49
+    },
+    "Random_Truncation": {
+      "answer": "Lake Placid, New York",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 89,
+      "latency_sec": 3.995
+    }
+  },
+  {
+    "id": "5ae7bdc05542993210983f29",
+    "question": "Which two Swiss attractions were the cause of the \"grand hotels\" in which Jakob Ragaz worked on? ",
+    "gold_answer": "skiing and mountaineering",
+    "Full_Transmission": {
+      "answer": "Search for \"Jakob Ragaz grand hotels Swiss attractions\".",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 32,
+      "latency_sec": 7.09
+    },
+    "Semantic_Rationing": {
+      "answer": "Search for \"Jakob Ragaz grand hotels Swiss attractions\".",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 39,
+      "latency_sec": 6.45
+    },
+    "Random_Truncation": {
+      "answer": "Search for \"Jakob Ragaz grand hotels Swiss attractions\".",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 33,
+      "latency_sec": 5.499
+    }
+  },
+  {
+    "id": "5ab283d9554299449642c8d8",
+    "question": "How close to Louisville was Randal Malone born?",
+    "gold_answer": "107 mi southwest of Louisville",
+    "Full_Transmission": {
+      "answer": "About 115 miles west of Louisville",
+      "is_em": false,
+      "f1": 0.3636363636363636,
+      "comm_tokens": 84,
+      "latency_sec": 4.715
+    },
+    "Semantic_Rationing": {
+      "answer": "Approximately 115 miles west of Louisville",
+      "is_em": false,
+      "f1": 0.3636363636363636,
+      "comm_tokens": 84,
+      "latency_sec": 3.745
+    },
+    "Random_Truncation": {
+      "answer": "About 115 miles west of Louisville",
+      "is_em": false,
+      "f1": 0.3636363636363636,
+      "comm_tokens": 84,
+      "latency_sec": 3.744
+    }
+  },
+  {
+    "id": "5addc2b75542997dc7907017",
+    "question": "The Voyage is a wooden roller coaster located at a theme park divided into how many sections ?",
+    "gold_answer": "four sections",
+    "Full_Transmission": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 10,
+      "latency_sec": 2.788
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 10,
+      "latency_sec": 2.625
+    },
+    "Random_Truncation": {
+      "answer": "four",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 10,
+      "latency_sec": 2.853
+    }
+  },
+  {
+    "id": "5ae5f1a8554299546bf82fd9",
+    "question": "Where is the English punk rock band which Howard Devoto is the original singer of formed",
+    "gold_answer": "in Bolton",
+    "Full_Transmission": {
+      "answer": "Bolton, England",
+      "is_em": true,
+      "f1": 0.5,
+      "comm_tokens": 24,
+      "latency_sec": 5.456
+    },
+    "Semantic_Rationing": {
+      "answer": "Bolton, England",
+      "is_em": true,
+      "f1": 0.5,
+      "comm_tokens": 24,
+      "latency_sec": 5.473
+    },
+    "Random_Truncation": {
+      "answer": "Bolton, England",
+      "is_em": true,
+      "f1": 0.5,
+      "comm_tokens": 24,
+      "latency_sec": 5.725
+    }
+  },
+  {
+    "id": "5a7c8e7955429935c91b521a",
+    "question": "Back Home is a children's historical novel adapted into a TV drama starring what English actress born in 1946?",
+    "gold_answer": "Hayley Catherine Rose Vivien Mills",
+    "Full_Transmission": {
+      "answer": "Hayley Mills",
+      "is_em": true,
+      "f1": 0.5714285714285715,
+      "comm_tokens": 68,
+      "latency_sec": 3.935
+    },
+    "Semantic_Rationing": {
+      "answer": "Hayley Mills",
+      "is_em": true,
+      "f1": 0.5714285714285715,
+      "comm_tokens": 68,
+      "latency_sec": 4.404
+    },
+    "Random_Truncation": {
+      "answer": "Hayley Mills",
+      "is_em": true,
+      "f1": 0.5714285714285715,
+      "comm_tokens": 68,
+      "latency_sec": 3.494
+    }
+  },
+  {
+    "id": "5ab5a7f45542997d4ad1f1a5",
+    "question": "What organization does Sandra Pizzarello and Doctorate have in common?",
+    "gold_answer": "University",
+    "Full_Transmission": {
+      "answer": "University",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 20,
+      "latency_sec": 4.996
+    },
+    "Semantic_Rationing": {
+      "answer": "University",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 20,
+      "latency_sec": 4.408
+    },
+    "Random_Truncation": {
+      "answer": "University",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 20,
+      "latency_sec": 4.403
+    }
+  },
+  {
+    "id": "5ab412da5542996a3a969f15",
+    "question": "How many legs does the animal, in which Karl Kraepelin discusses in \"Scorpiones und Pedipalpi,\" have?",
+    "gold_answer": "eight",
+    "Full_Transmission": {
+      "answer": "Search for scorpion leg count.<|start|>assistant<|channel|>commentary<|message|>{\"query\": \"scorpion number of legs\", \"top_n\": 5, \"source\": \"news\"}<|call|>",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 51,
+      "latency_sec": 3.319
+    },
+    "Semantic_Rationing": {
+      "answer": "Search for scorpion leg count.<|start|>assistant<|channel|>commentary<|message|>{\"query\": \"scorpion number of legs\", \"top_n\": 5, \"source\": \"news\"}<|call|>",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 51,
+      "latency_sec": 3.541
+    },
+    "Random_Truncation": {
+      "answer": "[FAILED]",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 49,
+      "latency_sec": 3.516
+    }
+  },
+  {
+    "id": "5ae5a63c5542992663a4f203",
+    "question": "What is the nickname of the regional dialect from the city from which the English Footballer Tomi Ameobi was born in?",
+    "gold_answer": "Geordie",
+    "Full_Transmission": {
+      "answer": "Geordie",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 20,
+      "latency_sec": 4.488
+    },
+    "Semantic_Rationing": {
+      "answer": "Geordie",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 20,
+      "latency_sec": 3.421
+    },
+    "Random_Truncation": {
+      "answer": "Geordie",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 20,
+      "latency_sec": 4.051
+    }
+  },
+  {
+    "id": "5a8c06bb5542995e66a47530",
+    "question": "Darl Hall and John Oats fifth studio album was released in 1976, which song was the first of their six #1 singles?",
+    "gold_answer": "\"Rich Girl\"",
+    "Full_Transmission": {
+      "answer": "Rich Girl",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 96,
+      "latency_sec": 5.079
+    },
+    "Semantic_Rationing": {
+      "answer": "Rich Girl",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 96,
+      "latency_sec": 3.959
+    },
+    "Random_Truncation": {
+      "answer": "Rich Girl",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 96,
+      "latency_sec": 2.951
+    }
+  },
+  {
+    "id": "5a73520c5542994cef4bc53f",
+    "question": "What is the name the Columbian film loosely based on a story about a dying child's dreams and hope first published in 1845 by Hans Christian Andersen?",
+    "gold_answer": "The Little Match Girl",
+    "Full_Transmission": {
+      "answer": "La niña de los fósforos",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 92,
+      "latency_sec": 4.668
+    },
+    "Semantic_Rationing": {
+      "answer": "La niña de los fósforos",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 92,
+      "latency_sec": 6.771
+    },
+    "Random_Truncation": {
+      "answer": "La niña de los fósforos",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 84,
+      "latency_sec": 4.819
+    }
+  },
+  {
+    "id": "5ae325bd5542991a06ce9936",
+    "question": " Patrol Squadron Four (VP-4) is a U.S. Navy land-based patrol squadron based at a Naval station formerly known as what ?",
+    "gold_answer": "Marine Corps Air Station Kaneohe Bay",
+    "Full_Transmission": {
+      "answer": "Naval Air Station Kaneohe Bay",
+      "is_em": true,
+      "f1": 0.7272727272727272,
+      "comm_tokens": 40,
+      "latency_sec": 4.185
+    },
+    "Semantic_Rationing": {
+      "answer": "Naval Air Station Kaneohe Bay",
+      "is_em": true,
+      "f1": 0.7272727272727272,
+      "comm_tokens": 40,
+      "latency_sec": 5.743
+    },
+    "Random_Truncation": {
+      "answer": "Naval Air Station Kaneohe Bay",
+      "is_em": true,
+      "f1": 0.7272727272727272,
+      "comm_tokens": 40,
+      "latency_sec": 5.353
+    }
+  },
+  {
+    "id": "5a8f44135542992414482a24",
+    "question": "In what county are the Wichita Wild based in?",
+    "gold_answer": "Sedgwick County, Kansas",
+    "Full_Transmission": {
+      "answer": "Sedgwick County",
+      "is_em": true,
+      "f1": 0.8,
+      "comm_tokens": 60,
+      "latency_sec": 3.138
+    },
+    "Semantic_Rationing": {
+      "answer": "Sedgwick County",
+      "is_em": true,
+      "f1": 0.8,
+      "comm_tokens": 60,
+      "latency_sec": 3.384
+    },
+    "Random_Truncation": {
+      "answer": "Sedgwick County",
+      "is_em": true,
+      "f1": 0.8,
+      "comm_tokens": 60,
+      "latency_sec": 4.098
+    }
+  },
+  {
+    "id": "5adff2aa554299603e4183d0",
+    "question": "What career did Markus Feehily and Bobby Fuller have in common?",
+    "gold_answer": "songwriter",
+    "Full_Transmission": {
+      "answer": "singers",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 42,
+      "latency_sec": 4.832
+    },
+    "Semantic_Rationing": {
+      "answer": "singers",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 42,
+      "latency_sec": 5.404
+    },
+    "Random_Truncation": {
+      "answer": "singers",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 42,
+      "latency_sec": 4.21
+    }
+  },
+  {
+    "id": "5a888d535542997e5c09a617",
+    "question": "In what county is The Third Fitzwilliam Meetinghouse located?",
+    "gold_answer": "Cheshire County, New Hampshire",
+    "Full_Transmission": {
+      "answer": "Cheshire County",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 64,
+      "latency_sec": 4.914
+    },
+    "Semantic_Rationing": {
+      "answer": "Cheshire County",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 64,
+      "latency_sec": 5.52
+    },
+    "Random_Truncation": {
+      "answer": "Cheshire County",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 64,
+      "latency_sec": 3.829
+    }
+  },
+  {
+    "id": "5ac2eaab5542990b17b154a4",
+    "question": "Name the movie that was cowritten by Paul Rudd and the director of the 2011 British science fiction horror comedy film written and directed by Joe Cornish and starring John Boyega, Nick Frost, Jodie Whittaker and Luke Treadaway.",
+    "gold_answer": "Ant-Man",
+    "Full_Transmission": {
+      "answer": "Ant‑Man",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 108,
+      "latency_sec": 4.684
+    },
+    "Semantic_Rationing": {
+      "answer": "Ant‑Man",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 108,
+      "latency_sec": 4.797
+    },
+    "Random_Truncation": {
+      "answer": "Ant‑Man",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 108,
+      "latency_sec": 5.226
+    }
+  },
+  {
+    "id": "5a7f39d055429934daa2fd2a",
+    "question": "Which is a comedy film, The Million Dollar Duck or Don Quixote?",
+    "gold_answer": "The Million Dollar Duck",
+    "Full_Transmission": {
+      "answer": "The Million Dollar Duck",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 148,
+      "latency_sec": 4.497
+    },
+    "Semantic_Rationing": {
+      "answer": "The Million Dollar Duck",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 96,
+      "latency_sec": 4.735
+    },
+    "Random_Truncation": {
+      "answer": "The Million Dollar Duck",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 114,
+      "latency_sec": 5.676
+    }
+  },
+  {
+    "id": "5abd580855429924427fcfb8",
+    "question": "Both Dusty Drake and Joe Diffie sing which genre of music?",
+    "gold_answer": "country",
+    "Full_Transmission": {
+      "answer": "country music",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 66,
+      "latency_sec": 4.25
+    },
+    "Semantic_Rationing": {
+      "answer": "country music",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 66,
+      "latency_sec": 4.388
+    },
+    "Random_Truncation": {
+      "answer": "country music",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 66,
+      "latency_sec": 5.012
+    }
+  },
+  {
+    "id": "5adbd68155429947ff173842",
+    "question": "As former head of Orange County Ironworks, what has his hit TLC show called?",
+    "gold_answer": "American Chopper",
+    "Full_Transmission": {
+      "answer": "American Chopper",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 22,
+      "latency_sec": 6.484
+    },
+    "Semantic_Rationing": {
+      "answer": "American Chopper",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 22,
+      "latency_sec": 6.214
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 22,
+      "latency_sec": 7.246
+    }
+  },
+  {
+    "id": "5adcf3e35542994ed6169c3a",
+    "question": "Dean Mills Reservoir is on the slopes of the hill located in what town?",
+    "gold_answer": "Rivington Moor",
+    "Full_Transmission": {
+      "answer": "Bolton",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 76,
+      "latency_sec": 3.808
+    },
+    "Semantic_Rationing": {
+      "answer": "Bolton",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 76,
+      "latency_sec": 3.996
+    },
+    "Random_Truncation": {
+      "answer": "Bolton",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 76,
+      "latency_sec": 3.543
+    }
+  },
+  {
+    "id": "5a8c92dd554299653c1aa0c4",
+    "question": "Did Big Pig or Blur have more members?",
+    "gold_answer": "Big Pig",
+    "Full_Transmission": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 12,
+      "latency_sec": 3.009
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 12,
+      "latency_sec": 3.382
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 12,
+      "latency_sec": 2.97
+    }
+  },
+  {
+    "id": "5a7c80ab55429907fabeefa3",
+    "question": "The Carlsberg Group brews a Belgian beer originally made by monks of what order?",
+    "gold_answer": "Norbertine",
+    "Full_Transmission": {
+      "answer": "Premonstratensian (Norbertine) order",
+      "is_em": true,
+      "f1": 0.5,
+      "comm_tokens": 80,
+      "latency_sec": 4.218
+    },
+    "Semantic_Rationing": {
+      "answer": "Premonstratensian (Norbertine) order",
+      "is_em": true,
+      "f1": 0.5,
+      "comm_tokens": 80,
+      "latency_sec": 3.763
+    },
+    "Random_Truncation": {
+      "answer": "Premonstratensian (Norbertine) order",
+      "is_em": true,
+      "f1": 0.5,
+      "comm_tokens": 80,
+      "latency_sec": 3.581
+    }
+  },
+  {
+    "id": "5adc126f5542996e685252c5",
+    "question": "What part of Australia is Alice River and Rupertswood in?",
+    "gold_answer": "Victoria",
+    "Full_Transmission": {
+      "answer": "North Queensland, Australia",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 66,
+      "latency_sec": 3.891
+    },
+    "Semantic_Rationing": {
+      "answer": "North Queensland, Australia",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 66,
+      "latency_sec": 4.176
+    },
+    "Random_Truncation": {
+      "answer": "North Queensland, Australia",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 66,
+      "latency_sec": 4.355
+    }
+  },
+  {
+    "id": "5a749af055429979e28829b7",
+    "question": "Which Walt Disney film was produced first, The Apple Dumpling Gang or Something Wicked This Way Comes?",
+    "gold_answer": "The Apple Dumpling Gang",
+    "Full_Transmission": {
+      "answer": "The Apple Dumpling Gang",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 82,
+      "latency_sec": 5.947
+    },
+    "Semantic_Rationing": {
+      "answer": "The Apple Dumpling Gang",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 82,
+      "latency_sec": 4.266
+    },
+    "Random_Truncation": {
+      "answer": "The Apple Dumpling Gang",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 82,
+      "latency_sec": 4.004
+    }
+  },
+  {
+    "id": "5a8b78775542997f31a41d3d",
+    "question": "Chimaja Appawas the younger brother of a general of the Maratha Empire in India, who served as what to the fifth Maratha Chhatrapati Shahu from 1720 until his death?",
+    "gold_answer": "\"Peshwa\" (Prime Minister)",
+    "Full_Transmission": {
+      "answer": "Peshwa (Prime Minister)",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 160,
+      "latency_sec": 5.102
+    },
+    "Semantic_Rationing": {
+      "answer": "Peshwa (Prime Minister)",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 114,
+      "latency_sec": 4.754
+    },
+    "Random_Truncation": {
+      "answer": "Peshwa (Prime Minister)",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 110,
+      "latency_sec": 4.709
+    }
+  },
+  {
+    "id": "5a848eff5542990548d0b2cd",
+    "question": "What river has five waterfalls depicted on a state seal?",
+    "gold_answer": "Missouri River",
+    "Full_Transmission": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 0,
+      "latency_sec": 0.0
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 0,
+      "latency_sec": 0.0
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 0,
+      "latency_sec": 0.0
+    }
+  },
+  {
+    "id": "5a73bddb55429978a71e909d",
+    "question": "During the 2009 St. Petersburg Bowl on December 19, 2009, which future Atlanta Falcons wide receiver was the game's MVP?",
+    "gold_answer": "Mohamed Sanu Sr.",
+    "Full_Transmission": {
+      "answer": "Mohamed Sanu",
+      "is_em": true,
+      "f1": 0.8,
+      "comm_tokens": 86,
+      "latency_sec": 4.923
+    },
+    "Semantic_Rationing": {
+      "answer": "Mohamed Sanu",
+      "is_em": true,
+      "f1": 0.8,
+      "comm_tokens": 86,
+      "latency_sec": 6.509
+    },
+    "Random_Truncation": {
+      "answer": "Mohamed Sanu",
+      "is_em": true,
+      "f1": 0.8,
+      "comm_tokens": 86,
+      "latency_sec": 3.689
+    }
+  },
+  {
+    "id": "5abbee315542993f40c73c1d",
+    "question": "Could you read both Bicycling and National Review",
+    "gold_answer": "yes",
+    "Full_Transmission": {
+      "answer": "Only National Review",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 40,
+      "latency_sec": 5.381
+    },
+    "Semantic_Rationing": {
+      "answer": "Only National Review",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 40,
+      "latency_sec": 4.447
+    },
+    "Random_Truncation": {
+      "answer": "Only National Review",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 40,
+      "latency_sec": 4.71
+    }
+  },
+  {
+    "id": "5ae2cda55542992decbdcdb7",
+    "question": "What \"God Gave Me You\" artist wrote the song \"Imagine That\" for Diamond Rio?",
+    "gold_answer": "Bryan Shelton White",
+    "Full_Transmission": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 44,
+      "latency_sec": 5.931
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 38,
+      "latency_sec": 2.976
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 38,
+      "latency_sec": 3.397
+    }
+  },
+  {
+    "id": "5a79c9c05542994bb94570a5",
+    "question": "This man who was born on April 25th, 1947, was a member of this lower house of the Hawaii State Legislature.",
+    "gold_answer": "Robert \"Bobby\" Bunda",
+    "Full_Transmission": {
+      "answer": "Hawaii State House of Representatives",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 30,
+      "latency_sec": 3.784
+    },
+    "Semantic_Rationing": {
+      "answer": "Hawaii State House of Representatives",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 30,
+      "latency_sec": 3.533
+    },
+    "Random_Truncation": {
+      "answer": "Hawaii State House of Representatives",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 30,
+      "latency_sec": 4.642
+    }
+  },
+  {
+    "id": "5ae72b96554299572ea5474e",
+    "question": "Risingson is the first single from what album by Massive Attack, that was the first to be produced by Neil Davidge, along with the group?",
+    "gold_answer": "Mezzanine",
+    "Full_Transmission": {
+      "answer": "Mezzanine",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 132,
+      "latency_sec": 4.01
+    },
+    "Semantic_Rationing": {
+      "answer": "Mezzanine",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 102,
+      "latency_sec": 3.503
+    },
+    "Random_Truncation": {
+      "answer": "Mezzanine",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 106,
+      "latency_sec": 4.047
+    }
+  },
+  {
+    "id": "5abb11c15542992ccd8e7ef8",
+    "question": "Selena Quintanilla-Pérez's assistant and head of her fan club will be eligible for parole on what date?",
+    "gold_answer": "March 30, 2025",
+    "Full_Transmission": {
+      "answer": "[FAILED]",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 104,
+      "latency_sec": 4.748
+    },
+    "Semantic_Rationing": {
+      "answer": "[FAILED]",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 104,
+      "latency_sec": 3.318
+    },
+    "Random_Truncation": {
+      "answer": "[FAILED]",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 104,
+      "latency_sec": 4.839
+    }
+  },
+  {
+    "id": "5abface75542990832d3a196",
+    "question": "Por Baazar contains a cameo by an Indian film director, screenwriter, producer, actor, playback singer, and television host, who was born to Javed Akhtar and who?",
+    "gold_answer": "Honey Irani",
+    "Full_Transmission": {
+      "answer": "Honey Irani",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 64,
+      "latency_sec": 7.477
+    },
+    "Semantic_Rationing": {
+      "answer": "Honey Irani",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 64,
+      "latency_sec": 4.297
+    },
+    "Random_Truncation": {
+      "answer": "Honey Irani",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 64,
+      "latency_sec": 4.329
+    }
+  },
+  {
+    "id": "5a7577145542996c70cfaf03",
+    "question": "Which park is larger, Timanfaya National Park or Sierra Nevada National Park?",
+    "gold_answer": "Sierra Nevada National Park",
+    "Full_Transmission": {
+      "answer": "Sierra Nevada National Park",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 59,
+      "latency_sec": 5.293
+    },
+    "Semantic_Rationing": {
+      "answer": "Sierra Nevada National Park",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 59,
+      "latency_sec": 4.861
+    },
+    "Random_Truncation": {
+      "answer": "Sierra Nevada National Park",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 55,
+      "latency_sec": 6.934
+    }
+  },
+  {
+    "id": "5ae1e9635542997f29b3c19e",
+    "question": "Which airport is located further north in the United States, San Angelo Regional Airport or Grand Junction Regional Airport?",
+    "gold_answer": "Grand Junction Regional Airport",
+    "Full_Transmission": {
+      "answer": "Grand Junction Regional Airport",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 140,
+      "latency_sec": 4.132
+    },
+    "Semantic_Rationing": {
+      "answer": "Grand Junction Regional Airport",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 88,
+      "latency_sec": 4.613
+    },
+    "Random_Truncation": {
+      "answer": "Grand Junction Regional Airport",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 114,
+      "latency_sec": 3.953
+    }
+  },
+  {
+    "id": "5abb14d85542996cc5e49f92",
+    "question": "Are Alexander Kluge and Sidney Salkow of the same nationality?",
+    "gold_answer": "no",
+    "Full_Transmission": {
+      "answer": "No",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 164,
+      "latency_sec": 4.908
+    },
+    "Semantic_Rationing": {
+      "answer": "No",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 110,
+      "latency_sec": 4.619
+    },
+    "Random_Truncation": {
+      "answer": "No",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 106,
+      "latency_sec": 4.376
+    }
+  },
+  {
+    "id": "5ae2a9c6554299492dc91c42",
+    "question": "Which New Jersey-based manufacturer of suitcases and bags for travel is located in the Shops at Columbus Circle in New York City?",
+    "gold_answer": "Tumi Holdings, Inc.",
+    "Full_Transmission": {
+      "answer": "Tumi",
+      "is_em": true,
+      "f1": 0.5,
+      "comm_tokens": 68,
+      "latency_sec": 5.491
+    },
+    "Semantic_Rationing": {
+      "answer": "Tumi",
+      "is_em": true,
+      "f1": 0.5,
+      "comm_tokens": 68,
+      "latency_sec": 3.321
+    },
+    "Random_Truncation": {
+      "answer": "Tumi",
+      "is_em": true,
+      "f1": 0.5,
+      "comm_tokens": 68,
+      "latency_sec": 4.295
+    }
+  },
+  {
+    "id": "5ae70369554299572ea54683",
+    "question": "George Molnar was born in a constitutional union of the Austrian Empire and the Kingdom of Hungary that existed from 1867 until when?",
+    "gold_answer": "1918",
+    "Full_Transmission": {
+      "answer": "1918",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 90,
+      "latency_sec": 2.978
+    },
+    "Semantic_Rationing": {
+      "answer": "1918",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 90,
+      "latency_sec": 3.674
+    },
+    "Random_Truncation": {
+      "answer": "1918",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 90,
+      "latency_sec": 5.635
+    }
+  },
+  {
+    "id": "5ae0de1455429924de1b71b4",
+    "question": "The American restaurant chain, the Original House of Pies, is also responsible for an American chain of fruit drink beverage stores with an eponymous beverage consisting of what?",
+    "gold_answer": "orange juice",
+    "Full_Transmission": {
+      "answer": "ice, orange juice, sweetener, milk, powdered egg whites and vanilla flavoring",
+      "is_em": false,
+      "f1": 0.3076923076923077,
+      "comm_tokens": 128,
+      "latency_sec": 4.3
+    },
+    "Semantic_Rationing": {
+      "answer": "ice, orange juice, sweetener, milk, powdered egg whites and vanilla flavoring",
+      "is_em": false,
+      "f1": 0.3076923076923077,
+      "comm_tokens": 128,
+      "latency_sec": 5.733
+    },
+    "Random_Truncation": {
+      "answer": "ice, orange juice, sweetener, milk, powdered egg whites and vanilla flavoring",
+      "is_em": false,
+      "f1": 0.3076923076923077,
+      "comm_tokens": 128,
+      "latency_sec": 4.707
+    }
+  },
+  {
+    "id": "5ac3d667554299076e296ca5",
+    "question": "Which dog is based in Switzerland, Appenzeller Sennenhund or Drentse Patrijshond?",
+    "gold_answer": "Appenzeller Sennenhund",
+    "Full_Transmission": {
+      "answer": "Appenzeller Sennenhund",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 86,
+      "latency_sec": 5.336
+    },
+    "Semantic_Rationing": {
+      "answer": "Appenzeller Sennenhund",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 86,
+      "latency_sec": 4.507
+    },
+    "Random_Truncation": {
+      "answer": "Appenzeller Sennenhund",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 86,
+      "latency_sec": 4.257
+    }
+  },
+  {
+    "id": "5a88d745554299206df2b378",
+    "question": "What occupation was shared by David Yates and Pietro Germi?",
+    "gold_answer": "director",
+    "Full_Transmission": {
+      "answer": "film director",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 142,
+      "latency_sec": 4.84
+    },
+    "Semantic_Rationing": {
+      "answer": "film director",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 108,
+      "latency_sec": 4.729
+    },
+    "Random_Truncation": {
+      "answer": "film director",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 108,
+      "latency_sec": 6.336
+    }
+  },
+  {
+    "id": "5a83438955429966c78a6b61",
+    "question": "The owner of radio station KWPW has the same name as an American character actor. What is it?",
+    "gold_answer": "Bill McCutcheon",
+    "Full_Transmission": {
+      "answer": "Al Lewis",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 59,
+      "latency_sec": 7.003
+    },
+    "Semantic_Rationing": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 54,
+      "latency_sec": 6.195
+    },
+    "Random_Truncation": {
+      "answer": "",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 59,
+      "latency_sec": 6.345
+    }
+  },
+  {
+    "id": "5ab1d2585542997061209581",
+    "question": "Has Lasse Hallström gotten more Academy Award nominations than Dionciel Armstrong?",
+    "gold_answer": "yes",
+    "Full_Transmission": {
+      "answer": "I don’t have enough information to determine whether Lasse Hallström has more Academy Award nominations than Dionciel Armstrong",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 87,
+      "latency_sec": 5.785
+    },
+    "Semantic_Rationing": {
+      "answer": "I don’t have enough information to determine whether Lasse Hallström has more Academy Award nominations than Dionciel Armstrong",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 70,
+      "latency_sec": 4.815
+    },
+    "Random_Truncation": {
+      "answer": "Not enough information to determine",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 70,
+      "latency_sec": 7.644
+    }
+  },
+  {
+    "id": "5abc3c545542993a06baf89f",
+    "question": "Codex Escalada shows an apparition to the saint that is a native of which country?",
+    "gold_answer": "Mexico",
+    "Full_Transmission": {
+      "answer": "Mexico",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 88,
+      "latency_sec": 5.086
+    },
+    "Semantic_Rationing": {
+      "answer": "Mexico",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 88,
+      "latency_sec": 3.927
+    },
+    "Random_Truncation": {
+      "answer": "Mexico",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 88,
+      "latency_sec": 3.468
+    }
+  },
+  {
+    "id": "5a734ca85542994cef4bc51b",
+    "question": "Alhambra and Tsuro are both examples of what type of game?",
+    "gold_answer": "tile-based board game",
+    "Full_Transmission": {
+      "answer": "board game",
+      "is_em": true,
+      "f1": 0.8,
+      "comm_tokens": 48,
+      "latency_sec": 9.927
+    },
+    "Semantic_Rationing": {
+      "answer": "board game",
+      "is_em": true,
+      "f1": 0.8,
+      "comm_tokens": 48,
+      "latency_sec": 5.542
+    },
+    "Random_Truncation": {
+      "answer": "board game",
+      "is_em": true,
+      "f1": 0.8,
+      "comm_tokens": 42,
+      "latency_sec": 6.335
+    }
+  },
+  {
+    "id": "5ab5b0f75542992aa134a38c",
+    "question": "What episode did Mona Penelope Simpson  on the animated show \"The Simpsons\"die?",
+    "gold_answer": "\"Mona Leaves-a\"",
+    "Full_Transmission": {
+      "answer": "Mona Leaves‑a",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 60,
+      "latency_sec": 5.176
+    },
+    "Semantic_Rationing": {
+      "answer": "Mona Leaves‑a",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 60,
+      "latency_sec": 3.706
+    },
+    "Random_Truncation": {
+      "answer": "Mona Leaves‑a",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 60,
+      "latency_sec": 4.584
+    }
+  },
+  {
+    "id": "5a886886554299206df2b258",
+    "question": "What is the international football competition for women that Liu Ailing played in the 1991,1995, 1999 editions?",
+    "gold_answer": "international football competition",
+    "Full_Transmission": {
+      "answer": "FIFA Women’s World Cup",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 76,
+      "latency_sec": 3.327
+    },
+    "Semantic_Rationing": {
+      "answer": "FIFA Women’s World Cup",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 76,
+      "latency_sec": 3.841
+    },
+    "Random_Truncation": {
+      "answer": "FIFA Women’s World Cup",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 76,
+      "latency_sec": 2.94
+    }
+  },
+  {
+    "id": "5a73235c5542994cef4bc475",
+    "question": "Was either Craig Melville or Grover Jones born in Indiana?",
+    "gold_answer": "Jones was born in Rosedale, Indiana",
+    "Full_Transmission": {
+      "answer": "Grover Jones",
+      "is_em": false,
+      "f1": 0.25,
+      "comm_tokens": 56,
+      "latency_sec": 3.274
+    },
+    "Semantic_Rationing": {
+      "answer": "Yes",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 55,
+      "latency_sec": 4.29
+    },
+    "Random_Truncation": {
+      "answer": "Yes",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 55,
+      "latency_sec": 5.53
+    }
+  },
+  {
+    "id": "5a80993d5542996402f6a589",
+    "question": "Who produced a 1999 fantasy-comedy directed by Spike Jonze?",
+    "gold_answer": "Spike Jonze",
+    "Full_Transmission": {
+      "answer": "Steve Golin",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 24,
+      "latency_sec": 4.644
+    },
+    "Semantic_Rationing": {
+      "answer": "Steve Golin",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 24,
+      "latency_sec": 4.666
+    },
+    "Random_Truncation": {
+      "answer": "Steve Golin",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 24,
+      "latency_sec": 5.634
+    }
+  },
+  {
+    "id": "5a89d26b5542992e4fca83d1",
+    "question": "Leo A. Harris was also known for his handshake deal with Walt Disney that permitted the University of Oregon to use the likeness of what cartoon character created in 1934 at Walt Disney Productions?",
+    "gold_answer": "Donald Duck",
+    "Full_Transmission": {
+      "answer": "Donald Duck",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 90,
+      "latency_sec": 3.906
+    },
+    "Semantic_Rationing": {
+      "answer": "Donald Duck",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 90,
+      "latency_sec": 3.37
+    },
+    "Random_Truncation": {
+      "answer": "Donald Duck",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 90,
+      "latency_sec": 3.904
+    }
+  },
+  {
+    "id": "5abd2eab5542992ac4f38210",
+    "question": "Which suburb is a soap opera featuring a character named Beverly Marshall set in?",
+    "gold_answer": "Erinsborough",
+    "Full_Transmission": {
+      "answer": "Erinsborough",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 72,
+      "latency_sec": 3.965
+    },
+    "Semantic_Rationing": {
+      "answer": "Erinsborough",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 72,
+      "latency_sec": 4.968
+    },
+    "Random_Truncation": {
+      "answer": "Erinsborough",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 72,
+      "latency_sec": 3.554
+    }
+  },
+  {
+    "id": "5a7100435542994082a3e4a3",
+    "question": " Are Finding Kraftland and Shikashika both frozen drinks?",
+    "gold_answer": "Shikashika is a shaved ice drink",
+    "Full_Transmission": {
+      "answer": "No",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 80,
+      "latency_sec": 3.957
+    },
+    "Semantic_Rationing": {
+      "answer": "No",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 80,
+      "latency_sec": 4.063
+    },
+    "Random_Truncation": {
+      "answer": "No",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 80,
+      "latency_sec": 4.257
+    }
+  },
+  {
+    "id": "5ade99295542992fa25da7d8",
+    "question": "What foundation do scholars give for the likelihood of collaboration on a William Shakespeare Play written between 1588 and 1593?",
+    "gold_answer": "linguistic analysis",
+    "Full_Transmission": {
+      "answer": "Anonymous early quartos and textual evidence pointing to George Peele as co‑author",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 173,
+      "latency_sec": 3.806
+    },
+    "Semantic_Rationing": {
+      "answer": "Anonymous early quartos and textual evidence pointing to George Peele as co‑author",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 146,
+      "latency_sec": 4.834
+    },
+    "Random_Truncation": {
+      "answer": "Anonymous early quartos and textual evidence pointing to George Peele as co‑author",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 171,
+      "latency_sec": 3.896
+    }
+  },
+  {
+    "id": "5abbfbcf55429965836003cf",
+    "question": "James Leal Greenleaf worked on a monument located where? ",
+    "gold_answer": "National Mall",
+    "Full_Transmission": {
+      "answer": "Washington, D.C",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 86,
+      "latency_sec": 5.744
+    },
+    "Semantic_Rationing": {
+      "answer": "Washington, D.C",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 86,
+      "latency_sec": 4.463
+    },
+    "Random_Truncation": {
+      "answer": "Washington, D.C",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 86,
+      "latency_sec": 4.375
+    }
+  },
+  {
+    "id": "5a7b5aff55429931da12ca6d",
+    "question": "University Visvesvaraya College of Engineering has an affiliation with what member of the Association of Indian Universities?",
+    "gold_answer": "Bangalore University",
+    "Full_Transmission": {
+      "answer": "Visvesvaraya Technological University",
+      "is_em": false,
+      "f1": 0.4,
+      "comm_tokens": 28,
+      "latency_sec": 7.739
+    },
+    "Semantic_Rationing": {
+      "answer": "Visvesvaraya Technological University",
+      "is_em": false,
+      "f1": 0.4,
+      "comm_tokens": 28,
+      "latency_sec": 5.289
+    },
+    "Random_Truncation": {
+      "answer": "Visvesvaraya Technological University",
+      "is_em": false,
+      "f1": 0.4,
+      "comm_tokens": 28,
+      "latency_sec": 6.084
+    }
+  },
+  {
+    "id": "5a8b051255429971feec460e",
+    "question": "Henderson Executive Airport got its name in 1996 when it was purchased by Clark County to be used as a reliever airport for an airport named after what politican?",
+    "gold_answer": "U.S. Senator Pat McCarran",
+    "Full_Transmission": {
+      "answer": "Pat McCarran",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 78,
+      "latency_sec": 3.491
+    },
+    "Semantic_Rationing": {
+      "answer": "Pat McCarran",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 78,
+      "latency_sec": 4.096
+    },
+    "Random_Truncation": {
+      "answer": "Pat McCarran",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 78,
+      "latency_sec": 3.507
+    }
+  },
+  {
+    "id": "5a8c03415542995e66a4752a",
+    "question": "Which grandson of Emperor Nicholas 1 was the father of Princh John Konstantinovich of Russia?",
+    "gold_answer": "Grand Duke Konstantin Konstantinovich of Russia",
+    "Full_Transmission": {
+      "answer": "Grand Duke Konstantin Konstantinovich of Russia",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 84,
+      "latency_sec": 5.307
+    },
+    "Semantic_Rationing": {
+      "answer": "Grand Duke Konstantin Konstantinovich of Russia",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 84,
+      "latency_sec": 5.354
+    },
+    "Random_Truncation": {
+      "answer": "Grand Duke Konstantin Konstantinovich of Russia",
+      "is_em": true,
+      "f1": 1.0,
+      "comm_tokens": 84,
+      "latency_sec": 4.696
+    }
+  },
+  {
+    "id": "5ae324775542994393b9e62f",
+    "question": "Korea University College of Education is based in the city that ranks what in the world by terms of size?",
+    "gold_answer": "16th",
+    "Full_Transmission": {
+      "answer": "15th",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 20,
+      "latency_sec": 5.313
+    },
+    "Semantic_Rationing": {
+      "answer": "15th",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 20,
+      "latency_sec": 5.252
+    },
+    "Random_Truncation": {
+      "answer": "15th",
+      "is_em": false,
+      "f1": 0.0,
+      "comm_tokens": 20,
+      "latency_sec": 5.323
+    }
+  },
+  {
+    "id": "5ab864945542990e739ec8e1",
+    "question": "Substorm was described in qualitative terms by a scientist nominated for what seven times?",
+    "gold_answer": "Nobel Prize",
+    "Full_Transmission": {
+      "answer": "Nobel Prize in Physics",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 76,
+      "latency_sec": 4.765
+    },
+    "Semantic_Rationing": {
+      "answer": "Nobel Prize in Physics",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 76,
+      "latency_sec": 4.331
+    },
+    "Random_Truncation": {
+      "answer": "Nobel Prize in Physics",
+      "is_em": true,
+      "f1": 0.6666666666666666,
+      "comm_tokens": 76,
+      "latency_sec": 4.396
+    }
+  }
+]

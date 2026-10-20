@@ -1,0 +1,174 @@
+{
+  "cohort": "original extension130",
+  "interpretation": "Observed frontier includes different inference waves on the same130 questions. Call counts include shared initial calls. Total input+output tokens are an unweighted resource measure, not verified billed currency or latency. Pointwise Pareto status is not statistical population dominance.",
+  "new_peer_minus_historical_full_union": {
+    "em": {
+      "ci95_pp": [
+        -5.384615384615385,
+        9.23076923076923
+      ],
+      "delta_pp": 2.3076923076923075,
+      "exact_mcnemar_p": 0.6776394844055176,
+      "losses": 10,
+      "n_questions": 130,
+      "ties": 107,
+      "wins": 13
+    },
+    "f1": {
+      "ci95_pp": [
+        -6.559469696969698,
+        6.647048144163529
+      ],
+      "delta_pp": 0.20503855119239753,
+      "losses": 12,
+      "n_questions": 130,
+      "ties": 104,
+      "wins": 14
+    }
+  },
+  "rows": [
+    {
+      "calls_per_question": 1.0,
+      "condition": "historical_full_union",
+      "correct": 93,
+      "em": 71.53846153846153,
+      "f1": 80.24043904813135,
+      "input_tokens": 302335,
+      "n": 130,
+      "on_observed_frontier": true,
+      "output_tokens": 46758,
+      "tokens_per_question": 2685.3307692307694,
+      "wave": "historical"
+    },
+    {
+      "calls_per_question": 3.0,
+      "condition": "historical_nocomm",
+      "correct": 25,
+      "em": 19.23076923076923,
+      "f1": 22.170329670329668,
+      "input_tokens": 378063,
+      "n": 130,
+      "on_observed_frontier": false,
+      "output_tokens": 126897,
+      "tokens_per_question": 3884.3076923076924,
+      "wave": "historical"
+    },
+    {
+      "calls_per_question": 4.0,
+      "condition": "historical_random",
+      "correct": 44,
+      "em": 33.84615384615385,
+      "f1": 36.849816849816854,
+      "input_tokens": 521724,
+      "n": 130,
+      "on_observed_frontier": false,
+      "output_tokens": 175359,
+      "tokens_per_question": 5362.176923076923,
+      "wave": "historical"
+    },
+    {
+      "calls_per_question": 4.0,
+      "condition": "historical_heuristic",
+      "correct": 60,
+      "em": 46.15384615384615,
+      "f1": 50.91158841158841,
+      "input_tokens": 522550,
+      "n": 130,
+      "on_observed_frontier": false,
+      "output_tokens": 178043,
+      "tokens_per_question": 5389.176923076923,
+      "wave": "historical"
+    },
+    {
+      "calls_per_question": 3.9153846153846152,
+      "condition": "historical_complementary",
+      "correct": 54,
+      "em": 41.53846153846154,
+      "f1": 45.43956043956044,
+      "input_tokens": 509452,
+      "n": 130,
+      "on_observed_frontier": false,
+      "output_tokens": 176949,
+      "tokens_per_question": 5280.007692307692,
+      "wave": "historical"
+    },
+    {
+      "calls_per_question": 4.0,
+      "condition": "historical_instar",
+      "correct": 71,
+      "em": 54.61538461538461,
+      "f1": 59.82543097927714,
+      "input_tokens": 527923,
+      "n": 130,
+      "on_observed_frontier": false,
+      "output_tokens": 180544,
+      "tokens_per_question": 5449.746153846154,
+      "wave": "historical"
+    },
+    {
+      "calls_per_question": 6.0,
+      "condition": "historical_dense",
+      "correct": 91,
+      "em": 70.0,
+      "f1": 77.26132841517456,
+      "input_tokens": 817168,
+      "n": 130,
+      "on_observed_frontier": false,
+      "output_tokens": 292149,
+      "tokens_per_question": 8533.207692307693,
+      "wave": "historical"
+    },
+    {
+      "calls_per_question": 6.0,
+      "condition": "new_peer_all",
+      "correct": 96,
+      "em": 73.84615384615384,
+      "f1": 80.44547759932375,
+      "input_tokens": 817168,
+      "n": 130,
+      "on_observed_frontier": true,
+      "output_tokens": 294819,
+      "tokens_per_question": 8553.746153846154,
+      "wave": "new_revision"
+    },
+    {
+      "calls_per_question": 4.0,
+      "condition": "new_peer_sink_R0_leaves",
+      "correct": 78,
+      "em": 60.0,
+      "f1": 65.0901662440124,
+      "input_tokens": 527923,
+      "n": 130,
+      "on_observed_frontier": false,
+      "output_tokens": 182337,
+      "tokens_per_question": 5463.538461538462,
+      "wave": "new_revision"
+    },
+    {
+      "calls_per_question": 6.0,
+      "condition": "new_peer_sink_private_leaves",
+      "correct": 78,
+      "em": 60.0,
+      "f1": 65.0901662440124,
+      "input_tokens": 791178,
+      "n": 130,
+      "on_observed_frontier": false,
+      "output_tokens": 261377,
+      "tokens_per_question": 8096.576923076923,
+      "wave": "new_revision"
+    },
+    {
+      "calls_per_question": 6.0,
+      "condition": "new_private_all",
+      "correct": 22,
+      "em": 16.923076923076923,
+      "f1": 19.926739926739927,
+      "input_tokens": 778590,
+      "n": 130,
+      "on_observed_frontier": false,
+      "output_tokens": 245834,
+      "tokens_per_question": 7880.184615384615,
+      "wave": "new_revision"
+    }
+  ]
+}

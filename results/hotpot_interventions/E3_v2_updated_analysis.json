@@ -1,0 +1,316 @@
+{
+  "report": {
+    "status": "COMPLETE_EXPLORATORY",
+    "screened_questions": 300,
+    "eligible_paired_questions": 299,
+    "ineligible_questions": [
+      {
+        "id": "5a8cfee555429941ae14df5c",
+        "reason": "NO_SENDER_EVIDENCE_AVAILABLE"
+      }
+    ],
+    "summaries": {
+      "R_prefix": {
+        "n": 299,
+        "f1": 31.23295005647947,
+        "em": 22.40802675585284,
+        "answer_support_recall": 0.23266443701226308,
+        "answer_support_precision": 0.3505335244465679,
+        "payload_tokens": 128.0,
+        "invalid_citation_count": 0.0,
+        "provider_refusal_count": 0.010033444816053512
+      },
+      "R_crop": {
+        "n": 299,
+        "f1": 33.02834335315154,
+        "em": 24.08026755852843,
+        "answer_support_recall": 0.2379598662207358,
+        "answer_support_precision": 0.3809921962095875,
+        "payload_tokens": 128.0,
+        "invalid_citation_count": 0.006688963210702341,
+        "provider_refusal_count": 0.010033444816053512
+      },
+      "R_NoComm_receiver": {
+        "n": 299,
+        "f1": 32.566183029321024,
+        "em": 23.076923076923077,
+        "answer_support_recall": 0.23935340022296542,
+        "answer_support_precision": 0.3799968147794235,
+        "payload_tokens": 0.0,
+        "invalid_citation_count": 0.0,
+        "provider_refusal_count": 0.006688963210702341
+      },
+      "R_SelfUpdate_receiver": {
+        "n": 299,
+        "f1": 31.53238979759069,
+        "em": 23.411371237458194,
+        "answer_support_recall": 0.24648829431438124,
+        "answer_support_precision": 0.38294314381270905,
+        "payload_tokens": 0.0,
+        "invalid_citation_count": 0.0,
+        "provider_refusal_count": 0.010033444816053512
+      }
+    },
+    "paired_prefix_minus_crop": {
+      "f1": {
+        "n": 299,
+        "effect": -1.795393296672069,
+        "ci95": [
+          -4.197328083964913,
+          0.47078098088328013
+        ],
+        "randomization_p": 0.1401859814018598,
+        "helped": 8,
+        "harmed": 18,
+        "unchanged": 273
+      },
+      "em": {
+        "n": 299,
+        "effect": -1.6722408026755853,
+        "ci95": [
+          -4.013377926421405,
+          0.6688963210702341
+        ],
+        "randomization_p": 0.27387261273872615,
+        "helped": 4,
+        "harmed": 9,
+        "unchanged": 286
+      },
+      "answer_support_recall": {
+        "n": 299,
+        "effect": -0.005295429208472685,
+        "ci95": [
+          -0.023690078037904124,
+          0.013935340022296542
+        ],
+        "randomization_p": 0.6101389861013898,
+        "helped": 14,
+        "harmed": 22,
+        "unchanged": 263
+      }
+    },
+    "primary": "f1 only; EM/support secondary descriptive, no separate confirmatory claims",
+    "diagnostics": {
+      "distinct_payload_pairs": 299,
+      "equal_payload_token_pairs": 299,
+      "equal_receiver_calls": 299,
+      "complete_fact_counts": {
+        "R_prefix": 641,
+        "R_crop": 500
+      }
+    },
+    "result_sha256": "6b6e325d198f35e7885ea6d4d832cb636c4d982b5885013b0d0d604797ef9779"
+  },
+  "physical_usage": {
+    "pipeline": "E3_v2",
+    "successes": 598,
+    "reported_input_tokens": 902605,
+    "successful_inputs_missing": 0,
+    "reported_output_tokens_lower_bound": 166539,
+    "successful_outputs_missing": 6,
+    "original_unresolved_attempts": 0,
+    "attempts": 601
+  },
+  "paired_answers_identical_normalized": 263,
+  "paired_answers_changed_normalized": 36,
+  "F1_ties": 273,
+  "subgroups": [
+    {
+      "variable": "type",
+      "group": "bridge",
+      "n": 239,
+      "prefix_F1": 32.384091965681925,
+      "crop_F1": 35.04763716060787,
+      "prefix_minus_crop_F1": -2.6635451949259483,
+      "CI95_low": -5.323876089043453,
+      "CI95_high": -0.16500479994204365,
+      "status": "POST_HOC_DESCRIPTIVE_NO_MULTIPLICITY_CONFIRMED_CLAIM"
+    },
+    {
+      "variable": "type",
+      "group": "comparison",
+      "n": 60,
+      "prefix_F1": 26.647568118156354,
+      "crop_F1": 24.984823020117137,
+      "prefix_minus_crop_F1": 1.6627450980392158,
+      "CI95_low": -3.3411764705882354,
+      "CI95_high": 8.32549019607843,
+      "status": "POST_HOC_DESCRIPTIVE_NO_MULTIPLICITY_CONFIRMED_CLAIM"
+    },
+    {
+      "variable": "stratum",
+      "group": "Co-located-Gold",
+      "n": 14,
+      "prefix_F1": 81.11862926988978,
+      "crop_F1": 75.05802320928372,
+      "prefix_minus_crop_F1": 6.0606060606060606,
+      "CI95_low": -3.0612244897959195,
+      "CI95_high": 21.366728509585652,
+      "status": "POST_HOC_DESCRIPTIVE_NO_MULTIPLICITY_CONFIRMED_CLAIM"
+    },
+    {
+      "variable": "stratum",
+      "group": "Disjoint-Gold",
+      "n": 62,
+      "prefix_F1": 72.92556905460133,
+      "crop_F1": 74.51159055997765,
+      "prefix_minus_crop_F1": -1.586021505376344,
+      "CI95_low": -6.328725038402458,
+      "CI95_high": 3.560195852534558,
+      "status": "POST_HOC_DESCRIPTIVE_NO_MULTIPLICITY_CONFIRMED_CLAIM"
+    },
+    {
+      "variable": "stratum",
+      "group": "Retrieval-Missing-Gold",
+      "n": 223,
+      "prefix_F1": 16.509443837325662,
+      "crop_F1": 18.856249878671402,
+      "prefix_minus_crop_F1": -2.3468060413457406,
+      "CI95_low": -5.076002345495883,
+      "CI95_high": 0.32358098831324766,
+      "status": "POST_HOC_DESCRIPTIVE_NO_MULTIPLICITY_CONFIRMED_CLAIM"
+    }
+  ],
+  "completion_verification": {
+    "scores": "PASS",
+    "payload_counts": "PASS",
+    "raw_cache_checksums": "PASS",
+    "source_hashes": "PASS"
+  },
+  "scope": "EXPLORATORY FOLLOWUP; primary paired F1; no superiority/equivalence conclusion",
+  "run_dir": "WEBExtension/artifacts/e3_corrected_b5c4ff9db9b9b2bc",
+  "cases": [
+    {
+      "id": "5ac05310554299012d1db5e7",
+      "question": "What is the name of the murder victim that worked in a restaurant, in which Mark Fuhrman was the detective?",
+      "gold_answer": "Ron Goldman",
+      "prefix_answer": "noanswer",
+      "crop_answer": "Ron Goldman",
+      "prefix_F1": 0.0,
+      "crop_F1": 100.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"Mark Fuhrman (born February 5, 1952) is a former detective of the Los Angeles Police Department (LAPD).\",\"title\":\"Mark Fuhrman\"}\nEvidence: {\"sentence_id\":1,\"text\":\" He is primarily known for his part in the investigation of the murders of Nicole Brown Simpson and Ron Goldman in the O.J. Simpson murder case.\",\"title\":\"Mark Fuhrman\"}\nEvidence: {\"sentence_id\":0,\"text\":\"After serving as publicity director of St. Martin’s Press, Grosset & Dunlap and Harry N. Abrams, Ms.",
+      "crop_payload": " of Highly Effective People\\\") and both \\\"Codependent No More\\\" and \\\"Beyond Codependency\\\" by Melody Beattie.\",\"title\":\"Jane Wesman\"}\nEvidence: {\"sentence_id\":5,\"text\":\" Other authors she has worked with include Mary Higgins Clark, Michael Hammer, Paolo Coehlo, and Alan C. Fox.\",\"title\":\"Jane Wesman\"}\nEvidence: {\"sentence_id\":0,\"text\":\"Reunion is an American drama series that aired on FOX in late 2005.\",\"title\":\"Reunion (TV series)\"}\nEvidence: {\"sentence_id\":1,\"text\":\" The series was intended to chronicle 20 years in"
+    },
+    {
+      "id": "5ab6087a554299110f2199be",
+      "question": "Do both Korematsu v. United States and Chaplinsky v. New Hampshire cases regard the rights of U. S. citizens?",
+      "gold_answer": "yes",
+      "prefix_answer": "noanswer",
+      "crop_answer": "Yes",
+      "prefix_F1": 0.0,
+      "crop_F1": 100.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"Chaplinsky v. New Hampshire, 315 U.S. 568 (1942) , is a United States Supreme Court case in which the Court articulated the fighting words doctrine, a limitation of the First Amendment's guarantee of freedom of speech.\",\"title\":\"Chaplinsky v. New Hampshire\"}\nEvidence: {\"sentence_id\":0,\"text\":\"Freedom of movement under United States law is governed primarily by the Privileges and Immunities Clause of the United States Constitution which states, \\\"The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States",
+      "crop_payload": " found not to violate citizen rights in their \\\"Korematsu v. United States\\\" decision on the same date—the Endo ruling nonetheless led to the reopening of the West Coast to Japanese Americans after their incarceration in camps across the U.S. interior during World War II.\",\"title\":\"Ex parte Endo\"}\nEvidence: {\"sentence_id\":0,\"text\":\"The University of California, Berkeley, School of Law, commonly referred to as Berkeley Law and Boalt Hall, is one of 14 schools and colleges at the University of California, Berkeley.\",\"title\":\"UC Berkeley School of Law\"}\nEvidence: {\"sentence_id\":1,\"text\":\" Berkeley"
+    },
+    {
+      "id": "5ae76dfd5542997b22f6a755",
+      "question": "A series of ministerial meetings and agreements between European countries and includes The Swedish higher education system is called what?",
+      "gold_answer": "Bologna Process",
+      "prefix_answer": "Swedish Higher Education Act",
+      "crop_answer": "Bologna Process",
+      "prefix_F1": 0.0,
+      "crop_F1": 100.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"The Bologna Process is a series of ministerial meetings and agreements between European countries to ensure comparability in the standards and quality of higher-education qualifications.\",\"title\":\"Bologna Process\"}\nEvidence: {\"sentence_id\":1,\"text\":\" The process has created the European Higher Education Area under the Lisbon Recognition Convention.\",\"title\":\"Bologna Process\"}\nEvidence: {\"sentence_id\":2,\"text\":\" It is named after the University of Bologna, where the Bologna declaration was signed by education ministers from 29 European countries in 1999.\",\"title\":\"Bologna Process\"}\nEvidence: {\"sentence_id\":3",
+      "crop_payload": " schools and classrooms at all levels (Article 67).\",\"title\":\"Education in Cambodia\"}\nEvidence: {\"sentence_id\":3,\"text\":\" The Cambodian education system includes pre-school, primary, general secondary, higher education and non-formal education.\",\"title\":\"Education in Cambodia\"}\nEvidence: {\"sentence_id\":4,\"text\":\" The education system includes the development of sport, information technology education, research development and technical education.\",\"title\":\"Education in Cambodia\"}\nEvidence: {\"sentence_id\":5,\"text\":\" School enrollment has increased during the 2000s in Cambodia.\",\"title\":\"Education in Cambodia\"}\nEvidence: {\"sentence_id\":6,\"text"
+    },
+    {
+      "id": "5a7dc2185542990b8f503a7b",
+      "question": "Which county is Jollyville, Texas located in that had a population of 1,024,266 as of the 2010 census?",
+      "gold_answer": "Travis County",
+      "prefix_answer": "noanswer",
+      "crop_answer": "Travis County",
+      "prefix_F1": 0.0,
+      "crop_F1": 100.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"Travis County is a county located in south central Texas.\",\"title\":\"Travis County, Texas\"}\nEvidence: {\"sentence_id\":1,\"text\":\" As of the 2010 census, the population was 1,024,266; the estimated population in 2014 was 1,151,145.\",\"title\":\"Travis County, Texas\"}\nEvidence: {\"sentence_id\":2,\"text\":\" It is the fifth-most populous county in Texas.\",\"title\":\"Travis County, Texas\"}\nEvidence: {\"sentence_id\":3,\"text\":\" Its county seat is Austin, the capital of",
+      "crop_payload": " counties in the state of Texas.\",\"title\":\"Sterling County, Texas\"}\nEvidence: {\"sentence_id\":5,\"text\":\"<ref name=\\\"Wet/Dry Status of Texas Counties November 2010\\\"> </ref>\",\"title\":\"Sterling County, Texas\"}\nEvidence: {\"sentence_id\":0,\"text\":\"Motley County is a county located in the U.S. state of Texas.\",\"title\":\"Motley County, Texas\"}\nEvidence: {\"sentence_id\":1,\"text\":\" As of the 2010 census, its population was 1,210, making it the tenth-least populous county in Texas.\",\"title\":\"Motley"
+    },
+    {
+      "id": "5a8e8bed5542990e94052b47",
+      "question": "What United Kingdom Prime Minister was succeeded in the 1990s by the Leader of the Conservative Party?",
+      "gold_answer": "Margaret Thatcher",
+      "prefix_answer": "noanswer",
+      "crop_answer": "Margaret Thatcher",
+      "prefix_F1": 0.0,
+      "crop_F1": 100.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"Local elections were held in the United Kingdom in 1980.\",\"title\":\"United Kingdom local elections, 1980\"}\nEvidence: {\"sentence_id\":1,\"text\":\" These were the first annual local elections for the new Conservative Prime Minister Margaret Thatcher.\",\"title\":\"United Kingdom local elections, 1980\"}\nEvidence: {\"sentence_id\":2,\"text\":\" Though the Conservatives in government lost seats, the projected share of the vote was close: Labour Party 42%, Conservative Party 40%, Liberal Party 13%.\",\"title\":\"United Kingdom local elections, 1980\"}\nEvidence: {\"",
+      "crop_payload": " Disraeli, 1st Earl of Beaconsfield, (21 December 1804 – 19 April 1881) was a British statesman of the Conservative Party who twice served as Prime Minister of the United Kingdom, as well as a novelist.\",\"title\":\"Benjamin Disraeli\"}\nEvidence: {\"sentence_id\":1,\"text\":\" He played a central role in the creation of the modern Conservative Party, defining its policies and its broad outreach.\",\"title\":\"Benjamin Disraeli\"}\nEvidence: {\"sentence_id\":2,\"text\":\" Disraeli is remembered for his influential voice in world affairs, his political battles with the"
+    },
+    {
+      "id": "5a75d8dc5542992db94736f0",
+      "question": "Andrea Camplone is a football coach in which 22-team competition?",
+      "gold_answer": "Serie B",
+      "prefix_answer": "noanswer",
+      "crop_answer": "Serie B",
+      "prefix_F1": 0.0,
+      "crop_F1": 100.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"Andrea Camplone (born 27 July 1966) is an Italian professional football coach and a former player, currently in charge as head coach of Cesena in the Serie B league.\",\"title\":\"Andrea Camplone\"}\nEvidence: {\"sentence_id\":0,\"text\":\"Hisashi Mizutori (水鳥 寿思 ) , (born 22 July 1980 in Shizuoka, Shizuoka, Japan) is a Japanese gymnast.\",\"title\":\"Hisashi Mizutori\"}\nEvidence: {\"sentence_id\":1,\"text\":\" He was part of the Japanese team",
+      "crop_payload": "Evidence: {\"sentence_id\":2,\"text\":\" He was also part of the team to win the silver medal in the team event at the 2007 World Artistic Gymnastics Championships.\",\"title\":\"Hisashi Mizutori\"}\nEvidence: {\"sentence_id\":3,\"text\":\" At that competition, he also won three individual bronze medals, winning them in the all-around, the floor exercise, and the horizontal bar.\",\"title\":\"Hisashi Mizutori\"}\nEvidence: {\"sentence_id\":0,\"text\":\"Ecaterina Szabo (Hungarian: \\\"Szabó Katalin\\\" , ] ; born 22 January 196"
+    },
+    {
+      "id": "5ae765185542995703ce8c0f",
+      "question": "YouPorn was surpassed, in 2013, by competitor sites xHamster, Pornhub, LiveJasmin, and this website that is registered to the Polish company WGCZ Holding? ",
+      "gold_answer": "XVideos",
+      "prefix_answer": "XVideos",
+      "crop_answer": "",
+      "prefix_F1": 100.0,
+      "crop_F1": 0.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"YouPorn is a free pornographic video sharing website and one of the 100 most accessed websites in the world.\",\"title\":\"YouPorn\"}\nEvidence: {\"sentence_id\":1,\"text\":\" Since launching in August 2006, it grew to become the most popular pornographic website on the internet, and, in November 2007, it was reported to be the largest free pornographic website as well.\",\"title\":\"YouPorn\"}\nEvidence: {\"sentence_id\":2,\"text\":\" As of February 2013, it was the 83rd most popular website overall and the fifth most",
+      "crop_payload": "Evidence: {\"sentence_id\":0,\"text\":\"xHamster is a pornographic media and social networking site headquartered in Limassol, Cyprus.\",\"title\":\"XHamster\"}\nEvidence: {\"sentence_id\":1,\"text\":\" xHamster serves user-submitted pornographic videos, webcam models, pornographic photographs, and erotic literature, and incorporates social networking features.\",\"title\":\"XHamster\"}\nEvidence: {\"sentence_id\":2,\"text\":\" xHamster was founded in 2007.\",\"title\":\"XHamster\"}\nEvidence: {\"sentence_id\":3,\"text\":\" With more than 10 million members, it is the third"
+    },
+    {
+      "id": "5a74f8235542993748c89766",
+      "question": "The Havanese and the Black Mouth Cur are both which kind of animal?",
+      "gold_answer": "Dogs",
+      "prefix_answer": "dogs",
+      "crop_answer": "dog",
+      "prefix_F1": 100.0,
+      "crop_F1": 0.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"In animal grooming, cording is a technique in which dog coats are separated patiently into dreadlocks for coat care or presentation purposes.\",\"title\":\"Cording (dog grooming)\"}\nEvidence: {\"sentence_id\":1,\"text\":\" Some dog breeds that are often corded are the Puli and the Komondor.\",\"title\":\"Cording (dog grooming)\"}\nEvidence: {\"sentence_id\":2,\"text\":\" The Havanese and Poodle are also occasionally corded for showing.\",\"title\":\"Cording (dog grooming)\"}\nEvidence: {\"sentence_id\":0,\"text\":\"The Black",
+      "crop_payload": "\":\"Stephens Cur\"}\nEvidence: {\"sentence_id\":0,\"text\":\"A sucker in zoology refers to specialised attachment organ of an animal.\",\"title\":\"Sucker (zoology)\"}\nEvidence: {\"sentence_id\":1,\"text\":\" It acts as an adhesion device in parasitic worms, several flatworms, cephalopods, certain fishes, amphibians, and bats.\",\"title\":\"Sucker (zoology)\"}\nEvidence: {\"sentence_id\":2,\"text\":\" It is a muscular structure for suction on a host or substrate.\",\"title\":\"Sucker (zoology)\"}\nEvidence: {\"sentence_id\":3"
+    },
+    {
+      "id": "5ae6b6065542991bbc976168",
+      "question": "Out of the actors who have played the role of Luc Deveraux in the Universal Soldier franchise, which actor has also starred in the movies Holby City, Doctor Strange, the Bourne Ultimatum and Zero Dark Thirty?",
+      "gold_answer": "Scott Adkins",
+      "prefix_answer": "Scott Adkins",
+      "crop_answer": "noanswer",
+      "prefix_F1": 100.0,
+      "crop_F1": 0.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"Scott Edward Adkins (born 17 June 1976) is an English actor and martial artist who is best known for playing Russian prison fighter Yuri Boyka in the 2006 film \\\"\\\" and its following two sequels: \\\"\\\" (2010) and \\\"\\\" (2016) and Casey Bowman in Ninja and its sequel .\",\"title\":\"Scott Adkins\"}\nEvidence: {\"sentence_id\":1,\"text\":\" He is also known for playing Bradley Hume in \\\"Holby City\\\", Lucian in \\\"Doctor Strange\\\", Kiley in \\\"The Bourne Ultimatum",
+      "crop_payload": " a new protagonist named John (played by Scott Adkins).\",\"title\":\"Universal Soldier (franchise)\"}\nEvidence: {\"sentence_id\":0,\"text\":\"Universal Soldier is a 1992 American military science fiction action film directed by Roland Emmerich, produced by Mario Kassar and Allen Shapiro, and written by Richard Rothstein and Dean Devlin.\",\"title\":\"Universal Soldier (1992 film)\"}\nEvidence: {\"sentence_id\":1,\"text\":\" The film tells the story of Luc Deveraux, a former US Army soldier who was killed in Vietnam War in 1969, and returned to life following a secret military"
+    },
+    {
+      "id": "5a79ecd05542996c55b2dca1",
+      "question": "Bobby Bowden coached which former Toronto Blue Jays minor league baseball player?",
+      "gold_answer": "Chris Weinke",
+      "prefix_answer": "noanswer",
+      "crop_answer": "Chris Weinke",
+      "prefix_F1": 0.0,
+      "crop_F1": 100.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"Christopher Jon Weinke (born July 31, 1972) is an American football coach and former player.\",\"title\":\"Chris Weinke\"}\nEvidence: {\"sentence_id\":1,\"text\":\" Weinke is a former professional American football and baseball player.\",\"title\":\"Chris Weinke\"}\nEvidence: {\"sentence_id\":2,\"text\":\" After spending six years in the Toronto Blue Jays minor league baseball system, he enrolled at Florida State University at the age of 26, and played quarterback for the Florida State Seminoles.\",\"title\":\"Chris Weinke\"}\nEvidence: {\"sentence_id\":3,\"",
+      "crop_payload": ": {\"sentence_id\":2,\"text\":\" After spending six years in the Toronto Blue Jays minor league baseball system, he enrolled at Florida State University at the age of 26, and played quarterback for the Florida State Seminoles.\",\"title\":\"Chris Weinke\"}\nEvidence: {\"sentence_id\":3,\"text\":\" He thereafter played professionally in the NFL, where he spent most of his career with the Carolina Panthers.\",\"title\":\"Chris Weinke\"}\nEvidence: {\"sentence_id\":0,\"text\":\"Christian Matthew \\\"Chris\\\" Michalak (born January 4, 1971) is a former Major League Baseball left-handed pitcher.\",\"title\":\"Chris"
+    },
+    {
+      "id": "5a8f7e785542992414482ae6",
+      "question": "Are both Pomeranian and Sporting Lucas Terrier named after a particular person?",
+      "gold_answer": "no",
+      "prefix_answer": "no",
+      "crop_answer": "noanswer",
+      "prefix_F1": 100.0,
+      "crop_F1": 0.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"The Sporting Lucas Terrier is a small breed of dog of the terrier type.\",\"title\":\"Sporting Lucas Terrier\"}\nEvidence: {\"sentence_id\":1,\"text\":\" The breed is named for Jocelyn Lucas.\",\"title\":\"Sporting Lucas Terrier\"}\nEvidence: {\"sentence_id\":0,\"text\":\"The Lucas Terrier is a small breed of dog of the terrier type which originated in England in the late 1940s.\",\"title\":\"Lucas Terrier\"}\nEvidence: {\"sentence_id\":1,\"text\":\" The breed was named by Sir Jocelyn Lucas, 4th Baronet and all living",
+      "crop_payload": " Jem owned a black and tan Bull and Terrier named \\\"Jacko\\\", the world record holder for rat killing.\",\"title\":\"Jemmy Shaw\"}\nEvidence: {\"sentence_id\":0,\"text\":\"The American Russell Terrier Club (formerly named the English Jack Russell Terrier Club), founded by JoAnn Stoll in 1995, was the first registry in the United States to maintain the Russell Terrier as a separate breed from the Parson Russell Terrier.\",\"title\":\"American Russell Terrier Club\"}\nEvidence: {\"sentence_id\":1,\"text\":\" The American Jack Russell Terrier Club is affiliated with both the United Kennel Club and the American Kennel Club.\",\""
+    },
+    {
+      "id": "5a71446b5542994082a3e72a",
+      "question": "Who signed into law the act made to lower barriers to adoption?",
+      "gold_answer": "President Bill Clinton",
+      "prefix_answer": "noanswer",
+      "crop_answer": "Bill Clinton",
+      "prefix_F1": 0.0,
+      "crop_F1": 80.0,
+      "prefix_payload": "Evidence: {\"sentence_id\":0,\"text\":\"The Adoption 2002 Initiative was a program instituted in the United States during the late 1990s by the Clinton Administration.\",\"title\":\"Adoption 2002\"}\nEvidence: {\"sentence_id\":1,\"text\":\" Based on the Adoption and Safe Families Act of 1997, the aim of the program was to lower barriers to adoption and double the rate of adoption of children in foster care by 2002 from a 1996 figure of 27,000 to a 2002 figure of 54,000.\",\"title\":\"Adoption 2002\"}\nEvidence: {\"sentence",
+      "crop_payload": "\":\"Trade dollar (United States coin)\"}\nEvidence: {\"sentence_id\":1,\"text\":\" The idea first came about in the 1860s, when the price of silver began to decline due to increased mining efforts in the western United States.\",\"title\":\"Trade dollar (United States coin)\"}\nEvidence: {\"sentence_id\":2,\"text\":\" A bill providing in part for the issuance of the trade dollar was eventually put before Congress, where it was approved and later signed into law as the Coinage Act of 1873.\",\"title\":\"Trade dollar (United States coin)\"}\nEvidence: {\"sentence_id\":3,\"text\":\" The"
+    }
+  ]
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "5ae61dce5542992663a4f262",
+    "gold": "emotionally troubled women",
+    "static_pred": "Virginia Woolf",
+    "learned_pred": "Virginia Woolf",
+    "random_pred": "Laura Brown",
+    "complete_matched_pred": "Virginia Woolf",
+    "complete_full_pred": "Virginia Woolf"
+  },
+  {
+    "id": "5ae0cf8355429945ae959464",
+    "gold": "musician",
+    "static_pred": "Insufficient evidence",
+    "learned_pred": "musicians",
+    "random_pred": "Insufficient evidence to determine the shared artist type for Ben Folds and Nic Offer",
+    "complete_matched_pred": "alternative rock artists",
+    "complete_full_pred": "musicians"
+  },
+  {
+    "id": "5ac3a4ab5542993915413870",
+    "gold": "no",
+    "static_pred": "No",
+    "learned_pred": "Insufficient evidence",
+    "random_pred": "No",
+    "complete_matched_pred": "No",
+    "complete_full_pred": "Insufficient evidence"
+  },
+  {
+    "id": "5a83d7d05542992ef85e237a",
+    "gold": "Liberty Enlightening the World",
+    "static_pred": "Statue of Liberty",
+    "learned_pred": "Statue of Liberty",
+    "random_pred": "Statue of Liberty",
+    "complete_matched_pred": "Statue of Liberty",
+    "complete_full_pred": "Statue of Liberty"
+  },
+  {
+    "id": "5ae0d52e554299603e418469",
+    "gold": "Douglas Jackson",
+    "static_pred": "Douglas Jackson",
+    "learned_pred": "Douglas Jackson",
+    "random_pred": "Douglas Jackson",
+    "complete_matched_pred": "Douglas Jackson",
+    "complete_full_pred": "Douglas Jackson"
+  },
+  {
+    "id": "5a75e62f5542992d0ec06013",
+    "gold": "Tropicana Casino & Resort",
+    "static_pred": "Tropicana Casino & Resort Atlantic City",
+    "learned_pred": "Tropicana Casino & Resort Atlantic City",
+    "random_pred": "Tropicana Casino & Resort Atlantic City",
+    "complete_matched_pred": "Tropicana Casino & Resort Atlantic City",
+    "complete_full_pred": "Tropicana Casino & Resort Atlantic City"
+  },
+  {
+    "id": "5add84a15542997545bbbd5e",
+    "gold": "American family comedy adventure",
+    "static_pred": "animated movies",
+    "learned_pred": "animated movies",
+    "random_pred": "family adventure movies",
+    "complete_matched_pred": "animated",
+    "complete_full_pred": "animated movies"
+  },
+  {
+    "id": "5ae73eca5542991e8301cc37",
+    "gold": "the voice of The Beast",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5ae123875542997b2ef7d0fa",
+    "gold": "City Mazda Stadium",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": "Richmond Oval"
+  },
+  {
+    "id": "5ae4d8475542993aec5ec0e0",
+    "gold": "Giuseppe Verdi",
+    "static_pred": "Jeremy Sams",
+    "learned_pred": "Jeremy Sams",
+    "random_pred": "Jeremy Sams",
+    "complete_matched_pred": "Jeremy Sams",
+    "complete_full_pred": "Jeremy Sams"
+  },
+  {
+    "id": "5ac0e064554299012d1db64e",
+    "gold": "almost 3 million",
+    "static_pred": "2,886,000",
+    "learned_pred": "Insufficient evidence",
+    "random_pred": "2,886,000",
+    "complete_matched_pred": "2,886,026",
+    "complete_full_pred": "2,886,000"
+  },
+  {
+    "id": "5abe3f3455429976d4830aa8",
+    "gold": "MGM Resorts International",
+    "static_pred": "MGM Resorts International (formerly MGM Mirage)",
+    "learned_pred": "MGM Resorts International",
+    "random_pred": "MGM Resorts International",
+    "complete_matched_pred": "MGM Resorts International",
+    "complete_full_pred": "MGM Resorts International"
+  },
+  {
+    "id": "5a74c85055429916b0164218",
+    "gold": "Alistair Grant",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": "Arild Nyquist"
+  },
+  {
+    "id": "5a7326cd5542991f29ee2d11",
+    "gold": "Bruce Lee",
+    "static_pred": "Bruce Lee",
+    "learned_pred": "Bruce Lee",
+    "random_pred": "Bruce Lee",
+    "complete_matched_pred": "Bruce Lee",
+    "complete_full_pred": "Bruce Lee"
+  },
+  {
+    "id": "5a86ea445542994775f60780",
+    "gold": "the second half of the third season",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": "In the second half of the third season of Once Upon a Time"
+  },
+  {
+    "id": "5a8b99c355429950cd6afd28",
+    "gold": "Columbus",
+    "static_pred": "Columbus",
+    "learned_pred": "Columbus",
+    "random_pred": "Columbus",
+    "complete_matched_pred": "Columbus",
+    "complete_full_pred": "Columbus"
+  },
+  {
+    "id": "5a8cea40554299441c6b9f76",
+    "gold": "Gasherbrum II",
+    "static_pred": "Gasherbrum II",
+    "learned_pred": "Gasherbrum II",
+    "random_pred": "Gasherbrum II",
+    "complete_matched_pred": "Gasherbrum II",
+    "complete_full_pred": "Gasherbrum II"
+  },
+  {
+    "id": "5ae532e955429908b632656f",
+    "gold": "Chilopsis",
+    "static_pred": "No",
+    "learned_pred": "No",
+    "random_pred": "",
+    "complete_matched_pred": "No",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5a78e86f55429974737f78fb",
+    "gold": "the long history of Japan",
+    "static_pred": "the long history of Japan and the Imperial dynasty",
+    "learned_pred": "the long history of Japan and the Imperial dynasty",
+    "random_pred": "the long history of Japan and the Imperial dynasty",
+    "complete_matched_pred": "the long history of Japan and its Imperial dynasty",
+    "complete_full_pred": "the long history of Japan and the Imperial dynasty"
+  },
+  {
+    "id": "5a7e618155429949594199b0",
+    "gold": "Albany",
+    "static_pred": "Albany County",
+    "learned_pred": "Albany County",
+    "random_pred": "Albany County",
+    "complete_matched_pred": "Albany County",
+    "complete_full_pred": "Albany County"
+  },
+  {
+    "id": "5a85b2ac5542991dd0999e90",
+    "gold": "Lamar Hunt",
+    "static_pred": "Lamar Hunt",
+    "learned_pred": "Lamar Hunt",
+    "random_pred": "Lamar Hunt",
+    "complete_matched_pred": "Lamar Hunt",
+    "complete_full_pred": "Lamar Hunt"
+  },
+  {
+    "id": "5ae5c8cf554299546bf82f5f",
+    "gold": "Rockland",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5a7a83b3554299042af8f652",
+    "gold": "\"Murder Request\"",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5ae5ff635542996de7b71ace",
+    "gold": "number 8",
+    "static_pred": "6",
+    "learned_pred": "6",
+    "random_pred": "6",
+    "complete_matched_pred": "6",
+    "complete_full_pred": "6"
+  },
+  {
+    "id": "5a8b515e55429971feec46bb",
+    "gold": "Red Dead Redemption",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": "Red Dead Revolver"
+  },
+  {
+    "id": "5a8789115542994846c1cd9a",
+    "gold": "Pollywood",
+    "static_pred": "Pollywood films",
+    "learned_pred": "Pollywood films",
+    "random_pred": "Pollywood films",
+    "complete_matched_pred": "Pollywood",
+    "complete_full_pred": "Pollywood"
+  },
+  {
+    "id": "5ae0039555429942ec259be1",
+    "gold": "Chicago",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": "Chicago (Zambak) magazine"
+  },
+  {
+    "id": "5ae32b6755429928c4239644",
+    "gold": "Portal A Interactive",
+    "static_pred": "Google",
+    "learned_pred": "None",
+    "random_pred": "Google",
+    "complete_matched_pred": "Google",
+    "complete_full_pred": "Google"
+  },
+  {
+    "id": "5ab58ee6554299488d4d99d6",
+    "gold": "February 13, 1946",
+    "static_pred": "March 18, 1969",
+    "learned_pred": "June 5 1975",
+    "random_pred": "March 20, 1969",
+    "complete_matched_pred": "",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5a828c8355429966c78a6a50",
+    "gold": "Henry J. Kaiser",
+    "static_pred": "Henry J. Kaiser",
+    "learned_pred": "Henry J. Kaiser",
+    "random_pred": "Henry J. Kaiser",
+    "complete_matched_pred": "Henry J. Kaiser",
+    "complete_full_pred": "Henry J. Kaiser"
+  },
+  {
+    "id": "5add64065542995b365fab25",
+    "gold": "poet and novelist",
+    "static_pred": "They are both poets",
+    "learned_pred": "Both are poets",
+    "random_pred": "Both are poets",
+    "complete_matched_pred": "They are both poets",
+    "complete_full_pred": "Both are poets"
+  },
+  {
+    "id": "5a8eabf755429917b4a5bdaa",
+    "gold": "Bollywood playback singer",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "journalist",
+    "complete_matched_pred": "fashion designer",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5a78c7db55429974737f7882",
+    "gold": "Christina Ricci",
+    "static_pred": "Christina Ricci",
+    "learned_pred": "Christina Ricci",
+    "random_pred": "Christina Ricci",
+    "complete_matched_pred": "Christina Ricci",
+    "complete_full_pred": "Christina Ricci"
+  },
+  {
+    "id": "5a78f59755429970f5fffdf8",
+    "gold": "Michael Monroe",
+    "static_pred": "Insufficient information",
+    "learned_pred": "Insufficient information",
+    "random_pred": "Insufficient information",
+    "complete_matched_pred": "Insufficient information",
+    "complete_full_pred": "Insufficient information"
+  },
+  {
+    "id": "5add8f055542990dbb2f7e6d",
+    "gold": "Rudolf Höss",
+    "static_pred": "Kurt Gerstein",
+    "learned_pred": "Kurt Gerstein and Rudolf Höss",
+    "random_pred": "Kurt Gerstein",
+    "complete_matched_pred": "",
+    "complete_full_pred": "Kurt Gerstein"
+  },
+  {
+    "id": "5ae2d8fb55429928c42394fa",
+    "gold": "Brig Gen Augustine Warner Robins",
+    "static_pred": "Augustine Warner Robins",
+    "learned_pred": "Augustine Warner Robins",
+    "random_pred": "Augustine Warner Robins",
+    "complete_matched_pred": "",
+    "complete_full_pred": "General Augustine Warner Robins"
+  },
+  {
+    "id": "5ae113de55429901ffe4ad51",
+    "gold": "110",
+    "static_pred": "110 acres",
+    "learned_pred": "approximately 110 acres",
+    "random_pred": "110 acres",
+    "complete_matched_pred": "about 110 acres",
+    "complete_full_pred": "110 acres"
+  },
+  {
+    "id": "5a78e3b955429974737f78f1",
+    "gold": "Sherwood Stewart",
+    "static_pred": "Sherwood Stewart",
+    "learned_pred": "Sherwood Stewart",
+    "random_pred": "Sherwood Stewart",
+    "complete_matched_pred": "Sherwood Stewart",
+    "complete_full_pred": "Sherwood Stewart"
+  },
+  {
+    "id": "5abcfd7e5542993a06baf9df",
+    "gold": "Las Vegas Strip",
+    "static_pred": "Las Vegas, Nevada",
+    "learned_pred": "Las Vegas, Nevada",
+    "random_pred": "Las Vegas, Nevada",
+    "complete_matched_pred": "Las Vegas, Nevada",
+    "complete_full_pred": "Las Vegas, Nevada"
+  },
+  {
+    "id": "5ae63dad55429929b0807afe",
+    "gold": "7 January 1936",
+    "static_pred": "8 June 1936",
+    "learned_pred": "8 June 1936",
+    "random_pred": "8 June 1936",
+    "complete_matched_pred": "16 June 1936",
+    "complete_full_pred": "8 June 1936"
+  },
+  {
+    "id": "5a7b7bed5542997c3ec971bc",
+    "gold": "reigning monarch of the United Kingdom",
+    "static_pred": "Buckingham Palace",
+    "learned_pred": "Buckingham Palace",
+    "random_pred": "Buckingham Palace",
+    "complete_matched_pred": "Buckingham Palace",
+    "complete_full_pred": "Buckingham Palace"
+  },
+  {
+    "id": "5ae713af554299572ea546bb",
+    "gold": "Soviet Union",
+    "static_pred": "Lake Placid, New York (1980 Winter Olympics)",
+    "learned_pred": "Lake Placid, New York, USA",
+    "random_pred": "Lake Placid, New York, USA",
+    "complete_matched_pred": "Lake Placid",
+    "complete_full_pred": "Lake Placid, New York, USA"
+  },
+  {
+    "id": "5ae7bdc05542993210983f29",
+    "gold": "skiing and mountaineering",
+    "static_pred": "Search for \"Jakob Ragaz grand hotels Swiss attractions\".",
+    "learned_pred": "Let's perform a web search.Search query: \"Jakob Ragaz grand hotels Swiss attractions\".Search results.We need to simulate retrieval. Let's assume we find a Wikipedia page for Jakob Ragaz with details. It might mention \"Grand Hotel National in Lucerne\" and \"Grand Hotel in Interlaken\"? Actually, known Swiss grand hotels: Grand Hotel in Gstaad, Grand Hotel in St. Moritz, Grand Hotel in Davos, etc. The attractions causing them could be \"Lake Lucerne\" and \"Jungfrau region\"? Let's search more.Search query: \"Swiss tourism boom 19th century attractions lake\".We need concrete evidence. Let's search for \"Grand Hotel National Lucerne architect\".Search query: \"Jakob Ragaz Grand Hotel National\".Search results: Possibly a page about Grand Hotel National in Lucerne, built 1875, architect? Might be Jakob Ragaz? Let's search.Search query: \"Grand Hotel National Lucerne architect\".",
+    "random_pred": "Search.",
+    "complete_matched_pred": "The Swiss Alps and Lake Geneva",
+    "complete_full_pred": "Lake Lucerne and Lake Geneva"
+  },
+  {
+    "id": "5ab283d9554299449642c8d8",
+    "gold": "107 mi southwest of Louisville",
+    "static_pred": "About 115 miles west of Louisville",
+    "learned_pred": "About 115 miles west of Louisville",
+    "random_pred": "Approximately 115 miles west of Louisville",
+    "complete_matched_pred": "Approximately 115 miles",
+    "complete_full_pred": "About 115 miles west of Louisville"
+  },
+  {
+    "id": "5addc2b75542997dc7907017",
+    "gold": "four sections",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5ae5f1a8554299546bf82fd9",
+    "gold": "in Bolton",
+    "static_pred": "Bolton, England",
+    "learned_pred": "Manchester, England",
+    "random_pred": "Bolton, England",
+    "complete_matched_pred": "Bolton",
+    "complete_full_pred": "Bolton, England"
+  },
+  {
+    "id": "5a7c8e7955429935c91b521a",
+    "gold": "Hayley Catherine Rose Vivien Mills",
+    "static_pred": "Hayley Mills",
+    "learned_pred": "Hayley Mills",
+    "random_pred": "Hayley Mills",
+    "complete_matched_pred": "Hayley Mills",
+    "complete_full_pred": "Hayley Mills"
+  },
+  {
+    "id": "5ab5a7f45542997d4ad1f1a5",
+    "gold": "University",
+    "static_pred": "University",
+    "learned_pred": "University",
+    "random_pred": "University",
+    "complete_matched_pred": "",
+    "complete_full_pred": "University"
+  },
+  {
+    "id": "5ab412da5542996a3a969f15",
+    "gold": "eight",
+    "static_pred": "8 legs",
+    "learned_pred": "8 legs",
+    "random_pred": "8",
+    "complete_matched_pred": "8 legs",
+    "complete_full_pred": "8 legs"
+  },
+  {
+    "id": "5ae5a63c5542992663a4f203",
+    "gold": "Geordie",
+    "static_pred": "Geordie",
+    "learned_pred": "Geordie",
+    "random_pred": "Geordie",
+    "complete_matched_pred": "Geordie",
+    "complete_full_pred": "Geordie"
+  },
+  {
+    "id": "5a8c06bb5542995e66a47530",
+    "gold": "\"Rich Girl\"",
+    "static_pred": "Rich Girl",
+    "learned_pred": "Rich Girl",
+    "random_pred": "Rich Girl",
+    "complete_matched_pred": "Rich Girl",
+    "complete_full_pred": "Rich Girl"
+  },
+  {
+    "id": "5a73520c5542994cef4bc53f",
+    "gold": "The Little Match Girl",
+    "static_pred": "La niña de la cerilla",
+    "learned_pred": "La niña de la cerilla",
+    "random_pred": "La niña de la cerilla",
+    "complete_matched_pred": "La niña",
+    "complete_full_pred": "La niña de los fósforos"
+  },
+  {
+    "id": "5ae325bd5542991a06ce9936",
+    "gold": "Marine Corps Air Station Kaneohe Bay",
+    "static_pred": "Naval Air Station Kaneohe Bay",
+    "learned_pred": "Naval Air Station Kaneohe Bay",
+    "random_pred": "Naval Air Station Kaneohe Bay",
+    "complete_matched_pred": "Naval Air Station Barbers Point",
+    "complete_full_pred": "Naval Air Station Kaneohe Bay"
+  },
+  {
+    "id": "5a8f44135542992414482a24",
+    "gold": "Sedgwick County, Kansas",
+    "static_pred": "Sedgwick County",
+    "learned_pred": "Sedgwick County",
+    "random_pred": "Sedgwick County",
+    "complete_matched_pred": "Sedgwick County",
+    "complete_full_pred": "Sedgwick County"
+  },
+  {
+    "id": "5adff2aa554299603e4183d0",
+    "gold": "songwriter",
+    "static_pred": "Singer",
+    "learned_pred": "Singer",
+    "random_pred": "Singer",
+    "complete_matched_pred": "singers",
+    "complete_full_pred": "Singer"
+  },
+  {
+    "id": "5a888d535542997e5c09a617",
+    "gold": "Cheshire County, New Hampshire",
+    "static_pred": "Cheshire County",
+    "learned_pred": "Cheshire County",
+    "random_pred": "Cheshire County",
+    "complete_matched_pred": "Cheshire County",
+    "complete_full_pred": "Cheshire County"
+  },
+  {
+    "id": "5ac2eaab5542990b17b154a4",
+    "gold": "Ant-Man",
+    "static_pred": "Ant-Man",
+    "learned_pred": "Ant‑Man",
+    "random_pred": "Ant‑Man",
+    "complete_matched_pred": "Ant‑Man",
+    "complete_full_pred": "Ant‑Man"
+  },
+  {
+    "id": "5a7f39d055429934daa2fd2a",
+    "gold": "The Million Dollar Duck",
+    "static_pred": "The Million Dollar Duck",
+    "learned_pred": "The Million Dollar Duck",
+    "random_pred": "The Million Dollar Duck",
+    "complete_matched_pred": "The Million Dollar Duck",
+    "complete_full_pred": "The Million Dollar Duck"
+  },
+  {
+    "id": "5abd580855429924427fcfb8",
+    "gold": "country",
+    "static_pred": "country music",
+    "learned_pred": "country music",
+    "random_pred": "Country music",
+    "complete_matched_pred": "country",
+    "complete_full_pred": "country music"
+  },
+  {
+    "id": "5adbd68155429947ff173842",
+    "gold": "American Chopper",
+    "static_pred": "American Chopper",
+    "learned_pred": "American Chopper",
+    "random_pred": "American Chopper",
+    "complete_matched_pred": "Maybe they refer to \"American Chopper\" as a hit show on TLC? Could be mistaken. The answer likely \"American Chopper\". Let's verify with web.",
+    "complete_full_pred": "American Chopper"
+  },
+  {
+    "id": "5adcf3e35542994ed6169c3a",
+    "gold": "Rivington Moor",
+    "static_pred": "Bolton",
+    "learned_pred": "Bolton",
+    "random_pred": "Bolton",
+    "complete_matched_pred": "Bolton",
+    "complete_full_pred": "Bolton"
+  },
+  {
+    "id": "5a8c92dd554299653c1aa0c4",
+    "gold": "Big Pig",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5a7c80ab55429907fabeefa3",
+    "gold": "Norbertine",
+    "static_pred": "Premonstratensian (Norbertine) order",
+    "learned_pred": "Premonstratensian (Norbertine) order",
+    "random_pred": "Premonstratensian (Norbertine) order",
+    "complete_matched_pred": "Premonstratensian",
+    "complete_full_pred": "Premonstratensian (Norbertine) order"
+  },
+  {
+    "id": "5adc126f5542996e685252c5",
+    "gold": "Victoria",
+    "static_pred": "North Queensland, Australia",
+    "learned_pred": "North Queensland, Australia",
+    "random_pred": "North Queensland, Australia",
+    "complete_matched_pred": "North Queensland",
+    "complete_full_pred": "North Queensland, Australia"
+  },
+  {
+    "id": "5a749af055429979e28829b7",
+    "gold": "The Apple Dumpling Gang",
+    "static_pred": "The Apple Dumpling Gang",
+    "learned_pred": "The Apple Dumpling Gang",
+    "random_pred": "The Apple Dumpling Gang",
+    "complete_matched_pred": "The Apple Dumpling Gang",
+    "complete_full_pred": "The Apple Dumpling Gang"
+  },
+  {
+    "id": "5a8b78775542997f31a41d3d",
+    "gold": "\"Peshwa\" (Prime Minister)",
+    "static_pred": "Peshwa (Prime Minister)",
+    "learned_pred": "Peshwa (Prime Minister)",
+    "random_pred": "Peshwa (Prime Minister)",
+    "complete_matched_pred": "Peshwa",
+    "complete_full_pred": "Peshwa (Prime Minister)"
+  },
+  {
+    "id": "5a848eff5542990548d0b2cd",
+    "gold": "Missouri River",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5a73bddb55429978a71e909d",
+    "gold": "Mohamed Sanu Sr.",
+    "static_pred": "Mohamed Sanu",
+    "learned_pred": "Mohamed Sanu",
+    "random_pred": "Mohamed Sanu",
+    "complete_matched_pred": "Mohamed Sanu",
+    "complete_full_pred": "Mohamed Sanu"
+  },
+  {
+    "id": "5abbee315542993f40c73c1d",
+    "gold": "yes",
+    "static_pred": "National Review only",
+    "learned_pred": "National Review only",
+    "random_pred": "No",
+    "complete_matched_pred": "I can read National Review but have no evidence of reading Bicycling",
+    "complete_full_pred": "No"
+  },
+  {
+    "id": "5ae2cda55542992decbdcdb7",
+    "gold": "Bryan Shelton White",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": "Bryan White"
+  },
+  {
+    "id": "5a79c9c05542994bb94570a5",
+    "gold": "Robert \"Bobby\" Bunda",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": "Hawaii State House of Representatives"
+  },
+  {
+    "id": "5ae72b96554299572ea5474e",
+    "gold": "Mezzanine",
+    "static_pred": "Mezzanine",
+    "learned_pred": "Mezzanine",
+    "random_pred": "Mezzanine",
+    "complete_matched_pred": "Mezzanine",
+    "complete_full_pred": "Mezzanine"
+  },
+  {
+    "id": "5abb11c15542992ccd8e7ef8",
+    "gold": "March 30, 2025",
+    "static_pred": "[FAILED]",
+    "learned_pred": "[FAILED]",
+    "random_pred": "[FAILED]",
+    "complete_matched_pred": "[FAILED]",
+    "complete_full_pred": "[FAILED]"
+  },
+  {
+    "id": "5abface75542990832d3a196",
+    "gold": "Honey Irani",
+    "static_pred": "Honey Irani",
+    "learned_pred": "Honey Irani",
+    "random_pred": "Honey Irani",
+    "complete_matched_pred": "Honey Irani",
+    "complete_full_pred": "Honey Irani"
+  },
+  {
+    "id": "5a7577145542996c70cfaf03",
+    "gold": "Sierra Nevada National Park",
+    "static_pred": "Sierra Nevada National Park",
+    "learned_pred": "Sierra Nevada National Park",
+    "random_pred": "Sierra Nevada National Park",
+    "complete_matched_pred": "Sierra Nevada National Park",
+    "complete_full_pred": "Sierra Nevada National Park"
+  },
+  {
+    "id": "5ae1e9635542997f29b3c19e",
+    "gold": "Grand Junction Regional Airport",
+    "static_pred": "Grand Junction Regional Airport",
+    "learned_pred": "Grand Junction Regional Airport",
+    "random_pred": "Grand Junction Regional Airport",
+    "complete_matched_pred": "Grand Junction Regional Airport",
+    "complete_full_pred": "Grand Junction Regional Airport"
+  },
+  {
+    "id": "5abb14d85542996cc5e49f92",
+    "gold": "no",
+    "static_pred": "No",
+    "learned_pred": "No",
+    "random_pred": "No",
+    "complete_matched_pred": "No",
+    "complete_full_pred": "No"
+  },
+  {
+    "id": "5ae2a9c6554299492dc91c42",
+    "gold": "Tumi Holdings, Inc.",
+    "static_pred": "Tumi",
+    "learned_pred": "Tumi",
+    "random_pred": "Tumi",
+    "complete_matched_pred": "Tumi",
+    "complete_full_pred": "Tumi"
+  },
+  {
+    "id": "5ae70369554299572ea54683",
+    "gold": "1918",
+    "static_pred": "1918",
+    "learned_pred": "1918",
+    "random_pred": "1918",
+    "complete_matched_pred": "1918",
+    "complete_full_pred": "1918"
+  },
+  {
+    "id": "5ae0de1455429924de1b71b4",
+    "gold": "orange juice",
+    "static_pred": "ice, orange juice, sweetener, milk, powdered egg whites, and vanilla flavoring",
+    "learned_pred": "a mixture of ice, orange juice, sweetener, milk, powdered egg whites and vanilla flavoring",
+    "random_pred": "ice, orange juice, sweetener, milk, powdered egg whites, and vanilla flavoring",
+    "complete_matched_pred": "ice, orange juice, sweetener, milk, powdered egg whites, vanilla flavoring",
+    "complete_full_pred": "ice, orange juice, sweetener, milk, powdered egg whites and vanilla flavoring"
+  },
+  {
+    "id": "5ac3d667554299076e296ca5",
+    "gold": "Appenzeller Sennenhund",
+    "static_pred": "Appenzeller Sennenhund",
+    "learned_pred": "Appenzeller Sennenhund",
+    "random_pred": "Appenzeller Sennenhund",
+    "complete_matched_pred": "Appenzeller Sennenhund",
+    "complete_full_pred": "Appenzeller Sennenhund"
+  },
+  {
+    "id": "5a88d745554299206df2b378",
+    "gold": "director",
+    "static_pred": "film director",
+    "learned_pred": "film director",
+    "random_pred": "film director",
+    "complete_matched_pred": "film director",
+    "complete_full_pred": "film director"
+  },
+  {
+    "id": "5a83438955429966c78a6b61",
+    "gold": "Bill McCutcheon",
+    "static_pred": "Al Lewis",
+    "learned_pred": "Al Lewis",
+    "random_pred": "Search web for KWPW owner.Search.",
+    "complete_matched_pred": "",
+    "complete_full_pred": "Al Lewis"
+  },
+  {
+    "id": "5ab1d2585542997061209581",
+    "gold": "yes",
+    "static_pred": "Insufficient information",
+    "learned_pred": "Insufficient information",
+    "random_pred": "Cannot determine",
+    "complete_matched_pred": "",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5abc3c545542993a06baf89f",
+    "gold": "Mexico",
+    "static_pred": "Mexico",
+    "learned_pred": "Mexico",
+    "random_pred": "Mexico",
+    "complete_matched_pred": "Mexico",
+    "complete_full_pred": "Mexico"
+  },
+  {
+    "id": "5a734ca85542994cef4bc51b",
+    "gold": "tile-based board game",
+    "static_pred": "board game",
+    "learned_pred": "board game",
+    "random_pred": "board game",
+    "complete_matched_pred": "board game",
+    "complete_full_pred": "board game"
+  },
+  {
+    "id": "5ab5b0f75542992aa134a38c",
+    "gold": "\"Mona Leaves-a\"",
+    "static_pred": "Mona Leaves-a",
+    "learned_pred": "Mona Leaves-a",
+    "random_pred": "Mona Leaves-a",
+    "complete_matched_pred": "Mona Leaves-a",
+    "complete_full_pred": "Mona Leaves‑a"
+  },
+  {
+    "id": "5a886886554299206df2b258",
+    "gold": "international football competition",
+    "static_pred": "FIFA Women's World Cup",
+    "learned_pred": "FIFA Women's World Cup",
+    "random_pred": "FIFA Women's World Cup",
+    "complete_matched_pred": "FIFA Women’s World Cup",
+    "complete_full_pred": "FIFA Women’s World Cup"
+  },
+  {
+    "id": "5a73235c5542994cef4bc475",
+    "gold": "Jones was born in Rosedale, Indiana",
+    "static_pred": "Yes",
+    "learned_pred": "Grover Jones",
+    "random_pred": "Grover Jones",
+    "complete_matched_pred": "Yes",
+    "complete_full_pred": "Yes"
+  },
+  {
+    "id": "5a80993d5542996402f6a589",
+    "gold": "Spike Jonze",
+    "static_pred": "Steve Golin",
+    "learned_pred": "Steve Golin",
+    "random_pred": "Steve Golin",
+    "complete_matched_pred": "Steve Golin",
+    "complete_full_pred": "Steve Golin"
+  },
+  {
+    "id": "5a89d26b5542992e4fca83d1",
+    "gold": "Donald Duck",
+    "static_pred": "Donald Duck",
+    "learned_pred": "Donald Duck",
+    "random_pred": "Donald Duck",
+    "complete_matched_pred": "Donald Duck",
+    "complete_full_pred": "Donald Duck"
+  },
+  {
+    "id": "5abd2eab5542992ac4f38210",
+    "gold": "Erinsborough",
+    "static_pred": "Erinsborough",
+    "learned_pred": "Erinsborough",
+    "random_pred": "Erinsborough",
+    "complete_matched_pred": "Erinsborough",
+    "complete_full_pred": "Erinsborough"
+  },
+  {
+    "id": "5a7100435542994082a3e4a3",
+    "gold": "Shikashika is a shaved ice drink",
+    "static_pred": "No",
+    "learned_pred": "No",
+    "random_pred": "No",
+    "complete_matched_pred": "No",
+    "complete_full_pred": "No"
+  },
+  {
+    "id": "5ade99295542992fa25da7d8",
+    "gold": "linguistic analysis",
+    "static_pred": "Scholars base the likelihood of collaboration on the fact that the early quarto editions (1594‑1601) of the play were published anonymously and textual analysis reveals multiple authorial hands, indicating Shakespeare likely co‑authored it (often proposed with George Peele)",
+    "learned_pred": "The play’s early quartos were anonymous and textual analysis suggests co‑authorship (likely with George Peele)",
+    "random_pred": "Anonymous early quartos and textual evidence pointing to George Peele as co‑author",
+    "complete_matched_pred": "[FAILED]",
+    "complete_full_pred": "The play’s early quarto editions (1594‑1601) were published anonymously, and textual analysis of the text points to a co‑author—most plausibly George Peele"
+  },
+  {
+    "id": "5abbfbcf55429965836003cf",
+    "gold": "National Mall",
+    "static_pred": "Washington, D.C",
+    "learned_pred": "Washington, D.C",
+    "random_pred": "Washington, D.C",
+    "complete_matched_pred": "Washington, D.C",
+    "complete_full_pred": "Washington, D.C"
+  },
+  {
+    "id": "5a7b5aff55429931da12ca6d",
+    "gold": "Bangalore University",
+    "static_pred": "Visvesvaraya Technological University",
+    "learned_pred": "No evidence found",
+    "random_pred": "Bangalore University",
+    "complete_matched_pred": "Bangalore University",
+    "complete_full_pred": "The provided documents do not contain any information linking Visvesvaraya College of Engineering to a specific university that is a member of the Association of Indian Universities. External knowledge indicates that UVCE is affiliated with Visvesvaraya Technological University (VTU), which is an AIU member, but this is not supported"
+  },
+  {
+    "id": "5a8b051255429971feec460e",
+    "gold": "U.S. Senator Pat McCarran",
+    "static_pred": "Pat McCarran",
+    "learned_pred": "Pat McCarran",
+    "random_pred": "Pat McCarran",
+    "complete_matched_pred": "Pat McCarran",
+    "complete_full_pred": "Pat McCarran"
+  },
+  {
+    "id": "5a8c03415542995e66a4752a",
+    "gold": "Grand Duke Konstantin Konstantinovich of Russia",
+    "static_pred": "Grand Duke Konstantin Konstantinovich of Russia",
+    "learned_pred": "Grand Duke Konstantin Konstantinovich of Russia",
+    "random_pred": "Grand Duke Konstantin Konstantinovich of Russia",
+    "complete_matched_pred": "Grand Duke Konstantin Konstantinovich of Russia",
+    "complete_full_pred": "Grand Duke Konstantin Konstantinovich of Russia"
+  },
+  {
+    "id": "5ae324775542994393b9e62f",
+    "gold": "16th",
+    "static_pred": "",
+    "learned_pred": "",
+    "random_pred": "",
+    "complete_matched_pred": "",
+    "complete_full_pred": ""
+  },
+  {
+    "id": "5ab864945542990e739ec8e1",
+    "gold": "Nobel Prize",
+    "static_pred": "Nobel Prize in Physics",
+    "learned_pred": "Nobel Prize in Physics",
+    "random_pred": "Nobel Prize in Physics",
+    "complete_matched_pred": "Nobel Prize",
+    "complete_full_pred": "Nobel Prize in Physics"
+  }
+]

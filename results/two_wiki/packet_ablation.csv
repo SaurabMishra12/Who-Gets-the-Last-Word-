@@ -1,0 +1,73 @@
+qid,cohort,condition,answer,em,f1
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,facts_only,XRay Magazine was published first.,0,57.14285714285715
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,genuine,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,placebo,XRay Magazine,100,100.0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,facts_only,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,genuine,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,placebo,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,facts_only,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,genuine,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,placebo,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,facts_only,The Gentle Art Of Burglary,100,100.0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,genuine,The Gentle Art Of Burglary,100,100.0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,placebo,noanswer,0,0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,facts_only,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,genuine,Chanakya Shapatham,100,100.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,placebo,noanswer,0,0
+56d3a3a20bb011ebab90acde48001122,extension130,facts_only,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,genuine,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,placebo,Hermann Otto II of Limburg Stirum,100,100.0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,facts_only,Man's Search for Happiness was released earlier.,0,72.72727272727273
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,genuine,Man's Search for Happiness was released earlier.,0,72.72727272727273
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,placebo,noanswer,0,0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,facts_only,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,genuine,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,placebo,noanswer,0,0
+683cfb340bb011ebab90acde48001122,extension130,facts_only,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,genuine,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,placebo,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,facts_only,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,genuine,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,placebo,noanswer,0,0
+76d3ccb20bde11eba7f7acde48001122,extension130,facts_only,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,genuine,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,placebo,noanswer,0,0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,facts_only,Charles Crawford Davis,100,100.0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,genuine,Charles Crawford Davis died later.,0,74.99999999999999
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,placebo,noanswer,0,0
+887f71380bb011ebab90acde48001122,extension130,facts_only,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,genuine,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,placebo,noanswer,0,0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,facts_only,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,genuine,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,placebo,noanswer,0,0
+923054040bb011ebab90acde48001122,extension130,facts_only,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,genuine,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,placebo,King Tarabya of Ava,0,85.71428571428571
+b1046ffa0bdd11eba7f7acde48001122,extension130,facts_only,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,genuine,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,placebo,Eindhoven,0,0
+b428fe9a0baf11ebab90acde48001122,extension130,facts_only,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,genuine,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,placebo,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,facts_only,noanswer,0,0
+ba015944086611ebbd5eac1f6bf848b6,extension130,genuine,"Yes, both directors are American.",0,0
+ba015944086611ebbd5eac1f6bf848b6,extension130,placebo,noanswer,0,0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,facts_only,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,genuine,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,placebo,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,facts_only,No,0,0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,genuine,"Yes, both directors share American nationality.",0,0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,placebo,noanswer,0,0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,facts_only,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,genuine,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,placebo,noanswer,0,0
+d3e9671e0bdd11eba7f7acde48001122,extension130,facts_only,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,genuine,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,placebo,"Trinity College, Dublin",100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,facts_only,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,genuine,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,placebo,Helen Boughton-Leigh,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,facts_only,A Pistol for Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,genuine,A Pistol For Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,placebo,noanswer,0,0

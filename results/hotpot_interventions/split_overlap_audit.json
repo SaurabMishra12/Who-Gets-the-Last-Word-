@@ -1,0 +1,63 @@
+{
+  "counts": {
+    "train": 100,
+    "validation": 30,
+    "heldout": 300,
+    "pilot": 12
+  },
+  "types": {
+    "train": {
+      "comparison": 20,
+      "bridge": 80
+    },
+    "validation": {
+      "comparison": 6,
+      "bridge": 24
+    },
+    "heldout": {
+      "bridge": 240,
+      "comparison": 60
+    },
+    "pilot": {
+      "comparison": 2,
+      "bridge": 10
+    }
+  },
+  "pairwise_checks": {
+    "train__validation": {
+      "id_overlap": 0,
+      "normalized_question_overlap": 0,
+      "candidate_title_overlap": 0
+    },
+    "train__heldout": {
+      "id_overlap": 0,
+      "normalized_question_overlap": 0,
+      "candidate_title_overlap": 0
+    },
+    "train__pilot": {
+      "id_overlap": 0,
+      "normalized_question_overlap": 0,
+      "candidate_title_overlap": 0
+    },
+    "validation__heldout": {
+      "id_overlap": 0,
+      "normalized_question_overlap": 0,
+      "candidate_title_overlap": 0
+    },
+    "validation__pilot": {
+      "id_overlap": 0,
+      "normalized_question_overlap": 0,
+      "candidate_title_overlap": 0
+    },
+    "heldout__pilot": {
+      "id_overlap": 0,
+      "normalized_question_overlap": 0,
+      "candidate_title_overlap": 0
+    }
+  },
+  "heldout_bytes_unchanged": {
+    "gold": true,
+    "inputs": true
+  },
+  "scope": "Exact IDs, normalized questions and NFKC/casefold candidate titles only; not semantic near duplicates or pretraining contamination"
+}

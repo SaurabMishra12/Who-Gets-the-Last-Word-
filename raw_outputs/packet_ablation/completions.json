@@ -1,0 +1,4970 @@
+[
+  {
+    "request_key": "0f66c6a4ee9ee5d6d7e8e61a2c2707e15fd6aa0e9589219e487d7ea1b9562ec1",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 451,
+      "completion_tokens_details": null,
+      "prompt_tokens": 678,
+      "prompt_tokens_details": null,
+      "total_tokens": 1129
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Johann Joachim Bellermann (death date)\",\n    \"Helen Boughton-Leigh (death date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "14a39f6ff286db8c55c3ee26c409ad0587c678f191571504761817c1ec384ab6",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 438,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1394,
+      "prompt_tokens_details": null,
+      "total_tokens": 1832
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Karl Josef Maximilian of Limburg Stirum was the son of Alois of Limburg Stirum (source: Karl Josef of Limburg Stirum).\",\n    \"Philipp Wilhelm of Limburg Stirum was the second son of Moritz Hermann of Limburg (source: Philipp Wilhelm of Limburg Stirum).\",\n    \"Ferdinand Gotthard Meinrad of Limburg Stirum was the son of Maximilian Wilhelm of Limburg Stirum (source: Ferdinand I of Limburg Stirum).\"\n  ],\n  \"missing_entities\": [\n    \"Friedrich Karl Of Limburg Stirum (paternal grandfather)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "1b1a70a50675a678dce75bc3fc1f526c2a84603d60cf9f740b526358ca295344",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 510,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1710,
+      "prompt_tokens_details": null,
+      "total_tokens": 2220
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Friedrich Karl of Limburg Stirum is the son of Otto Leopold of Limburg Stirum (source: Friedrich Karl of Limburg Stirum).\",\n    \"Otto Leopold of Limburg Stirum is the son of Hermann Otto II of Limburg Stirum (source: Otto Leopold of Limburg Stirum).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Hermann Otto II of Limburg Stirum\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "1cf588428360730f6dfe34c15ae9a6bd58bec295f822a1ff909c52985c11bc79",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 473,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1465,
+      "prompt_tokens_details": null,
+      "total_tokens": 1938
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Georg, Prince of Schaumburg-Lippe was born 10 October 1846 (peer packet)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"10 October 1846\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "1dd8e0ea8b4715631aad7d2a0c1c68f636f5862913e166b1a31d8082d2d07605",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 902,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1387,
+      "prompt_tokens_details": null,
+      "total_tokens": 2289
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Friedrich Karl of Limburg Stirum is the son of Otto Leopold of Limburg Stirum (source: Friedrich Karl of Limburg Stirum).\",\n    \"Otto Leopold of Limburg Stirum is the son of Hermann Otto II of Limburg Stirum (source: Otto Leopold of Limburg Stirum).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Hermann Otto II of Limburg Stirum\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "1ebbd79a29643db742bcf2309e825e56f1bfa10c27bad010740123b4bf81ece5",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 440,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1465,
+      "prompt_tokens_details": null,
+      "total_tokens": 1905
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Georg, Prince of Schaumburg-Lippe was born 10 October 1846 (peer packet 1)\",\n    \"Prince Friedrich Christian of Schaumburg-Lippe was the youngest son of Georg, Prince of Schaumburg-Lippe (d5:0)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"10 October 1846\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "20c82746871092360aa01333d41a845dbc9ae7e4c5fa503581dfd8aa3a4945ad",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 502,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1185,
+      "prompt_tokens_details": null,
+      "total_tokens": 1687
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"George II was the son of George I, Prince of Waldeck and Pyrmont and Countess Princess Augusta of Schwarzburg-Sondershausen (source: George II, Prince of Waldeck and Pyrmont).\",\n    \"George Victor was the son of George II, Prince of Waldeck and Pyrmont (source: George Victor, Prince of Waldeck and Pyrmont).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Countess Princess Augusta of Schwarzburg-Sondershausen\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "2bd7eb357b0269cca5e7f49014c4e1a82abb82e6166261c22953dbba07f90b63",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 414,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1185,
+      "prompt_tokens_details": null,
+      "total_tokens": 1599
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Countess Princess Augusta of Schwarzburg-Sondershausen was the mother of George II, Prince of Waldeck and Pyrmont (source: George II, Prince of Waldeck and Pyrmont).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Countess Princess Augusta of Schwarzburg-Sondershausen\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "2d1879534d56c03c156f50f0ea6ce28cd73e1b14e07286d1615885050d70c96c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 506,
+      "completion_tokens_details": null,
+      "prompt_tokens": 921,
+      "prompt_tokens_details": null,
+      "total_tokens": 1427
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"George Victor, Prince of Waldeck and Pyrmont was the son of George II, Prince of Waldeck and Pyrmont (source: George Victor, Prince of Waldeck and Pyrmont).\",\n    \"George II, Prince of Waldeck and Pyrmont was the son of George I, Prince of Waldeck and Pyrmont and Countess Princess Augusta of Schwarzburg-Sondershausen (source: George II, Prince of Waldeck and Pyrmont).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Countess Princess Augusta of Schwarzburg-Sondershausen\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "32dfab7826f1f06d80abc9f54a737c4565a41efd9d98649a721b79db305a0414",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 276,
+      "completion_tokens_details": null,
+      "prompt_tokens": 678,
+      "prompt_tokens_details": null,
+      "total_tokens": 954
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Johann Joachim Bellermann (death date)\",\n    \"Helen Boughton-Leigh (death date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "35ffed74f4c3636d0571c19d8b673e57313ae4f5453df7e0badf774bed1e4009",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 621,
+      "completion_tokens_details": null,
+      "prompt_tokens": 2120,
+      "prompt_tokens_details": null,
+      "total_tokens": 2741
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Robert de Brus, 4th Lord of Annandale was the son of William de Brus, 3rd Lord of Annandale (peer packet 1).\",\n    \"William de Brus, 3rd Lord of Annandale was the second but eldest surviving son of Robert de Brus, 2nd Lord of Annandale (peer packet 2).\",\n    \"Robert de Brus, 2nd Lord of Annandale was the son, perhaps the second son, of Robert de Brus, 1st Lord of Annandale (d8:1).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Robert de Brus, 2nd Lord of Annandale\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "3dec602bf925d28296a0b10de376ea982f87cd71ce50fc77f0f7caaf3cade77a",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 273,
+      "completion_tokens_details": null,
+      "prompt_tokens": 859,
+      "prompt_tokens_details": null,
+      "total_tokens": 1132
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Helen Boughton-Leigh died on December 28, 1999 (source Helen Boughton-Leigh).\",\n    \"Johann Joachim Bellermann died on 25 October 1842 (source Johann Joachim Bellermann).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Helen Boughton-Leigh\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "4056ed6eb0ec4794a3c132d6af33aa4092595e46c9530a4591d886002ed1568f",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 559,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1030,
+      "prompt_tokens_details": null,
+      "total_tokens": 1589
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"George Victor, Prince of Waldeck and Pyrmont was the son of George II, Prince of Waldeck and Pyrmont (source: George Victor, Prince of Waldeck and Pyrmont).\",\n    \"George II, Prince of Waldeck and Pyrmont was the son of George I, Prince of Waldeck and Pyrmont and Countess Princess Augusta of Schwarzburg-Sondershausen (source: George II, Prince of Waldeck and Pyrmont).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Countess Princess Augusta of Schwarzburg-Sondershausen\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "40d79c4690d7aedd3489f5aae0e13ca1b9ea2621e0ca48637de9d887da22afc5",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 625,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1185,
+      "prompt_tokens_details": null,
+      "total_tokens": 1810
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"George Victor, Prince of Waldeck and Pyrmont was the son of George II, Prince of Waldeck and Pyrmont and his wife Princess Emma of Anhalt-Bernburg-Schaumburg-Hoym (source: George Victor, Prince of Waldeck and Pyrmont).\",\n    \"George Victor, Prince of Waldeck and Pyrmont was the 3rd sovereign Prince of the German state of Waldeck and Pyrmont (source: George Victor, Prince of Waldeck and Pyrmont).\"\n  ],\n  \"missing_entities\": [\n    \"Mother of George II, Prince of Waldeck and Pyrmont (paternal grandmother of George Victor)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "48289d270562ad70eaeb0600c3cc0ae25e046df0a4a3dc951ae20678d97c2d76",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 329,
+      "completion_tokens_details": null,
+      "prompt_tokens": 797,
+      "prompt_tokens_details": null,
+      "total_tokens": 1126
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grace of My Heart was written and directed by Allison Anders (source: Grace of My Heart).\",\n    \"A Slave of Vanity was directed and written by Henry Otto (source: A Slave of Vanity).\",\n    \"Allison Anders is an American independent film director (source: d2).\"\n  ],\n  \"missing_entities\": [\n    \"Country of Henry Otto\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "4b6392ef2225dae46d6ff9c9c30ad2cdac83d58be80357c1f3a0387f0c66617b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 261,
+      "completion_tokens_details": null,
+      "prompt_tokens": 758,
+      "prompt_tokens_details": null,
+      "total_tokens": 1019
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Johann Joachim Bellermann (date of death)\",\n    \"Helen Boughton-Leigh (date of death)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "52a292d0dc5b0df7224485b0af319dcc2a1f852bdaea1633713d2164d48bd364",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 402,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1388,
+      "prompt_tokens_details": null,
+      "total_tokens": 1790
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince Friedrich Christian of Schaumburg-Lippe was the youngest son of Georg, Prince of Schaumburg-Lippe and his consort Princess Marie Anne of Saxe-Altenburg. (peer packet 0)\",\n    \"Georg, Prince of Schaumburg-Lippe was born 10 October 1846. (d1)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"10 October 1846\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "55e747853fd75cfb7713ebfda5d064a2eb5c8a3bf2d2950b450078120c49872a",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 554,
+      "completion_tokens_details": null,
+      "prompt_tokens": 953,
+      "prompt_tokens_details": null,
+      "total_tokens": 1507
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince Friedrich Christian of Schaumburg-Lippe was the youngest son of Georg, Prince of Schaumburg-Lippe (source: Prince Friedrich Christian of Schaumburg-Lippe)\",\n    \"Georg, Prince of Schaumburg-Lippe was born 10 October 1846 (source: Georg, Prince of Schaumburg-Lippe)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"10 October 1846\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "58efb8cc1b3850ff989fd5dac6cf75152b22e0e95cd5dbcb49568afb28567145",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 391,
+      "completion_tokens_details": null,
+      "prompt_tokens": 839,
+      "prompt_tokens_details": null,
+      "total_tokens": 1230
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Allison Anders is an American independent film director (source: d2)\",\n    \"Grace of My Heart was written and directed by Allison Anders (source: d3)\",\n    \"A Slave of Vanity was directed and written by Henry Otto (source: d5)\"\n  ],\n  \"missing_entities\": [\n    \"nationality of Henry Otto\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "5925b62f3b825b54df2be7040aa72b9e6c3f16304032ced1d15d75cfc7764bce",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 763,
+      "completion_tokens_details": null,
+      "prompt_tokens": 2120,
+      "prompt_tokens_details": null,
+      "total_tokens": 2883
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Robert de Brus, 2nd Lord of Annandale was the son, perhaps the second son, of Robert de Brus, 1st Lord of Annandale (source: d8:1)\",\n    \"Robert de Brus, 1st Lord of Annandale (–1141) was the first of the Bruce dynasty to hold lands in Scotland (source: d6:0)\"\n  ],\n  \"missing_entities\": [\n    \"Robert de Brus, 3rd Lord of Annandale (father of the 4th Lord)\",\n    \"Robert de Brus, 4th Lord of Annandale (paternal grandfather needed)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "5f45ab4ffb464b71fd3547ec77703384e6b4d0153672551c36f7dc111bd5b341",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 312,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1298,
+      "prompt_tokens_details": null,
+      "total_tokens": 1610
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Friedrich Karl of Limburg Stirum is the son of Otto Leopold of Limburg Stirum (source: Friedrich Karl of Limburg Stirum)\",\n    \"Otto Leopold of Limburg Stirum is the son of Hermann Otto II of Limburg Stirum (source: Otto Leopold of Limburg Stirum)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Hermann Otto II of Limburg Stirum\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "62f913f3165776ee353c5443b11a83bf1519b7ce76caf78136415485c3415ec2",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 229,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1298,
+      "prompt_tokens_details": null,
+      "total_tokens": 1527
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Friedrich Karl of Limburg Stirum is the son of Otto Leopold of Limburg Stirum (source: Friedrich Karl of Limburg Stirum).\",\n    \"Otto Leopold of Limburg Stirum is the son of Hermann Otto II of Limburg Stirum (source: Otto Leopold of Limburg Stirum).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Hermann Otto II of Limburg Stirum\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "644c56ca1928b22573d3075b81ce4dfa7dd57366d4c7dc60e2dbccecafbe1fe2",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 339,
+      "completion_tokens_details": null,
+      "prompt_tokens": 839,
+      "prompt_tokens_details": null,
+      "total_tokens": 1178
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grace of My Heart was written and directed by Allison Anders (source: Grace of My Heart).\",\n    \"A Slave of Vanity was directed and written by Henry Otto (source: A Slave of Vanity).\"\n  ],\n  \"missing_entities\": [\n    \"nationality of Allison Anders\",\n    \"nationality of Henry Otto\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "66d02b5794f708eb0cabfdf5cbf186e01b7f8b90e4282482ef997cc05f5e020e",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 306,
+      "completion_tokens_details": null,
+      "prompt_tokens": 797,
+      "prompt_tokens_details": null,
+      "total_tokens": 1103
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grace of My Heart was written and directed by Allison Anders (source: Grace of My Heart).\",\n    \"A Slave of Vanity was directed and written by Henry Otto (source: A Slave of Vanity).\",\n    \"Allison Anders is an American independent film director (source: d2).\"\n  ],\n  \"missing_entities\": [\n    \"Country of director Henry Otto\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6a8b8c808cf109dfe4ec6c6237e8e5b734ac4b6ce28f49ad56b3e16f7805369d",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 329,
+      "completion_tokens_details": null,
+      "prompt_tokens": 754,
+      "prompt_tokens_details": null,
+      "total_tokens": 1083
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Helen Boughton-Leigh died on December 28, 1999 (source: Helen Boughton-Leigh).\",\n    \"Johann Joachim Bellermann died on 25 October 1842 (source: Johann Joachim Bellermann).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Helen Boughton-Leigh\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6b8450e145465df70e3afe8dca4bc688b51fce505e6b76b2678903af15072632",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 704,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1855,
+      "prompt_tokens_details": null,
+      "total_tokens": 2559
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Robert de Brus, 4th Lord of Annandale was the son of William de Brus, 3rd Lord of Annandale (source: Robert de Brus, 4th Lord of Annandale).\",\n    \"William de Brus, 3rd Lord of Annandale was the son of Robert de Brus, 2nd Lord of Annandale (source: William de Brus, 3rd Lord of Annandale).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Robert de Brus, 2nd Lord of Annandale\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6b8c3b9851974399b3f7c283a99f260c0cf7eb0a31b0f3e32dd939f1acd2139b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 459,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1030,
+      "prompt_tokens_details": null,
+      "total_tokens": 1489
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"George Victor, Prince of Waldeck and Pyrmont was the son of George II, Prince of Waldeck and Pyrmont (source: peer packet).\",\n    \"George II, Prince of Waldeck and Pyrmont was the son of George I, Prince of Waldeck and Pyrmont and Countess Princess Augusta of Schwarzburg-Sondershausen (source: George II, Prince of Waldeck and Pyrmont).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Countess Princess Augusta of Schwarzburg-Sondershausen\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6c3fd5afb527f25c563251bad8393f0d551c0111d8fd1407fc978ec282964f3f",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 366,
+      "completion_tokens_details": null,
+      "prompt_tokens": 970,
+      "prompt_tokens_details": null,
+      "total_tokens": 1336
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Henry Otto was an American silent film actor, director, producer, and screenwriter (source: Henry Otto).\",\n    \"Allison Anders is an American independent film director (source: d2).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes, both directors are American.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6c6516eb9b420674ea7535bd62d9dfc21b40dc2e84951e0a8b07ea4bcbae96e2",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 393,
+      "completion_tokens_details": null,
+      "prompt_tokens": 839,
+      "prompt_tokens_details": null,
+      "total_tokens": 1232
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Allison Anders is an American independent film director whose films include \\\"Grace of My Heart\\\" (source: d2).\",\n    \"Grace of My Heart was written and directed by Allison Anders (source: d3).\",\n    \"A Slave of Vanity is a 1920 American silent drama film starring Pauline Frederick, and directed and written by Henry Otto (source: d5).\"\n  ],\n  \"missing_entities\": [\n    \"nationality of Henry Otto\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6f7283b8b3e1f572b494d5e4d835e2282e3c6d12b9fc7b9ce2c42e6f6cdd2a24",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 309,
+      "completion_tokens_details": null,
+      "prompt_tokens": 758,
+      "prompt_tokens_details": null,
+      "total_tokens": 1067
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Helen Boughton-Leigh died on December 28, 1999 (source: Helen Boughton-Leigh).\",\n    \"Johann Joachim Bellermann died on 25 October 1842 (source: Johann Joachim Bellermann).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Helen Boughton-Leigh\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "85f7cfab74e45c7de028d272f1f8f3b4fbe8dd987241eff695901dc161a2fc56",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 219,
+      "completion_tokens_details": null,
+      "prompt_tokens": 797,
+      "prompt_tokens_details": null,
+      "total_tokens": 1016
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Allison Anders is an American independent film director whose films include \\\"Grace of My Heart\\\" (source: d2)\"\n  ],\n  \"missing_entities\": [\n    \"Director of \\\"A Slave Of Vanity\\\" and their country\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "89444f65e87e03cf5def0d59c4d6754bd75fac7920a673515eb0761df0fde252",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 515,
+      "completion_tokens_details": null,
+      "prompt_tokens": 921,
+      "prompt_tokens_details": null,
+      "total_tokens": 1436
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Princess Marie of Waldeck and Pyrmont was the third daughter of George Victor, Prince of Waldeck and Pyrmont and his wife, Princess Helena of Nassau (source: Princess Marie of Waldeck and Pyrmont).\",\n    \"Princess Elisabeth of Waldeck and Pyrmont was the youngest daughter of George Victor, Prince of Waldeck and Pyrmont and his wife (source: Princess Elisabeth of Waldeck and Pyrmont).\"\n  ],\n  \"missing_entities\": [\n    {\n      \"entity\": \"George Victor, Prince of Waldeck and Pyrmont\",\n      \"relation\": \"paternal grandmother\"\n    }\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "8c37e1d99232dd814a63012091002b7e75156a8f3d027c2006661f01ed4c8fe6",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 675,
+      "completion_tokens_details": null,
+      "prompt_tokens": 2406,
+      "prompt_tokens_details": null,
+      "total_tokens": 3081
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Robert de Brus, 4th Lord of Annandale was the son of William de Brus, 3rd Lord of Annandale (source: Robert de Brus, 4th Lord of Annandale)\",\n    \"William de Brus, 3rd Lord of Annandale was the second but eldest surviving son of Robert de Brus, 2nd Lord of Annandale (source: peer packet)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Robert de Brus, 2nd Lord of Annandale\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "8c828598e4b319375321183fbf118fd96676d1825b3094f821a772791cc02c9d",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 414,
+      "completion_tokens_details": null,
+      "prompt_tokens": 921,
+      "prompt_tokens_details": null,
+      "total_tokens": 1335
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"George Victor, Prince of Waldeck and Pyrmont was the son of George II, Prince of Waldeck and Pyrmont (source: George Victor, Prince of Waldeck and Pyrmont).\",\n    \"George II, Prince of Waldeck and Pyrmont was the son of George I, Prince of Waldeck and Pyrmont and Countess Princess Augusta of Schwarzburg-Sondershausen (source: George II, Prince of Waldeck and Pyrmont).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Countess Princess Augusta of Schwarzburg-Sondershausen\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "8dee6ecd7b9f0cc88b176d85d6c7f27e80e74790078b8ae7d77fa6cf259831d8",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 592,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1855,
+      "prompt_tokens_details": null,
+      "total_tokens": 2447
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Robert de Brus, 4th Lord of Annandale was the son of William de Brus, 3rd Lord of Annandale (source: Robert de Brus, 4th Lord of Annandale).\",\n    \"William de Brus, 3rd Lord of Annandale was the second but eldest surviving son of Robert de Brus, 2nd Lord of Annandale (source: d3:0).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Robert de Brus, 2nd Lord of Annandale\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "981037b9480edb854698f13bd79a2a6d9a838e53469878db4a2cf88ccb6a178b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 322,
+      "completion_tokens_details": null,
+      "prompt_tokens": 674,
+      "prompt_tokens_details": null,
+      "total_tokens": 996
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Helen Boughton-Leigh died on December 28, 1999 (source: Helen Boughton-Leigh).\",\n    \"Johann Joachim Bellermann died on 25 October 1842 (source: Johann Joachim Bellermann).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Helen Boughton-Leigh\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9c59d70aa2e2327e31dd263f57828a21999e91e5270b4d56bd5d0c7fe08adb58",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 671,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1855,
+      "prompt_tokens_details": null,
+      "total_tokens": 2526
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William de Brus, 3rd Lord of Annandale was the second but eldest surviving son of Robert de Brus, 2nd Lord of Annandale. (d3:0)\",\n    \"Isobel of Huntingdon married Robert Bruce, 4th Lord of Annandale. (d0:1)\"\n  ],\n  \"missing_entities\": [\n    \"father of Robert de Brus, 4th Lord of Annandale\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9cc2e2ce5c62a5ce239526d641205460660af45f6f861811ff8f784e2ba8a32f",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 646,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1030,
+      "prompt_tokens_details": null,
+      "total_tokens": 1676
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"George II, Prince of Waldeck and Pyrmont was the son of George I, Prince of Waldeck and Pyrmont and Countess Princess Augusta of Schwarzburg-Sondershausen (source: George II, Prince of Waldeck and Pyrmont).\",\n    \"Countess Princess Augusta of Schwarzburg-Sondershausen is the mother of George II, Prince of Waldeck and Pyrmont (source: George II, Prince of Waldeck and Pyrmont).\"\n  ],\n  \"missing_entities\": [\n    \"George Victor, Prince of Waldeck and Pyrmont's father\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "a0f7c7b89c7963bd0fcf0c98cb04c2b3afada816172f7f6528c947ac936d1306",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 279,
+      "completion_tokens_details": null,
+      "prompt_tokens": 859,
+      "prompt_tokens_details": null,
+      "total_tokens": 1138
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Helen Boughton-Leigh died on December 28, 1999 (source Helen Boughton-Leigh).\",\n    \"Johann Joachim Bellermann died on 25 October 1842 (source Johann Joachim Bellermann).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Helen Boughton-Leigh\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "a5f1b6eea13dbd3bc63051e1c4d3e6791ffad414899f80e769674e50933cba44",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 718,
+      "completion_tokens_details": null,
+      "prompt_tokens": 2406,
+      "prompt_tokens_details": null,
+      "total_tokens": 3124
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Robert de Brus, 4th Lord of Annandale was the son of William de Brus, 3rd Lord of Annandale (source: Robert de Brus, 4th Lord of Annandale)\",\n    \"William de Brus, 3rd Lord of Annandale was the second but eldest surviving son of Robert de Brus, 2nd Lord of Annandale (source: peer packet)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Robert de Brus, 2nd Lord of Annandale\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "a75fe52c216e7d13ad4ae0c37792510cdceb730369c9ba2c37a1dd7b50e03240",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 222,
+      "completion_tokens_details": null,
+      "prompt_tokens": 970,
+      "prompt_tokens_details": null,
+      "total_tokens": 1192
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"country of director of A Slave Of Vanity\",\n    \"country of director of Grace Of My Heart\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "a7e4bee4272806ab6cd7d15d9f614bbb0d13edb0348acc7277b9040b0738392c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 528,
+      "completion_tokens_details": null,
+      "prompt_tokens": 953,
+      "prompt_tokens_details": null,
+      "total_tokens": 1481
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince Friedrich Christian of Schaumburg-Lippe was the youngest son of Georg, Prince of Schaumburg-Lippe (source: Prince Friedrich Christian of Schaumburg-Lippe)\",\n    \"Georg, Prince of Schaumburg-Lippe was born 10 October 1846 (source: Georg, Prince of Schaumburg-Lippe)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"10 October 1846\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "ae5e3e82dbd5f683f464d4ffa27dddd83d9e774b482aa752bec01a363f00f905",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 340,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1465,
+      "prompt_tokens_details": null,
+      "total_tokens": 1805
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince Friedrich Christian of Schaumburg-Lippe was the youngest son of Georg, Prince of Schaumburg-Lippe (source: Prince Friedrich Christian of Schaumburg-Lippe)\"\n  ],\n  \"missing_entities\": [\n    \"Georg, Prince of Schaumburg-Lippe (birth date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "b8a71ca5e32bd9cd87cdede21c78331a89a40306a40a7829d8b063856145a368",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 366,
+      "completion_tokens_details": null,
+      "prompt_tokens": 2406,
+      "prompt_tokens_details": null,
+      "total_tokens": 2772
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Robert de Brus, 4th Lord of Annandale was the son of William de Brus, 3rd Lord of Annandale (source: Robert de Brus, 4th Lord of Annandale).\"\n  ],\n  \"missing_entities\": [\n    \"paternal grandfather of Robert de Brus, 4th Lord of Annandale (father of William de Brus, 3rd Lord of Annandale)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "bafee0c3a7aecef04e86f64a65b8b068a662e88ea46dc4d53ed5cc6c79ffc115",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 275,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1388,
+      "prompt_tokens_details": null,
+      "total_tokens": 1663
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Georg, Prince of Schaumburg-Lippe was born 10 October 1846 (source: Georg, Prince of Schaumburg-Lippe)\",\n    \"Prince Friedrich Christian of Schaumburg-Lippe was the youngest son of Georg, Prince of Schaumburg-Lippe (source: peer packet sender 0)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"10 October 1846\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "c13ce94c364e8105f4c8fb7fd3fb88f356f2ae02f9e94684f3b86f299a14ba38",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 419,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1394,
+      "prompt_tokens_details": null,
+      "total_tokens": 1813
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\"Friedrich Karl Of Limburg Stirum (paternal grandfather)\"],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "c778415115d3780b6d8664a5b8dcd61fc15bb013889392539e16a070bdb5d2b4",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 628,
+      "completion_tokens_details": null,
+      "prompt_tokens": 2120,
+      "prompt_tokens_details": null,
+      "total_tokens": 2748
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Robert de Brus, 4th Lord of Annandale was the son of William de Brus, 3rd Lord of Annandale (source: peer packet 1)\",\n    \"William de Brus, 3rd Lord of Annandale was the second but eldest surviving son of Robert de Brus, 2nd Lord of Annandale (source: peer packet 2)\",\n    \"Robert de Brus, 2nd Lord of Annandale was succeeded by his second son William (source: Robert de Brus, 2nd Lord of Annandale d8:11)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Robert de Brus, 2nd Lord of Annandale\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "ca47c36b4ac06720409871cda7740255500fd2b9832b6c83b9f75cf525cd55a7",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 661,
+      "completion_tokens_details": null,
+      "prompt_tokens": 970,
+      "prompt_tokens_details": null,
+      "total_tokens": 1631
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Henry Otto was an American silent film actor, director, producer, and screenwriter (source: Henry Otto).\",\n    \"Grace of My Heart was written and directed by Allison Anders (source: Grace of My Heart).\"\n  ],\n  \"missing_entities\": [\n    \"country of director of Grace Of My Heart\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "ce687e4ad12e0dcbeacd8b92caaddb48e692a25ec029f6ba2fca05bf9e5d33e8",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 559,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1388,
+      "prompt_tokens_details": null,
+      "total_tokens": 1947
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Georg, Prince of Schaumburg-Lippe was born 10 October 1846 (source: Georg, Prince of Schaumburg-Lippe)\",\n    \"Adolf I, Prince of Schaumburg-Lippe was born 1 August 1817 (source: Adolf I, Prince of Schaumburg-Lippe)\",\n    \"Ernst Wolrad, Prince of Schaumburg-Lippe was born 19 April 1887 (source: Wolrad, Prince of Schaumburg-Lippe)\"\n  ],\n  \"missing_entities\": [\n    \"Father of Prince Friedrich Christian Of Schaumburg-Lippe (birth date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "e2b28891f760e63ecf2fcfa194e25369f850157be19448933bd5ea373a84d1d1",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 166,
+      "completion_tokens_details": null,
+      "prompt_tokens": 859,
+      "prompt_tokens_details": null,
+      "total_tokens": 1025
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Helen Boughton-Leigh died on December 28, 1999 (source: Helen Boughton-Leigh).\",\n    \"Johann Joachim Bellermann died on 25 October 1842 (source: Johann Joachim Bellermann).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Helen Boughton-Leigh\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "e5fd6946b3b35a654528613e6feff95332f664d4e00e265522d9d88a18a3c95d",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 286,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1298,
+      "prompt_tokens_details": null,
+      "total_tokens": 1584
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Friedrich Karl of Limburg Stirum is the son of Otto Leopold of Limburg Stirum (source: Friedrich Karl of Limburg Stirum).\",\n    \"Otto Leopold of Limburg Stirum is the son of Hermann Otto II of Limburg Stirum (source: Otto Leopold of Limburg Stirum).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Hermann Otto II of Limburg Stirum\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "f160d9570880c4db8bb73605689bd11987102a06c828913a556fa3a83eaa0982",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 573,
+      "completion_tokens_details": null,
+      "prompt_tokens": 953,
+      "prompt_tokens_details": null,
+      "total_tokens": 1526
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Friedrich Christian, Count of Schaumburg-Lippe was born on 16 August 1655 (source: Frederick Christian, Count of Schaumburg-Lippe)\",\n    \"Friedrich Christian, Count of Schaumburg-Lippe died on 13 June 1728 (source: Frederick Christian, Count of Schaumburg-Lippe)\"\n  ],\n  \"missing_entities\": [\n    \"Father of Friedrich Christian, Count of Schaumburg-Lippe – birth date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "fc521d33056ae25c1442ccda3ce988fa454a1001cafe3f1049a81647fffd71c2",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 669,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1717,
+      "prompt_tokens_details": null,
+      "total_tokens": 2386
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Friedrich Karl of Limburg Stirum is the son of Otto Leopold of Limburg Stirum (source: Friedrich Karl of Limburg Stirum).\",\n    \"Otto Leopold of Limburg Stirum is the son of Hermann Otto II of Limburg Stirum (source: Otto Leopold of Limburg Stirum).\"\n  ],\n  \"missing_entities\": [\n    \"Father of Friedrich Karl of Limburg Stirum\",\n    \"Paternal grandfather of Friedrich Karl of Limburg Stirum\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "fde8a63264f177c733a4aa37192ff4b23a48e1dfc0aa50e0bcc753385046b328",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 438,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1717,
+      "prompt_tokens_details": null,
+      "total_tokens": 2155
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Karl Joseph Alois of Limburg Stirum was the son of Maximilian Wilhelm of Limburg Stirum. (Alois of Limburg Stirum)\"\n  ],\n  \"missing_entities\": [\n    \"Friedrich Karl of Limburg Stirum (paternal grandfather needed)\",\n    \"Father of Friedrich Karl of Limburg Stirum\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "07a46be098e83e8241785085443984a9d28f7515724e4739a10fbd806fbccc8e",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 162,
+      "completion_tokens_details": null,
+      "prompt_tokens": 834,
+      "prompt_tokens_details": null,
+      "total_tokens": 996
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Hazırım was released in 1995 (source: Hazırım)\"\n  ],\n  \"missing_entities\": [\n    \"Steal Hear release date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "0bdca7695ceedd45743fa7582a9310df09e276934da3b9c1e6705c3de7d44fec",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 651,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1500,
+      "prompt_tokens_details": null,
+      "total_tokens": 2151
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Henry King was born January 24, 1886 (source: Henry King)\",\n    \"A Yank in the R.A.F. was directed by Henry King (source: A Yank in the R.A.F.)\",\n    \"The Planet of Junior Brown was directed by Clement Virgo (source: The Planet of Junior Brown)\"\n  ],\n  \"missing_entities\": [\n    \"Clement Virgo (director birth date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "13d6c25bf668d061be6fccabf98e847d7a8dede4794fa31bad1dce0f8c94a801",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 246,
+      "completion_tokens_details": null,
+      "prompt_tokens": 973,
+      "prompt_tokens_details": null,
+      "total_tokens": 1219
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Kuhinjica's first issue came out in April 2007 (source: Kuhinjica).\",\n    \"XRay Magazine was launched on December 22, 2000 (source: XRay Magazine).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"XRay Magazine\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "146b00c46edbac397d3905e02e0a8f1c32cf84668c6d31d9c7aa1cbe7bf0e81c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 305,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1760,
+      "prompt_tokens_details": null,
+      "total_tokens": 2065
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"The Planet of Junior Brown was directed by Clement Virgo (source: d9:1)\"\n  ],\n  \"missing_entities\": [\n    \"Clement Virgo birth year\",\n    \"A Yank In The R.A.F. director\",\n    \"A Yank In The R.A.F. director birth year\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "17b0573ffc55678fccec3344692d5e3a3b0c4cae56da2bd8dddcd5de2c6cc041",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 296,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1615,
+      "prompt_tokens_details": null,
+      "total_tokens": 1911
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Henry King was born January 24, 1886 (source: Henry King (director))\",\n    \"A Yank in the R.A.F. was directed by Henry King (source: A Yank in the R.A.F.)\"\n  ],\n  \"missing_entities\": [\n    \"The Planet Of Junior Brown director birth date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "1cbfa717193e38dd1d4f7637e7f02efa72608edee365e26fbb4409bb0da9c65a",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 395,
+      "completion_tokens_details": null,
+      "prompt_tokens": 789,
+      "prompt_tokens_details": null,
+      "total_tokens": 1184
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Charles Crawford Davis died on December 16, 1966 (source: Charles Crawford Davis).\",\n    \"Gheorghe Petrașcu died on 1 May 1949 (source: Gheorghe Petrașcu).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Charles Crawford Davis\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "1cd638f556b2d3011626b3f939d5514c5a09c64af9476da0b610444f72e23ad8",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 468,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1760,
+      "prompt_tokens_details": null,
+      "total_tokens": 2228
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Henry King was born January 24, 1886 (source: peer packet)\",\n    \"A Yank in the R.A.F. was directed by Henry King (source: peer packet)\",\n    \"The Planet of Junior Brown was directed by Clement Virgo (source: d9:1)\"\n  ],\n  \"missing_entities\": [\n    \"Clement Virgo birth year\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "205725be5f809a81a07d9aabd5060d96ac1b88cf6933c1f1e5b5a56f4afbec89",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 455,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1459,
+      "prompt_tokens_details": null,
+      "total_tokens": 1914
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grand Duchess Elena Vladimirovna of Russia was the only daughter and youngest child of Grand Duke Vladimir Alexandrovich of Russia (source: Grand Duchess Elena Vladimirovna of Russia).\",\n    \"Grand Duke Vladimir Alexandrovich of Russia died after a stroke in 1909 (source: Grand Duke Vladimir Alexandrovich of Russia).\"\n  ],\n  \"missing_entities\": [\n    \"Location of death of Grand Duke Vladimir Alexandrovich of Russia\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "227074349f4315bd3249464427603a59cbb5c5354e49ccce2db7d120e68f4890",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 174,
+      "completion_tokens_details": null,
+      "prompt_tokens": 928,
+      "prompt_tokens_details": null,
+      "total_tokens": 1102
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Kuhinjica (publication start date)\",\n    \"Xray Magazine (publication start date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "2772576c70ded948f09efcbb26e5898773c2cf2f12c05763f8ee4f04ec63be64",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 340,
+      "completion_tokens_details": null,
+      "prompt_tokens": 985,
+      "prompt_tokens_details": null,
+      "total_tokens": 1325
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Steal Hear was released in 2008 (source: From the Bottom 2 the Top)\",\n    \"Hazırım was released in 1995 (source: Hazırım)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Hazırım was released first.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "29e2c452166f9c6a8540d5ff043b5bc1cc5e4338e9625ebd634d19ea58ab9bbf",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 333,
+      "completion_tokens_details": null,
+      "prompt_tokens": 896,
+      "prompt_tokens_details": null,
+      "total_tokens": 1229
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Kuhinjica's first issue came out in April 2007 (source: Kuhinjica).\",\n    \"XRay Magazine was launched on December 22, 2000 (source: XRay Magazine).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"XRay Magazine\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "2bdc25865f0ad7c784177da59edbc857d08eb287b7a7a05e1a1c31865b5d3193",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 315,
+      "completion_tokens_details": null,
+      "prompt_tokens": 789,
+      "prompt_tokens_details": null,
+      "total_tokens": 1104
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Charles Crawford Davis died on December 16, 1966 (source: Charles Crawford Davis).\",\n    \"Gheorghe Petrașcu died on 1 May 1949 (source: Gheorghe Petrașcu).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Charles Crawford Davis\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "3020331023c3d60a9c42be8611a9631daef95a403f827e043ebc69735627490b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 183,
+      "completion_tokens_details": null,
+      "prompt_tokens": 973,
+      "prompt_tokens_details": null,
+      "total_tokens": 1156
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Kuhinjica's first issue came out in April 2007 (source: Kuhinjica).\",\n    \"XRay Magazine was launched on December 22, 2000 (source: XRay Magazine).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"XRay Magazine was published first.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "34f8831ac509744fe9f546c21eb8aa952db6654a8ddb6cdbd4c453b11d44c834",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 360,
+      "completion_tokens_details": null,
+      "prompt_tokens": 884,
+      "prompt_tokens_details": null,
+      "total_tokens": 1244
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grand Duke Vladimir Alexandrovich of Russia died after a stroke in 1909. (Grand Duke Vladimir Alexandrovich of Russia)\",\n    \"Grand Duchess Elena Vladimirovna of Russia was the only daughter and youngest child of Grand Duke Vladimir Alexandrovich of Russia. (Grand Duchess Elena Vladimirovna of Russia)\"\n  ],\n  \"missing_entities\": [\n    \"place of death of Grand Duke Vladimir Alexandrovich of Russia\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "351e7b17b959c1c36d5b682a1a37dc52089e1da440ae26229e50a976fb5d2e3c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 444,
+      "completion_tokens_details": null,
+      "prompt_tokens": 884,
+      "prompt_tokens_details": null,
+      "total_tokens": 1328
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Elena Vladimirovna of Russia's father (place of death)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "352a2c4f7c58d459c21b15152e2e676892db998cde20165731175bec8e621c02",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 554,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1751,
+      "prompt_tokens_details": null,
+      "total_tokens": 2305
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Broadway Melody of 1940 was directed by Norman Taurog (source: Broadway Melody of 1940).\",\n    \"Norman Taurog was born on February 23, 1899 (source: Norman Taurog).\",\n    \"A Slave of Love was directed by Nikita Mikhalkov (source: A Slave of Love).\",\n    \"Nikita Mikhalkov was born on 21 October 1945 (source: Nikita Mikhalkov).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Broadway Melody of 1940\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "3f98c245a24e2cf8eda92b152477c407da93719d13b98e5849a712e27a21fd22",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 427,
+      "completion_tokens_details": null,
+      "prompt_tokens": 780,
+      "prompt_tokens_details": null,
+      "total_tokens": 1207
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Charles Crawford Davis died on December 16, 1966 (source: Charles Crawford Davis)\",\n    \"Gheorghe Petrașcu died on 1 May 1949 (source: Gheorghe Petrașcu)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Charles Crawford Davis\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "48f66103ba24a82aa4fcf08836b81c38df58fc6c24b79dde4daec5675489917f",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 198,
+      "completion_tokens_details": null,
+      "prompt_tokens": 896,
+      "prompt_tokens_details": null,
+      "total_tokens": 1094
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Kuhinjica (publication start date)\",\n    \"Xray Magazine (publication start date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "4b8d583cb1ecd3bd95b47c2ff65e092e630dec9c88f864347dbd3f555a2fe72a",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 338,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1500,
+      "prompt_tokens_details": null,
+      "total_tokens": 1838
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"The Planet Of Junior Brown (director birth date)\",\n    \"A Yank In The R.A.F. (director birth date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "539b98da372faf7bce2a94c8816ab77d404e7dbbd3cc89c82381aa79ad17c89b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 467,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1751,
+      "prompt_tokens_details": null,
+      "total_tokens": 2218
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"A Slave of Love is a 1976 Soviet romantic comedy-drama film directed by Nikita Mikhalkov (source: A Slave of Love)\",\n    \"Nikita Sergeyevich Mikhalkov (born 21 October 1945) is a Russian filmmaker (source: Nikita Mikhalkov)\"\n  ],\n  \"missing_entities\": [\n    \"Broadway Melody of 1940 (director)\",\n    \"Birth date of the director of Broadway Melody of 1940\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "5810fd8893b285e0c44df39ef406b5e9acd1e21d73f4a979363900eee591ecf7",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 411,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1436,
+      "prompt_tokens_details": null,
+      "total_tokens": 1847
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"\\\"The Broadway Melody\\\" was directed by Harry Beaumont (source: The Broadway Melody).\"\n  ],\n  \"missing_entities\": [\n    \"director of Broadway Melody of 1940 with birth date\",\n    \"director of A Slave Of Love with birth date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "608c4d1e4e6b263e9313a9d71f1401083d024b77159dd1faff80b62c08bda8fe",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 391,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1500,
+      "prompt_tokens_details": null,
+      "total_tokens": 1891
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Henry King was born January 24, 1886 (source: peer packet)\",\n    \"A Yank in the R.A.F. was directed by Henry King (source: peer packet)\",\n    \"The Planet of Junior Brown was directed by Clement Virgo (source: peer packet)\"\n  ],\n  \"missing_entities\": [\n    \"Clement Virgo (birth date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "64ad63f68ea1593259e2e597bffc061e1619647ed8cb84b636f49f3bd79b9c22",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 232,
+      "completion_tokens_details": null,
+      "prompt_tokens": 789,
+      "prompt_tokens_details": null,
+      "total_tokens": 1021
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Charles Crawford (racing driver) died on 1 June 1958 (source: Charles Crawford (racing driver))\",\n    \"Gheorghe Petrașcu died on 1 May 1949 (source: Gheorghe Petrașcu)\"\n  ],\n  \"missing_entities\": [\n    \"Charles Crawford Davis (death date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "663e16dfb3bb1d7fd3f8a49db2098e315f9ba6f238735609f805d16172400358",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 362,
+      "completion_tokens_details": null,
+      "prompt_tokens": 894,
+      "prompt_tokens_details": null,
+      "total_tokens": 1256
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Kuhinjica (publication start date)\",\n    \"Xray Magazine (publication start date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "68ff179794bbdcbf94c1a27128728d1c6bc173609c6e0c22981baa1474a7847d",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 469,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1473,
+      "prompt_tokens_details": null,
+      "total_tokens": 1942
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Broadway Melody of 1940 was directed by Norman Taurog (source: Broadway Melody of 1940).\",\n    \"A Slave of Love is a 1976 Soviet romantic comedy-drama film directed by Nikita Mikhalkov (source: A Slave of Love).\",\n    \"Nikita Sergeyevich Mikhalkov (born 21 October 1945) is a Russian filmmaker (source: Nikita Mikhalkov).\"\n  ],\n  \"missing_entities\": [\n    \"Norman Taurog birth date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "724cf4f6a1fc0f26ac584b3fdc1236cf61e89aa586b5b2a5df6a6c2ea73fd0aa",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 380,
+      "completion_tokens_details": null,
+      "prompt_tokens": 926,
+      "prompt_tokens_details": null,
+      "total_tokens": 1306
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Kuhinjica (publication start date)\",\n    \"Xray Magazine (publication start date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "741266bae63b0f49e9191f129a39fd0e92327d7520d8d23ff269bb89aea892fc",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 366,
+      "completion_tokens_details": null,
+      "prompt_tokens": 928,
+      "prompt_tokens_details": null,
+      "total_tokens": 1294
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Kuhinjica (publication start date)\",\n    \"Xray Magazine (publication start date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "78fc2db8c43a9557bc874aee3b7c84e2d7e4788041fb69f689a30e8682ff9aa2",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 387,
+      "completion_tokens_details": null,
+      "prompt_tokens": 780,
+      "prompt_tokens_details": null,
+      "total_tokens": 1167
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Charles Crawford Davis died on December 16, 1966 (source: Charles Crawford Davis)\",\n    \"Gheorghe Petrașcu died on 1 May 1949 (source: Gheorghe Petrașcu)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Charles Crawford Davis died later.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "7cd35243d661da310651c8469997157163e32aeeac2646b5937dbb77e091d169",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 544,
+      "completion_tokens_details": null,
+      "prompt_tokens": 650,
+      "prompt_tokens_details": null,
+      "total_tokens": 1194
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Charles Crawford Davis (date of death)\",\n    \"Gheorghe Petrașcu (date of death)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "86326d45ecb43bd570b227bbc0fd1ac149509288b964c3dbe679206f6b3c6b07",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 264,
+      "completion_tokens_details": null,
+      "prompt_tokens": 834,
+      "prompt_tokens_details": null,
+      "total_tokens": 1098
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Hazırım was released in 1995 (source: Hazırım)\",\n    \"Steal Hear was released in 2008 (source: Steal Hear)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Hazırım was released first.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "87fe539c50ce9f88ca119da49b61ad155777849d0c3a123d2ca646fc23172dc6",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 457,
+      "completion_tokens_details": null,
+      "prompt_tokens": 650,
+      "prompt_tokens_details": null,
+      "total_tokens": 1107
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Charles Crawford Davis died on December 16, 1966 (source: Charles Crawford Davis).\",\n    \"Gheorghe Petrașcu died on 1 May 1949 (source: Gheorghe Petrașcu).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "88692de115c3e4b35b48bf2f55b7dbcf8c732f6507caf1c3edddf9ceec0318a9",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 533,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1459,
+      "prompt_tokens_details": null,
+      "total_tokens": 1992
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grand Duke Vladimir Alexandrovich of Russia died after a stroke in 1909. (Grand Duke Vladimir Alexandrovich of Russia)\"\n  ],\n  \"missing_entities\": [\n    \"Father of Grand Duchess Elena Vladimirovna of Russia\",\n    \"Location of death of Grand Duke Vladimir Alexandrovich of Russia\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9523bdc0d30ccf290ad30dbf8b126b6cbb28db1a11b5f866f0c98caa44225307",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 519,
+      "completion_tokens_details": null,
+      "prompt_tokens": 834,
+      "prompt_tokens_details": null,
+      "total_tokens": 1353
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Hazırım was released in 1995 (source: Hazırım)\",\n    \"Steal Hear was released on October 28, 2008 (source: Steal Hear)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Hazırım\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "95cae04aef0bb5a5303fbe66bba00706b2496413fef30db3565dd660cf0a9dad",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 253,
+      "completion_tokens_details": null,
+      "prompt_tokens": 855,
+      "prompt_tokens_details": null,
+      "total_tokens": 1108
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grand Duchess Elena Vladimirovna of Russia was the only daughter and youngest child of Grand Duke Vladimir Alexandrovich of Russia (source: Grand Duchess Elena Vladimirovna of Russia).\"\n  ],\n  \"missing_entities\": [\n    \"Location of death of Grand Duke Vladimir Alexandrovich of Russia\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9728ef64a2c2d6c0105821acec7f4b9aa7a62b725999fa637cde9afe75f9258a",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 181,
+      "completion_tokens_details": null,
+      "prompt_tokens": 780,
+      "prompt_tokens_details": null,
+      "total_tokens": 961
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Charles Crawford Davis died on December 16, 1966 (source: Charles Crawford Davis).\"\n  ],\n  \"missing_entities\": [\n    \"Gheorghe Petrașcu death date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9814b73bf7ac0d2bf776ffb4bab66e885a70970500d1ab82b37d7a5e76c5d6c1",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 300,
+      "completion_tokens_details": null,
+      "prompt_tokens": 855,
+      "prompt_tokens_details": null,
+      "total_tokens": 1155
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grand Duchess Elena Vladimirovna of Russia was the only daughter and youngest child of Grand Duke Vladimir Alexandrovich of Russia (Grand Duchess Elena Vladimirovna of Russia).\",\n    \"Grand Duke Vladimir Alexandrovich of Russia died after a stroke in 1909. (peer packet 0)\"\n  ],\n  \"missing_entities\": [\n    \"Location of death of Grand Duke Vladimir Alexandrovich of Russia\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9b69ec7ae7a3ff183f814bda0331f19e8e5d660fdbec79aba7806ee461bfad44",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 570,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1751,
+      "prompt_tokens_details": null,
+      "total_tokens": 2321
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"A Slave of Love is directed by Nikita Mikhalkov (source: A Slave of Love)\",\n    \"Nikita Mikhalkov was born 21 October 1945 (source: Nikita Mikhalkov)\",\n    \"Broadway Melody of 1940 was directed by Norman Taurog (source: Broadway Melody of 1940)\",\n    \"Norman Taurog was born February 23, 1899 (source: Norman Taurog)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Broadway Melody of 1940\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9cf73b12a7072fb2500914a79a58efde2171760b07525a8a8185e4cceac647e1",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 469,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1473,
+      "prompt_tokens_details": null,
+      "total_tokens": 1942
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Broadway Melody of 1940 was directed by Norman Taurog (source: Broadway Melody of 1940).\",\n    \"A Slave of Love is a 1976 Soviet romantic comedy-drama film directed by Nikita Mikhalkov (source: A Slave of Love).\",\n    \"Nikita Sergeyevich Mikhalkov (born 21 October 1945) is a Russian filmmaker (source: Nikita Mikhalkov).\"\n  ],\n  \"missing_entities\": [\n    \"Norman Taurog birth date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9fd495705a81a43091aa5557c6eda9bc90bcebca3d6ab21b4c995b821f3c0968",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 419,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1459,
+      "prompt_tokens_details": null,
+      "total_tokens": 1878
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grand Duchess Elena Vladimirovna of Russia was the only daughter and youngest child of Grand Duke Vladimir Alexandrovich of Russia. (Grand Duchess Elena Vladimirovna of Russia)\",\n    \"Grand Duke Vladimir Alexandrovich of Russia died after a stroke in 1909. (Grand Duke Vladimir Alexandrovich of Russia)\"\n  ],\n  \"missing_entities\": [\n    \"Location of death of Grand Duke Vladimir Alexandrovich of Russia\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "a6b9cc42d64c7152b3430fd641edd9bf8d186165cb28ae27352e92bf53726f0f",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 361,
+      "completion_tokens_details": null,
+      "prompt_tokens": 884,
+      "prompt_tokens_details": null,
+      "total_tokens": 1245
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grand Duke Vladimir Alexandrovich of Russia died after a stroke in 1909. (Grand Duke Vladimir Alexandrovich of Russia)\",\n    \"Grand Duchess Elena Vladimirovna of Russia was the only daughter and youngest child of Grand Duke Vladimir Alexandrovich of Russia. (Grand Duchess Elena Vladimirovna of Russia)\"\n  ],\n  \"missing_entities\": [\n    \"place of death of Grand Duke Vladimir Alexandrovich of Russia\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "a7c014d38071ab4866898ce4cb46f0d72a9db9fd10688d7ed93cdc5832c8d4d4",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 183,
+      "completion_tokens_details": null,
+      "prompt_tokens": 973,
+      "prompt_tokens_details": null,
+      "total_tokens": 1156
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Kuhinjica's first issue came out in April 2007 (source: Kuhinjica).\",\n    \"XRay Magazine was launched on December 22, 2000 (source: XRay Magazine).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"XRay Magazine was published first.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "b0afe8cc86b34341f32671951eb5e4c2afa3ea611b5d8309315ba7a6456b9513",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 246,
+      "completion_tokens_details": null,
+      "prompt_tokens": 985,
+      "prompt_tokens_details": null,
+      "total_tokens": 1231
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Steal Hear was released on October 28, 2008 (source: Steal Hear)\",\n    \"Hazırım was released in 1995 (source: Hazırım)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Hazırım was released first.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "b105108f2c41df01f215872746746bb6e970a6466a3f74c493d69e1de8500816",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 611,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1615,
+      "prompt_tokens_details": null,
+      "total_tokens": 2226
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Henry King was born January 24, 1886 (source: d4:0)\",\n    \"A Yank in the R.A.F. was directed by Henry King (source: d8:0)\",\n    \"Clement Virgo was born June 1, 1966 (source: d5:0)\"\n  ],\n  \"missing_entities\": [\n    \"The Planet Of Junior Brown director\",\n    \"The Planet Of Junior Brown director birth date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "c86023609225479b4744d980ae394c0632ce8fd6ace0403b9e555c4ef624343a",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 168,
+      "completion_tokens_details": null,
+      "prompt_tokens": 985,
+      "prompt_tokens_details": null,
+      "total_tokens": 1153
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Steal Hear was released in 2008 (source: From the Bottom 2 the Top)\"\n  ],\n  \"missing_entities\": [\n    \"Hazırım (release date needed)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "c9082c7de032d80ccbc807fccd339b86bf179e9455a1371ed4be2861f9c4364d",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 260,
+      "completion_tokens_details": null,
+      "prompt_tokens": 855,
+      "prompt_tokens_details": null,
+      "total_tokens": 1115
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Grand Duchess Elena Vladimirovna of Russia was the only daughter and youngest child of Grand Duke Vladimir Alexandrovich of Russia (Grand Duchess Elena Vladimirovna of Russia).\",\n    \"Grand Duke Vladimir Alexandrovich of Russia died after a stroke in 1909 (Grand Duke Vladimir Alexandrovich of Russia).\"\n  ],\n  \"missing_entities\": [\n    \"Location of death of Grand Duke Vladimir Alexandrovich of Russia\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "c92f89b635b7c88360cdefbdc9af534c999e5493d1a5a4e8d239522c43a51d49",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 595,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1615,
+      "prompt_tokens_details": null,
+      "total_tokens": 2210
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Henry King was born January 24, 1886 (source: d4:0)\",\n    \"A Yank in the R.A.F. was directed by Henry King (source: d8:0)\",\n    \"Clement Virgo was born June 1, 1966 (source: d5:0)\"\n  ],\n  \"missing_entities\": [\n    \"The Planet Of Junior Brown director birth date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "cf45aef84c7d808f8700e207e01b73662995ff5339583cce7b3f92b9f4e17ea4",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 291,
+      "completion_tokens_details": null,
+      "prompt_tokens": 650,
+      "prompt_tokens_details": null,
+      "total_tokens": 941
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Charles Crawford Davis (date of death)\",\n    \"Gheorghe Petrașcu (date of death)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "d02c9b70a188ba4bf75675e88cf374769dc2c6812e7a65405fdb63abf1852f1c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 338,
+      "completion_tokens_details": null,
+      "prompt_tokens": 985,
+      "prompt_tokens_details": null,
+      "total_tokens": 1323
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Steal Hear was released in 2008 (source: From the Bottom 2 the Top)\",\n    \"Hazırım was released in 1995 (source: Hazırım)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Hazırım was released first.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "d3155f81a739fad77f8e1ea10c65835eaeda73e8e1e5c3c55a19eccf78f9032b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 502,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1760,
+      "prompt_tokens_details": null,
+      "total_tokens": 2262
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Henry King was born January 24, 1886 (source: peer packet)\",\n    \"A Yank in the R.A.F. was directed by Henry King (source: peer packet)\",\n    \"The Planet of Junior Brown was directed by Clement Virgo (source: d9:1, title \\\"The Planet of Junior Brown\\\")\"\n  ],\n  \"missing_entities\": [\n    \"Clement Virgo birth year\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "da6273d28df6af15f0744f94b974d164b1f814862fea51af6ceab285851bc333",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 574,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1436,
+      "prompt_tokens_details": null,
+      "total_tokens": 2010
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"A Slave of Love is a 1976 Soviet romantic comedy-drama film directed by Nikita Mikhalkov (source: A Slave of Love).\",\n    \"Nikita Sergeyevich Mikhalkov (born 21 October 1945) is a Russian filmmaker (source: Nikita Mikhalkov).\",\n    \"Broadway Melody of 1940 was directed by Norman Taurog (source: Broadway Melody of 1940).\"\n  ],\n  \"missing_entities\": [\n    \"birth date of Norman Taurog (director of Broadway Melody of 1940)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "dea8b83ca50ecd8bee0672a45b5c237b1bd3b4fd4ccadd7fafaf40b6c1a225c6",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 490,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1436,
+      "prompt_tokens_details": null,
+      "total_tokens": 1926
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"A Slave of Love is a 1976 Soviet romantic comedy-drama film directed by Nikita Mikhalkov (source: A Slave of Love).\",\n    \"Nikita Sergeyevich Mikhalkov (born 21 October 1945) is a Russian filmmaker (source: Nikita Mikhalkov).\",\n    \"Broadway Melody of 1940 was directed by Norman Taurog (source: Broadway Melody of 1940).\"\n  ],\n  \"missing_entities\": [\n    \"birth date of Norman Taurog (director of Broadway Melody of 1940)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "e041004ca81a18e7cbda6ae2a8e7ec857c1d2523501492a64a6d95a96febdc06",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 308,
+      "completion_tokens_details": null,
+      "prompt_tokens": 985,
+      "prompt_tokens_details": null,
+      "total_tokens": 1293
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Steal Hear was released on October 28, 2008 (source: Steal Hear)\"\n  ],\n  \"missing_entities\": [\n    \"Hazırım release date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "fde065719c697b38b93bfad535be79deebcf28f7031e9cdace8838c5cf6b0ba9",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 316,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1473,
+      "prompt_tokens_details": null,
+      "total_tokens": 1789
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Broadway Melody of 1940 was directed by Norman Taurog (source: Broadway Melody of 1940).\"\n  ],\n  \"missing_entities\": [\n    \"Norman Taurog birth date\",\n    \"A Slave Of Love director\",\n    \"A Slave Of Love director birth date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "ff2e4c1c9ac077389fa8367c80b5de1e483f47f6981f81812c918423a624df6b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 268,
+      "completion_tokens_details": null,
+      "prompt_tokens": 985,
+      "prompt_tokens_details": null,
+      "total_tokens": 1253
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Steal Hear is the seventh studio album by American hip hop recording artist Coolio. (Steal Hear)\",\n    \"It was released on October 28, 2008, by Super Cool Recordings. (Steal Hear)\"\n  ],\n  \"missing_entities\": [\n    \"Hazırım release date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "071009f4fb1c5833a15c2859b8663d7de3403fb4b4cf5dec3924db11ce8788c7",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 541,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1090,
+      "prompt_tokens_details": null,
+      "total_tokens": 1631
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Antoni Ribas died on 3 October 2007 (source: Antoni Ribas).\",\n    \"Raymond L. Schrock died on 12 December 1950 (source: Raymond L. Schrock).\",\n    \"La Otra Imagen was directed by Antoni Ribas (source: Antoni Ribas).\",\n    \"The Gentle Art Of Burglary was directed by Raymond L. Schrock (source: The Gentle Art of Burglary).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"The Gentle Art Of Burglary\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "0714bc294d733c1a3373a421448401c109f0421c75b173f343a01252b1fc434d",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 358,
+      "completion_tokens_details": null,
+      "prompt_tokens": 982,
+      "prompt_tokens_details": null,
+      "total_tokens": 1340
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"The Man with the Iron Fists 2 is directed by Roel Reiné (source: The Man with the Iron Fists 2)\",\n    \"Roel Reiné was born in Eindhoven (source: Roel Reiné)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Eindhoven\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "09869921f86a1d6f49e07b9ed1fc1b8b58310c36ef888a2a61d33f3bfe52909c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 183,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1941,
+      "prompt_tokens_details": null,
+      "total_tokens": 2124
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\"Samuel Hume Blake's father (graduated from)\"],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "0d283b57d8a125252a2c39b473c6320f24bc002f1dc9cb61a26f33f7ac6ebc74",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 247,
+      "completion_tokens_details": null,
+      "prompt_tokens": 672,
+      "prompt_tokens_details": null,
+      "total_tokens": 919
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William Ian DeWitt Hutt (May 2, 1920 – June 27, 2007) was a Canadian actor of stage, television and film. (source: William Hutt (actor))\",\n    \"Emily Louise Orr Elliott was a Canadian artist and fashion illustrator. (peer packet)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "124d9a228105ad62f318e140aa60aabf034b857399a23fea09da8807cb8213bf",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 239,
+      "completion_tokens_details": null,
+      "prompt_tokens": 939,
+      "prompt_tokens_details": null,
+      "total_tokens": 1178
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"The Man with the Iron Fists 2 is directed by Roel Reiné (source: The Man with the Iron Fists 2).\",\n    \"Roel Reiné was born in Eindhoven (source: Roel Reiné).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Eindhoven\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "15903588e68280c03f431e80bcf9fd16f5052a1a8cbb0926ebc69b37687e9075",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 570,
+      "completion_tokens_details": null,
+      "prompt_tokens": 941,
+      "prompt_tokens_details": null,
+      "total_tokens": 1511
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Mike Leeder was born 5 August 1968, in Croydon, England (source: Mike Leeder)\",\n    \"The Man with the Gun is a 1938 Soviet history drama film directed by Sergei Yutkevich (source: The Man with the Gun)\",\n    \"Mike Leeder worked on the film \\\"The Man with the Iron Fists\\\" (2012) (source: Mike Leeder)\"\n  ],\n  \"missing_entities\": [\n    \"director of The Man With The Iron Fists 2\",\n    \"birthplace of the director of The Man With The Iron Fists 2\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "2117a629209fd0c851acad9a142c3d5e79c9b7fc2420aa277efc3db863103ba0",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 585,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1090,
+      "prompt_tokens_details": null,
+      "total_tokens": 1675
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Antoni Ribas (27 October 1935 – 3 October 2007) was the director of La Otra Imagen (source: Antoni Ribas).\",\n    \"Raymond L. Schrock (February 2, 1892 – December 12, 1950) was the director of The Gentle Art Of Burglary (source: peer packet).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"The Gentle Art Of Burglary\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "214ca2d9fd4f8cdaed8a5176b975a9764f67a796a92471d6d3432911d641456e",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 304,
+      "completion_tokens_details": null,
+      "prompt_tokens": 984,
+      "prompt_tokens_details": null,
+      "total_tokens": 1288
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"The Man with the Iron Fists 2 is directed by Roel Reiné (source: The Man with the Iron Fists 2)\",\n    \"Roel Reiné was born in Eindhoven (source: Roel Reiné)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Eindhoven\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "226434c9164decc41c28fbf8ab4aa53731555d955b3d423cd2625070fb613f19",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 169,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1219,
+      "prompt_tokens_details": null,
+      "total_tokens": 1388
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Emily Louise Orr Elliott was a Canadian artist and fashion illustrator (Emily Louise Orr Elliott)\"\n  ],\n  \"missing_entities\": [\n    \"William Hutt (Actor) nationality\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "293d044efc5c6c81dba5ce43e3596ec8fc9183598bfe07a3e92b0e59e52bbe72",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 383,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1941,
+      "prompt_tokens_details": null,
+      "total_tokens": 2324
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William Hume Blake was educated at Trinity College, Dublin. (source: William Hume Blake)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Trinity College, Dublin\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "2f6a73ba022aa7014749dc8f736f249f4554bb2cebff6f87e26541dbae7e2e15",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 559,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1267,
+      "prompt_tokens_details": null,
+      "total_tokens": 1826
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Three Strangers is a 1946 American film noir crime drama directed by Jean Negulesco (source: Three Strangers)\",\n    \"Jean Negulesco was a Romanian-American film director and screenwriter (source: Jean Negulesco)\",\n    \"A Trial in Prague is an 83 min colour documentary film directed by Zuzana Justman (source: A Trial in Prague)\",\n    \"Zuzana Justman is a Czech-American documentary filmmaker and writer (source: Zuzana Justman)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "452632c30b72ff400d799fabb80d87ba36b5354b7b0709ae9cbf31f1af92a530",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 404,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1090,
+      "prompt_tokens_details": null,
+      "total_tokens": 1494
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Antoni Ribas (27 October 1935 – 3 October 2007) was a Catalan Spanish film director and screenwriter (source: Antoni Ribas).\",\n    \"His 1973 film \\\"La otra imagen\\\" was entered into the 1973 Cannes Film Festival (source: Antoni Ribas).\"\n  ],\n  \"missing_entities\": [\n    \"Director of \\\"The Gentle Art Of Burglary\\\"\",\n    \"Death date of the director of \\\"The Gentle Art Of Burglary\\\"\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "46126e265331e1f3e50b142f9545b316a28483aa5682e3c82012a03575ea3089",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 202,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1692,
+      "prompt_tokens_details": null,
+      "total_tokens": 1894
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William Hume Blake was educated at Trinity College, Dublin. (source: William Hume Blake)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Trinity College, Dublin\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "4f356ef59a7f564e85cd72ac8c3c283fb5ff54462e7b1f881145c98b12a3be12",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 424,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1080,
+      "prompt_tokens_details": null,
+      "total_tokens": 1504
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Princess Margaret of Denmark was the wife of Prince René of Bourbon-Parma (source: Princess Margaret of Denmark)\",\n    \"Princess Margaret of Denmark was the youngest grandchild of Christian IX of Denmark and Queen Louise (source: Princess Margaret of Denmark)\"\n  ],\n  \"missing_entities\": [\n    \"mother of Princess Margaret of Denmark\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "5692b34aff1c217e30a10e71a7dbcaf5466ab5721fd9a714b5bdbcf60b315188",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 454,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1057,
+      "prompt_tokens_details": null,
+      "total_tokens": 1511
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince René of Bourbon-Parma was the seventh surviving son of Robert I, Duke of Parma, and his second wife, Infanta Maria Antonia of Portugal (source: Prince René of Bourbon-Parma)\",\n    \"Infanta Maria Antonia of Portugal was the seventh and last child of Miguel of Portugal and Adelaide of Löwenstein-Wertheim-Rosenberg (source: Infanta Maria Antonia of Portugal)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Adelaide of Löwenstein-Wertheim-Rosenberg\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "57ac5c184cfa6336cce57824d4d9b9783058c54b7c504e075f0c5e0ae27281e1",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 293,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1267,
+      "prompt_tokens_details": null,
+      "total_tokens": 1560
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Three Strangers is a 1946 American film noir crime drama directed by Jean Negulesco (d4:0)\",\n    \"Jean Negulesco was a Romanian-American film director and screenwriter (d8:0)\",\n    \"A Trial in Prague is an 83 min colour documentary film directed by Zuzana Justman (d9:0)\"\n  ],\n  \"missing_entities\": [\n    \"Zuzana Justman's nationality\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "5964ca4b878fd83946fb1dc1fb78d1a7ad606d2ebb82e859940a792050b99af1",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 503,
+      "completion_tokens_details": null,
+      "prompt_tokens": 838,
+      "prompt_tokens_details": null,
+      "total_tokens": 1341
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"La otra imagen is a 1973 Spanish film directed by Antoni Ribas. (La otra imagen)\",\n    \"Antoni Ribas (27 October 1935 – 3 October 2007) was a Catalan Spanish film director and screenwriter. (Antoni Ribas)\",\n    \"The Gentle Art of Burglary is a 1916 American silent short comedy directed by Raymond L. Schrock. (The Gentle Art of Burglary)\"\n  ],\n  \"missing_entities\": [\n    \"Raymond L. Schrock death date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "5b97a0f98d5fe09cace9a22f219ef8d2631f35f1db7ddd92ee64a4fd2d0eae6f",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 289,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1102,
+      "prompt_tokens_details": null,
+      "total_tokens": 1391
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"La otra imagen is a 1973 Spanish film directed by Antoni Ribas. (La otra imagen)\"\n  ],\n  \"missing_entities\": [\n    \"death date of Antoni Ribas\",\n    \"director of The Gentle Art Of Burglary\",\n    \"death date of the director of The Gentle Art Of Burglary\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6006b8a9f7db7bca8a5b3a95f55e2dcb347c38bc39631f59ecd7a77ea3f0c3c1",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 549,
+      "completion_tokens_details": null,
+      "prompt_tokens": 941,
+      "prompt_tokens_details": null,
+      "total_tokens": 1490
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"The Man with the Iron Fists 2 is directed by Roel Reiné (source: The Man with the Iron Fists 2)\",\n    \"Roel Reiné was born in Eindhoven (source: Roel Reiné)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Eindhoven\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6169e15b07cd366f4da7af6b181ba71715fa82adf6554f6f7535c055efd58243",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 399,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1225,
+      "prompt_tokens_details": null,
+      "total_tokens": 1624
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince René of Bourbon-Parma was the seventh surviving son of Robert I, Duke of Parma, and his second wife, Infanta Maria Antonia of Portugal (source: Prince René of Bourbon-Parma).\",\n    \"Infanta Maria Antonia of Portugal was the seventh and last child of Miguel of Portugal and Adelaide of Löwenstein-Wertheim-Rosenberg (source: Infanta Maria Antonia of Portugal).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Adelaide of Löwenstein-Wertheim-Rosenberg\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6a93e9f73a2b871f49ecf6a6cad86a8bb5e02cf0117047f827aee033f17a3aa5",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 233,
+      "completion_tokens_details": null,
+      "prompt_tokens": 984,
+      "prompt_tokens_details": null,
+      "total_tokens": 1217
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\"director of The Man With The Iron Fists 2 (birthplace)\"],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6aa169b5c2138b701db68976cee5101aa6250de3a7311d1012d9ce0b7cdc5fd9",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 287,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1021,
+      "prompt_tokens_details": null,
+      "total_tokens": 1308
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Emily Louise Orr Elliott nationality\",\n    \"William Hutt (Actor) nationality\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "70e648b277561e8e7a6be476ab0d1bc8a5501d3a4502e1af6b0c6d93b20bdc07",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 223,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1692,
+      "prompt_tokens_details": null,
+      "total_tokens": 1915
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William Hume Blake was educated at Trinity College, Dublin. (source: William Hume Blake)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Trinity College, Dublin\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "73dd20a7adf227e46671559f6d09f8078245424017ed7c8215f365941ce810a2",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 605,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1563,
+      "prompt_tokens_details": null,
+      "total_tokens": 2168
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William Hume Blake was educated at Trinity College, Dublin. (source: William Hume Blake)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Trinity College, Dublin\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "745cc0893c9b4f61ba7cc498637bb1e1ada2b5588603c39497ed188ca93e0f75",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 568,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1102,
+      "prompt_tokens_details": null,
+      "total_tokens": 1670
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"La otra imagen is a 1973 Spanish film directed by Antoni Ribas (source: La otra imagen)\",\n    \"Antoni Ribas died on 3 October 2007 (source: Antoni Ribas)\",\n    \"The Gentle Art of Burglary is a 1916 American silent short comedy directed by Raymond L. Schrock (source: The Gentle Art of Burglary)\"\n  ],\n  \"missing_entities\": [\n    \"death date of Raymond L. Schrock\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "768f8733de2b4448a864ab58e98b7754439150e6aaeedc67972b8cffc29e4e80",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 423,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1080,
+      "prompt_tokens_details": null,
+      "total_tokens": 1503
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince René of Bourbon-Parma was the son of Infanta Maria Antonia of Portugal (source: Prince René of Bourbon-Parma).\",\n    \"Infanta Maria Antonia of Portugal was the daughter of Adelaide of Löwenstein-Wertheim-Rosenberg (source: Infanta Maria Antonia of Portugal).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Adelaide of Löwenstein-Wertheim-Rosenberg\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "82bcc592a9ad763ed20b33c82c2516b87a73d8727522c354acf5008caa753c4e",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 779,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1270,
+      "prompt_tokens_details": null,
+      "total_tokens": 2049
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Zuzana Justman is a Czech-American documentary filmmaker (source: Zuzana Justman)\"\n  ],\n  \"missing_entities\": [\n    \"director of the film \\\"A Trial In Prague\\\"\",\n    \"director of the film \\\"Three Strangers\\\"\",\n    \"nationality of the director of \\\"Three Strangers\\\"\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "88fca31a8772365d3cade2bc2c954f3038901f2b971bdd3871e887c415d5294a",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 223,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1692,
+      "prompt_tokens_details": null,
+      "total_tokens": 1915
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William Hume Blake was educated at Trinity College, Dublin. (source: William Hume Blake)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Trinity College, Dublin\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "8a4e63a8c294483d652dfc0e5efadcb749eea15bc82bde582e0a89a8ab9c9644",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 252,
+      "completion_tokens_details": null,
+      "prompt_tokens": 838,
+      "prompt_tokens_details": null,
+      "total_tokens": 1090
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"The Gentle Art of Burglary is a 1916 American silent short comedy directed by Raymond L. Schrock (source: The Gentle Art of Burglary)\"\n  ],\n  \"missing_entities\": [\n    \"Raymond L. Schrock death date\",\n    \"La Otra Imagen director\",\n    \"La Otra Imagen director death date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9270720ff9c8129bbb6dad4d85412de9c2149d6f13491bd275b3039cf0fde6b0",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 334,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1032,
+      "prompt_tokens_details": null,
+      "total_tokens": 1366
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"The Man with the Iron Fists 2 is a 2015 American direct-to-video martial arts action film directed by Roel Reiné (source: The Man with the Iron Fists 2)\",\n    \"Roel Reiné (born 15 July 1970 in Eindhoven) is a Dutch film director (source: Roel Reiné)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Eindhoven\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "97e8045b62893ba730a0f8e6ef507731fc1bfa70e34574f0c9f5939631c5a41e",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 405,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1225,
+      "prompt_tokens_details": null,
+      "total_tokens": 1630
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince René of Bourbon-Parma was the seventh surviving son of Robert I, Duke of Parma, and his second wife, Infanta Maria Antonia of Portugal (source: Prince René of Bourbon-Parma).\",\n    \"Infanta Maria Antonia of Portugal was the seventh and last child of Miguel of Portugal and Adelaide of Löwenstein-Wertheim-Rosenberg (source: Infanta Maria Antonia of Portugal).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Adelaide of Löwenstein-Wertheim-Rosenberg\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9e22b2df1144e80534f7bea5fae6d70b298fdded9572d3599a3fb8d2f9215413",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 284,
+      "completion_tokens_details": null,
+      "prompt_tokens": 672,
+      "prompt_tokens_details": null,
+      "total_tokens": 956
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William Ian DeWitt Hutt was a Canadian actor of stage, television and film. (source: William Hutt (actor))\",\n    \"Emily Louise Orr Elliott was a Canadian artist and fashion illustrator. (source: Emily Louise Orr Elliott)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes, both are Canadian.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "ab2070d5a4a8aa54e23a6182433cdf23bc9c359fe8f30cee87754fe444374813",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 491,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1225,
+      "prompt_tokens_details": null,
+      "total_tokens": 1716
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince René of Bourbon-Parma was the son of Infanta Maria Antonia of Portugal (Prince René of Bourbon-Parma)\",\n    \"Infanta Maria Antonia of Portugal was the daughter of Adelaide of Löwenstein-Wertheim-Rosenberg (Infanta Maria Antonia of Portugal)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Adelaide of Löwenstein-Wertheim-Rosenberg\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "b1d2e366ebd226aff5720fc99a37333bea2b1ea98bb6868935b22fb52f4aca1f",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 530,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1102,
+      "prompt_tokens_details": null,
+      "total_tokens": 1632
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"La otra imagen is a 1973 Spanish film directed by Antoni Ribas (source: La otra imagen)\",\n    \"Antoni Ribas died on 3 October 2007 (source: Antoni Ribas)\",\n    \"The Gentle Art of Burglary is a 1916 American silent short comedy directed by Raymond L. Schrock (source: The Gentle Art of Burglary)\"\n  ],\n  \"missing_entities\": [\n    \"death date of Raymond L. Schrock\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "b43a46347815e3028529106e343907c37fe9b7584375a66d764af6457b356057",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 401,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1937,
+      "prompt_tokens_details": null,
+      "total_tokens": 2338
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William Hume Blake was educated at Trinity College, Dublin. (source: William Hume Blake)\"\n  ],\n  \"missing_entities\": [\n    \"Samuel Hume Blake's father (identity)\",\n    \"Samuel Hume Blake's father (graduated from)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "b5dbe6ef537592f9e4b0718dcf44ce145b6baed5ccdcbb7c5b9426ca6f848e5b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 215,
+      "completion_tokens_details": null,
+      "prompt_tokens": 672,
+      "prompt_tokens_details": null,
+      "total_tokens": 887
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William Hutt (actor) was a Canadian actor of stage, television and film. (source: William Hutt (actor))\"\n  ],\n  \"missing_entities\": [\n    \"Emily Louise Orr Elliott: nationality\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "b6e17616d6e0a6b0616e84ddc10405089c5e45b2c3efcc611bf34307eefdc56d",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 947,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1270,
+      "prompt_tokens_details": null,
+      "total_tokens": 2217
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Three Strangers is a 1946 American film noir crime drama directed by Jean Negulesco (source: Three Strangers).\",\n    \"Jean Negulesco was a Romanian-American film director and screenwriter (source: Jean Negulesco).\",\n    \"A Trial in Prague is an 83 min colour documentary film directed by Zuzana Justman (source: A Trial in Prague).\",\n    \"Zuzana Justman is a Czech-American documentary filmmaker and writer (source: Zuzana Justman).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes, both directors share American nationality.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "b78283df97fa8bcbc6eab2bcb76f39341db66fb6ae52068673180766bb50b9df",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 320,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1563,
+      "prompt_tokens_details": null,
+      "total_tokens": 1883
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"{\\\"attribute\\\":\\\"graduated from\\\",\\\"entity\\\":\\\"Samuel Hume Blake's father\\\"}\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "b9312b7cf6ddc4197ccdda270db86864953cf9ab08633a5afa69b6748635b5b1",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 283,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1219,
+      "prompt_tokens_details": null,
+      "total_tokens": 1502
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Emily Louise Orr Elliott was a Canadian artist and fashion illustrator. (source: Emily Louise Orr Elliott)\",\n    \"William Hutt (actor) was a Canadian actor of stage, television and film. (source: William Hutt (actor))\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "bb6e8c20701e60fec4299e4329f088bb4179029fa6052beac2a6475c45ab0c0c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 218,
+      "completion_tokens_details": null,
+      "prompt_tokens": 910,
+      "prompt_tokens_details": null,
+      "total_tokens": 1128
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"director of A Trial In Prague\",\n    \"nationality of director of A Trial In Prague\",\n    \"director of Three Strangers\",\n    \"nationality of director of Three Strangers\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "bf120607fc96e68d16524359a8398a51eb8a13cd3459672788ea8b1ad3528e31",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 283,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1219,
+      "prompt_tokens_details": null,
+      "total_tokens": 1502
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Emily Louise Orr Elliott was a Canadian artist and fashion illustrator. (source: Emily Louise Orr Elliott)\",\n    \"William Hutt (actor) was a Canadian actor of stage, television and film. (source: William Hutt (actor))\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "c98e03f310bdfce7a7d0f4a72cd76023c351564ed70c11d2869e0dbac38ba678",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 679,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1068,
+      "prompt_tokens_details": null,
+      "total_tokens": 1747
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince René of Bourbon-Parma was the son of Infanta Maria Antonia of Portugal. (source: Prince René of Bourbon-Parma)\",\n    \"Infanta Maria Antonia of Portugal was the daughter of Adelaide of Löwenstein-Wertheim-Rosenberg. (source: Infanta Maria Antonia of Portugal)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Adelaide of Löwenstein-Wertheim-Rosenberg\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "ca343dc88b5d17b869416dddc21f1cde73e7f044a1a2408b8297b802341b96a4",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 586,
+      "completion_tokens_details": null,
+      "prompt_tokens": 910,
+      "prompt_tokens_details": null,
+      "total_tokens": 1496
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Three Strangers is a 1946 American film noir crime drama directed by Jean Negulesco (source: Three Strangers)\",\n    \"Jean Negulesco was a Romanian-American film director and screenwriter (source: Jean Negulesco)\",\n    \"A Trial in Prague is an 83 min colour documentary film directed by Zuzana Justman (source: A Trial in Prague)\",\n    \"Zuzana Justman is a Czech-American documentary filmmaker and writer (source: Zuzana Justman)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "cc570cc00a5757c23b5af88001a1875f7163bc2b1aa6b68c39ea6a572fa4da26",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 325,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1270,
+      "prompt_tokens_details": null,
+      "total_tokens": 1595
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"director of the film \\\"A Trial In Prague\\\"\",\n    \"nationality of the director of \\\"A Trial In Prague\\\"\",\n    \"director of the film \\\"Three Strangers\\\"\",\n    \"nationality of the director of \\\"Three Strangers\\\"\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "d3cc7deb1d476cb1ae499de51504547310b50aead043dcb2978f2991e9bc0ef4",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 735,
+      "completion_tokens_details": null,
+      "prompt_tokens": 910,
+      "prompt_tokens_details": null,
+      "total_tokens": 1645
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Three Strangers is a 1946 American film noir crime drama directed by Jean Negulesco (source: Three Strangers).\",\n    \"Jean Negulesco was a Romanian-American film director and screenwriter (source: Jean Negulesco).\",\n    \"A Trial in Prague is an 83 min colour documentary film directed by Zuzana Justman (source: A Trial in Prague).\",\n    \"Zuzana Justman is a Czech-American documentary filmmaker and writer (source: Zuzana Justman).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"No\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "d567198d5ee7f082bf8aefb5b399282088a1803d8ce202419f081074ae1622fb",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 616,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1068,
+      "prompt_tokens_details": null,
+      "total_tokens": 1684
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince René of Bourbon-Parma was married to Princess Margaret of Denmark (source: Prince Michel of Bourbon-Parma, d0:2)\",\n    \"Through his mother, Prince Michel was a great-grandson of Christian IX of Denmark (source: Prince Michel of Bourbon-Parma, d0:3)\"\n  ],\n  \"missing_entities\": [\n    \"Maternal grandmother of Prince René of Bourbon-Parma\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "deac16fb2feb5df3fa616a5fffda5c15a423558afd74babc205e4aa4d795e0ab",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 619,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1559,
+      "prompt_tokens_details": null,
+      "total_tokens": 2178
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"William Hume Blake was educated at Trinity College, Dublin. (source: William Hume Blake)\"\n  ],\n  \"missing_entities\": [\n    {\n      \"attribute\": \"graduated from\",\n      \"entity\": \"Samuel Hume Blake's father\"\n    }\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "e3cc6f9bb33d14b4ae46eddcbb9a2e90bf665532b78a586d51460b3ddd11ee78",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 196,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1032,
+      "prompt_tokens_details": null,
+      "total_tokens": 1228
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Roel Reiné (born 15 July 1970 in Eindhoven) is a Dutch film director (source: Roel Reiné)\",\n    \"The Man with the Iron Fists 2 is a 2015 American direct-to-video martial arts action film directed by Roel Reiné (source: The Man with the Iron Fists 2)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Eindhoven\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "e45445f27b8a95e8a0acedfaa16962bb9dd90d08e6c9ed96c40c2295fabd199b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 533,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1021,
+      "prompt_tokens_details": null,
+      "total_tokens": 1554
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Emily Louise Orr Elliott was a Canadian artist and fashion illustrator (Emily Louise Orr Elliott)\",\n    \"William Hutt (actor) was a Canadian actor of stage, television and film (William Hutt (actor))\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "f43224e5eba6ee062702bc0116ef0ac288182d4c0d6f4a757dbdcb4a51f5cc8a",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 502,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1069,
+      "prompt_tokens_details": null,
+      "total_tokens": 1571
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Prince René of Bourbon-Parma was the seventh surviving son of Robert I, Duke of Parma, and his second wife, Infanta Maria Antonia of Portugal. (Prince René of Bourbon-Parma)\",\n    \"Infanta Maria Antonia of Portugal was the seventh and last child of Miguel of Portugal and Adelaide of Löwenstein-Wertheim-Rosenberg. (Infanta Maria Antonia of Portugal)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Adelaide of Löwenstein-Wertheim-Rosenberg\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "f531c6cc4c39da9a4b870a4f7374ef3616368cc59c4cc081aecef8f4cf33150d",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 334,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1032,
+      "prompt_tokens_details": null,
+      "total_tokens": 1366
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"The Man with the Iron Fists 2 is a 2015 American direct-to-video martial arts action film directed by Roel Reiné (source: The Man with the Iron Fists 2)\",\n    \"Roel Reiné (born 15 July 1970 in Eindhoven) is a Dutch film director (source: Roel Reiné)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Eindhoven\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "f594eeadb238c242c0687e6893c9710c248440db8fbf2b84821990f80722d578",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 237,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1021,
+      "prompt_tokens_details": null,
+      "total_tokens": 1258
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Emily Louise Orr Elliott nationality\",\n    \"William Hutt (Actor) nationality\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "fdda64426fd8744a422117b281884dad7681cad4b91905b9273aaff949dcfa66",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 383,
+      "completion_tokens_details": null,
+      "prompt_tokens": 838,
+      "prompt_tokens_details": null,
+      "total_tokens": 1221
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Antoni Ribas (27 October 1935 – 3 October 2007) was a Catalan Spanish film director and screenwriter (source: Antoni Ribas).\",\n    \"His 1973 film \\\"La otra imagen\\\" was entered into the 1973 Cannes Film Festival (source: Antoni Ribas).\",\n    \"The Gentle Art of Burglary is a 1916 American silent short comedy directed by Raymond L. Schrock (source: The Gentle Art of Burglary).\"\n  ],\n  \"missing_entities\": [\n    \"Raymond L. Schrock death date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "ffa2f21b0de451b8c6aec9ef8323690b172e3b52d90bee97d67ac240e136c83b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 381,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1267,
+      "prompt_tokens_details": null,
+      "total_tokens": 1648
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Jean Negulesco was a Romanian-American film director and screenwriter (source: Jean Negulesco).\",\n    \"Zuzana Justman is a Czech-American documentary filmmaker and writer (source: Zuzana Justman).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes, both directors share American nationality.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "0147b9a0f14624a71c545909fa06a74c0c0d391e349782bb1054c0e88673dc72",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 515,
+      "completion_tokens_details": null,
+      "prompt_tokens": 967,
+      "prompt_tokens_details": null,
+      "total_tokens": 1482
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Los Hijos de Fierro is a 1972 Argentine film directed by Fernando Pino Solanas. (Los Hijos de Fierro)\",\n    \"Fernando Ezequiel 'Pino' Solanas (born 16 February 1936) is an Argentine film director. (Fernando Solanas)\",\n    \"Duccio Tessari was born on 11 October 1926. (Duccio Tessari)\",\n    \"A Pistol for Ringo was originally written and directed by Duccio Tessari. (A Pistol for Ringo)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"A Pistol For Ringo\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "0155fc9b4f86ad2646ab0b54c8615b68432eff105a1c84b35a6e300a25a8319c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 352,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1146,
+      "prompt_tokens_details": null,
+      "total_tokens": 1498
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Saw Pale was the mother of Queen Min Hla Myat of Ava (Saw Pale of Yamethin).\",\n    \"Min Hla Myat was the chief queen consort of King Tarabya of Ava (Min Hla Myat of Ava).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"King Tarabya of Ava\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "026267c168e4baa81a194b00140503dcad2437ca7ca77e367170fe21df861557",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 392,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1904,
+      "prompt_tokens_details": null,
+      "total_tokens": 2296
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Constance of York, Countess of Gloucester was the only daughter of Edmund of Langley, 1st Duke of York (source: Constance of York, Countess of Gloucester)\",\n    \"Edmund of Langley, 1st Duke of York was born 5 June 1341 and died 1 August 1402 (source: Edmund of Langley, 1st Duke of York)\"\n  ],\n  \"missing_entities\": [\n    \"Edmund of Langley, 1st Duke of York – place of death\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "09fbe3858b26233b285b5df808a4c59f2ef693c7b0101721fcf003b33889161c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 814,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1063,
+      "prompt_tokens_details": null,
+      "total_tokens": 1877
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Charles Francis Norton (1807 – 1835) was a 19th‑century Member of Parliament for Guildford (source: Charles Francis Norton).\",\n    \"Charles Francis Norton was the son‑in‑law of Sir Colin Campbell and brother‑in‑law of writer Caroline Norton (source: Charles Francis Norton).\",\n    \"Robert Vadra is an Indian businessman, entrepreneur and the husband of Priyanka Gandhi (source: Robert Vadra).\",\n    \"Robert Vadra is the son‑in‑law of Sonia Gandhi and Rajiv Gandhi, and the brother‑in‑law of Rahul Gandhi (source: Robert Vadra).\",\n    \"Wyndham Goold (1812‑1854) was a Member of Parliament for County Limerick from 1850 to 1854 (source: Wyndham Goold).\",\n    \"Wyndham Goold was educated at Westminster School and Trinity College, Dublin (source: Wyndham Goold).\",\n    \"Wyndham Goold was the son‑in‑law of Frederick Falkiner Goold, Archdeacon of Raphoe, and brother‑in‑law of Bishop Hamilton Verschoyle (source: Wyndham Goold).\"\n  ],\n  \"missing_entities\": [\n    \"Saw Pale Of Yamethin (child-in-law)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "0bc3c1adece7435b1b92d1be8fb24a6c60863f255a93e592acfbfc07c1258455",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 318,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1904,
+      "prompt_tokens_details": null,
+      "total_tokens": 2222
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Constance of York, Countess of Gloucester was the only daughter of Edmund of Langley, 1st Duke of York (source: Constance of York, Countess of Gloucester)\",\n    \"Edmund of Langley, 1st Duke of York was born 5 June 1341 and died 1 August 1402 (source: Edmund of Langley, 1st Duke of York)\"\n  ],\n  \"missing_entities\": [\n    \"Edmund of Langley, 1st Duke of York – place of death\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "0c9aba6113c01f3b663dd367e54d38b9327e4468d9f7d6ff63ca3c4f01605049",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 228,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1904,
+      "prompt_tokens_details": null,
+      "total_tokens": 2132
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\"Edmund of Langley, 1st Duke of York – place of death\"],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "19949993cc896ce7c477ad82626bf1ec3014baaaa61aef5f3758de1527fff1bc",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 401,
+      "completion_tokens_details": null,
+      "prompt_tokens": 935,
+      "prompt_tokens_details": null,
+      "total_tokens": 1336
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Man's Search for Happiness was produced for the Mormon Pavilion at the 1964 World's Fair in New York City (Man's Search for Happiness)\",\n    \"Tell It to the Bees is a 2018 British drama film (Tell It to the Bees)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Man's Search for Happiness was released earlier.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "21b6682bcf860ed214dcae9b9b3d465a523d054681c4cd5bab988e2d0979cbd8",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 368,
+      "completion_tokens_details": null,
+      "prompt_tokens": 834,
+      "prompt_tokens_details": null,
+      "total_tokens": 1202
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Vidura College, Nawala is a private English medium school in Colombo, Sri Lanka. (Vidura College, Nawala)\",\n    \"Methodist Girls' College, Trincomalee is a provincial school in Trincomalee, Sri Lanka. (Methodist Girls' College, Trincomalee)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "2b18625f3a3a00ffded84b04a3f20478e5a67d8e840e4799e3c83f761c60ee47",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 447,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1063,
+      "prompt_tokens_details": null,
+      "total_tokens": 1510
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\"King Tarabya of Ava\"],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "2d5470b9ea0ceba825372c956fb66602c031b77712a1a306dc4c50ec7c8bc0d1",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 350,
+      "completion_tokens_details": null,
+      "prompt_tokens": 794,
+      "prompt_tokens_details": null,
+      "total_tokens": 1144
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Somewhere in Sonora is a 1933 American Pre-Code Western film (Somewhere in Sonora)\",\n    \"Chanakya Shapatham is a 1986 Indian Telugu language action film (Chanakya Shapatham)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Chanakya Shapatham was released more recently.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "3084238d8555303139bbbe6aadc063720e767c97142491949ab07d2eada96180",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 599,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1597,
+      "prompt_tokens_details": null,
+      "total_tokens": 2196
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Los Hijos de Fierro is a 1972 Argentine film directed by Fernando Pino Solanas (Los Hijos de Fierro).\",\n    \"Fernando Ezequiel 'Pino' Solanas (born 16 February 1936) is an Argentine film director (Fernando Solanas).\",\n    \"A Pistol for Ringo was originally written and directed by Duccio Tessari (A Pistol for Ringo).\",\n    \"Duccio Tessari was born on 11 October 1926 (Duccio Tessari).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"A Pistol for Ringo\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "32d31cfddb0f939e22d189af886521c23e6125227bf3370f58577a9489548d93",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 347,
+      "completion_tokens_details": null,
+      "prompt_tokens": 772,
+      "prompt_tokens_details": null,
+      "total_tokens": 1119
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Vidura College, Nawala is a private English medium school in Colombo, Sri Lanka. (Vidura College, Nawala)\",\n    \"Methodist Girls' College, Trincomalee is a provincial school in Trincomalee, Sri Lanka. (Methodist Girls' College, Trincomalee)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "34a920d029f28e21d7f0b959dced54289a43e503de0efb5e26aa55f53cee4e44",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 465,
+      "completion_tokens_details": null,
+      "prompt_tokens": 923,
+      "prompt_tokens_details": null,
+      "total_tokens": 1388
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Duccio Tessari was born on 11 October 1926 (Duccio Tessari).\",\n    \"Duccio Tessari directed A Pistol for Ringo (Duccio Tessari).\",\n    \"Los Hijos de Fierro is a 1972 Argentine film directed by Fernando Pino Solanas (Los Hijos de Fierro).\",\n    \"Fernando Ezequiel 'Pino' Solanas was born on 16 February 1936 (Fernando Solanas).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"A Pistol For Ringo\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "38d0fdf0a4435481ced2ca00ae6765a506d92ac0be6c26ba5e27f893eed9aa0e",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 509,
+      "completion_tokens_details": null,
+      "prompt_tokens": 750,
+      "prompt_tokens_details": null,
+      "total_tokens": 1259
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Chanakya Shapatham is a 1986 Indian Telugu language action film (Chanakya Shapatham)\",\n    \"Somewhere in Sonora was released on April 3, 1927 (Somewhere in Sonora (1927 film))\",\n    \"Somewhere in Sonora is a 1933 American Pre-Code Western film directed by Mack V. Wright and starring John Wayne (Somewhere in Sonora (1933 film))\"\n  ],\n  \"missing_entities\": [\n    \"Release year of Somewhere In Sonora\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "3d09dc54e64d2e7a70ab0d31138b9c9c81c321b75a6221616ee4e017809be9c2",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 453,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1190,
+      "prompt_tokens_details": null,
+      "total_tokens": 1643
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Constance of York, Countess of Gloucester was the only daughter of Edmund of Langley, 1st Duke of York (source: Constance of York, Countess of Gloucester)\",\n    \"Edmund of Langley, 1st Duke of York was born 5 June 1341 and died 1 August 1402 (source: Edmund of Langley, 1st Duke of York)\"\n  ],\n  \"missing_entities\": [\n    \"place of death of Edmund of Langley, 1st Duke of York\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "3f4904db310476ac14f4948fe40c12ed912f117206168d6a4c4b2ff50c17370c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 343,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1196,
+      "prompt_tokens_details": null,
+      "total_tokens": 1539
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Tell It to the Bees is a 2018 British drama film. (Tell It to the Bees)\",\n    \"The film had its world premiere at the Toronto International Film Festival on 9 September 2018. (Tell It to the Bees)\",\n    \"\\\"Tell It to the Bees\\\" opened in limited release in the United States on 3 May 2019. (Tell It to the Bees)\",\n    \"It was released theatrically in the United Kingdom on 26 July 2019. (Tell It to the Bees)\"\n  ],\n  \"missing_entities\": [\n    \"Man'S Search For Happiness (release date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "455b2dc8c331602c6fdc371f563d7013f71cde9c88eb673f8ac9bc512ace01c6",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 297,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1101,
+      "prompt_tokens_details": null,
+      "total_tokens": 1398
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Vidura College, Nawala is a private English medium school in Colombo, Sri Lanka. (Vidura College, Nawala)\",\n    \"Methodist Girls' College, Trincomalee is a provincial school in Trincomalee, Sri Lanka. (Methodist Girls' College, Trincomalee)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "4aa92d06733ab39f0cd21cc6d3af946d63ad3958e28eadd4e4268a48afbf2077",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 180,
+      "completion_tokens_details": null,
+      "prompt_tokens": 828,
+      "prompt_tokens_details": null,
+      "total_tokens": 1008
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Somewhere in Sonora was released on April 3, 1927 (Somewhere in Sonora (1927 film))\"\n  ],\n  \"missing_entities\": [\n    \"Chanakya Shapatham release date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "52fcde8e4b02307b79e37b7d92ea5911850ef059df7ba09851e6a3ee0987c779",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 433,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1103,
+      "prompt_tokens_details": null,
+      "total_tokens": 1536
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Saw Pale was the mother of Queen Min Hla Myat of Ava (source: Saw Pale of Yamethin).\",\n    \"Min Hla Myat was the chief queen consort of King Tarabya of Ava (source: Min Hla Myat of Ava).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"King Tarabya of Ava\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "54404175a11eae16f811ec7edad5b0c461d51b7698046218728988e357a11f42",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 374,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1689,
+      "prompt_tokens_details": null,
+      "total_tokens": 2063
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Constance of York, Countess of Gloucester was the only daughter of Edmund of Langley, 1st Duke of York (source: Constance of York, Countess of Gloucester)\"\n  ],\n  \"missing_entities\": [\n    \"Edmund of Langley, 1st Duke of York – place of death\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6a0e5807fca6b2086b87756cc6ee8c29a76c139afca858662468804e7ff68073",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 454,
+      "completion_tokens_details": null,
+      "prompt_tokens": 828,
+      "prompt_tokens_details": null,
+      "total_tokens": 1282
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Somewhere in Sonora was released on April 3, 1927 (Somewhere in Sonora (1927 film))\",\n    \"Chanakya Shapatham is a 1986 Indian Telugu language action film (Chanakya Shapatham)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Chanakya Shapatham was released more recently.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6a98a10011899b56e8d6848ff596976963bbd50743616ef5f6f3b39bf9916429",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 337,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1190,
+      "prompt_tokens_details": null,
+      "total_tokens": 1527
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Constance of York, Countess of Gloucester was the only daughter of Edmund of Langley, 1st Duke of York (source: Constance of York, Countess of Gloucester)\",\n    \"Edmund of Langley, 1st Duke of York was born 5 June 1341 and died 1 August 1402 (source: Edmund of Langley, 1st Duke of York)\"\n  ],\n  \"missing_entities\": [\n    \"place of death of Edmund of Langley, 1st Duke of York\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6b98317b6ba0e82ca7eeeb5b5ef4a62b3e76418b762e0511140d2f7ea9d66397",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 374,
+      "completion_tokens_details": null,
+      "prompt_tokens": 794,
+      "prompt_tokens_details": null,
+      "total_tokens": 1168
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Somewhere in Sonora is a 1933 American Pre-Code Western film directed by Mack V. Wright and starring John Wayne. (Somewhere in Sonora)\",\n    \"Chanakya Shapatham is a 1986 Indian Telugu language action film. (Chanakya Shapatham)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Chanakya Shapatham\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "6c6b08bb1be8c8395a1a50367884d8c641cfda2212d51920610cece6f8fbca63",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 479,
+      "completion_tokens_details": null,
+      "prompt_tokens": 967,
+      "prompt_tokens_details": null,
+      "total_tokens": 1446
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Los Hijos de Fierro is a 1972 Argentine film directed by Fernando Pino Solanas (Los Hijos de Fierro)\",\n    \"Fernando Ezequiel 'Pino' Solanas was born on 16 February 1936 (Fernando Solanas)\",\n    \"A Pistol for Ringo was originally written and directed by Duccio Tessari (A Pistol for Ringo)\",\n    \"Duccio Tessari was born on 11 October 1926 (Duccio Tessari)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"A Pistol for Ringo\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "70956049bb46cd5e7df1cfc6f75a2df3676111c72a9b9a118ae9b416f3cc9c37",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 383,
+      "completion_tokens_details": null,
+      "prompt_tokens": 834,
+      "prompt_tokens_details": null,
+      "total_tokens": 1217
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Vidura College, Nawala is a private English medium school in Colombo, Sri Lanka. (Vidura College, Nawala)\",\n    \"Methodist Girls' College, Trincomalee is a provincial school in Trincomalee, Sri Lanka. (Methodist Girls' College, Trincomalee)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "74823e9531cc6d72309de31df6487a540de06fa9356e438767a618d9321be7b8",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 323,
+      "completion_tokens_details": null,
+      "prompt_tokens": 834,
+      "prompt_tokens_details": null,
+      "total_tokens": 1157
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Maliyadeva Girls' College is a national Buddhist school in Sri Lanka situated in Kurunegala. (Maliyadeva Girls' College)\"\n  ],\n  \"missing_entities\": [\n    \"Vidura College, Nawala (country)\",\n    \"Methodist Girls' College, Trincomalee (country)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "75df7c966d4fab35fda47c7e8232625d520d357cd6d2a408b5a37e3b6320b36d",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 520,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1371,
+      "prompt_tokens_details": null,
+      "total_tokens": 1891
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Tell It to the Bees had its world premiere at the Toronto International Film Festival on 9 September 2018. (Tell It to the Bees)\",\n    \"\\\"Tell It to the Bees\\\" opened in limited release in the United States on 3 May 2019. (Tell It to the Bees)\",\n    \"It was released theatrically in the United Kingdom on 26 July 2019. (Tell It to the Bees)\",\n    \"Man's Search for Happiness was produced for the Mormon Pavilion at the 1964 World's Fair in New York City. (Man's Search for Happiness)\"\n  ],\n  \"missing_entities\": [\n    {\n      \"attribute\": \"release date\",\n      \"entity\": \"Man's Search for Happiness\"\n    }\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "7c93e2de79682edd763dd5382e388e55b0c6e19b1ba971afc6b9212986752cd8",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 414,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1196,
+      "prompt_tokens_details": null,
+      "total_tokens": 1610
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Tell It to the Bees had its world premiere at the Toronto International Film Festival on 9 September 2018. (Tell It to the Bees)\",\n    \"Man's Search for Happiness was produced for the Mormon Pavilion at the 1964 World's Fair in New York City. (Man's Search for Happiness)\"\n  ],\n  \"missing_entities\": [\n    \"Man'S Search For Happiness (release date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "7d829544cd8250f8cb2518fb70a36251543f065107440e8777b710abc0ffa10a",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 626,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1190,
+      "prompt_tokens_details": null,
+      "total_tokens": 1816
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Edmund of Langley, 1st Duke of York died on 1 August 1402 (source: Edmund of Langley, 1st Duke of York)\"\n  ],\n  \"missing_entities\": [\n    \"father of Constance Of York, Countess Of Gloucester\",\n    \"place of death of Edmund of Langley, 1st Duke of York\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "81664303fa1235aa930b91bf3f51932acb6c760884e504afa32ebfa55f4d9117",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 383,
+      "completion_tokens_details": null,
+      "prompt_tokens": 967,
+      "prompt_tokens_details": null,
+      "total_tokens": 1350
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"A Pistol for Ringo was originally written and directed by Duccio Tessari (source: A Pistol for Ringo)\",\n    \"Los Hijos del otro is a 1947 Argentine film (source: Los Hijos del otro)\"\n  ],\n  \"missing_entities\": [\n    \"Duccio Tessari birth year\",\n    \"Director of Los Hijos De Fierro\",\n    \"Director of Los Hijos De Fierro birth year\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "824cd3d41f4886c9d383d90560a64a64ee315dfb003ca87f923e16fbad2b3bd4",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 492,
+      "completion_tokens_details": null,
+      "prompt_tokens": 935,
+      "prompt_tokens_details": null,
+      "total_tokens": 1427
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Man's Search for Happiness was produced for the Mormon Pavilion at the 1964 World's Fair in New York City. (Man's Search for Happiness)\",\n    \"Tell It to the Bees is a 2018 British drama film. (Tell It to the Bees)\",\n    \"The film had its world premiere at the Toronto International Film Festival on 9 September 2018. (Tell It to the Bees)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Man's Search for Happiness was released earlier.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "83c1dda70d60410d4f61fef0ae5778310b5b801be553dc2b17f49db47729920f",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 659,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1597,
+      "prompt_tokens_details": null,
+      "total_tokens": 2256
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Los Hijos de Fierro is a 1972 Argentine film directed by Fernando Pino Solanas (Los Hijos de Fierro).\",\n    \"Fernando Ezequiel 'Pino' Solanas (born 16 February 1936) is an Argentine film director (Fernando Solanas).\",\n    \"A Pistol for Ringo was originally written and directed by Duccio Tessari (A Pistol for Ringo).\",\n    \"Duccio Tessari was born on 11 October 1926 (Duccio Tessari).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"A Pistol For Ringo\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "84aea72dc0f6b0cdcc50b8a023f5e4bc4a75198ee9db3ee319b440211c74f607",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 179,
+      "completion_tokens_details": null,
+      "prompt_tokens": 750,
+      "prompt_tokens_details": null,
+      "total_tokens": 929
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Chanakya Shapatham is a 1986 Indian Telugu language action film (source: Chanakya Shapatham).\"\n  ],\n  \"missing_entities\": [\n    \"Release year of Somewhere In Sonora\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "85494e7a82ca003cbbb622255644c958532fa9835af77ecbe40b8837a9f75ff8",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 232,
+      "completion_tokens_details": null,
+      "prompt_tokens": 794,
+      "prompt_tokens_details": null,
+      "total_tokens": 1026
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Somewhere in Sonora is a 1933 American Pre-Code Western film directed by Mack V. Wright and starring John Wayne. (Somewhere in Sonora)\"\n  ],\n  \"missing_entities\": [\n    \"Chanakya Shapatham release year\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "8d5571a76a1fc082779432fc58453ed7a6d9e3a7d68db6c740e7a0bc0de534b2",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 281,
+      "completion_tokens_details": null,
+      "prompt_tokens": 772,
+      "prompt_tokens_details": null,
+      "total_tokens": 1053
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    \"Vidura College, Nawala (country)\",\n    \"Methodist Girls' College, Trincomalee (country)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "90a001a911291bccc7ff9e61f298daf1773b9d3ecf5a92e8a8fade1165cf7c20",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 480,
+      "completion_tokens_details": null,
+      "prompt_tokens": 828,
+      "prompt_tokens_details": null,
+      "total_tokens": 1308
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Somewhere in Sonora was released on April 3, 1927 (Somewhere in Sonora (1927 film))\"\n  ],\n  \"missing_entities\": [\n    \"Chanakya Shapatham release date\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "92e4d20bdf44d36b994e21abd4d18198bed09a352058995949670f85a0de6c80",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 565,
+      "completion_tokens_details": null,
+      "prompt_tokens": 750,
+      "prompt_tokens_details": null,
+      "total_tokens": 1315
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Chanakya Shapatham is a 1986 Indian Telugu language action film (source: Chanakya Shapatham)\",\n    \"Somewhere in Sonora was released on April 3, 1927 (Somewhere in Sonora (1927 film))\",\n    \"Somewhere in Sonora is a 1933 American Pre-Code Western film directed by Mack V. Wright and starring John Wayne (Somewhere in Sonora)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Chanakya Shapatham was released more recently.\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9830f7f93dbc5f2578dc36504e8af0ab39b0212f4dd8828afddb241876d31c3e",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 410,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1689,
+      "prompt_tokens_details": null,
+      "total_tokens": 2099
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Constance of York, Countess of Gloucester was the only daughter of Edmund of Langley, 1st Duke of York (source: Constance of York, Countess of Gloucester)\",\n    \"Edmund of Langley, 1st Duke of York was born 5 June 1341 and died 1 August 1402 (source: Edmund of Langley, 1st Duke of York)\"\n  ],\n  \"missing_entities\": [\n    \"Edmund of Langley, 1st Duke of York – place of death\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "993becdfb3914efa27e18f1194a1f87381b059098cb01fda14fb41a42bb34f0a",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 495,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1058,
+      "prompt_tokens_details": null,
+      "total_tokens": 1553
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\"King Tarabya of Ava (child-in-law)\"],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "9faebf4be98b7046e162a7f62ecfe28c7543726e2cf66df30291433abf42593e",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 313,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1101,
+      "prompt_tokens_details": null,
+      "total_tokens": 1414
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Vidura College, Nawala is a private English medium school in Colombo, Sri Lanka. (Vidura College, Nawala)\",\n    \"Methodist Girls' College, Trincomalee is a provincial school in Trincomalee, Sri Lanka. (Methodist Girls' College, Trincomalee)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "ba64331e8d1e769ffb324b43dff80fc430dd5526325c18a53787f09e0b69eefc",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 289,
+      "completion_tokens_details": null,
+      "prompt_tokens": 923,
+      "prompt_tokens_details": null,
+      "total_tokens": 1212
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Duccio Tessari was born on 11 October 1926 (Duccio Tessari).\",\n    \"Duccio Tessari directed A Pistol for Ringo (Duccio Tessari).\"\n  ],\n  \"missing_entities\": [\n    \"Los Hijos De Fierro director\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "bfbc282975491ce137bbebfb1009566d6e359f4120824b4b0c8ad0d33c45e4d2",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 625,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1196,
+      "prompt_tokens_details": null,
+      "total_tokens": 1821
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Man's Search for Happiness was produced for the Mormon Pavilion at the 1964 World's Fair in New York City (Man's Search for Happiness).\",\n    \"Tell It to the Bees is a 2018 British drama film (Tell It to the Bees).\",\n    \"The film had its world premiere at the Toronto International Film Festival on 9 September 2018 (Tell It to the Bees).\",\n    \"\\\"Tell It to the Bees\\\" opened in limited release in the United States on 3 May 2019 (Tell It to the Bees).\",\n    \"It was released theatrically in the United Kingdom on 26 July 2019 (Tell It to the Bees).\"\n  ],\n  \"missing_entities\": [\n    \"Man'S Search For Happiness (release date)\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "c5682c32eead3f980736aa17a1c858fcf0f5e54996dcce43770ece430a44c20e",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 316,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1101,
+      "prompt_tokens_details": null,
+      "total_tokens": 1417
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Vidura College, Nawala is a private English medium school in Colombo, Sri Lanka. (Vidura College, Nawala)\",\n    \"Methodist Girls' College, Trincomalee is a provincial school in Trincomalee, Sri Lanka. (Methodist Girls' College, Trincomalee)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "c943f89d2daea48bbb84ddde6959883521796707e496b4c84719e32755488feb",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 291,
+      "completion_tokens_details": null,
+      "prompt_tokens": 772,
+      "prompt_tokens_details": null,
+      "total_tokens": 1063
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Vidura College, Nawala is a private English medium school in Colombo, Sri Lanka. (Vidura College, Nawala)\",\n    \"Methodist Girls' College, Trincomalee is a provincial school in Trincomalee, Sri Lanka. (Methodist Girls' College, Trincomalee)\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"Yes\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "ccff6c5fcbc863a04b0545cff94924e63abf97b8fa1b3a6739dddf325b909c07",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 557,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1371,
+      "prompt_tokens_details": null,
+      "total_tokens": 1928
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"\\\"Tell It to the Bees\\\" is a 2018 British drama film; it had its world premiere at the Toronto International Film Festival on 9 September 2018 (Tell It to the Bees).\",\n    \"\\\"Tell It to the Bees\\\" opened in limited release in the United States on 3 May 2019 (Tell It to the Bees).\",\n    \"\\\"Man's Search for Happiness\\\" was produced for the Mormon Pavilion at the 1964 World's Fair in New York City (Man's Search for Happiness).\"\n  ],\n  \"missing_entities\": [\n    \"{\\\"attribute\\\":\\\"release date\\\",\\\"entity\\\":\\\"Man'S Search For Happiness\\\"}\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "d289800abeb366b394e04d59ea64e2adda2ba07d8bd7afa4297375e5afa4737c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 396,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1689,
+      "prompt_tokens_details": null,
+      "total_tokens": 2085
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Constance of York, Countess of Gloucester was the only daughter of Edmund of Langley, 1st Duke of York (source: Constance of York, Countess of Gloucester)\",\n    \"Edmund of Langley, 1st Duke of York was born 5 June 1341 and died 1 August 1402 (source: Edmund of Langley, 1st Duke of York)\"\n  ],\n  \"missing_entities\": [\n    \"Edmund of Langley, 1st Duke of York – place of death\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "d8b221fd96092ae91f85bec56ec90e3a514bbe316804efd6b2f8ba140f70f3d0",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 428,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1146,
+      "prompt_tokens_details": null,
+      "total_tokens": 1574
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Saw Pale of Yamethin was the mother of Queen Min Hla Myat of Ava (source: Saw Pale of Yamethin).\",\n    \"Min Hla Myat was the chief queen consort and married King Tarabya of Ava (source: Min Hla Myat of Ava).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"King Tarabya of Ava\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "de4863403ac4aca10477c437931d526aca74d71a2e1199e397aa12afc7cd5862",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 278,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1371,
+      "prompt_tokens_details": null,
+      "total_tokens": 1649
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\n    {\"attribute\": \"release date\", \"entity\": \"Man'S Search For Happiness\"},\n    {\"attribute\": \"release date\", \"entity\": \"Tell It To The Bees\"}\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "e1f75cf03c804cc10f88f16ffeeb6e48e2827f8f4143c21477e0bd495b18ebe4",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 191,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1103,
+      "prompt_tokens_details": null,
+      "total_tokens": 1294
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [],\n  \"missing_entities\": [\"child-in-law of Saw Pale Of Yamethin\"],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "f3c058f47ef7411fea425f8cfcae6130982c20bb9eb2591f1dc21a920bb2910c",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 503,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1597,
+      "prompt_tokens_details": null,
+      "total_tokens": 2100
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Los Hijos de Fierro is a 1972 Argentine film directed by Fernando Pino Solanas. (Los Hijos de Fierro)\",\n    \"Fernando Ezequiel 'Pino' Solanas (born 16 February 1936) is an Argentine film director. (Fernando Solanas)\",\n    \"The Return of Ringo is a 1965 Italian spaghetti western film directed by Duccio Tessari and the sequel to the earlier film \\\"A Pistol for Ringo\\\". (The Return of Ringo)\"\n  ],\n  \"missing_entities\": [\n    \"director of A Pistol for Ringo\",\n    \"birth date of director of A Pistol for Ringo\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "f4829931c568d595fb792ac8e7c1ed90a41ba087f98090e290b915cb674fce2b",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 400,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1146,
+      "prompt_tokens_details": null,
+      "total_tokens": 1546
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Saw Pale was the mother of Queen Min Hla Myat of Ava (source: Saw Pale of Yamethin).\",\n    \"Min Hla Myat was the chief queen consort of King Tarabya of Ava (source: Min Hla Myat of Ava).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"King Tarabya of Ava\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "f7dc88f0a46978ab26a6bed76cde9e0eacb5c78b431533bd37dc255c2f5df980",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 445,
+      "completion_tokens_details": null,
+      "prompt_tokens": 1098,
+      "prompt_tokens_details": null,
+      "total_tokens": 1543
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Saw Pale was the mother of Queen Min Hla Myat of Ava (source: Saw Pale of Yamethin).\",\n    \"Min Hla Myat was the chief queen consort of King Tarabya of Ava (source: Min Hla Myat of Ava).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"King Tarabya of Ava\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "f95192c3b7785428eb83856c1344585eecc04e677c037ba153b8ce834c9a711e",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 504,
+      "completion_tokens_details": null,
+      "prompt_tokens": 923,
+      "prompt_tokens_details": null,
+      "total_tokens": 1427
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Duccio Tessari was born on 11 October 1926 (Duccio Tessari).\",\n    \"Duccio Tessari directed A Pistol for Ringo (Duccio Tessari).\",\n    \"Los Hijos de Fierro is a 1972 Argentine film directed by Fernando Pino Solanas (Los Hijos de Fierro).\",\n    \"Fernando Ezequiel 'Pino' Solanas was born on 16 February 1936 (Fernando Solanas).\"\n  ],\n  \"missing_entities\": [],\n  \"answer\": \"A Pistol For Ringo\"\n}",
+          "refusal": null
+        }
+      }
+    ]
+  },
+  {
+    "request_key": "fa0dd887607d2404111f210fcb86834516e6c813a3f2e282604179c835bafdbc",
+    "mode": "REAL",
+    "model": "gpt-oss-120b",
+    "usage": {
+      "audio_prompt_tokens": 0,
+      "completion_tokens": 285,
+      "completion_tokens_details": null,
+      "prompt_tokens": 935,
+      "prompt_tokens_details": null,
+      "total_tokens": 1220
+    },
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"facts\": [\n    \"Man's Search for Happiness was produced for the Mormon Pavilion at the 1964 World's Fair in New York City (Man's Search for Happiness).\"\n  ],\n  \"missing_entities\": [\n    \"Release year of the film \\\"Tell It To The Bees\\\"\"\n  ],\n  \"answer\": null\n}",
+          "refusal": null
+        }
+      }
+    ]
+  }
+]

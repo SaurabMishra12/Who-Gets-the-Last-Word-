@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "experiment": "P5_Component_Isolated_Communication_Control",
+    "n_samples": 100,
+    "budget_v_bar": 50,
+    "model": "gpt-oss-120b",
+    "controller": "08-06results/gsm8k_pretrained_400.pt.npz",
+    "timestamp": "2026-10-04 16:23:55"
+  },
+  "cell_summaries": [
+    {
+      "cell": "Cell_A_Static_Fixed",
+      "desc": "Cell A (Static S1 + Fixed Depth)",
+      "n": 100,
+      "accuracy": 91.0,
+      "ci_lo": 83.77362530335634,
+      "ci_hi": 95.1928004836115,
+      "mean_tokens": 46.0,
+      "std_tokens": 0.0,
+      "mean_rounds": 3.0,
+      "std_rounds": 0.0
+    },
+    {
+      "cell": "Cell_B_Static_Adaptive",
+      "desc": "Cell B (Static S1 + Adaptive Stopping)",
+      "n": 100,
+      "accuracy": 93.0,
+      "ci_lo": 86.25032899347025,
+      "ci_hi": 96.5681175635936,
+      "mean_tokens": 14.0,
+      "std_tokens": 0.0,
+      "mean_rounds": 1.0,
+      "std_rounds": 0.0
+    },
+    {
+      "cell": "Cell_C_Learned_Fixed",
+      "desc": "Cell C (Learned Top-2 + Fixed Depth)",
+      "n": 100,
+      "accuracy": 91.0,
+      "ci_lo": 83.77362530335634,
+      "ci_hi": 95.1928004836115,
+      "mean_tokens": 46.0,
+      "std_tokens": 0.0,
+      "mean_rounds": 3.0,
+      "std_rounds": 0.0
+    },
+    {
+      "cell": "Cell_D_Learned_Adaptive",
+      "desc": "Cell D (Learned Top-2 + Adaptive Stopping)",
+      "n": 100,
+      "accuracy": 93.0,
+      "ci_lo": 86.25032899347025,
+      "ci_hi": 96.5681175635936,
+      "mean_tokens": 14.0,
+      "std_tokens": 0.0,
+      "mean_rounds": 1.0,
+      "std_rounds": 0.0
+    }
+  ],
+  "paired_comparisons": [
+    {
+      "comparison": "Δ_routing (C vs A)",
+      "cell_tested": "Cell_C_Learned_Fixed",
+      "cell_baseline": "Cell_A_Static_Fixed",
+      "point_delta": 0.0,
+      "bca_ci_lo": 0.0,
+      "bca_ci_hi": 0.0,
+      "n01": 0,
+      "n10": 0,
+      "mcnemar_p": 1.0,
+      "interpretation": "Learned Routing isolated from Stopping (Fixed Depth held constant)"
+    },
+    {
+      "comparison": "Δ_stopping (B vs A)",
+      "cell_tested": "Cell_B_Static_Adaptive",
+      "cell_baseline": "Cell_A_Static_Fixed",
+      "point_delta": 2.0,
+      "bca_ci_lo": -2.0,
+      "bca_ci_hi": 5.0,
+      "n01": 1,
+      "n10": 3,
+      "mcnemar_p": 0.625,
+      "interpretation": "Adaptive Stopping isolated from Routing (under Static S1 Support)"
+    },
+    {
+      "comparison": "Δ_stopping|learned (D vs C)",
+      "cell_tested": "Cell_D_Learned_Adaptive",
+      "cell_baseline": "Cell_C_Learned_Fixed",
+      "point_delta": 2.0,
+      "bca_ci_lo": -2.0,
+      "bca_ci_hi": 5.0,
+      "n01": 1,
+      "n10": 3,
+      "mcnemar_p": 0.625,
+      "interpretation": "Adaptive Stopping effect under Learned Top-2 Routing"
+    },
+    {
+      "comparison": "Δ_joint (D vs A)",
+      "cell_tested": "Cell_D_Learned_Adaptive",
+      "cell_baseline": "Cell_A_Static_Fixed",
+      "point_delta": 2.0,
+      "bca_ci_lo": -2.0,
+      "bca_ci_hi": 5.0,
+      "n01": 1,
+      "n10": 3,
+      "mcnemar_p": 0.625,
+      "interpretation": "Joint Adaptive Policy vs. Static Baseline"
+    }
+  ]
+}

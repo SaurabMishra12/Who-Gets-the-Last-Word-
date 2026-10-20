@@ -1,0 +1,22 @@
+% Fragment transcribed from the supplied TeX; see paper/reference.json.
+\begin{table}[!t]
+\centering
+\caption{Recommended evaluation controls for attributing quality and cost in multi-agent Web QA and reasoning.}
+\label{tab:guidelines}
+\scriptsize
+\setlength{\tabcolsep}{2.8pt}
+\renewcommand{\arraystretch}{1.05}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}p{0.23\columnwidth}p{0.34\columnwidth}p{0.39\columnwidth}@{}}
+\toprule
+\textbf{Audit Dimension} & \textbf{Confound / Quantity} & \textbf{Required Reporting Control} \\
+\midrule
+Terminal readout & Final answer selection & Report Fixed Sink ($\Rsink$), Fallback ($\Rsp$), and Vote ($\Raa$). \\
+Abstention semantics & Uninformed \texttt{noanswer} ballots & Audit $\Rorig$ vs.\ $\Raa$ under partitioned retrieval (Prop.~\ref{prop:veto}). \\
+Recipient computation & Edge count vs.\ LLM calls & Report $|\mathcal{G}|$, $|U(\mathcal{G})|$, and total logical tokens (Thm.~\ref{thm:multiplicity}). \\
+Centralization boundary & Distributed vs.\ single prompt & Include a single-call Full-Union baseline when feasible. \\
+Volume \& stopping & Nominal cap vs.\ realized cost & Log realized tokens, stopping depth, and gold-coverage strata. \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

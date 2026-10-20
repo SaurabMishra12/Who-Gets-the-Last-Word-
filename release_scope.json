@@ -1,0 +1,22 @@
+{
+  "kind": "partial research audit release",
+  "included": [
+    "paper-numbered table fragments and CSV cells",
+    "per-question outcomes and analysis summaries",
+    "saved answer outputs, exact Web prompts, refusal flags and usage where present",
+    "frozen configurations and dataset metadata",
+    "offline evaluation examples",
+    "algorithm pseudocode",
+    "Lean proof sources"
+  ],
+  "withheld": [
+    "production inference and orchestration implementation",
+    "training pipeline and controller checkpoints",
+    "provider credentials, endpoints and transport headers",
+    "provider internal reasoning fields",
+    "full third-party dataset distributions"
+  ],
+  "reproducibility_boundary": "Supports inspection and offline checks of released records. This is not a complete end-to-end experiment reproduction package. Prompts and methodological details may permit an independent reimplementation.",
+  "prompt_boundary": "All saved requests in selected canonical Web run directories are released. Historical reasoning streams do not preserve every instantiated request; source templates are released for those arms. Missing prompt records are not reconstructed or presented as originals.",
+  "cost_boundary": "Logical references must not be added to physical provider attempts. Shared cached responses, unknown attempts, missing usage and historical versus current cohorts remain distinct."
+}

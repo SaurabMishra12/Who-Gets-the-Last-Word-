@@ -1,0 +1,14 @@
+{
+  "n_samples": 100,
+  "seed": 42,
+  "model": "gpt-oss-120b",
+  "fixed_depth_rounds": 2,
+  "tolerance_pct": 1.0,
+  "conditions": [
+    "Static_Role",
+    "Learned_SparseComm",
+    "Random_Routing",
+    "Complete_Broadcast_Matched",
+    "Complete_Broadcast_Full"
+  ]
+}

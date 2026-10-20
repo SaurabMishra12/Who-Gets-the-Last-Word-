@@ -1,0 +1,22 @@
+% Fragment transcribed from the supplied TeX; see paper/reference.json.
+\begin{table}[!h]
+\centering
+\caption{Positioning relative to representative multi-agent LLM communication frameworks.}
+\label{tab:positioning}
+\scriptsize
+\setlength{\tabcolsep}{3.5pt}
+\renewcommand{\arraystretch}{1.05}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}p{0.34\columnwidth}p{0.62\columnwidth}@{}}
+\toprule
+\textbf{Framework} & \textbf{Primary Emphasis vs.\ Our Execution-Contract Audit} \\
+\midrule
+Multi-Agent Debate \cite{du2024improving,liang2024encouraging} & Symmetric all-to-all deliberation; does not isolate asymmetric readout or partitioned retrieval abstentions. \\
+GPTSwarm \cite{zhuge2024gptswarm} / MacNet \cite{qian2025macnet} & Learned or DAG-structured agent graphs; evaluates end-to-end policies without fixed-sink invariance controls. \\
+G-Designer \cite{zhang2025gdesigner} / ARG-Designer \cite{li2026assemble} & Task-adaptive graph generation; couples support selection with recipient update counts. \\
+AgentPrune \cite{zhang2025cut} / AgentDropout \cite{wang2025agentdropout} / DyLAN \cite{liu2024dylan} & Edge and agent pruning for token efficiency; does not separate stopping depth from support selection or readout. \\
+\textbf{This Work (\sys{} + $\Rsp$)} & \textbf{Joint audit of evidence locality, one-round sink invariance, synthesis multiplicity, abstention veto, and stopping.} \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

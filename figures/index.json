@@ -1,0 +1,16 @@
+{
+  "scope": "Data-derived companion renderings of the four paper figures, not pixel-identical copies of the published artwork. Figure 3 uses the full-cohort readout contrast; detailed strata and contrasts remain in the released tables. Figure 4 labels P4/P5 as arithmetic diagnostics and proxy units.",
+  "command": "python figures/render.py /tmp/lastword-figures",
+  "source_data": "figures/plot_data.csv",
+  "optional_dependencies": [
+    "matplotlib>=3.8"
+  ],
+  "original_artwork_hashes": {
+    "fig1_readout_duality.pdf": "893d31ec5241693d3a5b2b9f3f4819ce77c4da15d0b8a5a0da4021a23af565f3",
+    "fig3_hotpot_strata (1).pdf": "dce62a44ce9d655acda51f039c85d7c00a86344bd379a7192db603c023fad6f1",
+    "fig2_2wiki_synthesis.pdf": "1a50a8fcf154399e38ba6b27fc02265d3cd0897bb3ad930d9751b7c666c9ff5c",
+    "fig3_hotpot_strata.pdf": "dce62a44ce9d655acda51f039c85d7c00a86344bd379a7192db603c023fad6f1",
+    "fig4_colocated_attribution.pdf": "7af85f10a633110a42f41a3417df0b234fad81a6354251e2b2abdd48a8e60daa"
+  },
+  "original_binary_artwork_included": false
+}

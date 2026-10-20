@@ -1,0 +1,20 @@
+{
+  "provider": {
+    "unique_provider_responses": 7634,
+    "explicit_provider_refusals": 68,
+    "raw_empty_answers": 68,
+    "whitespace_only_nonempty_answers": 0,
+    "normalized_noanswer": 4676,
+    "normalized_empty_but_nonempty_answers": 0
+  },
+  "references": {
+    "n_official_questions": 7405,
+    "official_data_sha256": "103e345973c309cb857a72d8519e1edaa03d50a6611c059bcf5b12f50bcc5909",
+    "normalized_noanswer_reference_ids": [],
+    "normalized_empty_nonempty_reference_ids": [
+      "5ae4988655429970de88d9c1",
+      "5a8b3d795542997f31a41cc1"
+    ],
+    "empty_reference_ids": []
+  }
+}

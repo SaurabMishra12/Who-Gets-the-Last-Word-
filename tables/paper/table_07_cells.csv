@@ -1,0 +1,16 @@
+tabular,row,column,cell_tex
+1,1,1,"\toprule
+\textbf{Framework}"
+1,1,2,\textbf{Primary Emphasis vs.\ Our Execution-Contract Audit}
+1,2,1,"\midrule
+Multi-Agent Debate \cite{du2024improving,liang2024encouraging}"
+1,2,2,Symmetric all-to-all deliberation; does not isolate asymmetric readout or partitioned retrieval abstentions.
+1,3,1,GPTSwarm \cite{zhuge2024gptswarm} / MacNet \cite{qian2025macnet}
+1,3,2,Learned or DAG-structured agent graphs; evaluates end-to-end policies without fixed-sink invariance controls.
+1,4,1,G-Designer \cite{zhang2025gdesigner} / ARG-Designer \cite{li2026assemble}
+1,4,2,Task-adaptive graph generation; couples support selection with recipient update counts.
+1,5,1,AgentPrune \cite{zhang2025cut} / AgentDropout \cite{wang2025agentdropout} / DyLAN \cite{liu2024dylan}
+1,5,2,Edge and agent pruning for token efficiency; does not separate stopping depth from support selection or readout.
+1,6,1,\textbf{This Work (\sys{} + $\Rsp$)}
+1,6,2,"\textbf{Joint audit of evidence locality, one-round sink invariance, synthesis multiplicity, abstention veto, and stopping.}"
+1,7,1,\bottomrule

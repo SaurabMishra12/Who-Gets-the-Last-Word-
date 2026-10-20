@@ -1,0 +1,75 @@
+% Fragment transcribed from the supplied TeX; see paper/reference.json.
+\begin{table*}[!t]
+\centering
+\caption{Communication cost and readout-dependent performance on partitioned 2WikiMultihopQA. Resource counts and logical tokens are per query for the extension cohort ($N=130$; token savings relative to Dense Broadcast). Accuracy is reported as Exact Match (EM) / Answer $F_1$ (\%) for both the extension cohort ($N=130$) and pooled cohort ($N=150$).}
+\label{tab:2wiki_main}
+\scriptsize
+\setlength{\tabcolsep}{4.2pt}
+\renewcommand{\arraystretch}{1.02}
+\resizebox{0.96\textwidth}{!}{%
+\begin{tabular}{lcccccccccc}
+\toprule
+& \multicolumn{4}{c}{\textbf{Per-Query Resource Cost ($N=130$)}}
+& \multicolumn{3}{c}{\textbf{Extension Cohort ($N=130$, EM / $F_1$)}}
+& \multicolumn{3}{c}{\textbf{Pooled Cohort ($N=150$, EM / $F_1$)}} \\
+\cmidrule(lr){2-5}
+\cmidrule(lr){6-8}
+\cmidrule(lr){9-11}
+\textbf{Communication Arm}
+& \textbf{Edges}
+& \textbf{Updates}
+& \textbf{Calls}
+& \textbf{Logical Tok}
+& \textbf{Sink ($\Rsink$)}
+& \textbf{Fallback ($\Rsp$)}
+& \textbf{Vote ($\Raa$)}
+& \textbf{Sink ($\Rsink$)}
+& \textbf{Fallback ($\Rsp$)}
+& \textbf{Vote ($\Raa$)} \\
+\midrule
+NoComm
+& $0.00$ & $0.00$ & $3.00$
+& $3.88$k ($-54.5\%$)
+& $6.15/7.05$ & $19.23/22.17$ & $19.23/22.17$
+& $6.00/6.78$ & $18.67/21.21$ & $18.67/21.21$ \\
+
+Random One-Sender
+& $1.00$ & $1.00$ & $4.00$
+& $5.36$k ($-37.2\%$)
+& $26.15/27.12$ & $33.85/36.85$ & $33.85/36.85$
+& $26.00/26.83$ & $33.33/35.94$ & $33.33/35.94$ \\
+
+Complementary Router
+& $1.05$ & $0.92$ & $3.92$
+& $5.28$k ($-38.1\%$)
+& $34.62/37.56$ & $41.54/45.44$ & $41.54/45.44$
+& $36.67/39.22$ & $43.33/46.71$ & $43.33/46.71$ \\
+
+Metadata Heuristic
+& $1.00$ & $1.00$ & $4.00$
+& $5.39$k ($-36.8\%$)
+& $39.23/43.55$ & $46.15/50.91$ & $46.15/50.91$
+& $41.33/45.91$ & $48.00/52.95$ & $48.00/52.95$ \\
+
+\textbf{Complete In-Star}
+& $\mathbf{2.00}$ & $\mathbf{1.00}$ & $\mathbf{4.00}$
+& $\mathbf{5.45}$\textbf{k} ($\mathbf{-36.1\%}$)
+& $\mathbf{50.77/54.96}$ & $\mathbf{54.62/59.83}$ & $54.62/59.83$
+& $\mathbf{51.33/55.26}$ & $\mathbf{55.33/60.15}$ & $55.33/60.15$ \\
+
+Dense Broadcast
+& $6.00$ & $3.00$ & $6.00$
+& $8.53$k
+& $50.77/54.96$ & $54.62/59.83$ & $\mathbf{70.00/77.26}$
+& $51.33/55.26$ & $55.33/60.15$ & $\mathbf{68.00/75.50}$ \\
+\midrule
+
+Full-Union (Centralized)
+& $0.00$ & $0.00$ & $1.00$
+& $\mathbf{2.69}$\textbf{k} ($\mathbf{-68.5\%}$)
+& $71.54/80.24$ & $71.54/80.24$ & $71.54/80.24$
+& $71.33/79.70$ & $71.33/79.70$ & $71.33/79.70$ \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

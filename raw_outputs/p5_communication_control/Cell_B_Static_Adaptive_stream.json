@@ -1,0 +1,3502 @@
+[
+  {
+    "sample_idx": 0,
+    "question": "Bob has 6 apples. Grace gives Bob 10 more apples. How many apples does Bob have now?",
+    "gold_answer": "16",
+    "final_answer": "16",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "16",
+      "1": "16",
+      "2": "16"
+    },
+    "initial_answers": {
+      "0": "16",
+      "1": "16",
+      "2": "16"
+    }
+  },
+  {
+    "sample_idx": 1,
+    "question": "Alice has $10. Alice spends $20 on lunch and $7 on a book. How much money does Alice have left?",
+    "gold_answer": "-17",
+    "final_answer": "-17",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "17",
+      "1": "-17",
+      "2": "-17"
+    },
+    "initial_answers": {
+      "0": "17",
+      "1": "**",
+      "2": "-17"
+    }
+  },
+  {
+    "sample_idx": 2,
+    "question": "A store has 19 shirts. Each shirt costs $18. How much do all the shirts cost?",
+    "gold_answer": "342",
+    "final_answer": "342",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "342",
+      "1": "342",
+      "2": "342"
+    },
+    "initial_answers": {
+      "0": "342",
+      "1": "342",
+      "2": "342"
+    }
+  },
+  {
+    "sample_idx": 3,
+    "question": "Eve has $31. Eve spends $9 on lunch and $8 on a book. How much money does Eve have left?",
+    "gold_answer": "14",
+    "final_answer": "14",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "14",
+      "1": "14",
+      "2": "14"
+    },
+    "initial_answers": {
+      "0": "14",
+      "1": "14",
+      "2": "14"
+    }
+  },
+  {
+    "sample_idx": 4,
+    "question": "A store has 49 shirts. Each shirt costs $15. How much do all the shirts cost?",
+    "gold_answer": "735",
+    "final_answer": "735",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "735",
+      "1": "735",
+      "2": "735"
+    },
+    "initial_answers": {
+      "0": "735",
+      "1": "735",
+      "2": "49"
+    }
+  },
+  {
+    "sample_idx": 5,
+    "question": "Alice reads 11 pages per day. How many pages does Alice read in 4 days?",
+    "gold_answer": "44",
+    "final_answer": "6",
+    "is_correct": false,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "44",
+      "1": "4",
+      "2": "44"
+    },
+    "initial_answers": {
+      "0": "44",
+      "1": "44",
+      "2": "44"
+    }
+  },
+  {
+    "sample_idx": 6,
+    "question": "Eve has $21. Eve spends $3 on lunch and $8 on a book. How much money does Eve have left?",
+    "gold_answer": "10",
+    "final_answer": "10",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "10",
+      "1": "10",
+      "2": "10"
+    },
+    "initial_answers": {
+      "0": "10",
+      "1": "10",
+      "2": "10"
+    }
+  },
+  {
+    "sample_idx": 7,
+    "question": "Grace has 40 apples. Charlie gives Grace 11 more apples. How many apples does Grace have now?",
+    "gold_answer": "51",
+    "final_answer": "51",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "51",
+      "1": "51",
+      "2": "51"
+    },
+    "initial_answers": {
+      "0": "51",
+      "1": "51",
+      "2": "51"
+    }
+  },
+  {
+    "sample_idx": 8,
+    "question": "A store has 50 shirts. Each shirt costs $4. How much do all the shirts cost?",
+    "gold_answer": "200",
+    "final_answer": "200",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "200",
+      "1": "200",
+      "2": "200"
+    },
+    "initial_answers": {
+      "0": "200",
+      "1": "200",
+      "2": "3"
+    }
+  },
+  {
+    "sample_idx": 9,
+    "question": "Charlie has 19 apples. Diana gives Charlie 5 more apples. How many apples does Charlie have now?",
+    "gold_answer": "24",
+    "final_answer": "24",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "24",
+      "1": "24",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "24",
+      "1": "24",
+      "2": "24"
+    }
+  },
+  {
+    "sample_idx": 10,
+    "question": "A store has 28 shirts. Each shirt costs $13. How much do all the shirts cost?",
+    "gold_answer": "364",
+    "final_answer": "364",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "364",
+      "1": "364",
+      "2": "364"
+    },
+    "initial_answers": {
+      "0": "364",
+      "1": "364",
+      "2": "104"
+    }
+  },
+  {
+    "sample_idx": 11,
+    "question": "Frank has $45. Frank spends $7 on lunch and $9 on a book. How much money does Frank have left?",
+    "gold_answer": "29",
+    "final_answer": "29",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "29",
+      "1": "29",
+      "2": "29"
+    },
+    "initial_answers": {
+      "0": "29",
+      "1": "**",
+      "2": "29"
+    }
+  },
+  {
+    "sample_idx": 12,
+    "question": "There are 29 students in a class. Each student has 10 pencils. If the teacher adds 9 more pencils to the total, how many pencils are there?",
+    "gold_answer": "299",
+    "final_answer": "299",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "299",
+      "1": "299",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "299",
+      "1": "299",
+      "2": "299"
+    }
+  },
+  {
+    "sample_idx": 13,
+    "question": "Diana has 19 apples. Charlie gives Diana 3 more apples. How many apples does Diana have now?",
+    "gold_answer": "22",
+    "final_answer": "22",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "22",
+      "1": "22",
+      "2": "22"
+    },
+    "initial_answers": {
+      "0": "22",
+      "1": "22",
+      "2": "22"
+    }
+  },
+  {
+    "sample_idx": 14,
+    "question": "A store has 41 shirts. Each shirt costs $12. How much do all the shirts cost?",
+    "gold_answer": "492",
+    "final_answer": "492",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "492",
+      "1": "492",
+      "2": "492"
+    },
+    "initial_answers": {
+      "0": "492",
+      "1": "492",
+      "2": "3"
+    }
+  },
+  {
+    "sample_idx": 15,
+    "question": "There are 14 students in a class. Each student has 10 pencils. If the teacher adds 3 more pencils to the total, how many pencils are there?",
+    "gold_answer": "143",
+    "final_answer": "143",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "143",
+      "1": "143",
+      "2": "143"
+    },
+    "initial_answers": {
+      "0": "143",
+      "1": "143",
+      "2": "\\text{Total pencils}= (\\text{students})\\times(\\text{p"
+    }
+  },
+  {
+    "sample_idx": 16,
+    "question": "Eve has $21. Eve spends $20 on lunch and $7 on a book. How much money does Eve have left?",
+    "gold_answer": "-6",
+    "final_answer": "-6",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "6",
+      "1": "-6",
+      "2": "-6"
+    },
+    "initial_answers": {
+      "0": "6",
+      "1": "6",
+      "2": "3."
+    }
+  },
+  {
+    "sample_idx": 17,
+    "question": "A store has 13 shirts. Each shirt costs $18. How much do all the shirts cost?",
+    "gold_answer": "234",
+    "final_answer": "234",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "234",
+      "1": "234",
+      "2": "234"
+    },
+    "initial_answers": {
+      "0": "234",
+      "1": "234",
+      "2": "234"
+    }
+  },
+  {
+    "sample_idx": 18,
+    "question": "A store has 45 shirts. Each shirt costs $7. How much do all the shirts cost?",
+    "gold_answer": "315",
+    "final_answer": "315",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "315",
+      "1": "315",
+      "2": "315"
+    },
+    "initial_answers": {
+      "0": "315",
+      "1": "315",
+      "2": "**Approach"
+    }
+  },
+  {
+    "sample_idx": 19,
+    "question": "There are 43 students in a class. Each student has 16 pencils. If the teacher adds 9 more pencils to the total, how many pencils are there?",
+    "gold_answer": "697",
+    "final_answer": "687",
+    "is_correct": false,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "43",
+      "1": "697",
+      "2": "697"
+    },
+    "initial_answers": {
+      "0": "43",
+      "1": "697",
+      "2": "697"
+    }
+  },
+  {
+    "sample_idx": 20,
+    "question": "Grace has 48 apples. Frank gives Grace 19 more apples. How many apples does Grace have now?",
+    "gold_answer": "67",
+    "final_answer": "67",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "67",
+      "1": "67",
+      "2": "67"
+    },
+    "initial_answers": {
+      "0": "67",
+      "1": "67",
+      "2": "67"
+    }
+  },
+  {
+    "sample_idx": 21,
+    "question": "Diana has 23 apples. Alice gives Diana 15 more apples. How many apples does Diana have now?",
+    "gold_answer": "38",
+    "final_answer": "38",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "38",
+      "1": "38",
+      "2": "38"
+    },
+    "initial_answers": {
+      "0": "38",
+      "1": "38",
+      "2": "38"
+    }
+  },
+  {
+    "sample_idx": 22,
+    "question": "Grace has $16. Grace spends $18 on lunch and $2 on a book. How much money does Grace have left?",
+    "gold_answer": "-4",
+    "final_answer": "-4",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "-4",
+      "1": "-4",
+      "2": "-4"
+    },
+    "initial_answers": {
+      "0": "-4",
+      "1": "-4",
+      "2": "-4"
+    }
+  },
+  {
+    "sample_idx": 23,
+    "question": "Charlie has $43. Charlie spends $8 on lunch and $3 on a book. How much money does Charlie have left?",
+    "gold_answer": "32",
+    "final_answer": "32",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "32",
+      "1": "32",
+      "2": "32"
+    },
+    "initial_answers": {
+      "0": "32",
+      "1": "32",
+      "2": "32"
+    }
+  },
+  {
+    "sample_idx": 24,
+    "question": "Alice has $5. Alice spends $12 on lunch and $8 on a book. How much money does Alice have left?",
+    "gold_answer": "-15",
+    "final_answer": "-15",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "15",
+      "1": "-15",
+      "2": "-15"
+    },
+    "initial_answers": {
+      "0": "15",
+      "1": "-15",
+      "2": "-15"
+    }
+  },
+  {
+    "sample_idx": 25,
+    "question": "Eve reads 20 pages per day. How many pages does Eve read in 3 days?",
+    "gold_answer": "60",
+    "final_answer": "60",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "60",
+      "1": "60",
+      "2": "If"
+    },
+    "initial_answers": {
+      "0": "60",
+      "1": "60",
+      "2": "60"
+    }
+  },
+  {
+    "sample_idx": 26,
+    "question": "There are 9 students in a class. Each student has 19 pencils. If the teacher adds 3 more pencils to the total, how many pencils are there?",
+    "gold_answer": "174",
+    "final_answer": "174",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "174",
+      "1": "174",
+      "2": "174"
+    },
+    "initial_answers": {
+      "0": "174",
+      "1": "174",
+      "2": "174"
+    }
+  },
+  {
+    "sample_idx": 27,
+    "question": "Grace has $15. Grace spends $10 on lunch and $9 on a book. How much money does Grace have left?",
+    "gold_answer": "-4",
+    "final_answer": "Total spent =",
+    "is_correct": false,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "1",
+      "1": "Total spent =",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "1",
+      "1": "-4",
+      "2": "-4"
+    }
+  },
+  {
+    "sample_idx": 28,
+    "question": "A store has 39 shirts. Each shirt costs $8. How much do all the shirts cost?",
+    "gold_answer": "312",
+    "final_answer": "312",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "312",
+      "1": "312",
+      "2": "312"
+    },
+    "initial_answers": {
+      "0": "312",
+      "1": "312",
+      "2": "312"
+    }
+  },
+  {
+    "sample_idx": 29,
+    "question": "There are 38 students in a class. Each student has 16 pencils. If the teacher adds 2 more pencils to the total, how many pencils are there?",
+    "gold_answer": "610",
+    "final_answer": "610",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "610",
+      "1": "610",
+      "2": "608"
+    },
+    "initial_answers": {
+      "0": "610",
+      "1": "610",
+      "2": "610"
+    }
+  },
+  {
+    "sample_idx": 30,
+    "question": "Bob reads 6 pages per day. How many pages does Bob read in 20 days?",
+    "gold_answer": "120",
+    "final_answer": "120",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "120",
+      "1": "120",
+      "2": "120"
+    },
+    "initial_answers": {
+      "0": "120",
+      "1": "120",
+      "2": "120"
+    }
+  },
+  {
+    "sample_idx": 31,
+    "question": "Alice has 9 apples. Grace gives Alice 3 more apples. How many apples does Alice have now?",
+    "gold_answer": "12",
+    "final_answer": "12",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "12",
+      "1": "12",
+      "2": "12"
+    },
+    "initial_answers": {
+      "0": "12",
+      "1": "12",
+      "2": "12"
+    }
+  },
+  {
+    "sample_idx": 32,
+    "question": "Frank has 37 apples. Diana gives Frank 9 more apples. How many apples does Frank have now?",
+    "gold_answer": "46",
+    "final_answer": "46",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "46",
+      "1": "46",
+      "2": "46"
+    },
+    "initial_answers": {
+      "0": "46",
+      "1": "46",
+      "2": "46"
+    }
+  },
+  {
+    "sample_idx": 33,
+    "question": "Diana has $13. Diana spends $20 on lunch and $10 on a book. How much money does Diana have left?",
+    "gold_answer": "-17",
+    "final_answer": "2.",
+    "is_correct": false,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "-17",
+      "1": "2.",
+      "2": "\\"
+    },
+    "initial_answers": {
+      "0": "-17",
+      "1": "-17",
+      "2": "-17"
+    }
+  },
+  {
+    "sample_idx": 34,
+    "question": "There are 17 students in a class. Each student has 5 pencils. If the teacher adds 2 more pencils to the total, how many pencils are there?",
+    "gold_answer": "87",
+    "final_answer": "87",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "87",
+      "1": "87",
+      "2": "87"
+    },
+    "initial_answers": {
+      "0": "87",
+      "1": "87",
+      "2": "87"
+    }
+  },
+  {
+    "sample_idx": 35,
+    "question": "There are 31 students in a class. Each student has 16 pencils. If the teacher adds 1 more pencils to the total, how many pencils are there?",
+    "gold_answer": "497",
+    "final_answer": "497",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "497",
+      "1": "497",
+      "2": "497"
+    },
+    "initial_answers": {
+      "0": "497",
+      "1": "**",
+      "2": "497"
+    }
+  },
+  {
+    "sample_idx": 36,
+    "question": "Bob has 30 apples. Grace gives Bob 12 more apples. How many apples does Bob have now?",
+    "gold_answer": "42",
+    "final_answer": "42",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "**",
+      "1": "42",
+      "2": "42"
+    },
+    "initial_answers": {
+      "0": "**",
+      "1": "42",
+      "2": "42"
+    }
+  },
+  {
+    "sample_idx": 37,
+    "question": "Bob has $33. Bob spends $6 on lunch and $7 on a book. How much money does Bob have left?",
+    "gold_answer": "20",
+    "final_answer": "20",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "20",
+      "1": "20",
+      "2": "20"
+    },
+    "initial_answers": {
+      "0": "20",
+      "1": "20",
+      "2": "20"
+    }
+  },
+  {
+    "sample_idx": 38,
+    "question": "A store has 9 shirts. Each shirt costs $16. How much do all the shirts cost?",
+    "gold_answer": "144",
+    "final_answer": "144",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "144",
+      "1": "144",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "144",
+      "1": "144",
+      "2": "144"
+    }
+  },
+  {
+    "sample_idx": 39,
+    "question": "Diana has 10 apples. Grace gives Diana 9 more apples. How many apples does Diana have now?",
+    "gold_answer": "19",
+    "final_answer": "19",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "19",
+      "1": "19",
+      "2": "19"
+    },
+    "initial_answers": {
+      "0": "19",
+      "1": "**",
+      "2": "19"
+    }
+  },
+  {
+    "sample_idx": 40,
+    "question": "A store has 30 shirts. Each shirt costs $3. How much do all the shirts cost?",
+    "gold_answer": "90",
+    "final_answer": "90",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "90",
+      "1": "90",
+      "2": "90"
+    },
+    "initial_answers": {
+      "0": "90",
+      "1": "90",
+      "2": "90"
+    }
+  },
+  {
+    "sample_idx": 41,
+    "question": "Frank reads 34 pages per day. How many pages does Frank read in 11 days?",
+    "gold_answer": "374",
+    "final_answer": "369",
+    "is_correct": false,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "11",
+      "1": "374",
+      "2": "374"
+    },
+    "initial_answers": {
+      "0": "11",
+      "1": "374",
+      "2": "374"
+    }
+  },
+  {
+    "sample_idx": 42,
+    "question": "There are 14 students in a class. Each student has 8 pencils. If the teacher adds 5 more pencils to the total, how many pencils are there?",
+    "gold_answer": "117",
+    "final_answer": "117",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "117",
+      "1": "117",
+      "2": "117"
+    },
+    "initial_answers": {
+      "0": "117",
+      "1": "117",
+      "2": "117"
+    }
+  },
+  {
+    "sample_idx": 43,
+    "question": "Alice has $8. Alice spends $12 on lunch and $1 on a book. How much money does Alice have left?",
+    "gold_answer": "-5",
+    "final_answer": "-5",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "5",
+      "1": "-5",
+      "2": "-5"
+    },
+    "initial_answers": {
+      "0": "5",
+      "1": "-5",
+      "2": "-5"
+    }
+  },
+  {
+    "sample_idx": 44,
+    "question": "Eve has $38. Eve spends $7 on lunch and $1 on a book. How much money does Eve have left?",
+    "gold_answer": "30",
+    "final_answer": "30",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "30",
+      "1": "30",
+      "2": "30"
+    },
+    "initial_answers": {
+      "0": "30",
+      "1": "30",
+      "2": "30"
+    }
+  },
+  {
+    "sample_idx": 45,
+    "question": "Diana has 43 apples. Alice gives Diana 4 more apples. How many apples does Diana have now?",
+    "gold_answer": "47",
+    "final_answer": "47",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "47",
+      "1": "47",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "47",
+      "1": "47",
+      "2": "47"
+    }
+  },
+  {
+    "sample_idx": 46,
+    "question": "A store has 42 shirts. Each shirt costs $3. How much do all the shirts cost?",
+    "gold_answer": "126",
+    "final_answer": "126",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "126",
+      "1": "126",
+      "2": "126"
+    },
+    "initial_answers": {
+      "0": "126",
+      "1": "126",
+      "2": "126"
+    }
+  },
+  {
+    "sample_idx": 47,
+    "question": "Bob has $38. Bob spends $12 on lunch and $5 on a book. How much money does Bob have left?",
+    "gold_answer": "21",
+    "final_answer": "21",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "21",
+      "1": "21",
+      "2": "38"
+    },
+    "initial_answers": {
+      "0": "21",
+      "1": "21",
+      "2": "21"
+    }
+  },
+  {
+    "sample_idx": 48,
+    "question": "A store has 21 shirts. Each shirt costs $14. How much do all the shirts cost?",
+    "gold_answer": "294",
+    "final_answer": "294",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "294",
+      "1": "294",
+      "2": "294"
+    },
+    "initial_answers": {
+      "0": "294",
+      "1": "294",
+      "2": "294"
+    }
+  },
+  {
+    "sample_idx": 49,
+    "question": "There are 25 students in a class. Each student has 4 pencils. If the teacher adds 1 more pencils to the total, how many pencils are there?",
+    "gold_answer": "101",
+    "final_answer": "101",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "101",
+      "1": "101",
+      "2": "101"
+    },
+    "initial_answers": {
+      "0": "101",
+      "1": "101",
+      "2": "101"
+    }
+  },
+  {
+    "sample_idx": 50,
+    "question": "Eve has 9 apples. Charlie gives Eve 19 more apples. How many apples does Eve have now?",
+    "gold_answer": "28",
+    "final_answer": "28",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "28",
+      "1": "28",
+      "2": "28"
+    },
+    "initial_answers": {
+      "0": "28",
+      "1": "28",
+      "2": "28"
+    }
+  },
+  {
+    "sample_idx": 51,
+    "question": "Charlie reads 9 pages per day. How many pages does Charlie read in 9 days?",
+    "gold_answer": "81",
+    "final_answer": "81",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "81",
+      "1": "81",
+      "2": "81"
+    },
+    "initial_answers": {
+      "0": "81",
+      "1": "81",
+      "2": "81"
+    }
+  },
+  {
+    "sample_idx": 52,
+    "question": "Grace has $50. Grace spends $11 on lunch and $10 on a book. How much money does Grace have left?",
+    "gold_answer": "29",
+    "final_answer": "29",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "29",
+      "1": "29",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "29",
+      "1": "29",
+      "2": "29"
+    }
+  },
+  {
+    "sample_idx": 53,
+    "question": "Frank has 47 apples. Alice gives Frank 19 more apples. How many apples does Frank have now?",
+    "gold_answer": "66",
+    "final_answer": "66",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "66",
+      "1": "66",
+      "2": "66"
+    },
+    "initial_answers": {
+      "0": "66",
+      "1": "- Frank starts with",
+      "2": "**"
+    }
+  },
+  {
+    "sample_idx": 54,
+    "question": "Bob reads 12 pages per day. How many pages does Bob read in 5 days?",
+    "gold_answer": "60",
+    "final_answer": "60",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "60",
+      "1": "60",
+      "2": "60"
+    },
+    "initial_answers": {
+      "0": "60",
+      "1": "60",
+      "2": "60"
+    }
+  },
+  {
+    "sample_idx": 55,
+    "question": "Frank has $18. Frank spends $12 on lunch and $4 on a book. How much money does Frank have left?",
+    "gold_answer": "2",
+    "final_answer": "2",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "2",
+      "1": "2",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "2",
+      "1": "2",
+      "2": "Let \\(x\\) be the remaining money"
+    }
+  },
+  {
+    "sample_idx": 56,
+    "question": "Alice has $36. Alice spends $10 on lunch and $1 on a book. How much money does Alice have left?",
+    "gold_answer": "25",
+    "final_answer": "25",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "25",
+      "1": "25",
+      "2": "25"
+    },
+    "initial_answers": {
+      "0": "25",
+      "1": "25",
+      "2": "**"
+    }
+  },
+  {
+    "sample_idx": 57,
+    "question": "Grace reads 7 pages per day. How many pages does Grace read in 2 days?",
+    "gold_answer": "14",
+    "final_answer": "14",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "14",
+      "1": "14",
+      "2": "14"
+    },
+    "initial_answers": {
+      "0": "14",
+      "1": "14",
+      "2": "14"
+    }
+  },
+  {
+    "sample_idx": 58,
+    "question": "A store has 33 shirts. Each shirt costs $19. How much do all the shirts cost?",
+    "gold_answer": "627",
+    "final_answer": "627",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "627",
+      "1": "627",
+      "2": "627"
+    },
+    "initial_answers": {
+      "0": "627",
+      "1": "627",
+      "2": "627"
+    }
+  },
+  {
+    "sample_idx": 59,
+    "question": "Alice has 49 apples. Charlie gives Alice 6 more apples. How many apples does Alice have now?",
+    "gold_answer": "55",
+    "final_answer": "55",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "55",
+      "1": "55",
+      "2": "55"
+    },
+    "initial_answers": {
+      "0": "55",
+      "1": "55",
+      "2": "55"
+    }
+  },
+  {
+    "sample_idx": 60,
+    "question": "Alice has $14. Alice spends $15 on lunch and $3 on a book. How much money does Alice have left?",
+    "gold_answer": "-4",
+    "final_answer": "-4",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "-4",
+      "1": "-4",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "-4",
+      "1": "-4",
+      "2": "-4"
+    }
+  },
+  {
+    "sample_idx": 61,
+    "question": "Frank has 27 apples. Alice gives Frank 8 more apples. How many apples does Frank have now?",
+    "gold_answer": "35",
+    "final_answer": "35",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "35",
+      "1": "35",
+      "2": "35"
+    },
+    "initial_answers": {
+      "0": "35",
+      "1": "35",
+      "2": "35"
+    }
+  },
+  {
+    "sample_idx": 62,
+    "question": "Grace has $31. Grace spends $6 on lunch and $4 on a book. How much money does Grace have left?",
+    "gold_answer": "21",
+    "final_answer": "21",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "21",
+      "1": "21",
+      "2": "21"
+    },
+    "initial_answers": {
+      "0": "21",
+      "1": "21",
+      "2": "21"
+    }
+  },
+  {
+    "sample_idx": 63,
+    "question": "There are 6 students in a class. Each student has 7 pencils. If the teacher adds 6 more pencils to the total, how many pencils are there?",
+    "gold_answer": "48",
+    "final_answer": "48",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "48",
+      "1": "**",
+      "2": "48"
+    },
+    "initial_answers": {
+      "0": "48",
+      "1": "48",
+      "2": "6"
+    }
+  },
+  {
+    "sample_idx": 64,
+    "question": "Grace reads 15 pages per day. How many pages does Grace read in 5 days?",
+    "gold_answer": "75",
+    "final_answer": "74",
+    "is_correct": false,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "5",
+      "1": "75",
+      "2": "75"
+    },
+    "initial_answers": {
+      "0": "5",
+      "1": "75",
+      "2": "75"
+    }
+  },
+  {
+    "sample_idx": 65,
+    "question": "A store has 17 shirts. Each shirt costs $16. How much do all the shirts cost?",
+    "gold_answer": "272",
+    "final_answer": "272",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "272",
+      "1": "272",
+      "2": "272"
+    },
+    "initial_answers": {
+      "0": "272",
+      "1": "272",
+      "2": "272"
+    }
+  },
+  {
+    "sample_idx": 66,
+    "question": "Charlie has 47 apples. Grace gives Charlie 8 more apples. How many apples does Charlie have now?",
+    "gold_answer": "55",
+    "final_answer": "55",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "55",
+      "1": "55",
+      "2": "55"
+    },
+    "initial_answers": {
+      "0": "55",
+      "1": "55",
+      "2": "55"
+    }
+  },
+  {
+    "sample_idx": 67,
+    "question": "Frank reads 27 pages per day. How many pages does Frank read in 18 days?",
+    "gold_answer": "486",
+    "final_answer": "486",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "486",
+      "1": "486",
+      "2": "486."
+    },
+    "initial_answers": {
+      "0": "486",
+      "1": "18",
+      "2": "486"
+    }
+  },
+  {
+    "sample_idx": 68,
+    "question": "Eve has 12 apples. Charlie gives Eve 10 more apples. How many apples does Eve have now?",
+    "gold_answer": "22",
+    "final_answer": "22",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "22",
+      "1": "22",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "22",
+      "1": "22",
+      "2": "22"
+    }
+  },
+  {
+    "sample_idx": 69,
+    "question": "Frank has 43 apples. Charlie gives Frank 15 more apples. How many apples does Frank have now?",
+    "gold_answer": "58",
+    "final_answer": "58",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "58",
+      "1": "58",
+      "2": "58"
+    },
+    "initial_answers": {
+      "0": "58",
+      "1": "58",
+      "2": "58"
+    }
+  },
+  {
+    "sample_idx": 70,
+    "question": "Eve has $37. Eve spends $5 on lunch and $7 on a book. How much money does Eve have left?",
+    "gold_answer": "25",
+    "final_answer": "25",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "25",
+      "1": "25",
+      "2": "25"
+    },
+    "initial_answers": {
+      "0": "25",
+      "1": "25",
+      "2": "25"
+    }
+  },
+  {
+    "sample_idx": 71,
+    "question": "Eve has 50 apples. Grace gives Eve 15 more apples. How many apples does Eve have now?",
+    "gold_answer": "65",
+    "final_answer": "65",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "65",
+      "1": "65",
+      "2": "65"
+    },
+    "initial_answers": {
+      "0": "65",
+      "1": "65",
+      "2": "65"
+    }
+  },
+  {
+    "sample_idx": 72,
+    "question": "Eve reads 32 pages per day. How many pages does Eve read in 4 days?",
+    "gold_answer": "128",
+    "final_answer": "128",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "128",
+      "1": "128",
+      "2": "128"
+    },
+    "initial_answers": {
+      "0": "128",
+      "1": "128",
+      "2": "128"
+    }
+  },
+  {
+    "sample_idx": 73,
+    "question": "Charlie reads 37 pages per day. How many pages does Charlie read in 11 days?",
+    "gold_answer": "407",
+    "final_answer": "397",
+    "is_correct": false,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "407",
+      "1": "407",
+      "2": "3"
+    },
+    "initial_answers": {
+      "0": "407",
+      "1": "407",
+      "2": "407"
+    }
+  },
+  {
+    "sample_idx": 74,
+    "question": "Frank has $13. Frank spends $8 on lunch and $7 on a book. How much money does Frank have left?",
+    "gold_answer": "-2",
+    "final_answer": "-2",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "-2",
+      "1": "-2",
+      "2": "-2"
+    },
+    "initial_answers": {
+      "0": "-2",
+      "1": "2",
+      "2": "-2"
+    }
+  },
+  {
+    "sample_idx": 75,
+    "question": "Eve has $41. Eve spends $11 on lunch and $7 on a book. How much money does Eve have left?",
+    "gold_answer": "23",
+    "final_answer": "23",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "23",
+      "1": "23",
+      "2": "23"
+    },
+    "initial_answers": {
+      "0": "23",
+      "1": "23",
+      "2": "23"
+    }
+  },
+  {
+    "sample_idx": 76,
+    "question": "Eve reads 18 pages per day. How many pages does Eve read in 15 days?",
+    "gold_answer": "270",
+    "final_answer": "270",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "270",
+      "1": "270",
+      "2": "270"
+    },
+    "initial_answers": {
+      "0": "270",
+      "1": "270",
+      "2": "270"
+    }
+  },
+  {
+    "sample_idx": 77,
+    "question": "There are 33 students in a class. Each student has 16 pencils. If the teacher adds 4 more pencils to the total, how many pencils are there?",
+    "gold_answer": "532",
+    "final_answer": "532",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "532",
+      "1": "532",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "532",
+      "1": "532",
+      "2": ""
+    }
+  },
+  {
+    "sample_idx": 78,
+    "question": "Charlie has 23 apples. Alice gives Charlie 18 more apples. How many apples does Charlie have now?",
+    "gold_answer": "41",
+    "final_answer": "41",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "41",
+      "1": "41",
+      "2": "41"
+    },
+    "initial_answers": {
+      "0": "41",
+      "1": "41",
+      "2": "41"
+    }
+  },
+  {
+    "sample_idx": 79,
+    "question": "Alice reads 19 pages per day. How many pages does Alice read in 8 days?",
+    "gold_answer": "152",
+    "final_answer": "152",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "152",
+      "1": "152",
+      "2": "152"
+    },
+    "initial_answers": {
+      "0": "152",
+      "1": "152",
+      "2": "152"
+    }
+  },
+  {
+    "sample_idx": 80,
+    "question": "There are 44 students in a class. Each student has 4 pencils. If the teacher adds 8 more pencils to the total, how many pencils are there?",
+    "gold_answer": "184",
+    "final_answer": "184",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "184",
+      "1": "184",
+      "2": "- Total before teacher"
+    },
+    "initial_answers": {
+      "0": "184",
+      "1": "184",
+      "2": "184"
+    }
+  },
+  {
+    "sample_idx": 81,
+    "question": "A store has 50 shirts. Each shirt costs $14. How much do all the shirts cost?",
+    "gold_answer": "700",
+    "final_answer": "700",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "700",
+      "1": "700",
+      "2": "700"
+    },
+    "initial_answers": {
+      "0": "700",
+      "1": "700",
+      "2": "700"
+    }
+  },
+  {
+    "sample_idx": 82,
+    "question": "Bob has 11 apples. Frank gives Bob 15 more apples. How many apples does Bob have now?",
+    "gold_answer": "26",
+    "final_answer": "26",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "26",
+      "1": "26",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "26",
+      "1": "26",
+      "2": "26"
+    }
+  },
+  {
+    "sample_idx": 83,
+    "question": "There are 8 students in a class. Each student has 19 pencils. If the teacher adds 4 more pencils to the total, how many pencils are there?",
+    "gold_answer": "156",
+    "final_answer": "156",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "156",
+      "1": "156",
+      "2": "156"
+    },
+    "initial_answers": {
+      "0": "156",
+      "1": "156",
+      "2": "156"
+    }
+  },
+  {
+    "sample_idx": 84,
+    "question": "A store has 34 shirts. Each shirt costs $18. How much do all the shirts cost?",
+    "gold_answer": "612",
+    "final_answer": "612",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "612",
+      "1": "",
+      "2": "612"
+    },
+    "initial_answers": {
+      "0": "612",
+      "1": "**",
+      "2": "612"
+    }
+  },
+  {
+    "sample_idx": 85,
+    "question": "Diana has $37. Diana spends $15 on lunch and $9 on a book. How much money does Diana have left?",
+    "gold_answer": "13",
+    "final_answer": "13",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "13",
+      "1": "13",
+      "2": "13"
+    },
+    "initial_answers": {
+      "0": "13",
+      "1": "13",
+      "2": "13"
+    }
+  },
+  {
+    "sample_idx": 86,
+    "question": "There are 21 students in a class. Each student has 9 pencils. If the teacher adds 5 more pencils to the total, how many pencils are there?",
+    "gold_answer": "194",
+    "final_answer": "194",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "189",
+      "1": "194",
+      "2": "194"
+    },
+    "initial_answers": {
+      "0": "189",
+      "1": "194",
+      "2": "194"
+    }
+  },
+  {
+    "sample_idx": 87,
+    "question": "A store has 22 shirts. Each shirt costs $16. How much do all the shirts cost?",
+    "gold_answer": "352",
+    "final_answer": "352",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "352",
+      "1": "352",
+      "2": "352"
+    },
+    "initial_answers": {
+      "0": "352",
+      "1": "16",
+      "2": "6"
+    }
+  },
+  {
+    "sample_idx": 88,
+    "question": "Alice reads 26 pages per day. How many pages does Alice read in 12 days?",
+    "gold_answer": "312",
+    "final_answer": "312",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "312",
+      "1": "312",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "312",
+      "1": "312",
+      "2": "72"
+    }
+  },
+  {
+    "sample_idx": 89,
+    "question": "A store has 29 shirts. Each shirt costs $6. How much do all the shirts cost?",
+    "gold_answer": "174",
+    "final_answer": "174",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "174",
+      "1": "174",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "174",
+      "1": "**",
+      "2": "174"
+    }
+  },
+  {
+    "sample_idx": 90,
+    "question": "Alice reads 39 pages per day. How many pages does Alice read in 16 days?",
+    "gold_answer": "624",
+    "final_answer": "624",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "624",
+      "1": "624",
+      "2": "**"
+    },
+    "initial_answers": {
+      "0": "624",
+      "1": "16",
+      "2": "624"
+    }
+  },
+  {
+    "sample_idx": 91,
+    "question": "There are 42 students in a class. Each student has 2 pencils. If the teacher adds 10 more pencils to the total, how many pencils are there?",
+    "gold_answer": "94",
+    "final_answer": "94",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "94",
+      "1": "94",
+      "2": "94"
+    },
+    "initial_answers": {
+      "0": "94",
+      "1": "94",
+      "2": "94"
+    }
+  },
+  {
+    "sample_idx": 92,
+    "question": "Eve reads 24 pages per day. How many pages does Eve read in 14 days?",
+    "gold_answer": "336",
+    "final_answer": "336",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "336",
+      "1": "336",
+      "2": "336"
+    },
+    "initial_answers": {
+      "0": "336",
+      "1": "14",
+      "2": "24"
+    }
+  },
+  {
+    "sample_idx": 93,
+    "question": "Charlie has $19. Charlie spends $17 on lunch and $4 on a book. How much money does Charlie have left?",
+    "gold_answer": "-2",
+    "final_answer": "-2",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "-2",
+      "1": "-2",
+      "2": "-2"
+    },
+    "initial_answers": {
+      "0": "-2",
+      "1": "-2",
+      "2": "- Total money Charlie has"
+    }
+  },
+  {
+    "sample_idx": 94,
+    "question": "Frank has 29 apples. Bob gives Frank 12 more apples. How many apples does Frank have now?",
+    "gold_answer": "41",
+    "final_answer": "41",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "41",
+      "1": "41",
+      "2": "41"
+    },
+    "initial_answers": {
+      "0": "41",
+      "1": "41",
+      "2": "41"
+    }
+  },
+  {
+    "sample_idx": 95,
+    "question": "A store has 44 shirts. Each shirt costs $19. How much do all the shirts cost?",
+    "gold_answer": "836",
+    "final_answer": "836",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "836",
+      "1": "836",
+      "2": "836"
+    },
+    "initial_answers": {
+      "0": "836",
+      "1": "**",
+      "2": "836"
+    }
+  },
+  {
+    "sample_idx": 96,
+    "question": "Grace has 10 apples. Diana gives Grace 15 more apples. How many apples does Grace have now?",
+    "gold_answer": "25",
+    "final_answer": "25",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "25",
+      "1": "25",
+      "2": "25"
+    },
+    "initial_answers": {
+      "0": "25",
+      "1": "25",
+      "2": "25"
+    }
+  },
+  {
+    "sample_idx": 97,
+    "question": "Bob has 21 apples. Diana gives Bob 14 more apples. How many apples does Bob have now?",
+    "gold_answer": "35",
+    "final_answer": "35",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "35",
+      "1": "35",
+      "2": "35"
+    },
+    "initial_answers": {
+      "0": "35",
+      "1": "35",
+      "2": "35"
+    }
+  },
+  {
+    "sample_idx": 98,
+    "question": "Charlie reads 29 pages per day. How many pages does Charlie read in 10 days?",
+    "gold_answer": "290",
+    "final_answer": "290",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "290",
+      "1": "290",
+      "2": "290"
+    },
+    "initial_answers": {
+      "0": "290",
+      "1": "290",
+      "2": "290"
+    }
+  },
+  {
+    "sample_idx": 99,
+    "question": "Bob has 39 apples. Frank gives Bob 3 more apples. How many apples does Bob have now?",
+    "gold_answer": "42",
+    "final_answer": "42",
+    "is_correct": true,
+    "halt_round": 1,
+    "halted_early": true,
+    "total_tokens_transmitted": 14,
+    "per_round_tokens": [
+      14
+    ],
+    "active_edges_per_round": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ]
+    ],
+    "final_answers": {
+      "0": "42",
+      "1": "42",
+      "2": "42"
+    },
+    "initial_answers": {
+      "0": "42",
+      "1": "42",
+      "2": "42"
+    }
+  }
+]

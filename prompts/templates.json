@@ -1,0 +1,111 @@
+[
+  {
+    "source": "agents.py",
+    "source_sha256": "8f2ebdefded869fd5e86967c5d1e54d9dadff08e822796cd4762c7fc1a9b3f29",
+    "function": "_build_prompt",
+    "text_literals": [
+      "Build the full prompt for the LLM.",
+      "analytical",
+      "step_by_step",
+      "creative",
+      "careful",
+      "efficient",
+      "Analyze the problem systematically, identifying all relevant quantities and relationships.",
+      "Break the problem into clear, numbered steps and solve each one.",
+      "Consider multiple approaches and choose the most elegant solution.",
+      "Double-check each step of your reasoning before proceeding.",
+      "Find the most direct path to the solution.",
+      "gsm8k",
+      "Solve this math word problem. Show your work and provide a numeric answer.",
+      "Answer this multi-hop question by reasoning through the connected facts.",
+      "\nProvide your reasoning and final answer.",
+      "analytical",
+      "Question: ",
+      "\n\n",
+      "\n"
+    ],
+    "format_templates": [
+      "f\"Question: {question}\"",
+      "f\"\\n{context}\""
+    ],
+    "status": "Source-extracted prompt fragments; exact saved Web requests take precedence. Historical reasoning streams do not store every instantiated request."
+  },
+  {
+    "source": "web_suite.py",
+    "source_sha256": "176b890f841ead9556819c262b8283f22312411e61c7a156feb1369e1ea90667",
+    "function": "build_agent_prompt",
+    "text_literals": [
+      "\n    Constructs specialized prompts for functional Web agents:\n      Agent 0: Web Search / Retrieval Specialist\n      Agent 1: Evidence Verification Specialist\n      Agent 2: Multi-Hop Reasoning Specialist\n    Returns: (system_prompt, user_prompt)\n    ",
+      "",
+      "",
+      "You are Agent 0, the Web Retrieval Specialist. Your role is to examine the question and the candidate web documents, extract the most critical facts, and propose a concise answer. Be precise and cite document titles. Always conclude your reasoning with ONLY the exact concise entity, name, or phrase on the final line:\nAnswer: <exact concise answer>\nConfidence: <0-100>",
+      "\n\nRetrieved Web Evidence:\n",
+      "Question: ",
+      "\n\nProvide your retrieval analysis, synthesize the facts, and state your final answer.",
+      "You are Agent 1, the Evidence Verification Specialist. Your role is to cross-examine candidate facts, verify bridge entity connections across documents, and filter out false distractors. Always conclude your reasoning with ONLY the exact concise entity, name, or phrase on the final line:\nAnswer: <exact concise answer>\nConfidence: <0-100>",
+      "You are Agent 2, the Multi-Hop Reasoning Specialist. Your role is to logically chain verified facts across multi-hop entities to deduce the exact answer to the question. Always conclude your reasoning with ONLY the exact concise entity, name, or phrase on the final line:\nAnswer: <exact concise answer>\nConfidence: <0-100>",
+      "\n\nInformation communicated from other agents:\n",
+      "Question: ",
+      "\n\nVerify the supporting evidence, resolve potential contradictions or ambiguities, and state your final answer.",
+      "Question: ",
+      "\n\nExecute multi-hop reasoning over the verified facts and state your final answer.",
+      "[Document: ",
+      "]\n",
+      "\n\n",
+      "\n",
+      "title",
+      "text"
+    ],
+    "format_templates": [
+      "f\"Question: {question}\"\n            f\"{evidence_str}\"\n            f\"{peer_context}\\n\\n\"\n            \"Provide your retrieval analysis, synthesize the facts, and state your final answer.\"",
+      "f\"Question: {question}\"\n            f\"{evidence_str}\"\n            f\"{peer_context}\\n\\n\"\n            \"Verify the supporting evidence, resolve potential contradictions or ambiguities, and state your final answer.\"",
+      "f\"Question: {question}\"\n            f\"{evidence_str}\"\n            f\"{peer_context}\\n\\n\"\n            \"Execute multi-hop reasoning over the verified facts and state your final answer.\"",
+      "f\"[Document: {p['title']}]\\n{p['text']}\""
+    ],
+    "status": "Source-extracted prompt fragments; exact saved Web requests take precedence. Historical reasoning streams do not store every instantiated request."
+  },
+  {
+    "source": "WEBExtension/protocol.py",
+    "source_sha256": "30e18df0949f40b152131dca3c65d9a2a897080f0451a7f989dcf34a3fa28226",
+    "function": "build_prompt",
+    "text_literals": [
+      " specialist answering multi-hop questions using the supplied Wikipedia evidence. Treat peer claims as unverified; verify them against quoted evidence. Return ONLY JSON with answer (a nonempty concise string, or \"noanswer\" if unknown) and citations (a list of [document title, zero-based sentence index] pairs supporting your answer). Do not invent citations. Do not include explanations or confidence scores.",
+      "question",
+      "evidence",
+      "previous_answer",
+      "peer_messages",
+      "You are a ",
+      "role",
+      "content",
+      "system",
+      "role",
+      "content",
+      "user"
+    ],
+    "format_templates": [],
+    "status": "Source-extracted prompt fragments; exact saved Web requests take precedence. Historical reasoning streams do not store every instantiated request."
+  },
+  {
+    "source": "WEBExtension/pilots/2wiki_revised_20261016/core.py",
+    "source_sha256": "3946432136306ee320e00a71fa5a15706fc1a2b0188bf91a3a16e28c148db832",
+    "function": "messages",
+    "text_literals": [
+      "question",
+      "visible_sources",
+      "previous",
+      "peer_packets",
+      "role",
+      "content",
+      "system",
+      "role",
+      "content",
+      "user",
+      "text",
+      "facts",
+      "missing_entities",
+      "answer"
+    ],
+    "format_templates": [],
+    "status": "Source-extracted prompt fragments; exact saved Web requests take precedence. Historical reasoning streams do not store every instantiated request."
+  }
+]

@@ -1,0 +1,1201 @@
+qid,cohort,condition,answer,em,f1
+0140e1380bde11eba7f7acde48001122,extension130,peer_all,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,private_all,noanswer,0,0
+0140e1380bde11eba7f7acde48001122,extension130,R0_all,1879,0,0
+0140e1380bde11eba7f7acde48001122,extension130,peer_sink_R0_leaves,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,peer_sink_private_leaves,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,full_union,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,peer_sink,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,peer_SP,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,peer_order012,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,private_order012,noanswer,0,0
+0140e1380bde11eba7f7acde48001122,extension130,peer_order021,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,private_order021,noanswer,0,0
+0140e1380bde11eba7f7acde48001122,extension130,peer_order102,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,private_order102,noanswer,0,0
+0140e1380bde11eba7f7acde48001122,extension130,peer_order120,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,private_order120,noanswer,0,0
+0140e1380bde11eba7f7acde48001122,extension130,peer_order201,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,private_order201,noanswer,0,0
+0140e1380bde11eba7f7acde48001122,extension130,peer_order210,18 October 1864,100,100.0
+0140e1380bde11eba7f7acde48001122,extension130,private_order210,noanswer,0,0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_all,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,private_all,XRay Magazine was published first.,0,57.14285714285715
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,R0_all,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_sink_R0_leaves,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_sink_private_leaves,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,full_union,XRay Magazine was published first.,0,57.14285714285715
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_sink,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_SP,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_order012,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,private_order012,XRay Magazine was published first.,0,57.14285714285715
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_order021,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,private_order021,XRay Magazine was published first.,0,57.14285714285715
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_order102,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,private_order102,XRay Magazine was published first.,0,57.14285714285715
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_order120,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,private_order120,XRay Magazine was published first.,0,57.14285714285715
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_order201,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,private_order201,XRay Magazine was published first.,0,57.14285714285715
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,peer_order210,XRay Magazine,100,100.0
+1a89b60308f911ebbdaaac1f6bf848b6,extension130,private_order210,XRay Magazine was published first.,0,57.14285714285715
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_all,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,private_all,noanswer,0,0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,R0_all,noanswer,0,0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_sink_R0_leaves,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_sink_private_leaves,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,full_union,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_sink,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_SP,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_order012,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,private_order012,noanswer,0,0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_order021,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,private_order021,noanswer,0,0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_order102,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,private_order102,noanswer,0,0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_order120,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,private_order120,noanswer,0,0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_order201,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,private_order201,noanswer,0,0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,peer_order210,Yes,100,100.0
+1b36c01f08df11ebbd9fac1f6bf848b6,extension130,private_order210,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_all,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,private_all,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_sink_R0_leaves,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_sink_private_leaves,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,full_union,A Yank In The R.A.F.,100,100.0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_sink,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_SP,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_order012,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_order021,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_order102,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_order120,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_order201,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,peer_order210,noanswer,0,0
+1cf6b11808a111ebbd78ac1f6bf848b6,extension130,private_order210,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_all,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,private_all,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_sink_R0_leaves,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_sink_private_leaves,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,full_union,Yes,100,100.0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_sink,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_SP,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_order012,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_order021,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_order102,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_order120,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_order201,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,peer_order210,noanswer,0,0
+1dba599508b811ebbd88ac1f6bf848b6,extension130,private_order210,noanswer,0,0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_all,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,private_all,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,R0_all,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_sink_R0_leaves,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_sink_private_leaves,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,full_union,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_sink,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_SP,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_order012,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,private_order012,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_order021,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,private_order021,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_order102,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,private_order102,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_order120,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,private_order120,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_order201,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,private_order201,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,peer_order210,20 March 2008,100,100.0
+1e71fb080bdd11eba7f7acde48001122,extension130,private_order210,20 March 2008,100,100.0
+23a101880bdc11eba7f7acde48001122,extension130,peer_all,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,private_all,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,R0_all,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,peer_sink_R0_leaves,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,peer_sink_private_leaves,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,full_union,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,peer_sink,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,peer_SP,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,peer_order012,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,private_order012,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,peer_order021,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,private_order021,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,peer_order102,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,private_order102,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,peer_order120,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,private_order120,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,peer_order201,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,private_order201,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,peer_order210,noanswer,0,0
+23a101880bdc11eba7f7acde48001122,extension130,private_order210,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_all,No,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,private_all,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,R0_all,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_sink_R0_leaves,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_sink_private_leaves,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,full_union,Yes,100,100.0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_sink,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_SP,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_order012,No,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,private_order012,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_order021,No,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,private_order021,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_order102,No,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,private_order102,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_order120,Yes,100,100.0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,private_order120,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_order201,Yes,100,100.0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,private_order201,noanswer,0,0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,peer_order210,Yes,100,100.0
+294572a1087f11ebbd6bac1f6bf848b6,extension130,private_order210,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_all,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,private_all,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,R0_all,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_sink_R0_leaves,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_sink_private_leaves,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,full_union,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_sink,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_SP,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_order012,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,private_order012,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_order021,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,private_order021,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_order102,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,private_order102,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_order120,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,private_order120,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_order201,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,private_order201,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,peer_order210,noanswer,0,0
+39befe640bde11eba7f7acde48001122,extension130,private_order210,noanswer,0,0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_all,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,private_all,noanswer,0,0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_sink_R0_leaves,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_sink_private_leaves,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,full_union,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_sink,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_SP,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_order012,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_order021,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_order102,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_order120,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_order201,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,peer_order210,Yes,100,100.0
+39e5fd3308ea11ebbda7ac1f6bf848b6,extension130,private_order210,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_all,The Gentle Art Of Burglary,100,100.0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,private_all,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,R0_all,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_sink_R0_leaves,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_sink_private_leaves,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,full_union,The Gentle Art of Burglary,100,100.0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_sink,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_SP,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_order012,The Gentle Art Of Burglary,100,100.0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,private_order012,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_order021,The Gentle Art Of Burglary,100,100.0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,private_order021,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_order102,The Gentle Art Of Burglary,100,100.0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,private_order102,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_order120,The Gentle Art Of Burglary,100,100.0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,private_order120,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_order201,The Gentle Art Of Burglary,100,100.0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,private_order201,noanswer,0,0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,peer_order210,The Gentle Art Of Burglary,100,100.0
+39eba8ce088711ebbd6dac1f6bf848b6,extension130,private_order210,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_all,The Olsen Gang's Big Score,100,100.0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,private_all,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,R0_all,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_sink_R0_leaves,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_sink_private_leaves,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,full_union,The Olsen Gang's Big Score,100,100.0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_sink,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_SP,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_order012,The Olsen Gang's Big Score,100,100.0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,private_order012,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_order021,The Olsen Gang's Big Score,100,100.0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,private_order021,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_order102,The Olsen Gang's Big Score,100,100.0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,private_order102,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_order120,The Olsen Gang's Big Score,100,100.0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,private_order120,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_order201,The Olsen Gang's Big Score,100,100.0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,private_order201,noanswer,0,0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,peer_order210,The Olsen Gang's Big Score,100,100.0
+4782cd7d087e11ebbd6bac1f6bf848b6,extension130,private_order210,noanswer,0,0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_all,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,private_all,noanswer,0,0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,R0_all,noanswer,0,0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_sink_R0_leaves,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_sink_private_leaves,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,full_union,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_sink,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_SP,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_order012,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,private_order012,noanswer,0,0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_order021,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,private_order021,noanswer,0,0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_order102,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,private_order102,noanswer,0,0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_order120,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,private_order120,noanswer,0,0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_order201,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,private_order201,noanswer,0,0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,peer_order210,Chanakya Shapatham was released more recently.,0,50.0
+47d28564094c11ebbdaeac1f6bf848b6,extension130,private_order210,noanswer,0,0
+495d61cc0bb011ebab90acde48001122,extension130,peer_all,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,private_all,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,R0_all,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,peer_sink_R0_leaves,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,peer_sink_private_leaves,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,full_union,Lady Elizabeth McDouall-Crichton,0,80.0
+495d61cc0bb011ebab90acde48001122,extension130,peer_sink,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,peer_SP,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,peer_order012,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,private_order012,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,peer_order021,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,private_order021,Lady Elizabeth Penelope,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,peer_order102,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,private_order102,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,peer_order120,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,private_order120,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,peer_order201,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,private_order201,Lady Elizabeth Penelope,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,peer_order210,Lady Elizabeth McDougall-Crichton,0,40.0
+495d61cc0bb011ebab90acde48001122,extension130,private_order210,Lady Elizabeth Penelope,0,40.0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_all,Yes,100,100.0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,private_all,noanswer,0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_sink_R0_leaves,"Yes, both stations are located in France.",0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_sink_private_leaves,"Yes, both stations are located in France.",0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,full_union,Yes,100,100.0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_sink,"Yes, both stations are located in France.",0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_SP,"Yes, both stations are located in France.",0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_order012,Yes,100,100.0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_order021,Yes,100,100.0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_order102,Yes,100,100.0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_order120,Yes,100,100.0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_order201,Yes,100,100.0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,peer_order210,Yes,100,100.0
+4d3ab509099c11ebbdb0ac1f6bf848b6,extension130,private_order210,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_all,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,private_all,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,R0_all,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_sink_R0_leaves,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_sink_private_leaves,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,full_union,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_sink,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_SP,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_order012,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,private_order012,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_order021,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,private_order021,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_order102,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,private_order102,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_order120,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,private_order120,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_order201,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,private_order201,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,peer_order210,noanswer,0,0
+50d225540bde11eba7f7acde48001122,extension130,private_order210,noanswer,0,0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_all,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,private_all,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,R0_all,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_sink_R0_leaves,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_sink_private_leaves,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,full_union,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_sink,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_SP,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_order012,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,private_order012,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_order021,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,private_order021,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_order102,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,private_order102,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_order120,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,private_order120,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_order201,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,private_order201,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,peer_order210,Hermann Otto II of Limburg Stirum,100,100.0
+56d3a3a20bb011ebab90acde48001122,extension130,private_order210,Hermann Otto II of Limburg Stirum,100,100.0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_all,Man's Search for Happiness was released earlier.,0,72.72727272727273
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,private_all,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,R0_all,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_sink_R0_leaves,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_sink_private_leaves,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,full_union,Man's Search for Happiness,100,100.0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_sink,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_SP,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_order012,Man's Search for Happiness was released earlier.,0,72.72727272727273
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,private_order012,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_order021,Man's Search for Happiness was released earlier.,0,72.72727272727273
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,private_order021,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_order102,Man's Search for Happiness was released earlier.,0,72.72727272727273
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,private_order102,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_order120,Man's Search for Happiness was released earlier.,0,72.72727272727273
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,private_order120,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_order201,Man's Search for Happiness was released earlier.,0,72.72727272727273
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,private_order201,noanswer,0,0
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,peer_order210,Man's Search for Happiness was released earlier.,0,72.72727272727273
+5affe63d08f311ebbdaaac1f6bf848b6,extension130,private_order210,noanswer,0,0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_all,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,private_all,noanswer,0,0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,R0_all,noanswer,0,0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_sink_R0_leaves,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_sink_private_leaves,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,full_union,"Yes, both are Canadian.",0,0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_sink,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_SP,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_order012,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,private_order012,noanswer,0,0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_order021,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,private_order021,noanswer,0,0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_order102,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,private_order102,noanswer,0,0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_order120,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,private_order120,noanswer,0,0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_order201,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,private_order201,noanswer,0,0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,peer_order210,Yes,100,100.0
+5dea524a088511ebbd6dac1f6bf848b6,extension130,private_order210,noanswer,0,0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_all,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,private_all,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,R0_all,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_sink_R0_leaves,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_sink_private_leaves,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,full_union,Anna Pavlovna of Russia,100,100.0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_sink,noanswer,0,0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_SP,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_order012,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,private_order012,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_order021,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,private_order021,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_order102,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,private_order102,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_order120,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,private_order120,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_order201,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,private_order201,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,peer_order210,Queen Anna Paulovna,0,40.0
+6503f3ce0baf11ebab90acde48001122,extension130,private_order210,Queen Anna Paulovna,0,40.0
+6562f3780bb011ebab90acde48001122,extension130,peer_all,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,private_all,noanswer,0,0
+6562f3780bb011ebab90acde48001122,extension130,R0_all,noanswer,0,0
+6562f3780bb011ebab90acde48001122,extension130,peer_sink_R0_leaves,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,peer_sink_private_leaves,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,full_union,"Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",100,100.0
+6562f3780bb011ebab90acde48001122,extension130,peer_sink,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,peer_SP,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,peer_order012,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,private_order012,noanswer,0,0
+6562f3780bb011ebab90acde48001122,extension130,peer_order021,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,private_order021,noanswer,0,0
+6562f3780bb011ebab90acde48001122,extension130,peer_order102,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,private_order102,noanswer,0,0
+6562f3780bb011ebab90acde48001122,extension130,peer_order120,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,private_order120,noanswer,0,0
+6562f3780bb011ebab90acde48001122,extension130,peer_order201,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,private_order201,noanswer,0,0
+6562f3780bb011ebab90acde48001122,extension130,peer_order210,"Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",0,94.73684210526316
+6562f3780bb011ebab90acde48001122,extension130,private_order210,noanswer,0,0
+683cfb340bb011ebab90acde48001122,extension130,peer_all,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,private_all,noanswer,0,0
+683cfb340bb011ebab90acde48001122,extension130,R0_all,noanswer,0,0
+683cfb340bb011ebab90acde48001122,extension130,peer_sink_R0_leaves,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,peer_sink_private_leaves,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,full_union,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,peer_sink,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,peer_SP,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,peer_order012,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,private_order012,noanswer,0,0
+683cfb340bb011ebab90acde48001122,extension130,peer_order021,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,private_order021,noanswer,0,0
+683cfb340bb011ebab90acde48001122,extension130,peer_order102,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,private_order102,noanswer,0,0
+683cfb340bb011ebab90acde48001122,extension130,peer_order120,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,private_order120,noanswer,0,0
+683cfb340bb011ebab90acde48001122,extension130,peer_order201,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,private_order201,noanswer,0,0
+683cfb340bb011ebab90acde48001122,extension130,peer_order210,Countess Princess Augusta of Schwarzburg-Sondershausen,0,88.8888888888889
+683cfb340bb011ebab90acde48001122,extension130,private_order210,noanswer,0,0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_all,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,private_all,noanswer,0,0
+6ab2c3860baf11ebab90acde48001122,extension130,R0_all,noanswer,0,0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_sink_R0_leaves,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_sink_private_leaves,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,full_union,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_sink,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_SP,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_order012,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,private_order012,noanswer,0,0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_order021,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,private_order021,noanswer,0,0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_order102,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,private_order102,noanswer,0,0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_order120,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,private_order120,noanswer,0,0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_order201,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,private_order201,noanswer,0,0
+6ab2c3860baf11ebab90acde48001122,extension130,peer_order210,Georgios Papandreou,100,100.0
+6ab2c3860baf11ebab90acde48001122,extension130,private_order210,noanswer,0,0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_all,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,private_all,noanswer,0,0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,R0_all,noanswer,0,0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_sink_R0_leaves,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_sink_private_leaves,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,full_union,"Yes, both universities are located in China.",0,0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_sink,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_SP,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_order012,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,private_order012,noanswer,0,0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_order021,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,private_order021,noanswer,0,0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_order102,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,private_order102,noanswer,0,0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_order120,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,private_order120,noanswer,0,0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_order201,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,private_order201,noanswer,0,0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,peer_order210,Yes,100,100.0
+6f96f50508bf11ebbd8aac1f6bf848b6,extension130,private_order210,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_all,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,private_all,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,R0_all,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_sink_R0_leaves,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_sink_private_leaves,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,full_union,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_sink,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_SP,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_order012,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,private_order012,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_order021,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,private_order021,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_order102,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,private_order102,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_order120,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,private_order120,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_order201,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,private_order201,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,peer_order210,noanswer,0,0
+767efc000bde11eba7f7acde48001122,extension130,private_order210,noanswer,0,0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_all,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,private_all,noanswer,0,0
+76d3ccb20bde11eba7f7acde48001122,extension130,R0_all,noanswer,0,0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_sink_R0_leaves,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_sink_private_leaves,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,full_union,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_sink,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_SP,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_order012,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,private_order012,noanswer,0,0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_order021,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,private_order021,noanswer,0,0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_order102,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,private_order102,noanswer,0,0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_order120,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,private_order120,noanswer,0,0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_order201,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,private_order201,noanswer,0,0
+76d3ccb20bde11eba7f7acde48001122,extension130,peer_order210,10 October 1846,100,100.0
+76d3ccb20bde11eba7f7acde48001122,extension130,private_order210,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,peer_all,Hedwiga of Babenberg,0,50.0
+772e74ec0bb011ebab90acde48001122,extension130,private_all,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,R0_all,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,peer_sink_R0_leaves,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,peer_sink_private_leaves,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,full_union,Hedwiga of Babenberg,0,50.0
+772e74ec0bb011ebab90acde48001122,extension130,peer_sink,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,peer_SP,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,peer_order012,Hedwiga of Babenberg,0,50.0
+772e74ec0bb011ebab90acde48001122,extension130,private_order012,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,peer_order021,Hedwiga of Babenberg,0,50.0
+772e74ec0bb011ebab90acde48001122,extension130,private_order021,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,peer_order102,Hedwiga of Babenberg,0,50.0
+772e74ec0bb011ebab90acde48001122,extension130,private_order102,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,peer_order120,Hedwiga of Babenberg,0,50.0
+772e74ec0bb011ebab90acde48001122,extension130,private_order120,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,peer_order201,Hedwiga of Babenberg,0,50.0
+772e74ec0bb011ebab90acde48001122,extension130,private_order201,noanswer,0,0
+772e74ec0bb011ebab90acde48001122,extension130,peer_order210,Hedwiga of Babenberg,0,50.0
+772e74ec0bb011ebab90acde48001122,extension130,private_order210,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_all,Victoria's Secret was established first.,0,57.14285714285715
+79ab35da095711ebbdaeac1f6bf848b6,extension130,private_all,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,R0_all,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_sink_R0_leaves,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_sink_private_leaves,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,full_union,Victoria's Secret was established first.,0,57.14285714285715
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_sink,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_SP,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_order012,Victoria's Secret was established first.,0,57.14285714285715
+79ab35da095711ebbdaeac1f6bf848b6,extension130,private_order012,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_order021,Victoria's Secret was established first.,0,57.14285714285715
+79ab35da095711ebbdaeac1f6bf848b6,extension130,private_order021,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_order102,Victoria's Secret was established first.,0,57.14285714285715
+79ab35da095711ebbdaeac1f6bf848b6,extension130,private_order102,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_order120,Victoria's Secret was established first.,0,57.14285714285715
+79ab35da095711ebbdaeac1f6bf848b6,extension130,private_order120,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_order201,Victoria's Secret was established first.,0,57.14285714285715
+79ab35da095711ebbdaeac1f6bf848b6,extension130,private_order201,noanswer,0,0
+79ab35da095711ebbdaeac1f6bf848b6,extension130,peer_order210,Victoria's Secret was established first.,0,57.14285714285715
+79ab35da095711ebbdaeac1f6bf848b6,extension130,private_order210,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_all,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,private_all,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,R0_all,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_sink_R0_leaves,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_sink_private_leaves,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,full_union,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_sink,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_SP,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_order012,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,private_order012,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_order021,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,private_order021,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_order102,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,private_order102,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_order120,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,private_order120,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_order201,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,private_order201,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,peer_order210,noanswer,0,0
+7a81f2720bdd11eba7f7acde48001122,extension130,private_order210,noanswer,0,0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_all,Charles Crawford Davis died later,0,74.99999999999999
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,private_all,noanswer,0,0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_sink_R0_leaves,Charles Crawford Davis,100,100.0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_sink_private_leaves,Charles Crawford Davis,100,100.0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,full_union,Charles Crawford Davis,100,100.0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_sink,Charles Crawford Davis,100,100.0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_SP,Charles Crawford Davis,100,100.0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_order012,Charles Crawford Davis died later,0,74.99999999999999
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_order021,Charles Crawford Davis died later,0,74.99999999999999
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_order102,Charles Crawford Davis,100,100.0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_order120,Charles Crawford Davis,100,100.0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_order201,Charles Crawford Davis died later,0,74.99999999999999
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,peer_order210,Charles Crawford Davis,100,100.0
+8794d23d089e11ebbd78ac1f6bf848b6,extension130,private_order210,noanswer,0,0
+887f71380bb011ebab90acde48001122,extension130,peer_all,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,private_all,noanswer,0,0
+887f71380bb011ebab90acde48001122,extension130,R0_all,noanswer,0,0
+887f71380bb011ebab90acde48001122,extension130,peer_sink_R0_leaves,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,peer_sink_private_leaves,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,full_union,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,peer_sink,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,peer_SP,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,peer_order012,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,private_order012,noanswer,0,0
+887f71380bb011ebab90acde48001122,extension130,peer_order021,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,private_order021,noanswer,0,0
+887f71380bb011ebab90acde48001122,extension130,peer_order102,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,private_order102,noanswer,0,0
+887f71380bb011ebab90acde48001122,extension130,peer_order120,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,private_order120,noanswer,0,0
+887f71380bb011ebab90acde48001122,extension130,peer_order201,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,private_order201,noanswer,0,0
+887f71380bb011ebab90acde48001122,extension130,peer_order210,"Robert de Brus, 2nd Lord of Annandale",100,100.0
+887f71380bb011ebab90acde48001122,extension130,private_order210,noanswer,0,0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_all,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,private_all,noanswer,0,0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,R0_all,noanswer,0,0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_sink_R0_leaves,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_sink_private_leaves,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,full_union,Hazırım came out first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_sink,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_SP,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_order012,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,private_order012,noanswer,0,0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_order021,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,private_order021,noanswer,0,0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_order102,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,private_order102,noanswer,0,0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_order120,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,private_order120,noanswer,0,0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_order201,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,private_order201,noanswer,0,0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,peer_order210,Hazırım was released first.,0,40.0
+8a7dfd2f092611ebbdaeac1f6bf848b6,extension130,private_order210,noanswer,0,0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_all,Kids Of The Round Table was released earlier.,0,72.72727272727273
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,private_all,noanswer,0,0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,R0_all,noanswer,0,0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_sink_R0_leaves,Kids of the Round Table,100,100.0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_sink_private_leaves,Kids of the Round Table,100,100.0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,full_union,Kids of the Round Table was released earlier.,0,72.72727272727273
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_sink,Kids of the Round Table,100,100.0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_SP,Kids of the Round Table,100,100.0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_order012,Kids Of The Round Table was released earlier.,0,72.72727272727273
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,private_order012,noanswer,0,0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_order021,Kids Of The Round Table was released earlier.,0,72.72727272727273
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,private_order021,noanswer,0,0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_order102,Kids Of The Round Table was released earlier.,0,72.72727272727273
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,private_order102,noanswer,0,0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_order120,Kids Of The Round Table was released earlier.,0,72.72727272727273
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,private_order120,noanswer,0,0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_order201,Kids Of The Round Table was released earlier.,0,72.72727272727273
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,private_order201,noanswer,0,0
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,peer_order210,Kids Of The Round Table was released earlier.,0,72.72727272727273
+8eaa7497095c11ebbdaeac1f6bf848b6,extension130,private_order210,noanswer,0,0
+923054040bb011ebab90acde48001122,extension130,peer_all,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,private_all,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,R0_all,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,peer_sink_R0_leaves,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,peer_sink_private_leaves,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,full_union,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,peer_sink,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,peer_SP,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,peer_order012,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,private_order012,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,peer_order021,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,private_order021,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,peer_order102,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,private_order102,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,peer_order120,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,private_order120,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,peer_order201,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,private_order201,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,peer_order210,King Tarabya of Ava,0,85.71428571428571
+923054040bb011ebab90acde48001122,extension130,private_order210,King Tarabya of Ava,0,85.71428571428571
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_all,Zürich,100,100.0
+95ab4cac0bdc11eba7f7acde48001122,extension130,private_all,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,R0_all,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_sink_R0_leaves,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_sink_private_leaves,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,full_union,Zürich,100,100.0
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_sink,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_SP,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_order012,Zürich,100,100.0
+95ab4cac0bdc11eba7f7acde48001122,extension130,private_order012,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_order021,Zürich,100,100.0
+95ab4cac0bdc11eba7f7acde48001122,extension130,private_order021,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_order102,Zürich,100,100.0
+95ab4cac0bdc11eba7f7acde48001122,extension130,private_order102,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_order120,Zürich,100,100.0
+95ab4cac0bdc11eba7f7acde48001122,extension130,private_order120,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_order201,Zürich,100,100.0
+95ab4cac0bdc11eba7f7acde48001122,extension130,private_order201,noanswer,0,0
+95ab4cac0bdc11eba7f7acde48001122,extension130,peer_order210,Zürich,100,100.0
+95ab4cac0bdc11eba7f7acde48001122,extension130,private_order210,noanswer,0,0
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_all,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,private_all,noanswer,0,0
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_sink_R0_leaves,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_sink_private_leaves,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,full_union,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_sink,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_SP,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_order012,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_order021,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_order102,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_order120,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_order201,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,peer_order210,Never Too Young To Die was released first.,0,76.92307692307693
+a1f15751088e11ebbd70ac1f6bf848b6,extension130,private_order210,noanswer,0,0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_all,The Cure For Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,private_all,noanswer,0,0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,R0_all,noanswer,0,0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_sink_R0_leaves,The Cure for Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_sink_private_leaves,The Cure for Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,full_union,The Cure for Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_sink,The Cure for Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_SP,The Cure for Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_order012,The Cure For Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,private_order012,noanswer,0,0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_order021,The Cure For Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,private_order021,noanswer,0,0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_order102,The Cure for Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,private_order102,noanswer,0,0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_order120,The Cure for Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,private_order120,noanswer,0,0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_order201,The Cure For Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,private_order201,noanswer,0,0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,peer_order210,The Cure For Love,100,100.0
+a283d9e208be11ebbd8aac1f6bf848b6,extension130,private_order210,noanswer,0,0
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_all,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,private_all,noanswer,0,0
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,R0_all,noanswer,0,0
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_sink_R0_leaves,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_sink_private_leaves,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,full_union,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_sink,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_SP,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_order012,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,private_order012,noanswer,0,0
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_order021,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,private_order021,noanswer,0,0
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_order102,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,private_order102,noanswer,0,0
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_order120,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,private_order120,noanswer,0,0
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_order201,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,private_order201,noanswer,0,0
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,peer_order210,Julia McNair Wright died first.,0,74.99999999999999
+a4939cfc08f711ebbdaaac1f6bf848b6,extension130,private_order210,noanswer,0,0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_all,15 August 1279,100,100.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,private_all,1279,0,50.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,R0_all,1279,0,50.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_sink_R0_leaves,1279,0,50.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_sink_private_leaves,1279,0,50.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,full_union,15 August 1279,100,100.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_sink,15 August 1279,100,100.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_SP,15 August 1279,100,100.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_order012,15 August 1279,100,100.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,private_order012,1279,0,50.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_order021,15 August 1279,100,100.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,private_order021,1279,0,50.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_order102,15 August 1279,100,100.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,private_order102,1279,0,50.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_order120,15 August 1279,100,100.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,private_order120,1279,0,50.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_order201,15 August 1279,100,100.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,private_order201,1279,0,50.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,peer_order210,15 August 1279,100,100.0
+a4f96ce80bdc11eba7f7acde48001122,extension130,private_order210,1279,0,50.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_all,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,private_all,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,R0_all,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_sink_R0_leaves,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_sink_private_leaves,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,full_union,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_sink,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_SP,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_order012,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,private_order012,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_order021,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,private_order021,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_order102,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,private_order102,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_order120,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,private_order120,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_order201,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,private_order201,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,peer_order210,Krishnarjuna came out first.,0,40.0
+a7419bf3092e11ebbdaeac1f6bf848b6,extension130,private_order210,Krishnarjuna came out first.,0,40.0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_all,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,private_all,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,R0_all,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_sink_R0_leaves,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_sink_private_leaves,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,full_union,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_sink,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_SP,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_order012,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,private_order012,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_order021,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,private_order021,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_order102,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,private_order102,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_order120,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,private_order120,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_order201,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,private_order201,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,peer_order210,noanswer,0,0
+acb7ce2e0bdd11eba7f7acde48001122,extension130,private_order210,noanswer,0,0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_all,El Amor Y El Espanto was released more recently.,0,71.42857142857143
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,private_all,El Amor Y El Espanto,100,100.0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,R0_all,El Amor Y El Espanto,100,100.0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_sink_R0_leaves,El Amor Y El Espanto,100,100.0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_sink_private_leaves,El Amor Y El Espanto,100,100.0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,full_union,El Amor Y El Espanto was released more recently.,0,71.42857142857143
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_sink,noanswer,0,0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_SP,El Amor Y El Espanto,100,100.0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_order012,El Amor Y El Espanto was released more recently.,0,71.42857142857143
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,private_order012,El Amor Y El Espanto,100,100.0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_order021,El Amor Y El Espanto was released more recently.,0,71.42857142857143
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,private_order021,El Amor Y El Espanto,100,100.0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_order102,El Amor Y El Espanto was released more recently.,0,71.42857142857143
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,private_order102,El Amor Y El Espanto,100,100.0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_order120,El Amor Y El Espanto was released more recently.,0,71.42857142857143
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,private_order120,El Amor Y El Espanto,100,100.0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_order201,El Amor Y El Espanto was released more recently.,0,71.42857142857143
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,private_order201,El Amor Y El Espanto,100,100.0
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,peer_order210,El Amor Y El Espanto was released more recently.,0,71.42857142857143
+ad79f83e097311ebbdb0ac1f6bf848b6,extension130,private_order210,El Amor Y El Espanto,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_all,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,private_all,noanswer,0,0
+b025e878095011ebbdaeac1f6bf848b6,extension130,R0_all,noanswer,0,0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_sink_R0_leaves,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_sink_private_leaves,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,full_union,"Yes, both are located in the United States.",0,0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_sink,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_SP,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_order012,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,private_order012,noanswer,0,0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_order021,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,private_order021,noanswer,0,0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_order102,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,private_order102,noanswer,0,0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_order120,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,private_order120,noanswer,0,0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_order201,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,private_order201,noanswer,0,0
+b025e878095011ebbdaeac1f6bf848b6,extension130,peer_order210,Yes,100,100.0
+b025e878095011ebbdaeac1f6bf848b6,extension130,private_order210,noanswer,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_all,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,private_all,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,R0_all,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_sink_R0_leaves,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_sink_private_leaves,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,full_union,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_sink,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_SP,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_order012,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,private_order012,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_order021,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,private_order021,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_order102,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,private_order102,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_order120,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,private_order120,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_order201,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,private_order201,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,peer_order210,Eindhoven,0,0
+b1046ffa0bdd11eba7f7acde48001122,extension130,private_order210,Eindhoven,0,0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_all,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,private_all,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,R0_all,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_sink_R0_leaves,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_sink_private_leaves,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,full_union,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_sink,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_SP,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_order012,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,private_order012,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_order021,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,private_order021,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_order102,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,private_order102,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_order120,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,private_order120,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_order201,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,private_order201,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,peer_order210,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+b428fe9a0baf11ebab90acde48001122,extension130,private_order210,Adelaide of Löwenstein-Wertheim-Rosenberg,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_all,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,private_all,noanswer,0,0
+ba015944086611ebbd5eac1f6bf848b6,extension130,R0_all,noanswer,0,0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_sink_R0_leaves,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_sink_private_leaves,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,full_union,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_sink,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_SP,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_order012,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,private_order012,noanswer,0,0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_order021,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,private_order021,noanswer,0,0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_order102,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,private_order102,noanswer,0,0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_order120,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,private_order120,noanswer,0,0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_order201,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,private_order201,noanswer,0,0
+ba015944086611ebbd5eac1f6bf848b6,extension130,peer_order210,Yes,100,100.0
+ba015944086611ebbd5eac1f6bf848b6,extension130,private_order210,noanswer,0,0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_all,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,private_all,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,R0_all,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_sink_R0_leaves,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_sink_private_leaves,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,full_union,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_sink,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_SP,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_order012,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,private_order012,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_order021,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,private_order021,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_order102,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,private_order102,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_order120,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,private_order120,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_order201,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,private_order201,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,peer_order210,Yes,100,100.0
+bc7c589d08aa11ebbd80ac1f6bf848b6,extension130,private_order210,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_all,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,private_all,noanswer,0,0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,R0_all,noanswer,0,0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_sink_R0_leaves,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_sink_private_leaves,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,full_union,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_sink,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_SP,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_order012,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,private_order012,noanswer,0,0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_order021,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,private_order021,noanswer,0,0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_order102,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,private_order102,noanswer,0,0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_order120,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,private_order120,noanswer,0,0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_order201,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,private_order201,noanswer,0,0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,peer_order210,Yes,100,100.0
+bcc4e26c08c111ebbd8bac1f6bf848b6,extension130,private_order210,noanswer,0,0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_all,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,private_all,noanswer,0,0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,R0_all,noanswer,0,0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_sink_R0_leaves,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_sink_private_leaves,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,full_union,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_sink,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_SP,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_order012,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,private_order012,noanswer,0,0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_order021,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,private_order021,noanswer,0,0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_order102,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,private_order102,noanswer,0,0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_order120,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,private_order120,noanswer,0,0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_order201,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,private_order201,noanswer,0,0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,peer_order210,Ángel Recasens,100,100.0
+c02763f708be11ebbd8aac1f6bf848b6,extension130,private_order210,noanswer,0,0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_all,Blue Murder at St Trinian's,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,private_all,noanswer,0,0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_sink_R0_leaves,Blue Murder At St Trinian'S,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_sink_private_leaves,Blue Murder At St Trinian'S,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,full_union,Blue Murder at St Trinian's,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_sink,Blue Murder At St Trinian'S,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_SP,Blue Murder At St Trinian'S,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_order012,Blue Murder at St Trinian's,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_order021,Blue Murder at St Trinian's,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_order102,Blue Murder At St Trinian'S,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_order120,Blue Murder At St Trinian'S,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_order201,Blue Murder At St Trinian'S,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,peer_order210,Blue Murder At St Trinian'S,100,100.0
+c581e00c08ae11ebbd83ac1f6bf848b6,extension130,private_order210,noanswer,0,0
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_all,"John Lysaght, 1st Baron Lisle died earlier.",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,private_all,noanswer,0,0
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_sink_R0_leaves,"John Lysaght, 1st Baron Lisle died earlier.",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_sink_private_leaves,"John Lysaght, 1st Baron Lisle died earlier.",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,full_union,"John Lysaght, 1st Baron Lisle died earlier.",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_sink,"John Lysaght, 1st Baron Lisle died earlier.",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_SP,"John Lysaght, 1st Baron Lisle died earlier.",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_order012,"John Lysaght, 1st Baron Lisle died earlier.",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_order021,"John Lysaght, 1st Baron Lisle died earlier.",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_order102,"John Lysaght, 1st Baron Lisle died earlier.",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_order120,"John Lysaght, 1st Baron Lisle died earlier.",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_order201,"John Lysaght, 1st Baron Lisle died earlier",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,peer_order210,"John Lysaght, 1st Baron Lisle died earlier",0,83.33333333333333
+c8c607d408ae11ebbd83ac1f6bf848b6,extension130,private_order210,noanswer,0,0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_all,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,private_all,noanswer,0,0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_sink_R0_leaves,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_sink_private_leaves,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,full_union,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_sink,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_SP,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_order012,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_order021,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_order102,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_order120,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_order201,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,peer_order210,Broadway Melody of 1940,100,100.0
+ca8a1872084911ebbd55ac1f6bf848b6,extension130,private_order210,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_all,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,private_all,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,R0_all,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_sink_R0_leaves,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_sink_private_leaves,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,full_union,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_sink,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_SP,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_order012,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,private_order012,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_order021,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,private_order021,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_order102,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,private_order102,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_order120,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,private_order120,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_order201,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,private_order201,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,peer_order210,noanswer,0,0
+d24eec2a0bd911eba7f7acde48001122,extension130,private_order210,noanswer,0,0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_all,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,private_all,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,R0_all,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_sink_R0_leaves,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_sink_private_leaves,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,full_union,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_sink,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_SP,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_order012,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,private_order012,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_order021,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,private_order021,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_order102,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,private_order102,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_order120,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,private_order120,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_order201,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,private_order201,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,peer_order210,"Trinity College, Dublin",100,100.0
+d3e9671e0bdd11eba7f7acde48001122,extension130,private_order210,"Trinity College, Dublin",100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_all,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,private_all,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,R0_all,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_sink_R0_leaves,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_sink_private_leaves,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,full_union,Helen Boughton-Leigh died later.,0,66.66666666666666
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_sink,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_SP,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_order012,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,private_order012,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_order021,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,private_order021,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_order102,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,private_order102,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_order120,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,private_order120,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_order201,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,private_order201,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,peer_order210,Helen Boughton-Leigh,100,100.0
+d3f31923087111ebbd63ac1f6bf848b6,extension130,private_order210,Helen Boughton-Leigh,100,100.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_all,Sumner Locke,100,100.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,private_all,Sumner Locke Elliott,0,80.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,R0_all,Sumner Locke (Elliott) is younger.,0,57.14285714285715
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_sink_R0_leaves,Sumner Locke (Elliott) is younger.,0,57.14285714285715
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_sink_private_leaves,Sumner Locke Elliott,0,80.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,full_union,Sumner Locke is younger.,0,66.66666666666666
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_sink,noanswer,0,0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_SP,Sumner Locke (Elliott) is younger.,0,57.14285714285715
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_order012,Sumner Locke,100,100.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,private_order012,Sumner Locke Elliott,0,80.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_order021,Sumner Locke,100,100.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,private_order021,Sumner Locke Elliott,0,80.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_order102,Sumner Locke,100,100.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,private_order102,Sumner Locke Elliott,0,80.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_order120,Sumner Locke,100,100.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,private_order120,Sumner Locke Elliott,0,80.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_order201,Sumner Locke,100,100.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,private_order201,Sumner Locke Elliott,0,80.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,peer_order210,Sumner Locke,100,100.0
+e2105ac1086b11ebbd60ac1f6bf848b6,extension130,private_order210,Sumner Locke Elliott,0,80.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_all,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,private_all,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,R0_all,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_sink_R0_leaves,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_sink_private_leaves,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,full_union,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_sink,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_SP,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_order012,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,private_order012,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_order021,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,private_order021,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_order102,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,private_order102,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_order120,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,private_order120,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_order201,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,private_order201,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,peer_order210,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5a5ff220baf11ebab90acde48001122,extension130,private_order210,"Henry Howard, 5th Earl of Suffolk",100,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_all,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,private_all,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,R0_all,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_sink_R0_leaves,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_sink_private_leaves,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,full_union,"Philibert, Margrave of Baden-Baden",100,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_sink,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_SP,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_order012,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,private_order012,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_order021,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,private_order021,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_order102,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,private_order102,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_order120,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,private_order120,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_order201,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,private_order201,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,peer_order210,Margrave Philibert of Baden-Baden,0,100.0
+e5e61c340bae11ebab90acde48001122,extension130,private_order210,Margrave Philibert of Baden-Baden,0,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_all,A Pistol for Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,private_all,noanswer,0,0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_sink_R0_leaves,A Pistol For Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_sink_private_leaves,A Pistol For Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,full_union,A Pistol for Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_sink,A Pistol For Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_SP,A Pistol For Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_order012,A Pistol for Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_order021,A Pistol for Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_order102,A Pistol For Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_order120,A Pistol For Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_order201,A Pistol For Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,peer_order210,A Pistol For Ringo,100,100.0
+e82674bd089311ebbd75ac1f6bf848b6,extension130,private_order210,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_all,The Phantom Express,100,100.0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,private_all,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,R0_all,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_sink_R0_leaves,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_sink_private_leaves,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,full_union,The Phantom Express,100,100.0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_sink,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_SP,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_order012,The Phantom Express,100,100.0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,private_order012,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_order021,The Phantom Express,100,100.0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,private_order021,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_order102,The Phantom Express,100,100.0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,private_order102,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_order120,The Phantom Express,100,100.0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,private_order120,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_order201,The Phantom Express,100,100.0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,private_order201,noanswer,0,0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,peer_order210,The Phantom Express,100,100.0
+ecf6cccc089711ebbd77ac1f6bf848b6,extension130,private_order210,noanswer,0,0

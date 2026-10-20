@@ -1,0 +1,3425 @@
+{
+  "03f61f61088211ebbd6dac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Amigos de la infancia",
+        0
+      ],
+      [
+        "Heavy Metal in Baghdad",
+        0
+      ],
+      [
+        "Mariano Argento",
+        0
+      ],
+      [
+        "Suroosh Alvi",
+        0
+      ]
+    ]
+  },
+  "044e9ea60bde11eba7f7acde48001122": {
+    "aliases": [
+      "Istanbul",
+      "Istanbulite"
+    ],
+    "answer": "Istanbul",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Prince Muhammad bin Talal",
+        0
+      ],
+      [
+        "Talal of Jordan",
+        14
+      ]
+    ]
+  },
+  "05ce228a0bdc11eba7f7acde48001122": {
+    "aliases": [
+      "the US",
+      "US",
+      "the USA",
+      "🇺🇸",
+      "U.S.A.",
+      "U.S.",
+      "America",
+      "the United States",
+      "US of A",
+      "USA",
+      "the United States of America",
+      "United States",
+      "United States of America",
+      "US",
+      "U.S.",
+      "American",
+      "United States"
+    ],
+    "answer": "American",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Devil Is Driving (1932 film)",
+        0
+      ],
+      [
+        "Benjamin Stoloff",
+        0
+      ]
+    ]
+  },
+  "0649e69c099011ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Semyonovka, Kamyshinsky District, Volgograd Oblast",
+        0
+      ],
+      [
+        "Shurjeh Qeslaq",
+        0
+      ]
+    ]
+  },
+  "078dee5c0bdc11eba7f7acde48001122": {
+    "aliases": [
+      "Shrine of John the Baptist",
+      "Umayyad Mosque",
+      "Archbasilica of Saint John",
+      "Archbasilica of St. John"
+    ],
+    "answer": "Umayyad Mosque",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Al-Aziz Uthman",
+        1
+      ],
+      [
+        "Saladin",
+        17
+      ]
+    ]
+  },
+  "0955e1160bde11eba7f7acde48001122": {
+    "aliases": [
+      "University of British Columbia",
+      "Ubc",
+      "McGill University College of British Columbia",
+      "UBC",
+      "The University of British Columbia"
+    ],
+    "answer": "University of British Columbia",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Diary of Evelyn Lau",
+        0
+      ],
+      [
+        "Sturla Gunnarsson",
+        3
+      ]
+    ]
+  },
+  "0c9607800bdd11eba7f7acde48001122": {
+    "aliases": [
+      "Hungary",
+      "hu",
+      "HUN",
+      "The Man Who Walked Alone",
+      "🇭🇺",
+      "Magyar",
+      "Hungarian"
+    ],
+    "answer": "Hungarian",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Cave of the Living Dead",
+        0
+      ],
+      [
+        "Ákos Ráthonyi",
+        0
+      ]
+    ]
+  },
+  "0db940300bda11eba7f7acde48001122": {
+    "aliases": [
+      "Madrid, Spain",
+      "City of Madrid",
+      "Madrid",
+      "Mayrití",
+      "Madrileño",
+      "Madrideño",
+      "Mageritense",
+      "Matritense"
+    ],
+    "answer": "Madrid",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Philip IV of Spain",
+        2
+      ],
+      [
+        "Philip III of Spain",
+        2
+      ]
+    ]
+  },
+  "1217769c08c411ebbd8eac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Summer Bachelors",
+        0
+      ],
+      [
+        "The Damned Rain",
+        0
+      ],
+      [
+        "Allan Dwan",
+        0
+      ],
+      [
+        "Satish Manwar",
+        0
+      ]
+    ]
+  },
+  "1a0304fa0bdc11eba7f7acde48001122": {
+    "aliases": [
+      "Koboko"
+    ],
+    "answer": "Koboko",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Sarah Kyolaba",
+        0
+      ],
+      [
+        "Idi Amin",
+        2
+      ]
+    ]
+  },
+  "1b1a07980bdd11eba7f7acde48001122": {
+    "aliases": [
+      "Penn",
+      "University of Pennsylvania",
+      "UPenn",
+      "Univ. of Penn.",
+      "Pennsylvania University"
+    ],
+    "answer": "University of Pennsylvania",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Julie Nixon Eisenhower",
+        0
+      ],
+      [
+        "David Eisenhower",
+        0
+      ]
+    ]
+  },
+  "1c75ba5a0bde11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "12 September 1825",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "William Pole-Tylney-Long-Wellesley, 5th Earl of Mornington",
+        0
+      ],
+      [
+        "Catherine Tylney-Long",
+        0
+      ]
+    ]
+  },
+  "1ebaa1f608cb11ebbd92ac1f6bf848b6": {
+    "aliases": [
+      "Leader, His Driver and the Driver's Wife",
+      "The Leader, His Driver and the Driver's Wife"
+    ],
+    "answer": "The Leader, His Driver And The Driver'S Wife",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Leader, His Driver and the Driver's Wife",
+        0
+      ],
+      [
+        "A Fish Called Wanda",
+        0
+      ]
+    ]
+  },
+  "2048d44608aa11ebbd80ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "King George V School, Seremban",
+        0
+      ],
+      [
+        "St Paul's College, Manly",
+        0
+      ]
+    ]
+  },
+  "212e01c808ab11ebbd81ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Father Steps Out (1941 film)",
+        0
+      ],
+      [
+        "Balipeetam",
+        0
+      ],
+      [
+        "Jean Yarbrough",
+        0
+      ],
+      [
+        "Dasari Narayana Rao",
+        0
+      ]
+    ]
+  },
+  "21e3684c0bda11eba7f7acde48001122": {
+    "aliases": [
+      "the US",
+      "US",
+      "the USA",
+      "🇺🇸",
+      "U.S.A.",
+      "U.S.",
+      "America",
+      "the United States",
+      "US of A",
+      "USA",
+      "the United States of America",
+      "United States",
+      "United States of America",
+      "US",
+      "U.S.",
+      "American",
+      "United States"
+    ],
+    "answer": "American",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Strange Case of Doctor Rx",
+        1
+      ],
+      [
+        "William Nigh",
+        0
+      ]
+    ]
+  },
+  "23702e320bdc11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "5 November 1974",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Johny Mera Naam Preethi Mera Kaam",
+        4
+      ],
+      [
+        "V. Harikrishna",
+        0
+      ]
+    ]
+  },
+  "253118c509b311ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Shavnabada",
+        0
+      ],
+      [
+        "Tadekho Hill",
+        0
+      ]
+    ]
+  },
+  "26c685f008ca11ebbd92ac1f6bf848b6": {
+    "aliases": [
+      "Samuel Merritt University",
+      "Samuel Merritt College"
+    ],
+    "answer": "Samuel Merritt University",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Samuel Merritt University",
+        3
+      ],
+      [
+        "University of São Tomé and Príncipe",
+        2
+      ]
+    ]
+  },
+  "28ca7e640bdc11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "31 December 1299",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Charles II, Count of Alençon",
+        1
+      ],
+      [
+        "Margaret, Countess of Anjou",
+        0
+      ]
+    ]
+  },
+  "2a33695c08dd11ebbd9dac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Janam Janam Na Saath",
+        0
+      ],
+      [
+        "The Lady from Nowhere",
+        0
+      ],
+      [
+        "Mehul Kumar",
+        0
+      ],
+      [
+        "Richard Thorpe",
+        0
+      ]
+    ]
+  },
+  "2f47659a0bdc11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "29 May 1040",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Hedwig of France, Countess of Nevers",
+        1
+      ],
+      [
+        "Renauld I, Count of Nevers",
+        0
+      ]
+    ]
+  },
+  "3471e1480bdd11eba7f7acde48001122": {
+    "aliases": [
+      "Igualada"
+    ],
+    "answer": "Igualada",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Eleanor of Aragon, Queen of Portugal",
+        1
+      ],
+      [
+        "Ferdinand I of Aragon",
+        1
+      ]
+    ]
+  },
+  "384929c00bdd11eba7f7acde48001122": {
+    "aliases": [
+      "French Republic",
+      "Republic of France",
+      "France",
+      "La France",
+      "fr",
+      "FRA",
+      "FR",
+      "🇫🇷",
+      "République française",
+      "French",
+      "Frenchwoman",
+      "Frenchman"
+    ],
+    "answer": "French",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Hugh VI of Lusignan",
+        0
+      ],
+      [
+        "Almodis de la Marche",
+        0
+      ]
+    ]
+  },
+  "390fb9c4088f11ebbd72ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Un altro mondo",
+        0
+      ],
+      [
+        "In Darkness (2011 film)",
+        0
+      ],
+      [
+        "Silvio Muccino",
+        0
+      ],
+      [
+        "Agnieszka Holland",
+        0
+      ]
+    ]
+  },
+  "39fcb9cc085d11ebbd5cac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Charlie Andrew",
+        0
+      ],
+      [
+        "Christijan Albers",
+        0
+      ]
+    ]
+  },
+  "3c4aad460bdd11eba7f7acde48001122": {
+    "aliases": [
+      "Autonomous City of Buenos Aires",
+      "Buenos Aires, Argentina",
+      "Buenos Ayres",
+      "Buenos Aires",
+      "Bonaerense",
+      "Porteño"
+    ],
+    "answer": "Buenos Aires",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Family Law (film)",
+        0
+      ],
+      [
+        "Daniel Burman",
+        0
+      ]
+    ]
+  },
+  "3cc91b60097d11ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Farj Emam",
+        0
+      ],
+      [
+        "Poshteh-ye Ziarat, Hormozgan",
+        0
+      ]
+    ]
+  },
+  "3d014d5e0bdc11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "9 May 1892",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Robert, Archduke of Austria-Este",
+        1
+      ],
+      [
+        "Zita of Bourbon-Parma",
+        0
+      ]
+    ]
+  },
+  "3d78f7b40bdc11eba7f7acde48001122": {
+    "aliases": [
+      "the US",
+      "US",
+      "the USA",
+      "🇺🇸",
+      "U.S.A.",
+      "U.S.",
+      "America",
+      "the United States",
+      "US of A",
+      "USA",
+      "the United States of America",
+      "United States",
+      "United States of America",
+      "US",
+      "U.S.",
+      "American",
+      "United States"
+    ],
+    "answer": "American",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "What Remains: The Life and Work of Sally Mann",
+        1
+      ],
+      [
+        "Steven Cantor",
+        0
+      ]
+    ]
+  },
+  "3deadf8e0bda11eba7f7acde48001122": {
+    "aliases": [
+      "Cabool",
+      "Kabol",
+      "Kabul",
+      "Cabul",
+      "Caubul"
+    ],
+    "answer": "Kabul",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Patience Stone (film)",
+        0
+      ],
+      [
+        "Atiq Rahimi",
+        1
+      ]
+    ]
+  },
+  "3ebfacbc0bdc11eba7f7acde48001122": {
+    "aliases": [
+      "U.K.",
+      "United Kingdom of Great Britain and Northern Ireland",
+      "UK",
+      "GBR",
+      "🇬🇧",
+      "United Kingdom",
+      "British",
+      "Uk"
+    ],
+    "answer": "British",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Adventures of the Wilderness Family",
+        0
+      ],
+      [
+        "Stewart Raffill",
+        0
+      ]
+    ]
+  },
+  "3ecc04fe0bdb11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "2001",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Mentos",
+        1
+      ],
+      [
+        "Perfetti Van Melle",
+        1
+      ]
+    ]
+  },
+  "4054c13c0bde11eba7f7acde48001122": {
+    "aliases": [
+      "Algeciras"
+    ],
+    "answer": "Algeciras",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Juana de Castro",
+        1
+      ],
+      [
+        "Pedro Fernández de Castro",
+        0
+      ]
+    ]
+  },
+  "440c48b608fc11ebbdadac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Different Worlds",
+        0
+      ],
+      [
+        "Celtic Family Magazine",
+        2
+      ]
+    ]
+  },
+  "48e1cc21097511ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Bar Aftab-e Akbar",
+        0
+      ],
+      [
+        "Khan Tappeh",
+        0
+      ]
+    ]
+  },
+  "4931bc960bda11eba7f7acde48001122": {
+    "aliases": [
+      "Lyon",
+      "Lyons",
+      "Lyonese",
+      "Lyonnais"
+    ],
+    "answer": "Lyon",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Love After Love (1992 film)",
+        0
+      ],
+      [
+        "Diane Kurys",
+        1
+      ]
+    ]
+  },
+  "495ece7e085911ebbd5bac1f6bf848b6": {
+    "aliases": [
+      "Louis-Ernest Dubois"
+    ],
+    "answer": "Louis-Ernest Dubois",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Robert Williams (South African cricketer)",
+        0
+      ],
+      [
+        "Louis-Ernest Dubois",
+        0
+      ]
+    ]
+  },
+  "4a1a5a700bdd11eba7f7acde48001122": {
+    "aliases": [
+      "Brixton"
+    ],
+    "answer": "Brixton",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Can You Hear Me? (David Bowie song)",
+        0
+      ],
+      [
+        "David Bowie",
+        7
+      ]
+    ]
+  },
+  "4b51148c0bd911eba7f7acde48001122": {
+    "aliases": [
+      "Habsburg Empire",
+      "Habsburg Monarchy"
+    ],
+    "answer": "Habsburg Empire",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Archduke Charles Joseph of Austria (1745–1761)",
+        0
+      ],
+      [
+        "Maria Theresa",
+        10
+      ]
+    ]
+  },
+  "4b7e015e0bde11eba7f7acde48001122": {
+    "aliases": [
+      "County of Wiltshire",
+      "WIL",
+      "Wilts",
+      "Wiltshire",
+      "County of Wilts"
+    ],
+    "answer": "Wiltshire",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "St George Lane Fox-Pitt",
+        1
+      ],
+      [
+        "Augustus Pitt Rivers",
+        2
+      ]
+    ]
+  },
+  "4bad25ea0bdb11eba7f7acde48001122": {
+    "aliases": [
+      "Budim",
+      "Kőbánya",
+      "Budapesta",
+      "Budapešť",
+      "Alt-Ofen",
+      "Budapeszt",
+      "Ofen",
+      "Buda Pest",
+      "Pešť",
+      "Budín",
+      "Óbuda",
+      "Budon",
+      "Buda",
+      "Buda-Pest",
+      "Pešta",
+      "Budapest",
+      "Pest",
+      "Budapester",
+      "Budapesti"
+    ],
+    "answer": "Budapest",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Rézi Friday",
+        1
+      ],
+      [
+        "Ladislao Vajda",
+        0
+      ]
+    ]
+  },
+  "4deffa5a089b11ebbd78ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Swordsman (upcoming film)",
+        0
+      ],
+      [
+        "My Son the Fanatic (film)",
+        0
+      ],
+      [
+        "Choi Jae-hoon",
+        0
+      ],
+      [
+        "Udayan Prasad",
+        0
+      ]
+    ]
+  },
+  "4ee2b17c0bda11eba7f7acde48001122": {
+    "aliases": [
+      "Cassel",
+      "Kassel"
+    ],
+    "answer": "Kassel",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Henry II, Landgrave of Hesse",
+        1
+      ],
+      [
+        "Otto I, Landgrave of Hesse",
+        4
+      ]
+    ]
+  },
+  "4faa255c0baf11ebab90acde48001122": {
+    "aliases": [
+      "Reina de Castilla Juana I",
+      "la Loca, regina di Castiglia Juana",
+      "Joanna of Castile",
+      "la Pazza, Queen of Castile Giovanna",
+      "Joanna",
+      "la Loca, Queen of Castile Juana",
+      "the Mad, Queen of Castile Joan",
+      "la Loca, Queen of Castile Johanna",
+      "de Waanzinnige Johanna",
+      "Juana I de Castilla",
+      "Queen of Castile Juana I",
+      "la Folle, Queen of Castile Jeanne",
+      "Königin Johanna Kastilien",
+      "Joanna the Mad",
+      "reine de Castille Jeanne I"
+    ],
+    "answer": "Joanna",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Christina of Denmark",
+        0
+      ],
+      [
+        "Isabella of Austria",
+        1
+      ]
+    ]
+  },
+  "4ff3e54808c111ebbd8bac1f6bf848b6": {
+    "aliases": [
+      "Billy Madison"
+    ],
+    "answer": "Billy Madison",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Billy Madison",
+        0
+      ],
+      [
+        "The Temple of Dusk",
+        0
+      ],
+      [
+        "Tamra Davis",
+        0
+      ],
+      [
+        "James Young (director)",
+        0
+      ]
+    ]
+  },
+  "50a8d8ce0bda11eba7f7acde48001122": {
+    "aliases": [
+      "the US",
+      "US",
+      "the USA",
+      "🇺🇸",
+      "U.S.A.",
+      "U.S.",
+      "America",
+      "the United States",
+      "US of A",
+      "USA",
+      "the United States of America",
+      "United States",
+      "United States of America",
+      "US",
+      "U.S.",
+      "American",
+      "United States"
+    ],
+    "answer": "American",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Planetary Report",
+        0
+      ],
+      [
+        "The Planetary Society",
+        0
+      ]
+    ]
+  },
+  "5250cbbe0bda11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "28 February 1823",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Princess Marie of Schwarzburg-Rudolstadt",
+        0
+      ],
+      [
+        "Frederick Francis II, Grand Duke of Mecklenburg-Schwerin",
+        0
+      ]
+    ]
+  },
+  "5252272308e011ebbda1ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Confessions of a Woman",
+        0
+      ],
+      [
+        "Emil and the Detectives (1931 film)",
+        0
+      ],
+      [
+        "Amleto Palermi",
+        0
+      ],
+      [
+        "Gerhard Lamprecht",
+        0
+      ]
+    ]
+  },
+  "5bba8ce408f111ebbda8ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Thomas F. Green",
+        0
+      ],
+      [
+        "Józef Łaszewski",
+        0
+      ]
+    ]
+  },
+  "5d63190408a011ebbd78ac1f6bf848b6": {
+    "aliases": [
+      "Charles Perry Stacey"
+    ],
+    "answer": "Charles Perry Stacey",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Charles Perry Stacey",
+        0
+      ],
+      [
+        "Basil Hall (Labour politician)",
+        0
+      ]
+    ]
+  },
+  "5d8adbd40bdd11eba7f7acde48001122": {
+    "aliases": [
+      "Oklahoma",
+      "US-OK",
+      "State of Oklahoma",
+      "Oklahoma, United States",
+      "The Sooner State",
+      "OK",
+      "Sooner",
+      "Okie",
+      "Oklahoman"
+    ],
+    "answer": "Oklahoma",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Rascals and Robbers: The Secret Adventures of Tom Sawyer and Huckleberry Finn",
+        6
+      ],
+      [
+        "Dick Lowry",
+        0
+      ]
+    ]
+  },
+  "5decaa4f085811ebbd5aac1f6bf848b6": {
+    "aliases": [
+      "Beast Cops"
+    ],
+    "answer": "Beast Cops",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Beast Cops",
+        0
+      ],
+      [
+        "Arie (film)",
+        0
+      ]
+    ]
+  },
+  "5ea69c34085d11ebbd5cac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Amazing Mr. X",
+        0
+      ],
+      [
+        "Madame Bovary (2014 film)",
+        0
+      ],
+      [
+        "Bernard Vorhaus",
+        0
+      ],
+      [
+        "Sophie Barthes",
+        0
+      ]
+    ]
+  },
+  "602fade7087d11ebbd6aac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "A ménesgazda",
+        0
+      ],
+      [
+        "Brooklyn (film)",
+        1
+      ]
+    ]
+  },
+  "60ebff6e08b411ebbd87ac1f6bf848b6": {
+    "aliases": [
+      "Gudgudee"
+    ],
+    "answer": "Gudgudee",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Gudgudee",
+        0
+      ],
+      [
+        "Daphnis and Chloe (film)",
+        0
+      ],
+      [
+        "Basu Chatterjee",
+        0
+      ],
+      [
+        "Orestis Laskos",
+        0
+      ]
+    ]
+  },
+  "619dae6c088411ebbd6dac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Heart of Lilian Thorland",
+        0
+      ],
+      [
+        "Jolene (film)",
+        0
+      ],
+      [
+        "Wolfgang Neff",
+        0
+      ],
+      [
+        "Dan Ireland",
+        0
+      ]
+    ]
+  },
+  "6227956308cf11ebbd95ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "I due sanculotti",
+        0
+      ],
+      [
+        "The Quiet American (1958 film)",
+        1
+      ],
+      [
+        "Giorgio Simonelli",
+        0
+      ],
+      [
+        "Joseph L. Mankiewicz",
+        0
+      ]
+    ]
+  },
+  "6530c75a08d511ebbd98ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Mathond Madhuvena",
+        2
+      ],
+      [
+        "The Days of Sadat",
+        4
+      ],
+      [
+        "Dinesh Baboo",
+        0
+      ],
+      [
+        "Mohamed Khan",
+        0
+      ]
+    ]
+  },
+  "66b60f23088a11ebbd6fac1f6bf848b6": {
+    "aliases": [
+      "Un homme qui me plaît",
+      "Un homme qui me plait",
+      "Love Is a Funny Thing"
+    ],
+    "answer": "Love Is A Funny Thing",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Love Is a Funny Thing",
+        0
+      ],
+      [
+        "Valhalla Rising (film)",
+        0
+      ]
+    ]
+  },
+  "672a6cea0bdd11eba7f7acde48001122": {
+    "aliases": [
+      "Yuste",
+      "Monastery of Yuste"
+    ],
+    "answer": "Yuste",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Isabella of Portugal",
+        0
+      ],
+      [
+        "Charles V, Holy Roman Emperor",
+        29
+      ]
+    ]
+  },
+  "678d170709b311ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Mount Banda Banda",
+        0
+      ],
+      [
+        "Mather Peaks",
+        0
+      ]
+    ]
+  },
+  "68c877b40bdc11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "5 May 1705",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Archduchess Maria Magdalena of Austria (1689–1743)",
+        0
+      ],
+      [
+        "Leopold I, Holy Roman Emperor",
+        0
+      ]
+    ]
+  },
+  "6a5318bd08cd11ebbd93ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Nistru (Someș)",
+        0
+      ],
+      [
+        "Ussuri River",
+        0
+      ]
+    ]
+  },
+  "6d0c647f096711ebbdafac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Dollar Down",
+        0
+      ],
+      [
+        "Gun Grit",
+        0
+      ]
+    ]
+  },
+  "6d4661140bd911eba7f7acde48001122": {
+    "aliases": [
+      "the US",
+      "US",
+      "the USA",
+      "🇺🇸",
+      "U.S.A.",
+      "U.S.",
+      "America",
+      "the United States",
+      "US of A",
+      "USA",
+      "the United States of America",
+      "United States",
+      "United States of America",
+      "US",
+      "U.S.",
+      "American",
+      "United States"
+    ],
+    "answer": "American",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Who Wants to Be a Millionaire? (song)",
+        0
+      ],
+      [
+        "Cole Porter",
+        0
+      ]
+    ]
+  },
+  "727f81e60bda11eba7f7acde48001122": {
+    "aliases": [
+      "myocardial infarct",
+      "myocardial infarction",
+      "MI",
+      "infarctus myocardii acutus",
+      "Myocardial infarction",
+      "heart attack"
+    ],
+    "answer": "heart attack",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Return of the Bad Men",
+        0
+      ],
+      [
+        "Ray Enright",
+        3
+      ]
+    ]
+  },
+  "75bdc425098811ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Qahrabad",
+        0
+      ],
+      [
+        "Charang, Khangalassky District, Sakha Republic",
+        0
+      ]
+    ]
+  },
+  "77806c220bdb11eba7f7acde48001122": {
+    "aliases": [
+      "the US",
+      "US",
+      "the USA",
+      "🇺🇸",
+      "U.S.A.",
+      "U.S.",
+      "America",
+      "the United States",
+      "US of A",
+      "USA",
+      "the United States of America",
+      "United States",
+      "United States of America",
+      "US",
+      "U.S.",
+      "American",
+      "United States"
+    ],
+    "answer": "American",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "That's Someone You Never Forget",
+        0
+      ],
+      [
+        "Elvis Presley",
+        1
+      ]
+    ]
+  },
+  "78d579040bdc11eba7f7acde48001122": {
+    "aliases": [
+      "UKGBI",
+      "GB",
+      "UK",
+      "Great Britain and Ireland",
+      "United Kingdom",
+      "United Kingdom of Great Britain and Ireland",
+      "the United Kingdom",
+      "British",
+      "Uk"
+    ],
+    "answer": "British",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Sarah Fane, Countess of Westmorland",
+        1
+      ],
+      [
+        "John Fane, 10th Earl of Westmorland",
+        0
+      ]
+    ]
+  },
+  "7ad3416d098311ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Myrsini",
+        0
+      ],
+      [
+        "Khvorostyanka, Samara Oblast",
+        0
+      ]
+    ]
+  },
+  "7b59a7b6099511ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Bakhshan Khan railway station",
+        0
+      ],
+      [
+        "Cadenazzo railway station",
+        0
+      ]
+    ]
+  },
+  "7bfa4a0d086611ebbd5eac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Sameer Nair",
+        0
+      ],
+      [
+        "Brent Carter",
+        0
+      ]
+    ]
+  },
+  "7daa71a9099011ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Ilyinka, Shelabolikhinsky District, Altai Krai",
+        0
+      ],
+      [
+        "Kakuhestan",
+        0
+      ]
+    ]
+  },
+  "7e75922c0bdc11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "September 24, 936",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Taj al-Dawla",
+        2
+      ],
+      [
+        "'Adud al-Dawla",
+        1
+      ]
+    ]
+  },
+  "7eb73fec084911ebbd55ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Chalakkudikkaran Changathi",
+        0
+      ],
+      [
+        "Everyday Life in a Syrian Village",
+        0
+      ],
+      [
+        "Vinayan",
+        0
+      ],
+      [
+        "Omar Amiralay",
+        0
+      ]
+    ]
+  },
+  "7ecf1a180bdc11eba7f7acde48001122": {
+    "aliases": [
+      "Dublin Castle"
+    ],
+    "answer": "Dublin Castle",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Maurice FitzGerald, 2nd Earl of Desmond",
+        1
+      ],
+      [
+        "Maurice FitzGerald, 1st Earl of Desmond",
+        0
+      ]
+    ]
+  },
+  "7eef805c087e11ebbd6bac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Big Gusher",
+        0
+      ],
+      [
+        "The Eye of Vichy",
+        0
+      ],
+      [
+        "Lew Landers",
+        0
+      ],
+      [
+        "Claude Chabrol",
+        0
+      ]
+    ]
+  },
+  "812fb9140bd911eba7f7acde48001122": {
+    "aliases": [
+      "de",
+      "Bundesrepublik Deutschland",
+      "Germany",
+      "🇩🇪",
+      "Deutschland",
+      "FRG",
+      "Federal Republic of Germany",
+      "BRD",
+      "GER",
+      "German"
+    ],
+    "answer": "German",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Henriette Amalie of Anhalt-Dessau",
+        0
+      ],
+      [
+        "Leopold I, Prince of Anhalt-Dessau",
+        0
+      ]
+    ]
+  },
+  "8249f7940bdc11eba7f7acde48001122": {
+    "aliases": [
+      "AL",
+      "The Yellowhammer State",
+      "Heart of Dixie",
+      "Alabama",
+      "State of Alabama",
+      "Alabamian"
+    ],
+    "answer": "Alabama",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "May You Never Be Alone",
+        0
+      ],
+      [
+        "Hank Williams",
+        2
+      ]
+    ]
+  },
+  "840a80d5088b11ebbd6fac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Mountain (2012 film)",
+        0
+      ],
+      [
+        "Alleluia! The Devil's Carnival",
+        1
+      ],
+      [
+        "Alper Çağlar",
+        0
+      ],
+      [
+        "Darren Lynn Bousman",
+        0
+      ]
+    ]
+  },
+  "843b72a0088d11ebbd70ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Aurora (2010 film)",
+        0
+      ],
+      [
+        "Soho Conspiracy",
+        0
+      ],
+      [
+        "Cristi Puiu",
+        0
+      ],
+      [
+        "Cecil H. Williamson",
+        0
+      ]
+    ]
+  },
+  "8490ad6308bd11ebbd8aac1f6bf848b6": {
+    "aliases": [
+      "The Texas Kid"
+    ],
+    "answer": "The Texas Kid",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Odongo",
+        0
+      ],
+      [
+        "The Texas Kid",
+        0
+      ],
+      [
+        "John Gilling",
+        0
+      ],
+      [
+        "Lambert Hillyer",
+        0
+      ]
+    ]
+  },
+  "853e27ec0bda11eba7f7acde48001122": {
+    "aliases": [
+      "England",
+      "Kingdom of England",
+      "Englishman",
+      "Englishwoman",
+      "English"
+    ],
+    "answer": "English",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Lord Thomas Howard",
+        0
+      ],
+      [
+        "Thomas Howard, 2nd Duke of Norfolk",
+        0
+      ]
+    ]
+  },
+  "8638aa860bdb11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "28 June 1757",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Wilhelmine of Prussia, Margravine of Brandenburg-Bayreuth",
+        2
+      ],
+      [
+        "Sophia Dorothea of Hanover",
+        0
+      ]
+    ]
+  },
+  "8756577e092911ebbdaeac1f6bf848b6": {
+    "aliases": [
+      "Girl with a Patron",
+      "The Girl with a Patron"
+    ],
+    "answer": "The Girl With A Patron",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Girl with a Patron",
+        0
+      ],
+      [
+        "Elmo Says Boo!",
+        0
+      ]
+    ]
+  },
+  "8dbcba9708c911ebbd92ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Dreams (1955 film)",
+        0
+      ],
+      [
+        "Count Three and Pray (film)",
+        0
+      ],
+      [
+        "Ingmar Bergman",
+        0
+      ],
+      [
+        "George Sherman",
+        0
+      ]
+    ]
+  },
+  "8dc564200bda11eba7f7acde48001122": {
+    "aliases": [
+      "City of Dundee",
+      "Dundee",
+      "Dundonian"
+    ],
+    "answer": "Dundee",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Wolves of the North",
+        0
+      ],
+      [
+        "William Duncan (actor)",
+        0
+      ]
+    ]
+  },
+  "94aed78408d411ebbd96ac1f6bf848b6": {
+    "aliases": [
+      "Conscript",
+      "The Conscript"
+    ],
+    "answer": "The Conscript",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Rowdy Ramudu Konte Krishnudu",
+        0
+      ],
+      [
+        "The Conscript",
+        0
+      ],
+      [
+        "K. Raghavendra Rao",
+        0
+      ],
+      [
+        "Roland Verhavert",
+        0
+      ]
+    ]
+  },
+  "9b2d7e480bdc11eba7f7acde48001122": {
+    "aliases": [
+      "SD",
+      "Sandi",
+      "San Diego",
+      "the birthplace of California",
+      "San Diego, California",
+      "America's Finest City",
+      "San Diegan"
+    ],
+    "answer": "San Diego",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Last Stagecoach West",
+        0
+      ],
+      [
+        "Joseph Kane",
+        0
+      ]
+    ]
+  },
+  "9c490c440bdb11eba7f7acde48001122": {
+    "aliases": [
+      "the US",
+      "US",
+      "the USA",
+      "🇺🇸",
+      "U.S.A.",
+      "U.S.",
+      "America",
+      "the United States",
+      "US of A",
+      "USA",
+      "the United States of America",
+      "United States",
+      "United States of America",
+      "US",
+      "U.S.",
+      "American",
+      "United States"
+    ],
+    "answer": "American",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "(I'll Be with You) In Apple Blossom Time",
+        5
+      ],
+      [
+        "Wayne Newton",
+        0
+      ]
+    ]
+  },
+  "9c55bfca0bdb11eba7f7acde48001122": {
+    "aliases": [
+      "Nancy, France",
+      "Nancy"
+    ],
+    "answer": "Nancy",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Francis II, Duke of Lorraine",
+        0
+      ],
+      [
+        "Claude of France (1547–1575)",
+        0
+      ]
+    ]
+  },
+  "9c97f9cc08dd11ebbd9eac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Mithya",
+        0
+      ],
+      [
+        "Knocking on Heaven's Door (2014 film)",
+        0
+      ],
+      [
+        "Rajat Kapoor",
+        0
+      ],
+      [
+        "Desmond Elliot",
+        0
+      ]
+    ]
+  },
+  "9d6f958808b711ebbd88ac1f6bf848b6": {
+    "aliases": [
+      "The Daring Young Man",
+      "Daring Young Man"
+    ],
+    "answer": "The Daring Young Man",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "What Happened to Jones (1920 film)",
+        0
+      ],
+      [
+        "The Daring Young Man",
+        0
+      ],
+      [
+        "James Cruze",
+        0
+      ],
+      [
+        "William A. Seiter",
+        0
+      ]
+    ]
+  },
+  "a3de4052085211ebbd58ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Jim Ovia",
+        0
+      ],
+      [
+        "Ashot Melkonian",
+        0
+      ]
+    ]
+  },
+  "a76850d40bdc11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "March 18, 1970",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Rose Bowl Story",
+        0
+      ],
+      [
+        "William Beaudine",
+        0
+      ]
+    ]
+  },
+  "a8f876a20bd911eba7f7acde48001122": {
+    "aliases": [
+      "Rhinelander",
+      "Rhinelander, Wisconsin",
+      "City of Rhinelander"
+    ],
+    "answer": "Rhinelander",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Grant Richards",
+        2
+      ],
+      [
+        "Joan Valerie",
+        0
+      ]
+    ]
+  },
+  "a9e9499e0baf11ebab90acde48001122": {
+    "aliases": [
+      "Cixi",
+      "Empress Dowager Cixi"
+    ],
+    "answer": "Empress Dowager Cixi",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Imperial Noble Consort Xianzhe",
+        0
+      ],
+      [
+        "Tongzhi Emperor",
+        1
+      ]
+    ]
+  },
+  "a9edbd980bdd11eba7f7acde48001122": {
+    "aliases": [
+      "Sevilla",
+      "Seville",
+      "Sevillian",
+      "Sevillano",
+      "Hispalense"
+    ],
+    "answer": "Seville",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Joan, Countess of Ponthieu",
+        0
+      ],
+      [
+        "Ferdinand III of Castile",
+        4
+      ]
+    ]
+  },
+  "aa5df95808d311ebbd96ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Sarabia River",
+        0
+      ],
+      [
+        "Juruá-Mirim River",
+        0
+      ]
+    ]
+  },
+  "b4fd92cb087d11ebbd6bac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Carlo Cercignani",
+        0
+      ],
+      [
+        "Arthur Gunter",
+        0
+      ]
+    ]
+  },
+  "b80b79140bd911eba7f7acde48001122": {
+    "aliases": [
+      "Sevilla",
+      "Seville",
+      "Sevillian",
+      "Sevillano",
+      "Hispalense"
+    ],
+    "answer": "Seville",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "James of Castile, Lord of Cameros",
+        1
+      ],
+      [
+        "Alfonso X of Castile",
+        0
+      ]
+    ]
+  },
+  "b8dd57db087411ebbd67ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Les Double Six",
+        0
+      ],
+      [
+        "Strawberry Runners",
+        0
+      ]
+    ]
+  },
+  "bc0c2e0a0bd911eba7f7acde48001122": {
+    "aliases": [
+      "Bay of Marseille",
+      "Marseille, France",
+      "Marseille",
+      "Marsaille",
+      "Massaliotes",
+      "Massalia",
+      "Marseilles",
+      "Marsielle",
+      "City of Marseille",
+      "Marsielles",
+      "Marsiglia",
+      "Marsailles",
+      "Marseillais"
+    ],
+    "answer": "Marseille",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Charles-René d'Hozier",
+        1
+      ],
+      [
+        "Pierre d'Hozier",
+        2
+      ]
+    ]
+  },
+  "bddb150e0bdc11eba7f7acde48001122": {
+    "aliases": [
+      "Pink City",
+      "LA, California",
+      "City of Los Angeles",
+      "L.A.",
+      "Los Angeles",
+      "LA",
+      "City of Angels",
+      "Los Angeles, California",
+      "Double Dubuque",
+      "La La Land",
+      "The town of Our Lady the Queen of the Angels of the Little Portion",
+      "Tinsel Town",
+      "Los Angelean",
+      "Angeleno",
+      "Los Angelino",
+      "Los Angeleno"
+    ],
+    "answer": "Los Angeles",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The People vs. Dr. Kildare",
+        0
+      ],
+      [
+        "Harold S. Bucquet",
+        3
+      ]
+    ]
+  },
+  "be24ae2c08ca11ebbd92ac1f6bf848b6": {
+    "aliases": [
+      "Amar Jyoti"
+    ],
+    "answer": "Amar Jyoti",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Amar Jyoti",
+        0
+      ],
+      [
+        "Black Joy (1977 film)",
+        0
+      ],
+      [
+        "V. Shantaram",
+        0
+      ],
+      [
+        "Anthony Simmons (writer)",
+        0
+      ]
+    ]
+  },
+  "ca6bc95a08df11ebbda1ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Cuan McCarthy",
+        0
+      ],
+      [
+        "Helmut Franz",
+        0
+      ]
+    ]
+  },
+  "d1fdd2a60bdc11eba7f7acde48001122": {
+    "aliases": [
+      "de",
+      "Bundesrepublik Deutschland",
+      "Germany",
+      "🇩🇪",
+      "Deutschland",
+      "FRG",
+      "Federal Republic of Germany",
+      "BRD",
+      "GER",
+      "German"
+    ],
+    "answer": "German",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Princess Frederica of Prussia (1796–1850)",
+        2
+      ],
+      [
+        "Leopold IV, Duke of Anhalt",
+        0
+      ]
+    ]
+  },
+  "d2ec49da08bd11ebbd8aac1f6bf848b6": {
+    "aliases": [
+      "Marta Wittkowska"
+    ],
+    "answer": "Marta Wittkowska",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Marta Wittkowska",
+        0
+      ],
+      [
+        "Rafiq Husain",
+        0
+      ]
+    ]
+  },
+  "d36c9c2c089811ebbd77ac1f6bf848b6": {
+    "aliases": [
+      "The Girl from Piccadilly",
+      "Girl from Piccadilly"
+    ],
+    "answer": "The Girl From Piccadilly",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Escape Plan (film)",
+        1
+      ],
+      [
+        "The Girl from Piccadilly",
+        0
+      ],
+      [
+        "Mikael Håfström",
+        0
+      ],
+      [
+        "Frederic Zelnik",
+        0
+      ]
+    ]
+  },
+  "d6090c63098311ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Mseibin",
+        0
+      ],
+      [
+        "Sussex Corner, New Brunswick",
+        0
+      ]
+    ]
+  },
+  "d95780900bd911eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "20 April 1836",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Prince Eduard Franz of Liechtenstein",
+        0
+      ],
+      [
+        "Johann I Joseph, Prince of Liechtenstein",
+        0
+      ]
+    ]
+  },
+  "dacac5cc085511ebbd59ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Kanebogen Church",
+        0
+      ],
+      [
+        "Good Hope Lutheran Church",
+        1
+      ]
+    ]
+  },
+  "dde2643e086111ebbd5dac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Wolf Heidenheim",
+        0
+      ],
+      [
+        "Chuck Philips",
+        0
+      ]
+    ]
+  },
+  "e42482c20bdc11eba7f7acde48001122": {
+    "aliases": [
+      "Hollywood, California",
+      "Tinseltown",
+      "Hollywood"
+    ],
+    "answer": "Hollywood",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Mrs. Wiggs of the Cabbage Patch (1914 film)",
+        0
+      ],
+      [
+        "Harold Entwistle",
+        0
+      ]
+    ]
+  },
+  "e7c8e05e087011ebbd63ac1f6bf848b6": {
+    "aliases": [
+      "Dead Rising: Watchtower"
+    ],
+    "answer": "Dead Rising: Watchtower",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Starship Invasions",
+        0
+      ],
+      [
+        "Dead Rising: Watchtower",
+        0
+      ],
+      [
+        "Ed Hunt",
+        0
+      ],
+      [
+        "Tim Carter (footballer)",
+        0
+      ]
+    ]
+  },
+  "e83d282608c811ebbd92ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Headless Woman (2008 film)",
+        0
+      ],
+      [
+        "You, the Living",
+        0
+      ],
+      [
+        "Lucrecia Martel",
+        0
+      ],
+      [
+        "Roy Andersson",
+        0
+      ]
+    ]
+  },
+  "e98cd9460bda11eba7f7acde48001122": {
+    "aliases": [
+      "the US",
+      "US",
+      "the USA",
+      "🇺🇸",
+      "U.S.A.",
+      "U.S.",
+      "America",
+      "the United States",
+      "US of A",
+      "USA",
+      "the United States of America",
+      "United States",
+      "United States of America",
+      "US",
+      "U.S.",
+      "American",
+      "United States"
+    ],
+    "answer": "American",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Gentleman Joe Palooka",
+        0
+      ],
+      [
+        "Cy Endfield",
+        0
+      ]
+    ]
+  },
+  "ebf50d7e08a911ebbd80ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Halltown Colored Free School",
+        0
+      ],
+      [
+        "Park House English School",
+        0
+      ]
+    ]
+  },
+  "f0978811088211ebbd6dac1f6bf848b6": {
+    "aliases": [
+      "Mark Alexander Boyd"
+    ],
+    "answer": "Mark Alexander Boyd",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Mark Alexander Boyd",
+        0
+      ],
+      [
+        "Jiří Králík",
+        0
+      ]
+    ]
+  },
+  "f0cfbc320bda11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "23 August 1891",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Princess Marie Melita of Hohenlohe-Langenburg",
+        0
+      ],
+      [
+        "Wilhelm Friedrich, Duke of Schleswig-Holstein",
+        0
+      ]
+    ]
+  },
+  "f12e8f1a0bd911eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "6 July 1958",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Terror of the Red Mill",
+        0
+      ],
+      [
+        "Carl Boese",
+        0
+      ]
+    ]
+  },
+  "f2a9cba20bd911eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "December 13, 1903",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Mr. Moto Takes a Chance",
+        2
+      ],
+      [
+        "Norman Foster (director)",
+        0
+      ]
+    ]
+  },
+  "f33dbe5a0bae11ebab90acde48001122": {
+    "aliases": [
+      "William Villiers, 3rd Earl of Jersey"
+    ],
+    "answer": "William Villiers, 3rd Earl of Jersey",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Caroline Campbell, Duchess of Argyll",
+        2
+      ],
+      [
+        "George Villiers, 4th Earl of Jersey",
+        1
+      ]
+    ]
+  },
+  "f36d11480bd911eba7f7acde48001122": {
+    "aliases": [
+      "Lymphomatous",
+      "LYMPHOMA, MALIGNANT",
+      "Lymphoma, NOS",
+      "Lymphoma",
+      "Lymphoma (Hodgkin and Non-Hodgkin)",
+      "Malignant Lymphoma",
+      "lymphoid cancer",
+      "lymphoma",
+      "Lymphoma (Hodgkin's and Non-Hodgkin's)"
+    ],
+    "answer": "lymphoma",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Patrick Bouvier Kennedy",
+        0
+      ],
+      [
+        "Jacqueline Kennedy Onassis",
+        12
+      ]
+    ]
+  },
+  "f3747951086511ebbd5eac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Chateaux (band)",
+        0
+      ],
+      [
+        "Stormy Six",
+        0
+      ]
+    ]
+  },
+  "f691174e08db11ebbd9cac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Hawkins Branch",
+        0
+      ],
+      [
+        "Butch Creek",
+        0
+      ]
+    ]
+  },
+  "f9fc5b1c0bda11eba7f7acde48001122": {
+    "aliases": [
+      "Roma",
+      "The Eternal City",
+      "Rome Italy",
+      "Rome",
+      "Roman"
+    ],
+    "answer": "Rome",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Cyrano de Bergerac (1925 film)",
+        0
+      ],
+      [
+        "Augusto Genina",
+        2
+      ]
+    ]
+  },
+  "ff31f9d208e411ebbda4ac1f6bf848b6": {
+    "aliases": [
+      "The Hunger Games: Catching Fire",
+      "Hunger Games: Catching Fire",
+      "Los juegos del hambre: En llamas"
+    ],
+    "answer": "The Hunger Games: Catching Fire",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Hunger Games: Catching Fire",
+        2
+      ],
+      [
+        "Forest of the Damned",
+        0
+      ],
+      [
+        "Francis Lawrence",
+        0
+      ],
+      [
+        "Johannes Roberts",
+        0
+      ]
+    ]
+  },
+  "ff85a85408e711ebbda6ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "no",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Basilio Augustín",
+        1
+      ],
+      [
+        "Alan Wilson (motorsport)",
+        0
+      ]
+    ]
+  }
+}

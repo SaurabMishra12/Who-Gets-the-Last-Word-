@@ -1,0 +1,1500 @@
+{
+  "0140e1380bde11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "18 October 1864",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Henry Pelham-Clinton, 6th Duke of Newcastle",
+        1
+      ],
+      [
+        "Henry Pelham-Clinton, 5th Duke of Newcastle",
+        0
+      ]
+    ]
+  },
+  "1a89b60308f911ebbdaaac1f6bf848b6": {
+    "aliases": [
+      "XRay Magazine"
+    ],
+    "answer": "Xray Magazine",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Kuhinjica",
+        1
+      ],
+      [
+        "XRay Magazine",
+        4
+      ]
+    ]
+  },
+  "1b36c01f08df11ebbd9fac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Walfredo Reyes Jr.",
+        0
+      ],
+      [
+        "Zac Dysert",
+        0
+      ]
+    ]
+  },
+  "1cf6b11808a111ebbd78ac1f6bf848b6": {
+    "aliases": [
+      "A Yank in the R.A.F.",
+      "Yank in the R.A.F."
+    ],
+    "answer": "A Yank In The R.A.F.",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Planet of Junior Brown",
+        1
+      ],
+      [
+        "A Yank in the R.A.F.",
+        0
+      ],
+      [
+        "Clement Virgo",
+        0
+      ],
+      [
+        "Henry King (director)",
+        0
+      ]
+    ]
+  },
+  "1dba599508b811ebbd88ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Ailes Gilmour",
+        0
+      ],
+      [
+        "Chris Schwinden",
+        0
+      ]
+    ]
+  },
+  "1e71fb080bdd11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "20 March 2008",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Princess Béatrice of Bourbon-Two Sicilies",
+        0
+      ],
+      [
+        "Prince Ferdinand, Duke of Castro",
+        1
+      ]
+    ]
+  },
+  "23a101880bdc11eba7f7acde48001122": {
+    "aliases": [
+      "Republic of Cuba",
+      "🇨🇺",
+      "Cuba",
+      "Tainted",
+      "cu",
+      "CUB",
+      "Cuban"
+    ],
+    "answer": "Cuban",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "La torre de Suso",
+        0
+      ],
+      [
+        "Tomás Fernández (footballer, born 1915)",
+        0
+      ]
+    ]
+  },
+  "294572a1087f11ebbd6bac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Princess Tam Tam",
+        0
+      ],
+      [
+        "Les Grandes Personnes",
+        0
+      ]
+    ]
+  },
+  "39befe640bde11eba7f7acde48001122": {
+    "aliases": [
+      "Herts",
+      "Hertfordshire"
+    ],
+    "answer": "Hertfordshire",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Constance of York, Countess of Gloucester",
+        0
+      ],
+      [
+        "Edmund of Langley, 1st Duke of York",
+        1
+      ]
+    ]
+  },
+  "39e5fd3308ea11ebbda7ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Kakwa River",
+        0
+      ],
+      [
+        "Bighead River",
+        0
+      ]
+    ]
+  },
+  "39eba8ce088711ebbd6dac1f6bf848b6": {
+    "aliases": [
+      "The Gentle Art of Burglary",
+      "Gentle Art of Burglary"
+    ],
+    "answer": "The Gentle Art Of Burglary",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "La otra imagen",
+        0
+      ],
+      [
+        "The Gentle Art of Burglary",
+        0
+      ],
+      [
+        "Antoni Ribas",
+        0
+      ],
+      [
+        "Raymond L. Schrock",
+        0
+      ]
+    ]
+  },
+  "4782cd7d087e11ebbd6bac1f6bf848b6": {
+    "aliases": [
+      "Olsen Gang's Big Score",
+      "Olsen-bandens store kup",
+      "The Olsen Gang's Big Score"
+    ],
+    "answer": "The Olsen Gang'S Big Score",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Olsen Gang's Big Score",
+        0
+      ],
+      [
+        "To Be or Not to Be (1983 film)",
+        0
+      ],
+      [
+        "Erik Balling",
+        0
+      ],
+      [
+        "Alan Johnson (choreographer)",
+        0
+      ]
+    ]
+  },
+  "47d28564094c11ebbdaeac1f6bf848b6": {
+    "aliases": [
+      "Chanakya Shapatham",
+      "Chanakya Shapadham"
+    ],
+    "answer": "Chanakya Shapatham",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Chanakya Shapatham",
+        0
+      ],
+      [
+        "Somewhere in Sonora",
+        0
+      ]
+    ]
+  },
+  "495d61cc0bb011ebab90acde48001122": {
+    "aliases": [
+      "Elizabeth McDouall-Crichton"
+    ],
+    "answer": "Elizabeth McDouall-Crichton",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "John Crichton-Stuart, 2nd Marquess of Bute",
+        2
+      ],
+      [
+        "John Stuart, Lord Mount Stuart",
+        7
+      ]
+    ]
+  },
+  "4d3ab509099c11ebbdb0ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Gare de La Roche-sur-Yon",
+        0
+      ],
+      [
+        "Gare de Namps-Quevauvillers",
+        0
+      ]
+    ]
+  },
+  "50d225540bde11eba7f7acde48001122": {
+    "aliases": [
+      "Egbert the One-Eyed",
+      "Duchy of Saxony",
+      "Saxony",
+      "Saxon"
+    ],
+    "answer": "Saxony",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Siegfried, Prince-Archbishop of Bremen",
+        0
+      ],
+      [
+        "Albert the Bear",
+        0
+      ]
+    ]
+  },
+  "56d3a3a20bb011ebab90acde48001122": {
+    "aliases": [
+      "Hermann Otto II of Limburg Stirum"
+    ],
+    "answer": "Hermann Otto II of Limburg Stirum",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Friedrich Karl of Limburg Stirum",
+        0
+      ],
+      [
+        "Otto Leopold of Limburg Stirum",
+        0
+      ]
+    ]
+  },
+  "5affe63d08f311ebbdaaac1f6bf848b6": {
+    "aliases": [
+      "Man's Search for Happiness"
+    ],
+    "answer": "Man'S Search For Happiness",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Man's Search for Happiness",
+        2
+      ],
+      [
+        "Tell It to the Bees",
+        3
+      ]
+    ]
+  },
+  "5dea524a088511ebbd6dac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Emily Louise Orr Elliott",
+        0
+      ],
+      [
+        "William Hutt (actor)",
+        0
+      ]
+    ]
+  },
+  "6503f3ce0baf11ebab90acde48001122": {
+    "aliases": [
+      "Anna Pavlovna of Russia",
+      "Grand Duchess Anna Pavlovna of Russia",
+      "Anna Paulowna"
+    ],
+    "answer": "Anna Pavlovna of Russia",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Prince Alexander of the Netherlands",
+        0
+      ],
+      [
+        "William II of the Netherlands",
+        5
+      ]
+    ]
+  },
+  "6562f3780bb011ebab90acde48001122": {
+    "aliases": [
+      "Francisco Fernández de la Cueva, 2nd Duke of Alburquerque"
+    ],
+    "answer": "Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Francisco Fernández de la Cueva, 4th Duke of Alburquerque",
+        2
+      ],
+      [
+        "Beltrán de la Cueva, 3rd Duke of Alburquerque",
+        1
+      ]
+    ]
+  },
+  "683cfb340bb011ebab90acde48001122": {
+    "aliases": [
+      "Princess Augusta of Schwarzburg-Sondershausen"
+    ],
+    "answer": "Princess Augusta of Schwarzburg-Sondershausen",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "George Victor, Prince of Waldeck and Pyrmont",
+        1
+      ],
+      [
+        "George II, Prince of Waldeck and Pyrmont",
+        1
+      ]
+    ]
+  },
+  "6ab2c3860baf11ebab90acde48001122": {
+    "aliases": [
+      "Georgios Papandreou"
+    ],
+    "answer": "Georgios Papandreou",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Dimitra Liani",
+        0
+      ],
+      [
+        "Andreas Papandreou",
+        0
+      ]
+    ]
+  },
+  "6f96f50508bf11ebbd8aac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Yanbian University of Science and Technology",
+        0
+      ],
+      [
+        "Southwest Minzu University",
+        0
+      ]
+    ]
+  },
+  "767efc000bde11eba7f7acde48001122": {
+    "aliases": [
+      "Leningrad",
+      "Petrograd",
+      "St. Petersburg",
+      "Sankt-Peterburg",
+      "St Petersburg",
+      "Saint Petersburg",
+      "Petersburg",
+      "Saint Petersburgian"
+    ],
+    "answer": "Saint Petersburg",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Grand Duchess Elena Vladimirovna of Russia",
+        0
+      ],
+      [
+        "Grand Duke Vladimir Alexandrovich of Russia",
+        6
+      ]
+    ]
+  },
+  "76d3ccb20bde11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "10 October 1846",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Prince Friedrich Christian of Schaumburg-Lippe",
+        0
+      ],
+      [
+        "Georg, Prince of Schaumburg-Lippe",
+        0
+      ]
+    ]
+  },
+  "772e74ec0bb011ebab90acde48001122": {
+    "aliases": [
+      "Hedwiga"
+    ],
+    "answer": "Hedwiga",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Godfrey, Count Palatine of Lotharingia",
+        3
+      ],
+      [
+        "Oda of Saxony",
+        3
+      ]
+    ]
+  },
+  "79ab35da095711ebbdaeac1f6bf848b6": {
+    "aliases": [
+      "Victoria's Secret"
+    ],
+    "answer": "Victoria'S Secret",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Gravity Group",
+        1
+      ],
+      [
+        "Victoria's Secret",
+        1
+      ]
+    ]
+  },
+  "7a81f2720bdd11eba7f7acde48001122": {
+    "aliases": [
+      "Mexico D.F.",
+      "Ciudad de México",
+      "City of Mexico",
+      "Mexico City",
+      "Chilango",
+      "Capitalino"
+    ],
+    "answer": "Mexico City",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Tom Thumb and Little Red Riding Hood",
+        0
+      ],
+      [
+        "Roberto Rodríguez (director)",
+        0
+      ]
+    ]
+  },
+  "8794d23d089e11ebbd78ac1f6bf848b6": {
+    "aliases": [
+      "Charles Crawford Davis"
+    ],
+    "answer": "Charles Crawford Davis",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Charles Crawford Davis",
+        0
+      ],
+      [
+        "Gheorghe Petrașcu",
+        0
+      ]
+    ]
+  },
+  "887f71380bb011ebab90acde48001122": {
+    "aliases": [
+      "Robert II de Brus, le Meschin",
+      "Robert de Brus, 2nd Lord of Annandale"
+    ],
+    "answer": "Robert de Brus, 2nd Lord of Annandale",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Robert de Brus, 4th Lord of Annandale",
+        2
+      ],
+      [
+        "William de Brus, 3rd Lord of Annandale",
+        0
+      ]
+    ]
+  },
+  "8a7dfd2f092611ebbdaeac1f6bf848b6": {
+    "aliases": [
+      "Hazırım"
+    ],
+    "answer": "Hazırım",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Steal Hear",
+        1
+      ],
+      [
+        "Hazırım",
+        1
+      ]
+    ]
+  },
+  "8eaa7497095c11ebbdaeac1f6bf848b6": {
+    "aliases": [
+      "Kids of the Round Table"
+    ],
+    "answer": "Kids Of The Round Table",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Sathyavan Savithri",
+        0
+      ],
+      [
+        "Kids of the Round Table",
+        0
+      ]
+    ]
+  },
+  "923054040bb011ebab90acde48001122": {
+    "aliases": [
+      "Tarabya of Ava"
+    ],
+    "answer": "Tarabya of Ava",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Saw Pale of Yamethin",
+        1
+      ],
+      [
+        "Min Hla Myat of Ava",
+        0
+      ]
+    ]
+  },
+  "95ab4cac0bdc11eba7f7acde48001122": {
+    "aliases": [
+      "Zürich",
+      "City of Zurich",
+      "ZH",
+      "Zurich",
+      "Zuricher"
+    ],
+    "answer": "Zürich",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Jean-Pierre Eckmann",
+        1
+      ],
+      [
+        "Beno Eckmann",
+        0
+      ]
+    ]
+  },
+  "a1f15751088e11ebbd70ac1f6bf848b6": {
+    "aliases": [
+      "Never Too Young to Die"
+    ],
+    "answer": "Never Too Young To Die",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Never Too Young to Die",
+        0
+      ],
+      [
+        "Two Cops",
+        0
+      ]
+    ]
+  },
+  "a283d9e208be11ebbd8aac1f6bf848b6": {
+    "aliases": [
+      "The Cure for Love",
+      "Cure for Love"
+    ],
+    "answer": "The Cure For Love",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Fear and Sand",
+        0
+      ],
+      [
+        "The Cure for Love",
+        0
+      ],
+      [
+        "Mario Mattoli",
+        0
+      ],
+      [
+        "Robert Donat",
+        0
+      ]
+    ]
+  },
+  "a4939cfc08f711ebbdaaac1f6bf848b6": {
+    "aliases": [
+      "Julia McNair Wright",
+      "Julia McNair"
+    ],
+    "answer": "Julia Mcnair Wright",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Sadruddin Ahmed Chowdhury",
+        0
+      ],
+      [
+        "Julia McNair Wright",
+        0
+      ]
+    ]
+  },
+  "a4f96ce80bdc11eba7f7acde48001122": {
+    "aliases": [],
+    "answer": "15 August 1279",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "William I, Duke of Brunswick-Lüneburg",
+        1
+      ],
+      [
+        "Albert I, Duke of Brunswick-Lüneburg",
+        0
+      ]
+    ]
+  },
+  "a7419bf3092e11ebbdaeac1f6bf848b6": {
+    "aliases": [
+      "Krishnarjuna"
+    ],
+    "answer": "Krishnarjuna",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Magic of Belle Isle",
+        0
+      ],
+      [
+        "Krishnarjuna",
+        0
+      ]
+    ]
+  },
+  "acb7ce2e0bdd11eba7f7acde48001122": {
+    "aliases": [
+      "Valley of the Queens"
+    ],
+    "answer": "Valley of the Queens",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Amun-her-khepeshef",
+        1
+      ],
+      [
+        "Nefertari",
+        5
+      ]
+    ]
+  },
+  "ad79f83e097311ebbdb0ac1f6bf848b6": {
+    "aliases": [
+      "Amor y el Espanto",
+      "El Amor y el Espanto"
+    ],
+    "answer": "El Amor Y El Espanto",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "El Amor y el Espanto",
+        0
+      ],
+      [
+        "A Simple Twist of Fate",
+        0
+      ]
+    ]
+  },
+  "b025e878095011ebbdaeac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Kennecott Land",
+        0
+      ],
+      [
+        "Al Mar Knives",
+        0
+      ]
+    ]
+  },
+  "b1046ffa0bdd11eba7f7acde48001122": {
+    "aliases": [
+      "nl",
+      "Netherlands",
+      "🇳🇱",
+      "Netherlands (after 1945)",
+      "NL",
+      "Holland",
+      "Nederland",
+      "the Netherlands",
+      "NED",
+      "Dutch",
+      "Hollander",
+      "Netherlandic"
+    ],
+    "answer": "Dutch",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "The Man with the Iron Fists 2",
+        0
+      ],
+      [
+        "Roel Reiné",
+        0
+      ]
+    ]
+  },
+  "b428fe9a0baf11ebab90acde48001122": {
+    "aliases": [
+      "Adelaide of Löwenstein-Wertheim-Rosenberg"
+    ],
+    "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Prince René of Bourbon-Parma",
+        0
+      ],
+      [
+        "Infanta Maria Antonia of Portugal",
+        5
+      ]
+    ]
+  },
+  "ba015944086611ebbd5eac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "A Slave of Vanity",
+        0
+      ],
+      [
+        "Grace of My Heart",
+        0
+      ],
+      [
+        "Henry Otto",
+        0
+      ],
+      [
+        "Allison Anders",
+        0
+      ]
+    ]
+  },
+  "bc7c589d08aa11ebbd80ac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Vidura College, Nawala",
+        0
+      ],
+      [
+        "Methodist Girls' College, Trincomalee",
+        0
+      ]
+    ]
+  },
+  "bcc4e26c08c111ebbd8bac1f6bf848b6": {
+    "aliases": [],
+    "answer": "yes",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "A Trial in Prague",
+        0
+      ],
+      [
+        "Three Strangers",
+        0
+      ],
+      [
+        "Zuzana Justman",
+        0
+      ],
+      [
+        "Jean Negulesco",
+        0
+      ]
+    ]
+  },
+  "c02763f708be11ebbd8aac1f6bf848b6": {
+    "aliases": [
+      "Ángel Recasens",
+      "Àngel Recasens i Galbas"
+    ],
+    "answer": "Ángel Recasens",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Jean Grémillon",
+        0
+      ],
+      [
+        "Ángel Recasens",
+        0
+      ]
+    ]
+  },
+  "c581e00c08ae11ebbd83ac1f6bf848b6": {
+    "aliases": [
+      "Blue Murder at St Trinian's"
+    ],
+    "answer": "Blue Murder At St Trinian'S",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Blue Murder at St Trinian's",
+        1
+      ],
+      [
+        "The Price of Silence (1917 film)",
+        0
+      ],
+      [
+        "Frank Launder",
+        0
+      ],
+      [
+        "Frank Lloyd",
+        0
+      ]
+    ]
+  },
+  "c8c607d408ae11ebbd83ac1f6bf848b6": {
+    "aliases": [
+      "John Lysaght, 1st Baron Lisle"
+    ],
+    "answer": "John Lysaght, 1St Baron Lisle",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "John Lysaght, 1st Baron Lisle",
+        0
+      ],
+      [
+        "Arne Laurin",
+        0
+      ]
+    ]
+  },
+  "ca8a1872084911ebbd55ac1f6bf848b6": {
+    "aliases": [
+      "Broadway Melody of 1940"
+    ],
+    "answer": "Broadway Melody Of 1940",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Broadway Melody of 1940",
+        1
+      ],
+      [
+        "A Slave of Love",
+        0
+      ],
+      [
+        "Norman Taurog",
+        0
+      ],
+      [
+        "Nikita Mikhalkov",
+        0
+      ]
+    ]
+  },
+  "d24eec2a0bd911eba7f7acde48001122": {
+    "aliases": [
+      "Capital of Serbia",
+      "Београд",
+      "Belgrade, Serbia",
+      "Belgrade",
+      "City of Belgrade",
+      "Beograd",
+      "Belgrader",
+      "Belgradian"
+    ],
+    "answer": "Belgrade",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Serbia in the Eurovision Song Contest 2015",
+        1
+      ],
+      [
+        "Bojana Stamenov",
+        1
+      ]
+    ]
+  },
+  "d3e9671e0bdd11eba7f7acde48001122": {
+    "aliases": [
+      "College of the Holy and Undivided Trinity of Queen Elizabeth near Dublin",
+      "University of Dublin",
+      "Trinity College, Dublin",
+      "TCD",
+      "Trinity College University of Dublin",
+      "Trinity College Dublin",
+      "Trinity College, University of Dublin",
+      "Coláiste na Tríonóide"
+    ],
+    "answer": "Trinity College, Dublin",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "compositional"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Samuel Hume Blake",
+        0
+      ],
+      [
+        "William Hume Blake",
+        4
+      ]
+    ]
+  },
+  "d3f31923087111ebbd63ac1f6bf848b6": {
+    "aliases": [
+      "Helen Boughton-Leigh"
+    ],
+    "answer": "Helen Boughton-Leigh",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Johann Joachim Bellermann",
+        0
+      ],
+      [
+        "Helen Boughton-Leigh",
+        0
+      ]
+    ]
+  },
+  "e2105ac1086b11ebbd60ac1f6bf848b6": {
+    "aliases": [
+      "Sumner Locke",
+      "Helena Sumner Locke"
+    ],
+    "answer": "Sumner Locke",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Sumner Locke",
+        0
+      ],
+      [
+        "Lawrence Joseph Henderson",
+        0
+      ]
+    ]
+  },
+  "e5a5ff220baf11ebab90acde48001122": {
+    "aliases": [
+      "Henry Howard, 5th Earl of Suffolk"
+    ],
+    "answer": "Henry Howard, 5th Earl of Suffolk",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Charles Howard, 7th Earl of Suffolk",
+        2
+      ],
+      [
+        "Henry Howard, 6th Earl of Suffolk",
+        1
+      ]
+    ]
+  },
+  "e5e61c340bae11ebab90acde48001122": {
+    "aliases": [
+      "Philibert von Baden",
+      "Philibert, Margrave of Baden-Baden"
+    ],
+    "answer": "Philibert, Margrave of Baden-Baden",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "inference"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Jakobea of Baden",
+        0
+      ],
+      [
+        "Mechthild of Bavaria",
+        3
+      ]
+    ]
+  },
+  "e82674bd089311ebbd75ac1f6bf848b6": {
+    "aliases": [
+      "Una pistola per Ringo",
+      "A Pistol for Ringo",
+      "Pistol for Ringo"
+    ],
+    "answer": "A Pistol For Ringo",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "Los Hijos de Fierro",
+        0
+      ],
+      [
+        "A Pistol for Ringo",
+        1
+      ],
+      [
+        "Fernando Solanas",
+        0
+      ],
+      [
+        "Duccio Tessari",
+        0
+      ]
+    ]
+  },
+  "ecf6cccc089711ebbd77ac1f6bf848b6": {
+    "aliases": [
+      "The Phantom Express",
+      "Phantom Express"
+    ],
+    "answer": "The Phantom Express",
+    "program": "",
+    "strata": [
+      [
+        "type",
+        "bridge_comparison"
+      ]
+    ],
+    "supporting_locators": [
+      [
+        "It Was Not in Vain",
+        0
+      ],
+      [
+        "The Phantom Express",
+        1
+      ],
+      [
+        "Nikola Tanhofer",
+        0
+      ],
+      [
+        "Emory Johnson",
+        0
+      ]
+    ]
+  }
+}

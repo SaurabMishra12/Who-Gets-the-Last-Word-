@@ -1,0 +1,77 @@
+{
+  "cohort": "original frozen development60",
+  "rows": [
+    {
+      "calls_per_question": 3.0,
+      "condition": "R0_all",
+      "correct": 9,
+      "em": 15.0,
+      "f1": 21.880952380952383,
+      "input_tokens": 183372,
+      "n": 60,
+      "on_observed_frontier": false,
+      "output_tokens": 64211,
+      "tokens_per_question": 4126.383333333333
+    },
+    {
+      "calls_per_question": 6.0,
+      "condition": "private_all",
+      "correct": 8,
+      "em": 13.333333333333334,
+      "f1": 21.547619047619047,
+      "input_tokens": 378056,
+      "n": 60,
+      "on_observed_frontier": false,
+      "output_tokens": 121303,
+      "tokens_per_question": 8322.65
+    },
+    {
+      "calls_per_question": 4.0,
+      "condition": "peer_sink_R0_leaves",
+      "correct": 27,
+      "em": 45.0,
+      "f1": 60.362321401795086,
+      "input_tokens": 257521,
+      "n": 60,
+      "on_observed_frontier": false,
+      "output_tokens": 89777,
+      "tokens_per_question": 5788.3
+    },
+    {
+      "calls_per_question": 6.0,
+      "condition": "peer_sink_private_leaves",
+      "correct": 27,
+      "em": 45.0,
+      "f1": 60.743273782747465,
+      "input_tokens": 384375,
+      "n": 60,
+      "on_observed_frontier": false,
+      "output_tokens": 127780,
+      "tokens_per_question": 8535.916666666666
+    },
+    {
+      "calls_per_question": 6.0,
+      "condition": "peer_all",
+      "correct": 31,
+      "em": 51.666666666666664,
+      "f1": 71.89370668318037,
+      "input_tokens": 397818,
+      "n": 60,
+      "on_observed_frontier": false,
+      "output_tokens": 145220,
+      "tokens_per_question": 9050.633333333333
+    },
+    {
+      "calls_per_question": 1.0,
+      "condition": "full_union",
+      "correct": 33,
+      "em": 55.0,
+      "f1": 72.69390794390794,
+      "input_tokens": 148540,
+      "n": 60,
+      "on_observed_frontier": true,
+      "output_tokens": 24050,
+      "tokens_per_question": 2876.5
+    }
+  ]
+}

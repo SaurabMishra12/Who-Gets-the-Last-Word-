@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "allowed_extensions": [
+    ".csv",
+    ".ipynb",
+    ".json",
+    ".lean",
+    ".py",
+    ".tex"
+  ],
+  "credential_and_endpoint_pattern_scan": "No matches in staged artifact text; bounded pattern check, not a guarantee against every possible secret format.",
+  "exact_model_visible_requests_verified": 19669,
+  "source_manifest_destinations": "All exist",
+  "local_root_paths": "No matches",
+  "file_count_before_this_record": 374,
+  "production_runner_included": false,
+  "checkpoints_included": false
+}

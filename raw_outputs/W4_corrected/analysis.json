@@ -1,0 +1,42 @@
+{
+  "n_samples": 100,
+  "comparisons": {
+    "Learned_vs_Static": {
+      "mean_f1_diff": -0.008673569262278937,
+      "ci_95": [
+        -0.03866670482295482,
+        0.016228280456103025
+      ],
+      "p_value": 0.5905,
+      "cohen_d": -0.062005815547960544,
+      "ci_width": 0.05489498527905784
+    },
+    "Learned_vs_Random": {
+      "mean_f1_diff": -0.02566563275434243,
+      "ci_95": [
+        -0.06210221404939147,
+        0.003518778801843312
+      ],
+      "p_value": 0.1573,
+      "cohen_d": -0.15041192499681677,
+      "ci_width": 0.06562099285123478
+    },
+    "Static_vs_Random": {
+      "mean_f1_diff": -0.016992063492063492,
+      "ci_95": [
+        -0.036904960317460316,
+        -0.0019444444444444444
+      ],
+      "p_value": 0.1296,
+      "cohen_d": -0.18509223699161234,
+      "ci_width": 0.03496051587301587
+    }
+  },
+  "realized_tokens": {
+    "Static_Role": 24.08,
+    "Learned_SparseComm": 24.08,
+    "Random_Routing": 24.08,
+    "relative_diff_pct": 0.0
+  },
+  "verdict": "EVIDENCE AGAINST PRACTICALLY MEANINGFUL EFFECT: Under strict realized volume matching and fixed depth T=2, Learned SPARSECOMM shows no detectable advantage over Static Role (diff=-0.0087, 95% CI [-0.0387, 0.0162], p=0.5905). Communication volume dominates routing topology."
+}

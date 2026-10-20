@@ -1,0 +1,11 @@
+{
+  "required": {
+    "python": ">=3.10"
+  },
+  "optional": {
+    "matplotlib": ">=3.8",
+    "lean": "4.16.0"
+  },
+  "paid_calls": 0,
+  "network_required_for_answer_checks": false
+}

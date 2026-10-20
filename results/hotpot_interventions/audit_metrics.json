@@ -1,0 +1,1724 @@
+{
+  "utc": "2026-10-14T17:41:11.539366+00:00",
+  "verdict": "NOT_READY_FOR_A_STRONG_WWW2027_SUBMISSION",
+  "runs_stopped": true,
+  "no_inference_requested": true,
+  "integrity": {
+    "E1": {
+      "n": 300,
+      "target": 300,
+      "unique_ids": 300,
+      "ids_within_frozen_test": true,
+      "status": "COMPLETE",
+      "sha256": "1afe9ce6293a85acdcc743ee18b81c9ae79d57cd8258697cd715e77b4748a608",
+      "complete_sha_matches_status": true
+    },
+    "E2": {
+      "n": 300,
+      "target": 300,
+      "unique_ids": 300,
+      "ids_within_frozen_test": true,
+      "status": "COMPLETE",
+      "sha256": "dfae111876fc8fbcc3aaadd7ddff050909b3e76f0bb2e9ee51db7fa7490ed5c1",
+      "complete_sha_matches_status": true
+    },
+    "E3": {
+      "n": 300,
+      "target": 300,
+      "unique_ids": 300,
+      "ids_within_frozen_test": true,
+      "status": "COMPLETE",
+      "sha256": "793f10a77da7556cec6adec23e0bcbdd8e99cf5361ca977d202f61229cd2c8c6",
+      "complete_sha_matches_status": true
+    },
+    "E4": {
+      "n": 300,
+      "target": 300,
+      "unique_ids": 300,
+      "ids_within_frozen_test": true,
+      "status": "COMPLETE",
+      "sha256": "10ec23783228e25ab1002d0aeb241e7dd5f30f0b6e8a67e41d6f5b4cfe72084f",
+      "complete_sha_matches_status": true
+    },
+    "E5": {
+      "n": 300,
+      "target": 300,
+      "unique_ids": 300,
+      "ids_within_frozen_test": true,
+      "status": "COMPLETE",
+      "sha256": "cf34e15527704024760f6ceaf11a34f62cfbdf000c08422bd6568f165ef7beca",
+      "complete_sha_matches_status": true
+    }
+  },
+  "source_hash_checks": {
+    "protocol.py": true,
+    "download_data.py": true,
+    "backend.py": true,
+    "experiments.py": true,
+    "audit.py": true,
+    "reporting.py": true,
+    "robustness.py": true,
+    "validate_notebooks.py": true,
+    "machine_connection.py": true,
+    "learned_controller.py": true,
+    "controller_splits.py": true,
+    "controller_study.py": true,
+    "controller_reporting.py": true,
+    "run_controller_machine.py": true
+  },
+  "checkpoint_hash_checks": {
+    "7": true,
+    "19": true,
+    "31": true
+  },
+  "score_mismatches": [],
+  "token_count_mismatches": [],
+  "unique_payloads_recounted": 773,
+  "leakage": {
+    "counts": {
+      "train": 100,
+      "validation": 30,
+      "heldout": 300,
+      "pilot": 12
+    },
+    "types": {
+      "train": {
+        "comparison": 20,
+        "bridge": 80
+      },
+      "validation": {
+        "comparison": 6,
+        "bridge": 24
+      },
+      "heldout": {
+        "bridge": 240,
+        "comparison": 60
+      },
+      "pilot": {
+        "comparison": 2,
+        "bridge": 10
+      }
+    },
+    "pairwise_checks": {
+      "train__validation": {
+        "id_overlap": 0,
+        "normalized_question_overlap": 0,
+        "candidate_title_overlap": 0
+      },
+      "train__heldout": {
+        "id_overlap": 0,
+        "normalized_question_overlap": 0,
+        "candidate_title_overlap": 0
+      },
+      "train__pilot": {
+        "id_overlap": 0,
+        "normalized_question_overlap": 0,
+        "candidate_title_overlap": 0
+      },
+      "validation__heldout": {
+        "id_overlap": 0,
+        "normalized_question_overlap": 0,
+        "candidate_title_overlap": 0
+      },
+      "validation__pilot": {
+        "id_overlap": 0,
+        "normalized_question_overlap": 0,
+        "candidate_title_overlap": 0
+      },
+      "heldout__pilot": {
+        "id_overlap": 0,
+        "normalized_question_overlap": 0,
+        "candidate_title_overlap": 0
+      }
+    },
+    "heldout_bytes_unchanged": {
+      "gold": true,
+      "inputs": true
+    },
+    "scope": "Exact IDs, normalized questions and NFKC/casefold candidate titles only; not semantic near duplicates or pretraining contamination"
+  },
+  "stratum_counts": {
+    "Retrieval-Missing-Gold": 224,
+    "Disjoint-Gold": 62,
+    "Co-located-Gold": 14
+  },
+  "retrieval_availability": {
+    "candidate_gold_count": {
+      "0": 55,
+      "2": 79,
+      "1": 166
+    },
+    "top6_gold_count": {
+      "0": 60,
+      "2": 76,
+      "1": 164
+    }
+  },
+  "complete_effects": [
+    {
+      "experiment": "E1",
+      "contrast": "(CW-NoComm)_P - (CW-NoComm)_R",
+      "primary": true,
+      "n": 300,
+      "effect": 2.8815065834673677,
+      "ci95": [
+        -0.25996063576945927,
+        6.010893847437964
+      ],
+      "randomization_p": 0.07129287071292871,
+      "helped": 25,
+      "harmed": 16,
+      "unchanged": 259
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CW - R_NoComm",
+      "primary": false,
+      "n": 300,
+      "effect": 0.9847568916196368,
+      "ci95": [
+        -0.7680588093823387,
+        2.893296595379929
+      ],
+      "randomization_p": 0.29547045295470453,
+      "helped": 14,
+      "harmed": 6,
+      "unchanged": 280,
+      "holm_p_within_experiment": 0.857914208579142,
+      "holm_across_completed_secondary_contrasts": 1
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CW - P_NoComm",
+      "primary": false,
+      "n": 300,
+      "effect": 3.8662634750870044,
+      "ci95": [
+        1.356056786350904,
+        6.485954184704185
+      ],
+      "randomization_p": 0.0014998500149985001,
+      "helped": 20,
+      "harmed": 5,
+      "unchanged": 275,
+      "holm_p_within_experiment": 0.008999100089991,
+      "holm_across_completed_secondary_contrasts": 0.0134986501349865
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CCW - R_NoComm",
+      "primary": false,
+      "n": 300,
+      "effect": 1.0912809231436682,
+      "ci95": [
+        -0.8013360790444124,
+        3.144086659074404
+      ],
+      "randomization_p": 0.285971402859714,
+      "helped": 14,
+      "harmed": 10,
+      "unchanged": 276,
+      "holm_p_within_experiment": 0.857914208579142,
+      "holm_across_completed_secondary_contrasts": 1
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CCW - P_NoComm",
+      "primary": false,
+      "n": 300,
+      "effect": 3.7733002291825826,
+      "ci95": [
+        1.4206812876665817,
+        6.354451447245564
+      ],
+      "randomization_p": 0.0023997600239976003,
+      "helped": 20,
+      "harmed": 4,
+      "unchanged": 276,
+      "holm_p_within_experiment": 0.011998800119988001,
+      "holm_across_completed_secondary_contrasts": 0.019198080191980802
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CW - R_SelfUpdate",
+      "primary": false,
+      "n": 300,
+      "effect": 0.6435719127208491,
+      "ci95": [
+        -0.870582611832612,
+        2.2149882209988596
+      ],
+      "randomization_p": 0.420957904209579,
+      "helped": 13,
+      "harmed": 6,
+      "unchanged": 281,
+      "holm_p_within_experiment": 0.857914208579142,
+      "holm_across_completed_secondary_contrasts": 1
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CW - P_SelfUpdate",
+      "primary": false,
+      "n": 300,
+      "effect": 3.3773745861981155,
+      "ci95": [
+        0.8490954715219422,
+        6.052734487734487
+      ],
+      "randomization_p": 0.010998900109989001,
+      "helped": 18,
+      "harmed": 7,
+      "unchanged": 275,
+      "holm_p_within_experiment": 0.043995600439956005,
+      "holm_across_completed_secondary_contrasts": 0.07699230076992301
+    },
+    {
+      "experiment": "E2",
+      "contrast": "R_CW - R_CCW",
+      "primary": false,
+      "n": 300,
+      "effect": -0.1065240315240315,
+      "ci95": [
+        -1.4761482730232731,
+        1.147305934805935
+      ],
+      "randomization_p": 0.8801119888011198,
+      "helped": 10,
+      "harmed": 6,
+      "unchanged": 284,
+      "holm_p_within_experiment": 0.8801119888011198,
+      "holm_across_completed_secondary_contrasts": 1
+    },
+    {
+      "experiment": "E3_original",
+      "contrast": "R_prefix - R_crop",
+      "primary": false,
+      "n": 300,
+      "effect": 0.14502164502164502,
+      "ci95": [
+        -0.13636363636363635,
+        0.5714285714285714
+      ],
+      "randomization_p": 1.0,
+      "helped": 1,
+      "harmed": 1,
+      "unchanged": 298,
+      "holm_p_within_experiment": 1,
+      "holm_across_completed_secondary_contrasts": 1
+    },
+    {
+      "experiment": "E4",
+      "contrast": "P_stopped - P_final",
+      "primary": false,
+      "n": 300,
+      "effect": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "randomization_p": 1.0,
+      "helped": 0,
+      "harmed": 0,
+      "unchanged": 300,
+      "holm_p_within_experiment": 1,
+      "holm_across_completed_secondary_contrasts": 1
+    },
+    {
+      "experiment": "E3_v2",
+      "contrast": "R_prefix - R_crop",
+      "metric": "f1",
+      "scope": "EXPLORATORY_PRIMARY_F1_SECONDARY_DESCRIPTIVE",
+      "n": 299,
+      "effect": -1.795393296672069,
+      "ci95": [
+        -4.197328083964913,
+        0.47078098088328013
+      ],
+      "randomization_p": 0.1401859814018598,
+      "helped": 8,
+      "harmed": 18,
+      "unchanged": 273
+    },
+    {
+      "experiment": "E3_v2",
+      "contrast": "R_prefix - R_crop",
+      "metric": "em",
+      "scope": "EXPLORATORY_PRIMARY_F1_SECONDARY_DESCRIPTIVE",
+      "n": 299,
+      "effect": -1.6722408026755853,
+      "ci95": [
+        -4.013377926421405,
+        0.6688963210702341
+      ],
+      "randomization_p": 0.27387261273872615,
+      "helped": 4,
+      "harmed": 9,
+      "unchanged": 286
+    },
+    {
+      "experiment": "E3_v2",
+      "contrast": "R_prefix - R_crop",
+      "metric": "answer_support_recall",
+      "scope": "EXPLORATORY_PRIMARY_F1_SECONDARY_DESCRIPTIVE",
+      "n": 299,
+      "effect": -0.005295429208472685,
+      "ci95": [
+        -0.023690078037904124,
+        0.013935340022296542
+      ],
+      "randomization_p": 0.6101389861013898,
+      "helped": 14,
+      "harmed": 22,
+      "unchanged": 263
+    }
+  ],
+  "stratum_effects": [
+    {
+      "experiment": "E1",
+      "contrast": "R_CW - NoComm",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": -1.8894009216589862,
+      "ci95": [
+        -6.08294930875576,
+        0.7373271889400921
+      ],
+      "randomization_p": 0.5005499450054994,
+      "helped": 1,
+      "harmed": 2,
+      "unchanged": 59,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CW - NoComm",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": 7.5396825396825395,
+      "ci95": [
+        0.0,
+        22.22222222222222
+      ],
+      "randomization_p": 0.5010498950104989,
+      "helped": 2,
+      "harmed": 0,
+      "unchanged": 12,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CW - NoComm",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": 1.3705998619338955,
+      "ci95": [
+        -0.4952389573253544,
+        3.5278331624510706
+      ],
+      "randomization_p": 0.19488051194880512,
+      "helped": 11,
+      "harmed": 4,
+      "unchanged": 209,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CW - NoComm",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CW - SelfUpdate",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": -1.8894009216589862,
+      "ci95": [
+        -6.08294930875576,
+        0.7373271889400921
+      ],
+      "randomization_p": 0.5005499450054994,
+      "helped": 1,
+      "harmed": 2,
+      "unchanged": 59,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CW - SelfUpdate",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": -0.24943310657596335,
+      "ci95": [
+        -1.938775510204081,
+        1.190476190476191
+      ],
+      "randomization_p": 1.0,
+      "helped": 1,
+      "harmed": 1,
+      "unchanged": 12,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CW - SelfUpdate",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": 1.4004754216570325,
+      "ci95": [
+        -0.22866796482392984,
+        3.2880709109574995
+      ],
+      "randomization_p": 0.1344865513448655,
+      "helped": 11,
+      "harmed": 3,
+      "unchanged": 210,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CW - SelfUpdate",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CCW - NoComm",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": -1.2442396313364055,
+      "ci95": [
+        -4.838709677419355,
+        1.105990783410138
+      ],
+      "randomization_p": 1.0,
+      "helped": 1,
+      "harmed": 1,
+      "unchanged": 60,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CCW - NoComm",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": 4.628942486085343,
+      "ci95": [
+        -5.371057513914657,
+        20.408163265306122
+      ],
+      "randomization_p": 1.0,
+      "helped": 1,
+      "harmed": 3,
+      "unchanged": 10,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CCW - NoComm",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": 1.516615800360548,
+      "ci95": [
+        -0.6334549760560789,
+        3.99843795630626
+      ],
+      "randomization_p": 0.19928007199280073,
+      "helped": 12,
+      "harmed": 6,
+      "unchanged": 206,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CCW - NoComm",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CCW - SelfUpdate",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": -1.2442396313364055,
+      "ci95": [
+        -4.838709677419355,
+        1.105990783410138
+      ],
+      "randomization_p": 1.0,
+      "helped": 1,
+      "harmed": 1,
+      "unchanged": 60,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CCW - SelfUpdate",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": -3.160173160173161,
+      "ci95": [
+        -6.938775510204083,
+        0.0
+      ],
+      "randomization_p": 0.24897510248975102,
+      "helped": 0,
+      "harmed": 3,
+      "unchanged": 11,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CCW - SelfUpdate",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": 1.5464913600836852,
+      "ci95": [
+        -0.0666743970315399,
+        3.546370110544218
+      ],
+      "randomization_p": 0.09659034096590341,
+      "helped": 8,
+      "harmed": 3,
+      "unchanged": 213,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "R_CCW - SelfUpdate",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CW - NoComm",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": 10.310854547097433,
+      "ci95": [
+        1.1111350698637235,
+        20.16721497983357
+      ],
+      "randomization_p": 0.0397960203979602,
+      "helped": 10,
+      "harmed": 3,
+      "unchanged": 49,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CW - NoComm",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": 17.857142857142858,
+      "ci95": [
+        0.0,
+        39.285714285714285
+      ],
+      "randomization_p": 0.2501749825017498,
+      "helped": 3,
+      "harmed": 0,
+      "unchanged": 11,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CW - NoComm",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": 1.2080627705627707,
+      "ci95": [
+        -0.3477408008658009,
+        3.0222199675324672
+      ],
+      "randomization_p": 0.16718328167183283,
+      "helped": 7,
+      "harmed": 2,
+      "unchanged": 215,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CW - NoComm",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CW - SelfUpdate",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": 9.23558572989313,
+      "ci95": [
+        -1.0621282970666273,
+        19.719461831653486
+      ],
+      "randomization_p": 0.09169083091690831,
+      "helped": 10,
+      "harmed": 4,
+      "unchanged": 48,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CW - SelfUpdate",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": 17.857142857142858,
+      "ci95": [
+        0.0,
+        39.285714285714285
+      ],
+      "randomization_p": 0.2501749825017498,
+      "helped": 3,
+      "harmed": 0,
+      "unchanged": 11,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CW - SelfUpdate",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": 0.8509199134199134,
+      "ci95": [
+        -0.3801406926406928,
+        2.441930465367964
+      ],
+      "randomization_p": 0.27077292270772924,
+      "helped": 5,
+      "harmed": 3,
+      "unchanged": 216,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CW - SelfUpdate",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CCW - NoComm",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": 9.45063949333399,
+      "ci95": [
+        0.21778506123857164,
+        19.06731776288227
+      ],
+      "randomization_p": 0.0522947705229477,
+      "helped": 9,
+      "harmed": 3,
+      "unchanged": 50,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CCW - NoComm",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": 11.554621848739496,
+      "ci95": [
+        0.0,
+        28.571428571428573
+      ],
+      "randomization_p": 0.24597540245975402,
+      "helped": 3,
+      "harmed": 0,
+      "unchanged": 11,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CCW - NoComm",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": 1.715561224489796,
+      "ci95": [
+        0.13818027210884357,
+        3.5799319727891152
+      ],
+      "randomization_p": 0.05299470052994701,
+      "helped": 8,
+      "harmed": 1,
+      "unchanged": 215,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CCW - NoComm",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CCW - SelfUpdate",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": 8.37537067612969,
+      "ci95": [
+        0.11482745590904991,
+        17.2151836541068
+      ],
+      "randomization_p": 0.06129387061293871,
+      "helped": 8,
+      "harmed": 3,
+      "unchanged": 51,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CCW - SelfUpdate",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": 11.554621848739496,
+      "ci95": [
+        0.0,
+        28.571428571428573
+      ],
+      "randomization_p": 0.24597540245975402,
+      "helped": 3,
+      "harmed": 0,
+      "unchanged": 11,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CCW - SelfUpdate",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": 1.3584183673469388,
+      "ci95": [
+        -0.22337372448979584,
+        3.2164115646258504
+      ],
+      "randomization_p": 0.1277872212778722,
+      "helped": 7,
+      "harmed": 3,
+      "unchanged": 214,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "P_CCW - SelfUpdate",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E1",
+      "contrast": "(CW-NoComm)_P - (CW-NoComm)_R",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": 12.200255468756419,
+      "ci95": [
+        2.680804726582716,
+        22.300595238095234
+      ],
+      "randomization_p": 0.0168983101689831,
+      "helped": 12,
+      "harmed": 3,
+      "unchanged": 47,
+      "holm_p": 0.45625437456254375
+    },
+    {
+      "experiment": "E1",
+      "contrast": "(CW-NoComm)_P - (CW-NoComm)_R",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": 10.317460317460316,
+      "ci95": [
+        -14.285714285714286,
+        34.920634920634924
+      ],
+      "randomization_p": 0.6211378862113789,
+      "helped": 3,
+      "harmed": 1,
+      "unchanged": 10,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "(CW-NoComm)_P - (CW-NoComm)_R",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": -0.16253709137112507,
+      "ci95": [
+        -2.8307845634854565,
+        2.4508057010683055
+      ],
+      "randomization_p": 0.9055094490550945,
+      "helped": 10,
+      "harmed": 12,
+      "unchanged": 202,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E1",
+      "contrast": "(CW-NoComm)_P - (CW-NoComm)_R",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E2",
+      "contrast": "R_CW - R_CCW",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": -0.6451612903225806,
+      "ci95": [
+        -1.935483870967742,
+        0.0
+      ],
+      "randomization_p": 1.0,
+      "helped": 0,
+      "harmed": 1,
+      "unchanged": 61,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E2",
+      "contrast": "R_CW - R_CCW",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": 2.910740053597197,
+      "ci95": [
+        0.12987012987013,
+        6.507936507936508
+      ],
+      "randomization_p": 0.12248775122487751,
+      "helped": 4,
+      "harmed": 0,
+      "unchanged": 10,
+      "holm_p": 0.3674632536746325
+    },
+    {
+      "experiment": "E2",
+      "contrast": "R_CW - R_CCW",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": -0.14601593842665275,
+      "ci95": [
+        -1.9430409000721502,
+        1.5170361942125334
+      ],
+      "randomization_p": 0.8744125587441256,
+      "helped": 6,
+      "harmed": 5,
+      "unchanged": 213,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E2",
+      "contrast": "R_CW - R_CCW",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E3",
+      "contrast": "R_prefix - R_crop",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "randomization_p": 1.0,
+      "helped": 0,
+      "harmed": 0,
+      "unchanged": 62,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E3",
+      "contrast": "R_prefix - R_crop",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "randomization_p": 1.0,
+      "helped": 0,
+      "harmed": 0,
+      "unchanged": 14,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E3",
+      "contrast": "R_prefix - R_crop",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": 0.19422541743970315,
+      "ci95": [
+        -0.18262987012987011,
+        0.7653061224489796
+      ],
+      "randomization_p": 1.0,
+      "helped": 1,
+      "harmed": 1,
+      "unchanged": 222,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E3",
+      "contrast": "R_prefix - R_crop",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    },
+    {
+      "experiment": "E4",
+      "contrast": "P_stopped - P_final",
+      "stratum": "Disjoint-Gold",
+      "status": "ESTIMATED",
+      "n": 62,
+      "effect": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "randomization_p": 1.0,
+      "helped": 0,
+      "harmed": 0,
+      "unchanged": 62,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E4",
+      "contrast": "P_stopped - P_final",
+      "stratum": "Co-located-Gold",
+      "status": "ESTIMATED",
+      "n": 14,
+      "effect": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "randomization_p": 1.0,
+      "helped": 0,
+      "harmed": 0,
+      "unchanged": 14,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E4",
+      "contrast": "P_stopped - P_final",
+      "stratum": "Retrieval-Missing-Gold",
+      "status": "ESTIMATED",
+      "n": 224,
+      "effect": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "randomization_p": 1.0,
+      "helped": 0,
+      "harmed": 0,
+      "unchanged": 224,
+      "holm_p": 1.0
+    },
+    {
+      "experiment": "E4",
+      "contrast": "P_stopped - P_final",
+      "stratum": "Undefined-Gold",
+      "n": 0,
+      "status": "UNESTIMABLE_EMPTY_STRATUM"
+    }
+  ],
+  "complete_E5_effects": [
+    {
+      "experiment": "E5",
+      "contrast": "R_seed_mean_Learned - NoComm",
+      "scope": "COMPLETE_300_EXPLORATORY",
+      "n": 300,
+      "effect": -0.20568176806566887,
+      "ci95": [
+        -1.4616626852965857,
+        0.936743153933556
+      ],
+      "randomization_p": 0.7368526294741051,
+      "helped": 16,
+      "harmed": 10,
+      "unchanged": 274,
+      "holm_added_F1_family": 1
+    },
+    {
+      "experiment": "E5",
+      "contrast": "R_seed_mean_Learned - SelfUpdate",
+      "scope": "COMPLETE_300_EXPLORATORY",
+      "n": 300,
+      "effect": 0.2637449925375624,
+      "ci95": [
+        -1.0010019592836925,
+        1.4789609720917756
+      ],
+      "randomization_p": 0.6874625074985004,
+      "helped": 17,
+      "harmed": 15,
+      "unchanged": 268,
+      "holm_added_F1_family": 1
+    },
+    {
+      "experiment": "E5",
+      "contrast": "R_seed_mean_Learned - Static",
+      "scope": "COMPLETE_300_EXPLORATORY",
+      "n": 300,
+      "effect": 0.7998737874898867,
+      "ci95": [
+        -0.36798968775748947,
+        2.0498541170445184
+      ],
+      "randomization_p": 0.2011597680463907,
+      "helped": 18,
+      "harmed": 10,
+      "unchanged": 272,
+      "holm_added_F1_family": 1
+    },
+    {
+      "experiment": "E5",
+      "contrast": "R_seed_mean_Learned - Broadcast",
+      "scope": "COMPLETE_300_EXPLORATORY",
+      "n": 300,
+      "effect": 0.4573477949638942,
+      "ci95": [
+        -0.6779222732318706,
+        1.6082861159022144
+      ],
+      "randomization_p": 0.4453109378124375,
+      "helped": 17,
+      "harmed": 13,
+      "unchanged": 270,
+      "holm_added_F1_family": 1
+    },
+    {
+      "experiment": "E5",
+      "contrast": "R_seed_mean_Learned - MatchedRandom",
+      "scope": "COMPLETE_300_EXPLORATORY",
+      "n": 300,
+      "effect": -0.06713271896338265,
+      "ci95": [
+        -0.8750445893838343,
+        0.7060795216945099
+      ],
+      "randomization_p": 0.8702259548090382,
+      "helped": 14,
+      "harmed": 9,
+      "unchanged": 277,
+      "holm_added_F1_family": 1
+    },
+    {
+      "experiment": "E5",
+      "contrast": "P_seed_mean_Learned - NoComm",
+      "scope": "COMPLETE_300_EXPLORATORY",
+      "n": 300,
+      "effect": 5.500619504888955,
+      "ci95": [
+        3.4998194730808585,
+        7.812683162381928
+      ],
+      "randomization_p": 0.0001999600079984003,
+      "helped": 40,
+      "harmed": 6,
+      "unchanged": 254,
+      "holm_added_F1_family": 0.001999600079984003
+    },
+    {
+      "experiment": "E5",
+      "contrast": "P_seed_mean_Learned - SelfUpdate",
+      "scope": "COMPLETE_300_EXPLORATORY",
+      "n": 300,
+      "effect": 4.344347103455263,
+      "ci95": [
+        1.9096188846995306,
+        6.900423467529728
+      ],
+      "randomization_p": 0.0007998400319936012,
+      "helped": 40,
+      "harmed": 11,
+      "unchanged": 249,
+      "holm_added_F1_family": 0.00639872025594881
+    },
+    {
+      "experiment": "E5",
+      "contrast": "P_seed_mean_Learned - Static",
+      "scope": "COMPLETE_300_EXPLORATORY",
+      "n": 300,
+      "effect": 4.139550834996756,
+      "ci95": [
+        1.9009527004024165,
+        6.458162610107581
+      ],
+      "randomization_p": 0.0007998400319936012,
+      "helped": 39,
+      "harmed": 8,
+      "unchanged": 253,
+      "holm_added_F1_family": 0.00639872025594881
+    },
+    {
+      "experiment": "E5",
+      "contrast": "P_seed_mean_Learned - Broadcast",
+      "scope": "COMPLETE_300_EXPLORATORY",
+      "n": 300,
+      "effect": -4.431584481299851,
+      "ci95": [
+        -6.277380128656219,
+        -2.739654804574159
+      ],
+      "randomization_p": 0.0001999600079984003,
+      "helped": 4,
+      "harmed": 35,
+      "unchanged": 261,
+      "holm_added_F1_family": 0.001999600079984003
+    },
+    {
+      "experiment": "E5",
+      "contrast": "P_seed_mean_Learned - MatchedRandom",
+      "scope": "COMPLETE_300_EXPLORATORY",
+      "n": 300,
+      "effect": 1.0157739064997129,
+      "ci95": [
+        0.09617975065555699,
+        2.0948874934056376
+      ],
+      "randomization_p": 0.046990601879624075,
+      "helped": 15,
+      "harmed": 8,
+      "unchanged": 277,
+      "holm_added_F1_family": 0.2819436112777445
+    }
+  ],
+  "manipulations": {
+    "E2_matches_E1_R_conditions_exactly": false,
+    "E2_tokens_and_calls_matched": true,
+    "E3_identical_payload_questions": 298,
+    "E3_budget_matched": true,
+    "E4_depth_counts": {
+      "3": 290,
+      "2": 5,
+      "0": 3,
+      "1": 2
+    },
+    "E4_early_stops": 10,
+    "E4_wrong_early_stops": 6,
+    "E4_hypothetical_calls_avoided": 54,
+    "E4_full_logical_calls": 3600,
+    "E4_saving_fraction": 0.015,
+    "E5_resource_matching": {
+      "comparisons": 1800,
+      "edges_equal": 1800,
+      "quota_equal": 1800,
+      "call_count_mismatches": 912,
+      "payload_mismatches": 254
+    },
+    "E2_E1_scientific_outcomes_and_provider_keys_identical": true,
+    "E2_full_record_difference_note": "Full records differ in cache/timing metadata; scientific answers, F1/EM, payloads and provider call keys are identical."
+  },
+  "controller_learning": [
+    {
+      "seed": 7,
+      "epoch": 1,
+      "mean_utility_gain": 0.022806556470696623,
+      "mean_f1": 39.89177063889708,
+      "n_contexts": 60,
+      "optimizer_loss": -0.025600672366895845,
+      "optimizer_updates": 28,
+      "optimizer_early_kl_stop": false,
+      "optimizer_max_kl": 0.0002919808030128479,
+      "train_mean_reward": -0.031934345783908524,
+      "train_mean_f1": 45.943619465329995,
+      "train_rollouts": 200,
+      "selected_epoch": 1,
+      "train_action_entropy_bits": 5.554739463421083
+    },
+    {
+      "seed": 7,
+      "epoch": 2,
+      "mean_utility_gain": -0.021408447493357272,
+      "mean_f1": 33.3676570343237,
+      "n_contexts": 60,
+      "optimizer_loss": -0.040512334289295335,
+      "optimizer_updates": 28,
+      "optimizer_early_kl_stop": false,
+      "optimizer_max_kl": 0.0002571865916252136,
+      "train_mean_reward": -0.014694366830139229,
+      "train_mean_f1": 47.537998125885125,
+      "train_rollouts": 200,
+      "selected_epoch": 1,
+      "train_action_entropy_bits": 5.595550554185561
+    },
+    {
+      "seed": 7,
+      "epoch": 3,
+      "mean_utility_gain": -0.004135858282056796,
+      "mean_f1": 35.3716744913928,
+      "n_contexts": 60,
+      "optimizer_loss": -0.044278776672269614,
+      "optimizer_updates": 28,
+      "optimizer_early_kl_stop": false,
+      "optimizer_max_kl": 0.001144513487815857,
+      "train_mean_reward": 0.006884616069350055,
+      "train_mean_f1": 49.734216613280076,
+      "train_rollouts": 200,
+      "selected_epoch": 1,
+      "train_action_entropy_bits": 5.5486893958469645
+    },
+    {
+      "seed": 19,
+      "epoch": 1,
+      "mean_utility_gain": -0.011900821818453252,
+      "mean_f1": 34.68253968253968,
+      "n_contexts": 60,
+      "optimizer_loss": -0.03568548423105052,
+      "optimizer_updates": 28,
+      "optimizer_early_kl_stop": false,
+      "optimizer_max_kl": 0.0002682805061340332,
+      "train_mean_reward": -0.01017929559514004,
+      "train_mean_f1": 48.268034755921754,
+      "train_rollouts": 200,
+      "selected_epoch": 3,
+      "train_action_entropy_bits": 5.55315866079487
+    },
+    {
+      "seed": 19,
+      "epoch": 2,
+      "mean_utility_gain": -0.034397254016101705,
+      "mean_f1": 32.33452995884938,
+      "n_contexts": 60,
+      "optimizer_loss": -0.01649881187560303,
+      "optimizer_updates": 28,
+      "optimizer_early_kl_stop": false,
+      "optimizer_max_kl": 0.00024461373686790466,
+      "train_mean_reward": -0.009524883578470434,
+      "train_mean_f1": 48.234216613280076,
+      "train_rollouts": 200,
+      "selected_epoch": 3,
+      "train_action_entropy_bits": 5.493330017532694
+    },
+    {
+      "seed": 19,
+      "epoch": 3,
+      "mean_utility_gain": 0.02746824973696401,
+      "mean_f1": 38.011767925561024,
+      "n_contexts": 60,
+      "optimizer_loss": -0.03401537958000388,
+      "optimizer_updates": 28,
+      "optimizer_early_kl_stop": false,
+      "optimizer_max_kl": 0.0005239434540271759,
+      "train_mean_reward": 0.008504755259276676,
+      "train_mean_f1": 49.89612137518485,
+      "train_rollouts": 200,
+      "selected_epoch": 3,
+      "train_action_entropy_bits": 5.534017196357409
+    },
+    {
+      "seed": 31,
+      "epoch": 1,
+      "mean_utility_gain": -0.004797823285873084,
+      "mean_f1": 34.57142857142857,
+      "n_contexts": 60,
+      "optimizer_loss": -0.03922386321106127,
+      "optimizer_updates": 28,
+      "optimizer_early_kl_stop": false,
+      "optimizer_max_kl": 0.00023884326219558716,
+      "train_mean_reward": -0.0243962414213049,
+      "train_mean_f1": 46.56754994661342,
+      "train_rollouts": 200,
+      "selected_epoch": 3,
+      "train_action_entropy_bits": 5.603577100594534
+    },
+    {
+      "seed": 31,
+      "epoch": 2,
+      "mean_utility_gain": 0.0301530072553842,
+      "mean_f1": 37.87445887445888,
+      "n_contexts": 60,
+      "optimizer_loss": -0.023464637409363474,
+      "optimizer_updates": 28,
+      "optimizer_early_kl_stop": false,
+      "optimizer_max_kl": 0.0003943517804145813,
+      "train_mean_reward": -0.014941397442783905,
+      "train_mean_f1": 47.61797011468064,
+      "train_rollouts": 200,
+      "selected_epoch": 3,
+      "train_action_entropy_bits": 5.623867208045252
+    },
+    {
+      "seed": 31,
+      "epoch": 3,
+      "mean_utility_gain": 0.035072008416695125,
+      "mean_f1": 37.87445887445888,
+      "n_contexts": 60,
+      "optimizer_loss": -0.034303984072591574,
+      "optimizer_updates": 28,
+      "optimizer_early_kl_stop": false,
+      "optimizer_max_kl": 0.000779569149017334,
+      "train_mean_reward": -0.01600493804857565,
+      "train_mean_f1": 47.4703510670616,
+      "train_rollouts": 200,
+      "selected_epoch": 3,
+      "train_action_entropy_bits": 5.542903929120657
+    }
+  ],
+  "E5_complete_action_statistics": [
+    {
+      "regime": "R",
+      "seed": 7,
+      "n": 300,
+      "unique_actions": 4,
+      "top_action": 45,
+      "top_action_fraction": 0.5733333333333334,
+      "NoComm_fraction": 0.0,
+      "entropy_bits": 1.1561491850211938,
+      "frequencies": {
+        "45": 172,
+        "40": 8,
+        "31": 119,
+        "54": 1
+      }
+    },
+    {
+      "regime": "R",
+      "seed": 19,
+      "n": 300,
+      "unique_actions": 3,
+      "top_action": 32,
+      "top_action_fraction": 0.5733333333333334,
+      "NoComm_fraction": 0.0,
+      "entropy_bits": 1.3628570248278877,
+      "frequencies": {
+        "14": 89,
+        "32": 172,
+        "7": 39
+      }
+    },
+    {
+      "regime": "R",
+      "seed": 31,
+      "n": 300,
+      "unique_actions": 2,
+      "top_action": 0,
+      "top_action_fraction": 0.8033333333333333,
+      "NoComm_fraction": 0.8033333333333333,
+      "entropy_bits": 0.7152111240166495,
+      "frequencies": {
+        "0": 241,
+        "14": 59
+      }
+    },
+    {
+      "regime": "P",
+      "seed": 7,
+      "n": 300,
+      "unique_actions": 3,
+      "top_action": 54,
+      "top_action_fraction": 0.98,
+      "NoComm_fraction": 0.0,
+      "entropy_bits": 0.15444099097478778,
+      "frequencies": {
+        "54": 294,
+        "2": 5,
+        "31": 1
+      }
+    },
+    {
+      "regime": "P",
+      "seed": 19,
+      "n": 300,
+      "unique_actions": 3,
+      "top_action": 32,
+      "top_action_fraction": 0.6533333333333333,
+      "NoComm_fraction": 0.0,
+      "entropy_bits": 1.0274884394662176,
+      "frequencies": {
+        "14": 99,
+        "32": 196,
+        "21": 5
+      }
+    },
+    {
+      "regime": "P",
+      "seed": 31,
+      "n": 300,
+      "unique_actions": 1,
+      "top_action": 14,
+      "top_action_fraction": 1.0,
+      "NoComm_fraction": 0.0,
+      "entropy_bits": -0.0,
+      "frequencies": {
+        "14": 300
+      }
+    }
+  ],
+  "physical_usage_global": {
+    "scope": "All original attempt IDs in WEBExtension/artifacts, including archived caps, pilots and preserved prior study; ledger copies de-duplicated by attempt ID",
+    "unique_attempts": 18568,
+    "outcomes": {
+      "success": 18524,
+      "rejected": 30,
+      "uncertain": 14
+    },
+    "reported_input_tokens_lower_bound": 18617820,
+    "reported_output_tokens_lower_bound": 4829904,
+    "attempts_missing_input_usage": 44,
+    "attempts_missing_output_usage": 117,
+    "refusals": 139,
+    "monetary_cost": null,
+    "reason": "No verified deployment price; missing/refusal/error usage remains unknown, not zero"
+  },
+  "physical_usage_active": [
+    {
+      "pipeline": "controlled",
+      "successes": 6134,
+      "reported_input_tokens": 5960203,
+      "successful_inputs_missing": 0,
+      "reported_output_tokens_lower_bound": 1582163,
+      "successful_outputs_missing": 29,
+      "original_unresolved_attempts": 8,
+      "attempts": 6153
+    },
+    {
+      "pipeline": "controller",
+      "successes": 10019,
+      "reported_input_tokens": 10130139,
+      "successful_inputs_missing": 0,
+      "reported_output_tokens_lower_bound": 2640066,
+      "successful_outputs_missing": 37,
+      "original_unresolved_attempts": 5,
+      "attempts": 10037
+    }
+  ],
+  "sources": {
+    "official_evaluator_sha256": "d35fc91a6db21d791dbdda11daf3856e9359f5701d54e3eefba20d88fecc02c0",
+    "main_manifest_sha256": "7201d0b405fe3d363999d3b2df0f9dbe64df86e88a92d991e53ca37bc7373fca",
+    "controller_manifest_sha256": "0262d5e63aa25af4071f09948242cc74c2698c810a5ccda396db77390c819456",
+    "split_manifest_sha256": "cfc5e00bc87f985ebbe06cadc0bdec5235cc708761aef7f978a21e2b87c4bd2d"
+  },
+  "limits": [
+    "E5 contains all 300 frozen test questions; its contrasts are exploratory relative to the E1 primary endpoint",
+    "Only one model deployment, one benchmark and one primary partition/role/crop seed; controller optimizer seeds are not independent backbone or partition replications",
+    "Input and output known token totals are counted independently; global totals include archived runs, not just the active primary study",
+    "Model deployment alias has no immutable provider snapshot; no pretraining contamination guarantee",
+    "Supporting-label agreement/joint diagnostics do not establish textual entailment or citation faithfulness",
+    "No predeclared noninferiority margin; nonsignificance and identical observed F1 do not prove general safety",
+    "Data subsets reused across optimizer seeds/epochs and test questions reused across paired experiments are intentional; independent-unit count stays at questions",
+    "Publication readiness is an evidence assessment, not a guarantee of acceptance or novelty completeness"
+  ],
+  "E5_complete_tradeoffs": [
+    {
+      "regime": "R",
+      "baseline": "NoComm",
+      "n": 300,
+      "learned_seed_mean_F1": 32.10835652135962,
+      "baseline_F1": 32.314038289425284,
+      "F1_change": -0.2056817680656664,
+      "learned_mean_payload_tokens": 60.05,
+      "baseline_payload_tokens": 0.0,
+      "payload_reduction_percent": null,
+      "learned_mean_logical_calls": 3.9777777777777783,
+      "baseline_calls": 3.0,
+      "call_reduction_percent": -32.59259259259262,
+      "scope": "COMPLETE_300"
+    },
+    {
+      "regime": "R",
+      "baseline": "SelfUpdate",
+      "n": 300,
+      "learned_seed_mean_F1": 32.10835652135962,
+      "baseline_F1": 31.844611528822053,
+      "F1_change": 0.2637449925375641,
+      "learned_mean_payload_tokens": 60.05,
+      "baseline_payload_tokens": 0.0,
+      "payload_reduction_percent": null,
+      "learned_mean_logical_calls": 3.9777777777777783,
+      "baseline_calls": 6.0,
+      "call_reduction_percent": 33.70370370370369,
+      "scope": "COMPLETE_300"
+    },
+    {
+      "regime": "R",
+      "baseline": "Static",
+      "n": 300,
+      "learned_seed_mean_F1": 32.10835652135962,
+      "baseline_F1": 31.30848273386973,
+      "F1_change": 0.7998737874898865,
+      "learned_mean_payload_tokens": 60.05,
+      "baseline_payload_tokens": 95.28,
+      "payload_reduction_percent": 36.97523089840471,
+      "learned_mean_logical_calls": 3.9777777777777783,
+      "baseline_calls": 5.0,
+      "call_reduction_percent": 20.444444444444432,
+      "scope": "COMPLETE_300"
+    },
+    {
+      "regime": "R",
+      "baseline": "Broadcast",
+      "n": 300,
+      "learned_seed_mean_F1": 32.10835652135962,
+      "baseline_F1": 31.65100872639572,
+      "F1_change": 0.45734779496389777,
+      "learned_mean_payload_tokens": 60.05,
+      "baseline_payload_tokens": 293.29333333333335,
+      "payload_reduction_percent": 79.52561712960858,
+      "learned_mean_logical_calls": 3.9777777777777783,
+      "baseline_calls": 6.0,
+      "call_reduction_percent": 33.70370370370369,
+      "scope": "COMPLETE_300"
+    },
+    {
+      "regime": "P",
+      "baseline": "NoComm",
+      "n": 300,
+      "learned_seed_mean_F1": 10.56040686069149,
+      "baseline_F1": 5.059787355802536,
+      "F1_change": 5.500619504888954,
+      "learned_mean_payload_tokens": 71.38222222222221,
+      "baseline_payload_tokens": 0.0,
+      "payload_reduction_percent": null,
+      "learned_mean_logical_calls": 4.658888888888889,
+      "baseline_calls": 3.0,
+      "call_reduction_percent": -55.29629629629629,
+      "scope": "COMPLETE_300"
+    },
+    {
+      "regime": "P",
+      "baseline": "SelfUpdate",
+      "n": 300,
+      "learned_seed_mean_F1": 10.56040686069149,
+      "baseline_F1": 6.216059757236227,
+      "F1_change": 4.344347103455263,
+      "learned_mean_payload_tokens": 71.38222222222221,
+      "baseline_payload_tokens": 0.0,
+      "payload_reduction_percent": null,
+      "learned_mean_logical_calls": 4.658888888888889,
+      "baseline_calls": 6.0,
+      "call_reduction_percent": 22.351851851851855,
+      "scope": "COMPLETE_300"
+    },
+    {
+      "regime": "P",
+      "baseline": "Static",
+      "n": 300,
+      "learned_seed_mean_F1": 10.56040686069149,
+      "baseline_F1": 6.420856025694736,
+      "F1_change": 4.139550834996754,
+      "learned_mean_payload_tokens": 71.38222222222221,
+      "baseline_payload_tokens": 45.04666666666667,
+      "payload_reduction_percent": -58.46282867150114,
+      "learned_mean_logical_calls": 4.658888888888889,
+      "baseline_calls": 5.0,
+      "call_reduction_percent": 6.822222222222218,
+      "scope": "COMPLETE_300"
+    },
+    {
+      "regime": "P",
+      "baseline": "Broadcast",
+      "n": 300,
+      "learned_seed_mean_F1": 10.56040686069149,
+      "baseline_F1": 14.991991341991342,
+      "F1_change": -4.431584481299852,
+      "learned_mean_payload_tokens": 71.38222222222221,
+      "baseline_payload_tokens": 132.87333333333333,
+      "payload_reduction_percent": 46.27799240713797,
+      "learned_mean_logical_calls": 4.658888888888889,
+      "baseline_calls": 6.0,
+      "call_reduction_percent": 22.351851851851855,
+      "scope": "COMPLETE_300"
+    }
+  ],
+  "metric_definitions": {
+    "f1": "Official HotpotQA normalized answer token F1, multiplied by100; mean over questions.",
+    "em": "Official normalized answer exact match, multiplied by100.",
+    "support_available_recall": "Fraction of gold supporting (title,sentence index) labels present in selected candidate pool.",
+    "all_support_available": "All gold supporting labels available somewhere in selected pool; not an entailment check.",
+    "split_support_across_nodes": "Gold supporting labels available in pool but not all in any one P shard.",
+    "answer_support_recall_precision": "Gold supporting-label agreement for citations of responses agreeing with ensemble answer.",
+    "support_label_f1_em": "Additional official-style support-set overlap diagnostics on that citation union, NOT evaluated sentence entailment.",
+    "label_joint_f1_em": "Official joint-metric algebra applied to ensemble answer/citation-union diagnostics; not an official leaderboard evaluation.",
+    "new_support_facts_delivered": "Gold support labels newly delivered to recipients according to serialized message facts, not guaranteed comprehension.",
+    "payload_tokens": "Actual pinned-tokenizer count summed over deliveries; source broadcast message counted once per edge.",
+    "logical_calls": "Calls required by this arm including shared initial inference; not a count of new physical charges.",
+    "cache_reads_this_execution": "Execution/recovery metadata; do not interpret as a treatment property.",
+    "input_output_tokens": "Reported provider dimensions; missing counts remain NA; known-subset means differ from all-question means.",
+    "provider_refusal_count": "Explicit refused terminal responses among three current agents; provider_refusal_calls also includes required initial/receiver logical calls.",
+    "utility_gain": "F1gain/100 minus .05 payload/fullbroadcast minus .02 distinct updated recipients/3.",
+    "ci95": "Question bootstrap intervals; completed stored contrasts use10000 draws, added summaries/complete E5 use5000 deterministic draws.",
+    "pvalues": "Preserved paired sign-randomization values; E1 primary interaction is unique primary endpoint. E5 contrasts are exploratory; checkpoints were frozen before testing.",
+    "overlap": "Across train/validation/test/pilot, exact ID/normalized-question/candidate-title intersections; across E1–E4 and E5, shared held-out questions are intentionally paired."
+  },
+  "cross_suite_baseline_overlap": {
+    "comparisons": 1200,
+    "answer_disagreements": 106,
+    "same_initial_provider_keys": 0,
+    "interpretation": "E5 uses controller namespace and separate responses; compare treatments within the same suite, do not pool as independent questions."
+  },
+  "E3_v2": {
+    "screened": 300,
+    "eligible": 299,
+    "result_sha256": "6b6e325d198f35e7885ea6d4d832cb636c4d982b5885013b0d0d604797ef9779",
+    "status": "COMPLETE_EXPLORATORY",
+    "scope": "FOLLOWUP_AFTER_ORIGINAL_TEST_INSPECTION"
+  },
+  "manipulation_versions": {
+    "E3_original": {
+      "distinct_pairs": 2,
+      "identical_pairs": 298,
+      "screened": 300,
+      "source": "answer_and_generated_citations",
+      "cap": 256,
+      "role": "HISTORICAL"
+    },
+    "E3_v2": {
+      "distinct_pairs": 299,
+      "equal_128_token_pairs": 299,
+      "screened": 300,
+      "ineligible": 1,
+      "source": "all_sender_visible_evidence",
+      "role": "CURRENT_EXPLORATORY"
+    }
+  }
+}

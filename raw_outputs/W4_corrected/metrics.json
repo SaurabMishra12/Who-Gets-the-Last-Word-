@@ -1,0 +1,40 @@
+{
+  "n_samples": 100,
+  "controls": {
+    "fixed_depth_rounds": 2,
+    "same_frozen_information_pool": true,
+    "exact_volume_matching_2edge": true,
+    "matching_tolerance_pct": 0.0
+  },
+  "Static_Role": {
+    "exact_match": 0.5,
+    "f1_score": 0.4488619158619158,
+    "avg_comm_tokens": 24.08,
+    "avg_latency_sec": 3.8095700000000003
+  },
+  "Learned_SparseComm": {
+    "exact_match": 0.49,
+    "f1_score": 0.44018834659963685,
+    "avg_comm_tokens": 24.08,
+    "avg_latency_sec": 3.8519200000000002
+  },
+  "Random_Routing": {
+    "exact_match": 0.52,
+    "f1_score": 0.46585397935397926,
+    "avg_comm_tokens": 24.08,
+    "avg_latency_sec": 3.5784599999999993
+  },
+  "Complete_Broadcast_Matched": {
+    "exact_match": 0.46,
+    "f1_score": 0.4266839826839827,
+    "avg_comm_tokens": 20.88,
+    "avg_latency_sec": 5.86174
+  },
+  "Complete_Broadcast_Full": {
+    "exact_match": 0.53,
+    "f1_score": 0.4703601905341035,
+    "avg_comm_tokens": 167.52,
+    "avg_latency_sec": 6.941599999999998
+  },
+  "elapsed_seconds": 2409.89
+}

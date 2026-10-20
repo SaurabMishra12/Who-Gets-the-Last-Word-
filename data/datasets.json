@@ -1,0 +1,52 @@
+{
+  "two_wiki": {
+    "name": "2WikiMultihopQA",
+    "historical_cohorts": {
+      "pilot": 20,
+      "extension": 130
+    },
+    "peer_private": 130,
+    "development": 60,
+    "packet_ablation": 24,
+    "articles_per_query": 10,
+    "partition": [
+      4,
+      3,
+      3
+    ],
+    "partition_unit": "whole document",
+    "source_url": "https://www.dropbox.com/s/ms2m13252h6xubs/data_ids_april7.zip?dl=1",
+    "source_release_sha256": "95df2bf56fdabe034e27aebc580e02264232203cf52552f9efe8a919e5529eef",
+    "gold_usage": "scoring and post-hoc strata only"
+  },
+  "hotpot_open_book": {
+    "name": "HotpotQA fullwiki dev",
+    "questions": 300,
+    "shared_regime": "all six selected articles per agent",
+    "partitioned_regime": "two selected articles per agent",
+    "gold_strata": {
+      "disjoint": 62,
+      "colocated": 14,
+      "missing": 224
+    },
+    "retrieval_scope": "BM25 over the provided candidate articles, not a live Web crawl or a full-Wikipedia search index",
+    "e3_v2_eligible": 299
+  },
+  "reasoning": {
+    "paper_benchmarks": [
+      "GSM8K",
+      "AQuA-RAT",
+      "closed-book HotpotQA"
+    ],
+    "P1": "300 per seed, three seeds, separate from P1b",
+    "P1b_paired_questions": {
+      "gsm8k": 551,
+      "aqua": 254,
+      "hotpotqa": 863
+    },
+    "P4": "150 arithmetic-template questions",
+    "P5": "100 arithmetic-template questions",
+    "note": "Historical archives contain repeated questions and multiple checkpoint slices; the released sequence is not an independent sample of unique questions."
+  },
+  "redistribution": "Benchmark excerpts and model outputs are supplied for research inspection. Upstream dataset and model terms continue to apply. No new blanket license is asserted over third-party material."
+}

@@ -1,0 +1,18 @@
+{
+  "tables": {
+    "1": "Execution contract and formal sources",
+    "2": "Historical 2Wiki raw records and historical_readouts",
+    "3": "new_peer_private; replication_peer_private",
+    "4": "Hotpot E1/E5 outputs and readout reassessment",
+    "5": "P1 reported seed arrays, P1b archived streams, P4/P5 traces",
+    "6": "Methodological checklist; no empirical estimator",
+    "7": "Literature comparison; no experimental estimator",
+    "8": "configs/model_and_protocol.json and frozen manifests",
+    "9": "data/datasets.json and cohort manifests",
+    "10": "P4 exhaustive support traces",
+    "11": "Hotpot gold strata and W1-W4/P3 archives"
+  },
+  "status": "All printed table values retained. Offline validation covers answer scores, selected readouts, P5 counts and P1 seed-summary arithmetic. It does not claim to reproduce all historical bootstrap intervals, CR1 estimates or training trajectories.",
+  "P1b_pairing": "Historical code normalizes question text, hashes it, lets later duplicate rows overwrite earlier rows, and intersects method indexes. GSM8K Transfer rows 300:600 are selected per seed. This is a historical pairing rule, not a new independent cohort.",
+  "figure_status": "Companion renderings; all original printed table cells are retained separately."
+}

@@ -1,0 +1,6 @@
+{
+  "README_tex_compile": "UNVERIFIED_ENVIRONMENT_UNAVAILABLE",
+  "reason": "The app Tectonic compiler could not download its required default TeX bundle. No successful README compilation is claimed.",
+  "figure_rendering": "PASS; four PDF and PNG companion figures generated locally with matplotlib 3.11.0; exports intentionally omitted from the repository to preserve the requested file formats.",
+  "visual_review": "Figures 2, 3 and 4 inspected; figure 1 separately checked before publication."
+}

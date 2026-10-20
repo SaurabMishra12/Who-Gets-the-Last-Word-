@@ -1,0 +1,482 @@
+[
+  {
+    "qid": "1a89b60308f911ebbdaaac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "XRay Magazine was published first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "genuine": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "1cf6b11808a111ebbd78ac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "genuine": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "39befe640bde11eba7f7acde48001122",
+    "scores": {
+      "facts_only": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "genuine": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "39eba8ce088711ebbd6dac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "The Gentle Art Of Burglary",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "The Gentle Art Of Burglary",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "47d28564094c11ebbdaeac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "genuine": {
+        "answer": "Chanakya Shapatham",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "56d3a3a20bb011ebab90acde48001122",
+    "scores": {
+      "facts_only": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "5affe63d08f311ebbdaaac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "Man's Search for Happiness was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "genuine": {
+        "answer": "Man's Search for Happiness was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "5dea524a088511ebbd6dac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "683cfb340bb011ebab90acde48001122",
+    "scores": {
+      "facts_only": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "genuine": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "767efc000bde11eba7f7acde48001122",
+    "scores": {
+      "facts_only": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "genuine": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "76d3ccb20bde11eba7f7acde48001122",
+    "scores": {
+      "facts_only": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "8794d23d089e11ebbd78ac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "Charles Crawford Davis",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "Charles Crawford Davis died later.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "887f71380bb011ebab90acde48001122",
+    "scores": {
+      "facts_only": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "8a7dfd2f092611ebbdaeac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "genuine": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "923054040bb011ebab90acde48001122",
+    "scores": {
+      "facts_only": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "genuine": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "placebo": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      }
+    }
+  },
+  {
+    "qid": "b1046ffa0bdd11eba7f7acde48001122",
+    "scores": {
+      "facts_only": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "genuine": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "placebo": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "b428fe9a0baf11ebab90acde48001122",
+    "scores": {
+      "facts_only": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "ba015944086611ebbd5eac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "genuine": {
+        "answer": "Yes, both directors are American.",
+        "em": 0,
+        "f1": 0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "bc7c589d08aa11ebbd80ac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "bcc4e26c08c111ebbd8bac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "No",
+        "em": 0,
+        "f1": 0
+      },
+      "genuine": {
+        "answer": "Yes, both directors share American nationality.",
+        "em": 0,
+        "f1": 0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "ca8a1872084911ebbd55ac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "d3e9671e0bdd11eba7f7acde48001122",
+    "scores": {
+      "facts_only": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "d3f31923087111ebbd63ac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "e82674bd089311ebbd75ac1f6bf848b6",
+    "scores": {
+      "facts_only": {
+        "answer": "A Pistol for Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "genuine": {
+        "answer": "A Pistol For Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "placebo": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  }
+]

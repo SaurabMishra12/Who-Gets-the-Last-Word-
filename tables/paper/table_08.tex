@@ -1,0 +1,26 @@
+% Fragment transcribed from the supplied TeX; see paper/reference.json.
+\begin{table}[!h]
+\centering
+\caption{Principal model, retrieval, and controller hyperparameters.}
+\label{tab:hyperparams}
+\scriptsize
+\setlength{\tabcolsep}{3.2pt}
+\renewcommand{\arraystretch}{1.03}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}ll@{}}
+\toprule
+\textbf{Component} & \textbf{Configuration} \\
+\midrule
+Backbone \& decoding & \texttt{openai/gpt-oss-120b}; $T_{\mathrm{dec}}=0$; top-$p=1.0$ \\
+Context \& max output & Web QA: $32{,}768$ ctx / $8{,}192$ out; Co-located: $512$ out, $T=3$ \\
+BM25 retrieval & $k_1=1.5$, $b=0.75$; top-$6$ (E1--E5); top-$3$/$10$ (W1--W4) \\
+E3-v2 message budget & $128$ tokens (order-preserving prefix vs.\ seeded contiguous crop) \\
+E5 categorical PPO & $53\to 64\to 64$ Tanh MLP; $55$ actions; quotas $B\in\{64,128,256\}$ \\
+E5 reward \& training & $\lambda_{\mathrm{payload}}=0.05$, $\lambda_{\mathrm{calls}}=0.02$; Adam $\mathrm{lr}=3\times 10^{-4}$, clip $0.2$ \\
+Co-located actor--critic & $20\to 64\to 64$ MLP; low-rank $\mathbf{H}_s,\mathbf{H}_d\in\mathbb{R}^{3\times 2}$, bias $+0.5$ \\
+Co-located RL terms & $\lambda_{\mathrm{info}}=0.3$, $\lambda_{\mathrm{KL}}=0.01$, $\gamma=0.99$, $\lambda_{\mathrm{GAE}}=0.95$ \\
+Stopping thresholds & Log-odds threshold $\log 19$ (P1--P5); $\log 4$ (W3); ceilings $\bar{V}\in\{50,100\}$ \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

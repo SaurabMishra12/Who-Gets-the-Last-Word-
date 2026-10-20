@@ -1,0 +1,20 @@
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\begin{document}
+\section*{Communication and readout: algorithm specification}
+This document gives pseudocode, not the production inference implementation.
+\begin{enumerate}
+\item Freeze question IDs, local evidence, initial states, decoding settings, sender order and payload construction before comparing communication graphs.
+\item Compute one initial response per agent. Construct each outgoing packet from the previous state; do not update a sender while preparing another recipient's input.
+\item For graph $G$, collect each recipient's incoming packets in ascending sender order. Run a recipient update only when the execution contract requires one. Agents without an update retain their initial state.
+\item Report the sink answer, sink-with-initial-leaf fallback, ordinary vote and abstention-aware vote separately. An abstention-aware vote removes null, refused and \texttt{noanswer} proposals; ties follow the frozen agent order.
+\item Score final answers only after inference. Compute normalized answer EM and token $F_1$, taking the maximum over documented aliases for 2Wiki. Join paired comparisons on question ID.
+\item Count directed deliveries, recipient updates, logical model calls, payload units and provider usage separately. Shared cached requests do not create new physical attempts.
+\end{enumerate}
+\section*{Call-matched revision}
+Freeze the same three initial states for both arms. In the peer arm, each agent receives the other agents' frozen packets. In the private arm, the peer packet list is empty. Keep local evidence, previous state, decoding and output cap fixed. Vote over the three revised answers. Equal call counts do not imply equal input lengths, realized output lengths or computation.
+\section*{Controller and stopping}
+The categorical Web controller chooses among 55 admissible actions from a 53-feature state. The historical co-located controller uses low-rank edge scores, message filtering and a stop decision. Evaluate graph choice and stop timing as separate factors where the saved contract permits it. Current source defaults are not evidence of past run settings.
+\section*{Boundaries}
+The Lean artifact verifies the encoded assumptions. It does not certify empirical factuality, source necessity, provider determinism or unrestricted Web generalization. P4 and P5 contain arithmetic templates. P5 communication counts are word-based proxy units.
+\end{document}

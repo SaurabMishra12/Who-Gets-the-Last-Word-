@@ -1,0 +1,6302 @@
+[
+  {
+    "qid": "0140e1380bde11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "1879",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "18 October 1864",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "1a89b60308f911ebbdaaac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "full_union": {
+        "answer": "XRay Magazine was published first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_SP": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "XRay Magazine",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "XRay Magazine was published first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "private_order012": {
+        "answer": "XRay Magazine was published first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "private_order021": {
+        "answer": "XRay Magazine was published first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "private_order102": {
+        "answer": "XRay Magazine was published first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "private_order120": {
+        "answer": "XRay Magazine was published first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "private_order201": {
+        "answer": "XRay Magazine was published first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "private_order210": {
+        "answer": "XRay Magazine was published first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      }
+    }
+  },
+  {
+    "qid": "1b36c01f08df11ebbd9fac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "1cf6b11808a111ebbd78ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "A Yank In The R.A.F.",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "1dba599508b811ebbd88ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "1e71fb080bdd11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "full_union": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order012": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order021": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order102": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order120": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order201": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order210": {
+        "answer": "20 March 2008",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "23a101880bdc11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "294572a1087f11ebbd6bac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "No",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "No",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "No",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "No",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "39befe640bde11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "39e5fd3308ea11ebbda7ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "39eba8ce088711ebbd6dac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "The Gentle Art of Burglary",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "The Gentle Art Of Burglary",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "The Gentle Art Of Burglary",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "The Gentle Art Of Burglary",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "The Gentle Art Of Burglary",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "The Gentle Art Of Burglary",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "The Gentle Art Of Burglary",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "The Gentle Art Of Burglary",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "4782cd7d087e11ebbd6bac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "The Olsen Gang's Big Score",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "The Olsen Gang's Big Score",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "The Olsen Gang's Big Score",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "The Olsen Gang's Big Score",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "The Olsen Gang's Big Score",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "The Olsen Gang's Big Score",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "The Olsen Gang's Big Score",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "The Olsen Gang's Big Score",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "47d28564094c11ebbdaeac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_SP": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_all": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order012": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order021": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order102": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order120": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order201": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order210": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_sink": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Chanakya Shapatham was released more recently.",
+        "em": 0,
+        "f1": 50.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "495d61cc0bb011ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "full_union": {
+        "answer": "Lady Elizabeth McDouall-Crichton",
+        "em": 0,
+        "f1": 80.0
+      },
+      "peer_SP": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_all": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order012": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order021": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order102": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order120": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order201": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order210": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_all": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order012": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order021": {
+        "answer": "Lady Elizabeth Penelope",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order102": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order120": {
+        "answer": "Lady Elizabeth McDougall-Crichton",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order201": {
+        "answer": "Lady Elizabeth Penelope",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order210": {
+        "answer": "Lady Elizabeth Penelope",
+        "em": 0,
+        "f1": 40.0
+      }
+    }
+  },
+  {
+    "qid": "4d3ab509099c11ebbdb0ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Yes, both stations are located in France.",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Yes, both stations are located in France.",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Yes, both stations are located in France.",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Yes, both stations are located in France.",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "50d225540bde11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "56d3a3a20bb011ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "full_union": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order012": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order021": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order102": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order120": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order201": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order210": {
+        "answer": "Hermann Otto II of Limburg Stirum",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "5affe63d08f311ebbdaaac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Man's Search for Happiness",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "Man's Search for Happiness was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order012": {
+        "answer": "Man's Search for Happiness was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order021": {
+        "answer": "Man's Search for Happiness was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order102": {
+        "answer": "Man's Search for Happiness was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order120": {
+        "answer": "Man's Search for Happiness was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order201": {
+        "answer": "Man's Search for Happiness was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order210": {
+        "answer": "Man's Search for Happiness was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "5dea524a088511ebbd6dac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Yes, both are Canadian.",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "6503f3ce0baf11ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "full_union": {
+        "answer": "Anna Pavlovna of Russia",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_all": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order012": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order021": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order102": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order120": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order201": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order210": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_all": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order012": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order021": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order102": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order120": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order201": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order210": {
+        "answer": "Queen Anna Paulovna",
+        "em": 0,
+        "f1": 40.0
+      }
+    }
+  },
+  {
+    "qid": "6562f3780bb011ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "peer_all": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "peer_order012": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "peer_order021": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "peer_order102": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "peer_order120": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "peer_order201": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "peer_order210": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "peer_sink": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Don Francisco Fernández de la Cueva, 2nd Duke of Alburquerque",
+        "em": 0,
+        "f1": 94.73684210526316
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "683cfb340bb011ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_SP": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_all": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_order012": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_order021": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_order102": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_order120": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_order201": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_order210": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_sink": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Countess Princess Augusta of Schwarzburg-Sondershausen",
+        "em": 0,
+        "f1": 88.8888888888889
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "6ab2c3860baf11ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Georgios Papandreou",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "6f96f50508bf11ebbd8aac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Yes, both universities are located in China.",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "767efc000bde11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "76d3ccb20bde11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "10 October 1846",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "772e74ec0bb011ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Hedwiga of Babenberg",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "Hedwiga of Babenberg",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order012": {
+        "answer": "Hedwiga of Babenberg",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order021": {
+        "answer": "Hedwiga of Babenberg",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order102": {
+        "answer": "Hedwiga of Babenberg",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order120": {
+        "answer": "Hedwiga of Babenberg",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order201": {
+        "answer": "Hedwiga of Babenberg",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_order210": {
+        "answer": "Hedwiga of Babenberg",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "79ab35da095711ebbdaeac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Victoria's Secret was established first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "Victoria's Secret was established first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_order012": {
+        "answer": "Victoria's Secret was established first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_order021": {
+        "answer": "Victoria's Secret was established first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_order102": {
+        "answer": "Victoria's Secret was established first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_order120": {
+        "answer": "Victoria's Secret was established first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_order201": {
+        "answer": "Victoria's Secret was established first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_order210": {
+        "answer": "Victoria's Secret was established first.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "7a81f2720bdd11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "8794d23d089e11ebbd78ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Charles Crawford Davis",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Charles Crawford Davis",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Charles Crawford Davis died later",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_order012": {
+        "answer": "Charles Crawford Davis died later",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_order021": {
+        "answer": "Charles Crawford Davis died later",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_order102": {
+        "answer": "Charles Crawford Davis",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Charles Crawford Davis",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Charles Crawford Davis died later",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_order210": {
+        "answer": "Charles Crawford Davis",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Charles Crawford Davis",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Charles Crawford Davis",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Charles Crawford Davis",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "887f71380bb011ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Robert de Brus, 2nd Lord of Annandale",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "8a7dfd2f092611ebbdaeac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Hazırım came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_SP": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_all": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order012": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order021": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order102": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order120": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order201": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order210": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Hazırım was released first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "8eaa7497095c11ebbdaeac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Kids of the Round Table was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_SP": {
+        "answer": "Kids of the Round Table",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Kids Of The Round Table was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order012": {
+        "answer": "Kids Of The Round Table was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order021": {
+        "answer": "Kids Of The Round Table was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order102": {
+        "answer": "Kids Of The Round Table was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order120": {
+        "answer": "Kids Of The Round Table was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order201": {
+        "answer": "Kids Of The Round Table was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_order210": {
+        "answer": "Kids Of The Round Table was released earlier.",
+        "em": 0,
+        "f1": 72.72727272727273
+      },
+      "peer_sink": {
+        "answer": "Kids of the Round Table",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Kids of the Round Table",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Kids of the Round Table",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "923054040bb011ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "full_union": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_SP": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_all": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_order012": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_order021": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_order102": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_order120": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_order201": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_order210": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_sink": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "peer_sink_private_leaves": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "private_all": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "private_order012": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "private_order021": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "private_order102": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "private_order120": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "private_order201": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      },
+      "private_order210": {
+        "answer": "King Tarabya of Ava",
+        "em": 0,
+        "f1": 85.71428571428571
+      }
+    }
+  },
+  {
+    "qid": "95ab4cac0bdc11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Zürich",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "Zürich",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Zürich",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Zürich",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Zürich",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Zürich",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Zürich",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Zürich",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "a1f15751088e11ebbd70ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_SP": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_all": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_order012": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_order021": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_order102": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_order120": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_order201": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_order210": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_sink": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Never Too Young To Die was released first.",
+        "em": 0,
+        "f1": 76.92307692307693
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "a283d9e208be11ebbd8aac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "The Cure for Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "The Cure for Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "The Cure For Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "The Cure For Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "The Cure For Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "The Cure for Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "The Cure for Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "The Cure For Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "The Cure For Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "The Cure for Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "The Cure for Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "The Cure for Love",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "a4939cfc08f711ebbdaaac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_SP": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_all": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_order012": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_order021": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_order102": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_order120": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_order201": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_order210": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_sink": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Julia McNair Wright died first.",
+        "em": 0,
+        "f1": 74.99999999999999
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "a4f96ce80bdc11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "1279",
+        "em": 0,
+        "f1": 50.0
+      },
+      "full_union": {
+        "answer": "15 August 1279",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "15 August 1279",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "15 August 1279",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "15 August 1279",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "15 August 1279",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "15 August 1279",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "15 August 1279",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "15 August 1279",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "15 August 1279",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "15 August 1279",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "1279",
+        "em": 0,
+        "f1": 50.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "1279",
+        "em": 0,
+        "f1": 50.0
+      },
+      "private_all": {
+        "answer": "1279",
+        "em": 0,
+        "f1": 50.0
+      },
+      "private_order012": {
+        "answer": "1279",
+        "em": 0,
+        "f1": 50.0
+      },
+      "private_order021": {
+        "answer": "1279",
+        "em": 0,
+        "f1": 50.0
+      },
+      "private_order102": {
+        "answer": "1279",
+        "em": 0,
+        "f1": 50.0
+      },
+      "private_order120": {
+        "answer": "1279",
+        "em": 0,
+        "f1": 50.0
+      },
+      "private_order201": {
+        "answer": "1279",
+        "em": 0,
+        "f1": 50.0
+      },
+      "private_order210": {
+        "answer": "1279",
+        "em": 0,
+        "f1": 50.0
+      }
+    }
+  },
+  {
+    "qid": "a7419bf3092e11ebbdaeac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "full_union": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_SP": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_all": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order012": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order021": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order102": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order120": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order201": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_order210": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_all": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order012": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order021": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order102": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order120": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order201": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      },
+      "private_order210": {
+        "answer": "Krishnarjuna came out first.",
+        "em": 0,
+        "f1": 40.0
+      }
+    }
+  },
+  {
+    "qid": "acb7ce2e0bdd11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "ad79f83e097311ebbdb0ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      },
+      "full_union": {
+        "answer": "El Amor Y El Espanto was released more recently.",
+        "em": 0,
+        "f1": 71.42857142857143
+      },
+      "peer_SP": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "El Amor Y El Espanto was released more recently.",
+        "em": 0,
+        "f1": 71.42857142857143
+      },
+      "peer_order012": {
+        "answer": "El Amor Y El Espanto was released more recently.",
+        "em": 0,
+        "f1": 71.42857142857143
+      },
+      "peer_order021": {
+        "answer": "El Amor Y El Espanto was released more recently.",
+        "em": 0,
+        "f1": 71.42857142857143
+      },
+      "peer_order102": {
+        "answer": "El Amor Y El Espanto was released more recently.",
+        "em": 0,
+        "f1": 71.42857142857143
+      },
+      "peer_order120": {
+        "answer": "El Amor Y El Espanto was released more recently.",
+        "em": 0,
+        "f1": 71.42857142857143
+      },
+      "peer_order201": {
+        "answer": "El Amor Y El Espanto was released more recently.",
+        "em": 0,
+        "f1": 71.42857142857143
+      },
+      "peer_order210": {
+        "answer": "El Amor Y El Espanto was released more recently.",
+        "em": 0,
+        "f1": 71.42857142857143
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order012": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order021": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order102": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order120": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order201": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order210": {
+        "answer": "El Amor Y El Espanto",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "b025e878095011ebbdaeac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Yes, both are located in the United States.",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "b1046ffa0bdd11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order201": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order210": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "Eindhoven",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "b428fe9a0baf11ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "full_union": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order012": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order021": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order102": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order120": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order201": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order210": {
+        "answer": "Adelaide of Löwenstein-Wertheim-Rosenberg",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "ba015944086611ebbd5eac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "bc7c589d08aa11ebbd80ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "full_union": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order012": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order021": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order102": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "bcc4e26c08c111ebbd8bac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Yes",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "c02763f708be11ebbd8aac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Ángel Recasens",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "c581e00c08ae11ebbd83ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Blue Murder at St Trinian's",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Blue Murder At St Trinian'S",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Blue Murder at St Trinian's",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Blue Murder at St Trinian's",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Blue Murder at St Trinian's",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Blue Murder At St Trinian'S",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Blue Murder At St Trinian'S",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Blue Murder At St Trinian'S",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Blue Murder At St Trinian'S",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Blue Murder At St Trinian'S",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Blue Murder At St Trinian'S",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Blue Murder At St Trinian'S",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "c8c607d408ae11ebbd83ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier.",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_SP": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier.",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_all": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier.",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_order012": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier.",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_order021": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier.",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_order102": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier.",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_order120": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier.",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_order201": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_order210": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_sink": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier.",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier.",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "peer_sink_private_leaves": {
+        "answer": "John Lysaght, 1st Baron Lisle died earlier.",
+        "em": 0,
+        "f1": 83.33333333333333
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "ca8a1872084911ebbd55ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Broadway Melody of 1940",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "d24eec2a0bd911eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "d3e9671e0bdd11eba7f7acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "full_union": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order012": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order021": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order102": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order120": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order201": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order210": {
+        "answer": "Trinity College, Dublin",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "d3f31923087111ebbd63ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "full_union": {
+        "answer": "Helen Boughton-Leigh died later.",
+        "em": 0,
+        "f1": 66.66666666666666
+      },
+      "peer_SP": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order012": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order021": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order102": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order120": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order201": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order210": {
+        "answer": "Helen Boughton-Leigh",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "e2105ac1086b11ebbd60ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "Sumner Locke (Elliott) is younger.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "full_union": {
+        "answer": "Sumner Locke is younger.",
+        "em": 0,
+        "f1": 66.66666666666666
+      },
+      "peer_SP": {
+        "answer": "Sumner Locke (Elliott) is younger.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_all": {
+        "answer": "Sumner Locke",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Sumner Locke",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Sumner Locke",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Sumner Locke",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Sumner Locke",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Sumner Locke",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Sumner Locke",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Sumner Locke (Elliott) is younger.",
+        "em": 0,
+        "f1": 57.14285714285715
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Sumner Locke Elliott",
+        "em": 0,
+        "f1": 80.0
+      },
+      "private_all": {
+        "answer": "Sumner Locke Elliott",
+        "em": 0,
+        "f1": 80.0
+      },
+      "private_order012": {
+        "answer": "Sumner Locke Elliott",
+        "em": 0,
+        "f1": 80.0
+      },
+      "private_order021": {
+        "answer": "Sumner Locke Elliott",
+        "em": 0,
+        "f1": 80.0
+      },
+      "private_order102": {
+        "answer": "Sumner Locke Elliott",
+        "em": 0,
+        "f1": 80.0
+      },
+      "private_order120": {
+        "answer": "Sumner Locke Elliott",
+        "em": 0,
+        "f1": 80.0
+      },
+      "private_order201": {
+        "answer": "Sumner Locke Elliott",
+        "em": 0,
+        "f1": 80.0
+      },
+      "private_order210": {
+        "answer": "Sumner Locke Elliott",
+        "em": 0,
+        "f1": 80.0
+      }
+    }
+  },
+  {
+    "qid": "e5a5ff220baf11ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "full_union": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order012": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order021": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order102": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order120": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order201": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_order210": {
+        "answer": "Henry Howard, 5th Earl of Suffolk",
+        "em": 100,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "e5e61c340bae11ebab90acde48001122",
+    "scores": {
+      "R0_all": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "full_union": {
+        "answer": "Philibert, Margrave of Baden-Baden",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "private_order012": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "private_order021": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "private_order102": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "private_order120": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "private_order201": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      },
+      "private_order210": {
+        "answer": "Margrave Philibert of Baden-Baden",
+        "em": 0,
+        "f1": 100.0
+      }
+    }
+  },
+  {
+    "qid": "e82674bd089311ebbd75ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "A Pistol for Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "A Pistol For Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_all": {
+        "answer": "A Pistol for Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "A Pistol for Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "A Pistol for Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "A Pistol For Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "A Pistol For Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "A Pistol For Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "A Pistol For Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "A Pistol For Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "A Pistol For Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "A Pistol For Ringo",
+        "em": 100,
+        "f1": 100.0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  },
+  {
+    "qid": "ecf6cccc089711ebbd77ac1f6bf848b6",
+    "scores": {
+      "R0_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "full_union": {
+        "answer": "The Phantom Express",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_SP": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_all": {
+        "answer": "The Phantom Express",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order012": {
+        "answer": "The Phantom Express",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order021": {
+        "answer": "The Phantom Express",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order102": {
+        "answer": "The Phantom Express",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order120": {
+        "answer": "The Phantom Express",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order201": {
+        "answer": "The Phantom Express",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_order210": {
+        "answer": "The Phantom Express",
+        "em": 100,
+        "f1": 100.0
+      },
+      "peer_sink": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_R0_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "peer_sink_private_leaves": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_all": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order012": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order021": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order102": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order120": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order201": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      },
+      "private_order210": {
+        "answer": "noanswer",
+        "em": 0,
+        "f1": 0
+      }
+    }
+  }
+]

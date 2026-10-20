@@ -1,0 +1,58 @@
+{
+  "protocol.py": {
+    "frozen_path": "WEBExtension/artifacts/controller_study_a0b3768357484b45/source_snapshot/protocol.py",
+    "frozen_sha256": "30e18df0949f40b152131dca3c65d9a2a897080f0451a7f989dcf34a3fa28226",
+    "current_path": "WEBExtension/protocol.py",
+    "current_sha256": "30e18df0949f40b152131dca3c65d9a2a897080f0451a7f989dcf34a3fa28226",
+    "functions": {
+      "normalize": {
+        "same_ast": true,
+        "frozen_source": "def normalize(s):\n    s = ''.join(c for c in s.lower() if c not in string.punctuation)\n    return ' '.join(re.sub(r'\\b(a|an|the)\\b', ' ', s).split())"
+      },
+      "score": {
+        "same_ast": true,
+        "frozen_source": "def score(prediction, gold):\n    \"\"\"Matches hotpot_evaluate_v1.py; F1 and EM expressed in percentage points.\"\"\"\n    p, g = normalize(prediction), normalize(gold)\n    common = sum((Counter(p.split()) & Counter(g.split())).values())\n    f1 = 0.0\n    if common and not ((p in ['yes', 'no', 'noanswer'] or g in ['yes', 'no', 'noanswer']) and p != g):\n        precision, recall = common / len(p.split()), common / len(g.split())\n        f1 = 200 * precision * recall / (precision + recall)\n    return {'f1': f1, 'em': 100.0 * (p == g)}"
+      },
+      "majority": {
+        "same_ast": true,
+        "frozen_source": "def majority(responses):\n    \"\"\"Unweighted normalized answer vote; ties follow fixed randomized node order.\"\"\"\n    counts = Counter(normalize(r['answer']) for r in responses)\n    winner = max(counts, key=counts.get)\n    return next(r['answer'] for r in responses if normalize(r['answer']) == winner)"
+      },
+      "role_order": {
+        "same_ast": true,
+        "frozen_source": "def role_order(qid, seed):\n    roles = list(ROLES)\n    stable_rng('roles', qid, seed).shuffle(roles)\n    return roles"
+      }
+    }
+  },
+  "experiments.py": {
+    "frozen_path": "WEBExtension/artifacts/controller_study_a0b3768357484b45/source_snapshot/experiments.py",
+    "frozen_sha256": "398842af07b16ef47eb26ca538a2479aa34cd0410d9bc567fbaa2d5bb1d37485",
+    "current_path": "WEBExtension/experiments.py",
+    "current_sha256": "398842af07b16ef47eb26ca538a2479aa34cd0410d9bc567fbaa2d5bb1d37485",
+    "functions": {
+      "condition": {
+        "same_ast": true,
+        "frozen_source": "def condition(row, state, revised, deliveries, include_initial=True):\n    answer = majority(revised)\n    gold = set(map(tuple, row['supporting_facts']))\n    available = {(d['title'], i) for d in state['pool'] for i in range(len(d['sentences']))}\n    own = [{(d['title'], i) for d in docs for i in range(len(d['sentences']))} for docs in state['assignment']]\n    transferred = recipient_fact_sets(deliveries)\n    support = set(tuple(c) for r in revised if normalize_equal(r['answer'], answer) for c in r['citations'])\n    initial = state['responses'] if include_initial else []\n    return {'answer': answer, **score(answer, row['answer']), 'responses': revised, 'deliveries': deliveries,\n            'payload_tokens': sum(d['tokens'] for d in deliveries),\n            'support_available_recall': len(gold & available) / max(1, len(gold)),\n            'all_support_available': gold <= available,\n            'split_support_across_nodes': (gold <= available and not any(gold <= o for o in own)),\n            'initial_support_recall_by_node': [len(gold & o) / max(1, len(gold)) for o in own],\n            'new_support_facts_delivered_by_node': [len((gold & tr) - o) for tr, o in zip(transferred, own)],\n            'answer_support_recall': len(gold & support) / max(1, len(gold)),\n            'answer_support_precision': len(gold & support) / max(1, len(support)),\n            'invalid_citation_count': sum(len(r['invalid_citations']) for r in revised),\n            'provider_refusal_count':sum(bool(r.get('provider_refusal')) for r in revised),\n            'cost': measured_cost(initial + revised),\n            'citation_entailment': 'not measured'}"
+      },
+      "measured_cost": {
+        "same_ast": true,
+        "frozen_source": "def measured_cost(responses):\n    # Logical condition cost: includes shared initial inference. Physical billing is in calls.jsonl.\n    inputs, outputs = [r['input_tokens'] for r in responses], [r['output_tokens'] for r in responses]\n    return {'input_tokens': sum(inputs) if all(x is not None for x in inputs) else None,\n            'output_tokens': sum(outputs) if all(x is not None for x in outputs) else None,\n            'usage_complete': all(x is not None for x in inputs + outputs), 'logical_calls': len(responses),\n            'cache_reads_this_execution': sum(r['cache_hit'] for r in responses),\n            'provider_refusal_calls':sum(bool(r.get('provider_refusal')) for r in responses),\n            'call_keys': [r['call_key'] for r in responses]}"
+      }
+    }
+  },
+  "controller_study.py": {
+    "frozen_path": "WEBExtension/artifacts/controller_study_a0b3768357484b45/source_snapshot/controller_study.py",
+    "frozen_sha256": "6479d85e4f450d6210af1c7b846768b98674a30d2389d82063607a2c84684a0b",
+    "current_path": "WEBExtension/controller_study.py",
+    "current_sha256": "6479d85e4f450d6210af1c7b846768b98674a30d2389d82063607a2c84684a0b",
+    "functions": {
+      "routed_cost": {
+        "same_ast": true,
+        "frozen_source": "def routed_cost(initial,revised,edges):\n    recipients=sorted({t for s,t in edges})\n    return measured_cost(list(initial)+[revised[i] for i in recipients])"
+      },
+      "policy_result": {
+        "same_ast": true,
+        "frozen_source": "def policy_result(inputs,gold,state,action,cfg,tokenizer,backend,settings):\n    responses,deliveries=apply_action(inputs,state,action,cfg,tokenizer,backend)\n    baseline=condition(gold,state,state['responses'],[],include_initial=False)\n    result=condition(gold,state,responses,deliveries,include_initial=bool(action['edges']))\n    result['cost']=routed_cost(state['responses'],responses,action['edges'])\n    result['action']=action\n    result['utility_gain']=observed_reward(result,baseline,state,tokenizer,settings)\n    return result"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "n_samples": 100,
+  "NoComm": {
+    "exact_match": 0.53,
+    "f1_score": 0.4679437229437229,
+    "avg_comm_tokens": 0.0,
+    "avg_gen_tokens": 2518.08,
+    "avg_rounds": 0.0,
+    "avg_latency_seconds": 2.88655
+  },
+  "MAD": {
+    "exact_match": 0.57,
+    "f1_score": 0.4986267066267065,
+    "avg_comm_tokens": 296.98,
+    "avg_gen_tokens": 10294.74,
+    "avg_rounds": 3.0,
+    "avg_latency_seconds": 10.16985
+  },
+  "SPARSECOMM": {
+    "exact_match": 0.5,
+    "f1_score": 0.44511038961038957,
+    "avg_comm_tokens": 44.94,
+    "avg_gen_tokens": 7242.38,
+    "avg_rounds": 3.0,
+    "avg_latency_seconds": 6.670939999999998,
+    "token_reduction_vs_mad": 0.848676678564213,
+    "latency_reduction_vs_mad": 0.34404735566404643
+  },
+  "elapsed_seconds": 1973.81
+}

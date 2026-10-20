@@ -1,0 +1,173 @@
+{
+  "Transfer_GSM8K": {
+    "method": "Transfer_GSM8K",
+    "accuracy_mean": 0.9500000000000001,
+    "accuracy_std": 0.008819171036881943,
+    "accuracy_95ci": 0.021908035359094694,
+    "token_cost_mean": 52.166666666666664,
+    "token_cost_std": 5.019167704355419,
+    "token_cost_95ci": 12.468303775988629,
+    "all_accuracies": [
+      0.9466666666666667,
+      0.9433333333333334,
+      0.96
+    ],
+    "all_token_costs": [
+      47.39333333333333,
+      51.70666666666666,
+      57.4
+    ]
+  },
+  "FullComm_GSM8K": {
+    "method": "FullComm_GSM8K",
+    "accuracy_mean": 0.9622222222222222,
+    "accuracy_std": 0.0019245008972987971,
+    "accuracy_95ci": 0.00478072525527729,
+    "token_cost_mean": 530.7533333333333,
+    "token_cost_std": 29.344575875846868,
+    "token_cost_95ci": 72.89596756851017,
+    "all_accuracies": [
+      0.96,
+      0.9633333333333334,
+      0.9633333333333334
+    ],
+    "all_token_costs": [
+      553.8266666666667,
+      540.7066666666667,
+      497.7266666666667
+    ]
+  },
+  "NoComm_GSM8K": {
+    "method": "NoComm_GSM8K",
+    "accuracy_mean": 0.8700000000000001,
+    "accuracy_std": 0.00666666666666671,
+    "accuracy_95ci": 0.01656091807833564,
+    "token_cost_mean": 0.0,
+    "token_cost_std": 0.0,
+    "token_cost_95ci": 0.0,
+    "all_accuracies": [
+      0.8633333333333333,
+      0.87,
+      0.8766666666666667
+    ],
+    "all_token_costs": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Transfer_HOTPOTQA": {
+    "method": "Transfer_HOTPOTQA",
+    "accuracy_mean": 0.31666666666666665,
+    "accuracy_std": 0.04255715111601234,
+    "accuracy_95ci": 0.10571782399194389,
+    "token_cost_mean": 473.16,
+    "token_cost_std": 22.716423085023276,
+    "token_cost_95ci": 56.430723261582095,
+    "all_accuracies": [
+      0.36333333333333334,
+      0.30666666666666664,
+      0.28
+    ],
+    "all_token_costs": [
+      492.4766666666667,
+      448.1333333333333,
+      478.87
+    ]
+  },
+  "FullComm_HOTPOTQA": {
+    "method": "FullComm_HOTPOTQA",
+    "accuracy_mean": 0.34,
+    "accuracy_std": 0.03480102169636851,
+    "accuracy_95ci": 0.08645053040339047,
+    "token_cost_mean": 2914.128888888889,
+    "token_cost_std": 133.4686154258884,
+    "token_cost_95ci": 331.5544209145512,
+    "all_accuracies": [
+      0.38,
+      0.31666666666666665,
+      0.3233333333333333
+    ],
+    "all_token_costs": [
+      2995.1,
+      2760.08,
+      2987.2066666666665
+    ]
+  },
+  "NoComm_HOTPOTQA": {
+    "method": "NoComm_HOTPOTQA",
+    "accuracy_mean": 0.3,
+    "accuracy_std": 0.023333333333333338,
+    "accuracy_95ci": 0.05796321327417438,
+    "token_cost_mean": 0.0,
+    "token_cost_std": 0.0,
+    "token_cost_95ci": 0.0,
+    "all_accuracies": [
+      0.32666666666666666,
+      0.2833333333333333,
+      0.29
+    ],
+    "all_token_costs": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Transfer_AQUA": {
+    "method": "Transfer_AQUA",
+    "accuracy_mean": 0.8627821522309711,
+    "accuracy_std": 0.0031113158031994756,
+    "accuracy_95ci": 0.007728936919892585,
+    "token_cost_mean": 421.6389676290464,
+    "token_cost_std": 35.117502360330825,
+    "token_cost_95ci": 87.23671195577903,
+    "all_accuracies": [
+      0.86,
+      0.8622047244094488,
+      0.8661417322834646
+    ],
+    "all_token_costs": [
+      381.8066666666667,
+      448.13385826771656,
+      434.9763779527559
+    ]
+  },
+  "FullComm_AQUA": {
+    "method": "FullComm_AQUA",
+    "accuracy_mean": 0.8533683289588802,
+    "accuracy_std": 0.023273342443278798,
+    "accuracy_95ci": 0.05781418764182843,
+    "token_cost_mean": 850.2948731408574,
+    "token_cost_std": 170.63409594195022,
+    "token_cost_95ci": 423.8785926398225,
+    "all_accuracies": [
+      0.87,
+      0.8633333333333333,
+      0.8267716535433071
+    ],
+    "all_token_costs": [
+      849.3933333333333,
+      680.1133333333333,
+      1021.3779527559055
+    ]
+  },
+  "NoComm_AQUA": {
+    "method": "NoComm_AQUA",
+    "accuracy_mean": 0.7952055993000875,
+    "accuracy_std": 0.05459402339674562,
+    "accuracy_95ci": 0.13561907235603565,
+    "token_cost_mean": 0.0,
+    "token_cost_std": 0.0,
+    "token_cost_95ci": 0.0,
+    "all_accuracies": [
+      0.83,
+      0.8233333333333334,
+      0.7322834645669292
+    ],
+    "all_token_costs": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}

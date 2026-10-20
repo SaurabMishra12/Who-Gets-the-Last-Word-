@@ -1,0 +1,19 @@
+{
+  "n_samples": 100,
+  "seed": 42,
+  "model": "gpt-oss-120b",
+  "max_rounds": 3,
+  "sprt_tau": 1.38629436,
+  "majority_conf_threshold": 80.0,
+  "active_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ]
+  ],
+  "edge_budget": 50
+}

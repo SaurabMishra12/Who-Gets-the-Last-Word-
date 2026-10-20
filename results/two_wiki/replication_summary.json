@@ -1,0 +1,381 @@
+{
+  "actual_currency_cost": null,
+  "condition_resources": {
+    "R0_all": {
+      "completion_tokens": 64211,
+      "logical_calls": 180,
+      "prompt_tokens": 183372
+    },
+    "full_union": {
+      "completion_tokens": 24050,
+      "logical_calls": 60,
+      "prompt_tokens": 148540
+    },
+    "peer_all": {
+      "completion_tokens": 145220,
+      "logical_calls": 360,
+      "prompt_tokens": 397818
+    },
+    "peer_sink_R0_leaves": {
+      "completion_tokens": 89777,
+      "logical_calls": 240,
+      "prompt_tokens": 257521
+    },
+    "peer_sink_private_leaves": {
+      "completion_tokens": 127780,
+      "logical_calls": 360,
+      "prompt_tokens": 384375
+    },
+    "private_all": {
+      "completion_tokens": 121303,
+      "logical_calls": 360,
+      "prompt_tokens": 378056
+    }
+  },
+  "contrasts": {
+    "full_union - peer_all": {
+      "em": {
+        "ci95_pp": [
+          -8.333333333333334,
+          15.0
+        ],
+        "delta_pp": 3.3333333333333335,
+        "exact_mcnemar_p": 0.79052734375,
+        "losses": 6,
+        "n_questions": 60,
+        "ties": 46,
+        "wins": 8
+      },
+      "f1": {
+        "ci95_pp": [
+          -7.869619123566492,
+          9.608175267714739
+        ],
+        "delta_pp": 0.8002012607275764,
+        "losses": 6,
+        "n_questions": 60,
+        "ties": 46,
+        "wins": 8
+      }
+    },
+    "peer_SP - peer_sink": {
+      "em": {
+        "ci95_pp": [
+          0.0,
+          5.0
+        ],
+        "delta_pp": 1.6666666666666667,
+        "exact_mcnemar_p": 1.0,
+        "losses": 0,
+        "n_questions": 60,
+        "ties": 59,
+        "wins": 1
+      },
+      "f1": {
+        "ci95_pp": [
+          0.0,
+          7.8571428571428585
+        ],
+        "delta_pp": 3.285714285714286,
+        "losses": 0,
+        "n_questions": 60,
+        "ties": 57,
+        "wins": 3
+      }
+    },
+    "peer_all - peer_sink_R0_leaves": {
+      "em": {
+        "ci95_pp": [
+          -3.3333333333333335,
+          16.666666666666668
+        ],
+        "delta_pp": 6.666666666666667,
+        "exact_mcnemar_p": 0.34375,
+        "losses": 3,
+        "n_questions": 60,
+        "ties": 50,
+        "wins": 7
+      },
+      "f1": {
+        "ci95_pp": [
+          3.971861471861472,
+          19.924242424242426
+        ],
+        "delta_pp": 11.53138528138528,
+        "losses": 3,
+        "n_questions": 60,
+        "ties": 47,
+        "wins": 10
+      }
+    },
+    "peer_all - peer_sink_private_leaves": {
+      "em": {
+        "ci95_pp": [
+          -3.3333333333333335,
+          16.666666666666668
+        ],
+        "delta_pp": 6.666666666666667,
+        "exact_mcnemar_p": 0.34375,
+        "holm_secondary_family_2": 0.6875,
+        "losses": 3,
+        "n_questions": 60,
+        "ties": 50,
+        "wins": 7
+      },
+      "f1": {
+        "ci95_pp": [
+          3.688311688311688,
+          19.507575757575758
+        ],
+        "delta_pp": 11.1504329004329,
+        "losses": 3,
+        "n_questions": 60,
+        "ties": 47,
+        "wins": 10
+      }
+    },
+    "peer_all - private_all": {
+      "em": {
+        "ci95_pp": [
+          25.0,
+          51.666666666666664
+        ],
+        "delta_pp": 38.333333333333336,
+        "exact_mcnemar_p": 1.5497207641601562e-06,
+        "losses": 1,
+        "n_questions": 60,
+        "ties": 35,
+        "wins": 24
+      },
+      "f1": {
+        "ci95_pp": [
+          38.83581064403432,
+          61.96707251082251
+        ],
+        "delta_pp": 50.34608763556132,
+        "losses": 1,
+        "n_questions": 60,
+        "ties": 23,
+        "wins": 36
+      }
+    },
+    "peer_sink_private_leaves - peer_sink_R0_leaves": {
+      "em": {
+        "ci95_pp": [
+          0.0,
+          0.0
+        ],
+        "delta_pp": 0.0,
+        "exact_mcnemar_p": 1.0,
+        "holm_secondary_family_2": 1.0,
+        "losses": 0,
+        "n_questions": 60,
+        "ties": 60,
+        "wins": 0
+      },
+      "f1": {
+        "ci95_pp": [
+          0.0,
+          1.1428571428571423
+        ],
+        "delta_pp": 0.38095238095238076,
+        "losses": 0,
+        "n_questions": 60,
+        "ties": 59,
+        "wins": 1
+      }
+    },
+    "private_all - R0_all": {
+      "em": {
+        "ci95_pp": [
+          -5.0,
+          0.0
+        ],
+        "delta_pp": -1.6666666666666667,
+        "exact_mcnemar_p": 1.0,
+        "losses": 1,
+        "n_questions": 60,
+        "ties": 59,
+        "wins": 0
+      },
+      "f1": {
+        "ci95_pp": [
+          -2.142857142857143,
+          1.1428571428571423
+        ],
+        "delta_pp": -0.3333333333333333,
+        "losses": 1,
+        "n_questions": 60,
+        "ties": 58,
+        "wins": 1
+      }
+    }
+  },
+  "logical_resources": {
+    "full_union": {
+      "calls": 60,
+      "completion_tokens": 24050,
+      "prompt_tokens": 148540
+    },
+    "initial": {
+      "calls": 180,
+      "completion_tokens": 64211,
+      "prompt_tokens": 183372
+    },
+    "peer": {
+      "calls": 180,
+      "completion_tokens": 81009,
+      "prompt_tokens": 214446
+    },
+    "private": {
+      "calls": 180,
+      "completion_tokens": 57092,
+      "prompt_tokens": 194684
+    }
+  },
+  "n": 60,
+  "parse_kinds": {
+    "full_union:valid": 60,
+    "peer:valid": 180,
+    "private:valid": 180
+  },
+  "physical": {
+    "input_usage_missing": 0,
+    "known_input_tokens_lower_bound": 205587,
+    "known_output_tokens_lower_bound": 59728,
+    "output_usage_missing": 0,
+    "physical_attempts": 170,
+    "physical_completions": 170,
+    "rejected_attempts": 0,
+    "uncertain_attempts": 0
+  },
+  "planned_n": 60,
+  "planning_cost_usd": 1.1112475,
+  "provider_models": {
+    "gpt-oss-120b": 360
+  },
+  "scope": "New development-split60 with no question/source-title overlap with prior150; single model/round; source eligibility restricted to valid10-document examples with complete annotated supports.",
+  "stats": {
+    "R0_all": {
+      "correct": 9,
+      "em": 15.0,
+      "f1": 21.880952380952383,
+      "n": 60
+    },
+    "full_union": {
+      "correct": 33,
+      "em": 55.0,
+      "f1": 72.69390794390794,
+      "n": 60
+    },
+    "peer_SP": {
+      "correct": 28,
+      "em": 46.666666666666664,
+      "f1": 61.19565473512842,
+      "n": 60
+    },
+    "peer_all": {
+      "correct": 31,
+      "em": 51.666666666666664,
+      "f1": 71.89370668318037,
+      "n": 60
+    },
+    "peer_order012": {
+      "correct": 31,
+      "em": 51.666666666666664,
+      "f1": 71.89370668318037,
+      "n": 60
+    },
+    "peer_order021": {
+      "correct": 31,
+      "em": 51.666666666666664,
+      "f1": 71.89370668318037,
+      "n": 60
+    },
+    "peer_order102": {
+      "correct": 32,
+      "em": 53.333333333333336,
+      "f1": 72.31037334984703,
+      "n": 60
+    },
+    "peer_order120": {
+      "correct": 33,
+      "em": 55.0,
+      "f1": 73.9770400165137,
+      "n": 60
+    },
+    "peer_order201": {
+      "correct": 32,
+      "em": 53.333333333333336,
+      "f1": 73.56037334984703,
+      "n": 60
+    },
+    "peer_order210": {
+      "correct": 33,
+      "em": 55.0,
+      "f1": 73.9770400165137,
+      "n": 60
+    },
+    "peer_sink": {
+      "correct": 27,
+      "em": 45.0,
+      "f1": 57.90994044941413,
+      "n": 60
+    },
+    "peer_sink_R0_leaves": {
+      "correct": 27,
+      "em": 45.0,
+      "f1": 60.362321401795086,
+      "n": 60
+    },
+    "peer_sink_private_leaves": {
+      "correct": 27,
+      "em": 45.0,
+      "f1": 60.743273782747465,
+      "n": 60
+    },
+    "private_all": {
+      "correct": 8,
+      "em": 13.333333333333334,
+      "f1": 21.547619047619047,
+      "n": 60
+    },
+    "private_order012": {
+      "correct": 8,
+      "em": 13.333333333333334,
+      "f1": 21.547619047619047,
+      "n": 60
+    },
+    "private_order021": {
+      "correct": 8,
+      "em": 13.333333333333334,
+      "f1": 21.547619047619047,
+      "n": 60
+    },
+    "private_order102": {
+      "correct": 8,
+      "em": 13.333333333333334,
+      "f1": 21.547619047619047,
+      "n": 60
+    },
+    "private_order120": {
+      "correct": 8,
+      "em": 13.333333333333334,
+      "f1": 21.547619047619047,
+      "n": 60
+    },
+    "private_order201": {
+      "correct": 8,
+      "em": 13.333333333333334,
+      "f1": 21.547619047619047,
+      "n": 60
+    },
+    "private_order210": {
+      "correct": 8,
+      "em": 13.333333333333334,
+      "f1": 21.547619047619047,
+      "n": 60
+    }
+  },
+  "status": "COMPLETE_60"
+}

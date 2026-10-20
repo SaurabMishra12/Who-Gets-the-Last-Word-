@@ -1,0 +1,21 @@
+% Fragment transcribed from the supplied TeX; see paper/reference.json.
+\begin{table}[!t]
+\centering
+\caption{Terminal readout properties for $N=3$ agents under one synchronous communication round. Resource costs denote directed deliveries / recipient updates ($|\mathcal{G}|/|U|$). Structural parity requires identical Round-0 states and matched sink inputs.}
+\label{tab:readout_theory}
+\scriptsize
+\setlength{\tabcolsep}{3.2pt}
+\renewcommand{\arraystretch}{1.05}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}lcccc@{}}
+\toprule
+\textbf{Readout Operator} & \textbf{In-Star vs.\ Dense} & \textbf{Sink Parity?} & \textbf{Leaf Recovery?} & \textbf{Abstention Veto?} \\
+\midrule
+Original Vote ($\Rorig$) & $2/1$ vs.\ $6/3$ & No & Partial & Yes \\
+Fixed Sink ($\Rsink$) & $2/1$ vs.\ $6/3$ & Yes & No & N/A \\
+\textbf{Sink-Priority ($\Rsp$)} & $2/1$ vs.\ $6/3$ & \textbf{Yes} & \textbf{Yes} & No \\
+Abstention-Aware ($\Raa$) & $2/1$ vs.\ $6/3$ & No & Yes & No \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

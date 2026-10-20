@@ -1,0 +1,18 @@
+\begin{table}[t]
+\centering
+\caption{Paired question-clustered bootstrap analysis (B=10{,}000). $\Delta$ = SparseComm $-$ MAD accuracy difference. TOST tests H$_0$: $\Delta \leq -\delta$.}
+\label{tab:bootstrap}
+\small
+\begin{tabular}{llrrcc}
+\toprule
+Dataset & Comparison & $n$ & Point $\Delta$ & 95\% BCa CI & $p_{\text{TOST}}$ ($\delta\!=\!5$) \\
+\midrule
+  GSM8K & SparseComm − MAD & 551 & -1.09\% & [-3.81\%, +1.27\%] & 0.0017 \\
+   & SparseComm − NoComm & 551 & +8.53\% & [+4.90\%, +11.80\%] & 0.0000 \\
+  AQUA & SparseComm − MAD & 254 & -0.39\% & [-2.64\%, +0.39\%] & 0.0000 \\
+   & SparseComm − NoComm & 254 & +3.94\% & [+1.57\%, +6.69\%] & 0.0000 \\
+  HOTPOTQA & SparseComm − MAD & 863 & -2.43\% & [-4.17\%, -1.04\%] & 0.0012 \\
+   & SparseComm − NoComm & 863 & +1.51\% & [-0.35\%, +3.24\%] & 0.0000 \\
+\bottomrule
+\end{tabular}
+\end{table}

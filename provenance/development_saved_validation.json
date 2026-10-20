@@ -1,0 +1,8 @@
+{
+  "frozen_manifests": "PASS",
+  "submitted_title_and_abstract": "UNCHANGED",
+  "latex_static_references": "PASS",
+  "paper_sha256": "4bb77db6acd369804ddf9346392e65258825a5b77ce5db3380d2933d50730b9e",
+  "compiler": "BLOCKED: uncached Tectonic bundle download failed; layout not verified",
+  "figures": "PNG visual review passed"
+}

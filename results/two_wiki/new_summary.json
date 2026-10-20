@@ -1,0 +1,370 @@
+{
+  "actual_currency_cost": null,
+  "condition_resources": {
+    "R0_all": {
+      "completion_tokens": 126897,
+      "logical_calls": 390,
+      "prompt_tokens": 378063
+    },
+    "peer_all": {
+      "completion_tokens": 294819,
+      "logical_calls": 780,
+      "prompt_tokens": 817168
+    },
+    "peer_sink_R0_leaves": {
+      "completion_tokens": 182337,
+      "logical_calls": 520,
+      "prompt_tokens": 527923
+    },
+    "peer_sink_private_leaves": {
+      "completion_tokens": 261377,
+      "logical_calls": 780,
+      "prompt_tokens": 791178
+    },
+    "private_all": {
+      "completion_tokens": 245834,
+      "logical_calls": 780,
+      "prompt_tokens": 778590
+    }
+  },
+  "contrasts": {
+    "peer_SP - peer_sink": {
+      "em": {
+        "ci95_pp": [
+          0.7692307692307693,
+          6.153846153846154
+        ],
+        "delta_pp": 3.076923076923077,
+        "exact_mcnemar_p": 0.125,
+        "losses": 0,
+        "n_questions": 130,
+        "ties": 126,
+        "wins": 4
+      },
+      "f1": {
+        "ci95_pp": [
+          1.208791208791209,
+          7.6923076923076925
+        ],
+        "delta_pp": 4.093406593406593,
+        "losses": 0,
+        "n_questions": 130,
+        "ties": 124,
+        "wins": 6
+      }
+    },
+    "peer_all - historical_peer_all": {
+      "em": {
+        "ci95_pp": [
+          -0.7692307692307693,
+          8.461538461538462
+        ],
+        "delta_pp": 3.8461538461538463,
+        "exact_mcnemar_p": 0.1796875,
+        "losses": 2,
+        "n_questions": 130,
+        "ties": 121,
+        "wins": 7
+      },
+      "f1": {
+        "ci95_pp": [
+          -0.9184149184149185,
+          7.65034965034965
+        ],
+        "delta_pp": 3.1841491841491845,
+        "losses": 3,
+        "n_questions": 130,
+        "ties": 120,
+        "wins": 7
+      }
+    },
+    "peer_all - peer_sink_R0_leaves": {
+      "em": {
+        "ci95_pp": [
+          6.923076923076923,
+          20.76923076923077
+        ],
+        "delta_pp": 13.846153846153847,
+        "exact_mcnemar_p": 0.0002771615982055664,
+        "losses": 3,
+        "n_questions": 130,
+        "ties": 106,
+        "wins": 21
+      },
+      "f1": {
+        "ci95_pp": [
+          8.688644688644688,
+          22.307692307692307
+        ],
+        "delta_pp": 15.355311355311354,
+        "losses": 4,
+        "n_questions": 130,
+        "ties": 103,
+        "wins": 23
+      }
+    },
+    "peer_all - peer_sink_private_leaves": {
+      "em": {
+        "ci95_pp": [
+          6.923076923076923,
+          20.76923076923077
+        ],
+        "delta_pp": 13.846153846153847,
+        "exact_mcnemar_p": 0.0002771615982055664,
+        "holm_secondary_family_2": 0.0005543231964111328,
+        "losses": 3,
+        "n_questions": 130,
+        "ties": 106,
+        "wins": 21
+      },
+      "f1": {
+        "ci95_pp": [
+          8.688644688644688,
+          22.307692307692307
+        ],
+        "delta_pp": 15.355311355311354,
+        "losses": 4,
+        "n_questions": 130,
+        "ties": 103,
+        "wins": 23
+      }
+    },
+    "peer_all - private_all": {
+      "em": {
+        "ci95_pp": [
+          48.46153846153846,
+          65.38461538461539
+        ],
+        "delta_pp": 56.92307692307692,
+        "exact_mcnemar_p": 2.0381730293306602e-21,
+        "losses": 1,
+        "n_questions": 130,
+        "ties": 54,
+        "wins": 75
+      },
+      "f1": {
+        "ci95_pp": [
+          52.12130177514793,
+          68.76232741617356
+        ],
+        "delta_pp": 60.51873767258382,
+        "losses": 1,
+        "n_questions": 130,
+        "ties": 45,
+        "wins": 84
+      }
+    },
+    "peer_sink_private_leaves - peer_sink_R0_leaves": {
+      "em": {
+        "ci95_pp": [
+          0.0,
+          0.0
+        ],
+        "delta_pp": 0.0,
+        "exact_mcnemar_p": 1.0,
+        "holm_secondary_family_2": 1.0,
+        "losses": 0,
+        "n_questions": 130,
+        "ties": 130,
+        "wins": 0
+      },
+      "f1": {
+        "ci95_pp": [
+          0.0,
+          0.0
+        ],
+        "delta_pp": 0.0,
+        "losses": 0,
+        "n_questions": 130,
+        "ties": 130,
+        "wins": 0
+      }
+    },
+    "private_all - R0_all": {
+      "em": {
+        "ci95_pp": [
+          -6.153846153846154,
+          1.5384615384615385
+        ],
+        "delta_pp": -2.3076923076923075,
+        "exact_mcnemar_p": 0.453125,
+        "losses": 5,
+        "n_questions": 130,
+        "ties": 123,
+        "wins": 2
+      },
+      "f1": {
+        "ci95_pp": [
+          -5.833333333333333,
+          1.0256410256410258
+        ],
+        "delta_pp": -2.2435897435897436,
+        "losses": 5,
+        "n_questions": 130,
+        "ties": 123,
+        "wins": 2
+      }
+    }
+  },
+  "logical_resources": {
+    "initial": {
+      "calls": 390,
+      "completion_tokens": 126897,
+      "prompt_tokens": 378063
+    },
+    "peer": {
+      "calls": 390,
+      "completion_tokens": 167922,
+      "prompt_tokens": 439105
+    },
+    "private": {
+      "calls": 390,
+      "completion_tokens": 118937,
+      "prompt_tokens": 400527
+    }
+  },
+  "n": 130,
+  "parse_kinds": {
+    "peer:valid": 390,
+    "private:valid": 390
+  },
+  "physical": {
+    "input_usage_missing": 0,
+    "known_input_tokens_lower_bound": 839632,
+    "known_output_tokens_lower_bound": 286859,
+    "output_usage_missing": 0,
+    "physical_attempts": 781,
+    "physical_completions": 780,
+    "rejected_attempts": 1,
+    "uncertain_attempts": 0
+  },
+  "planned_n": 130,
+  "planning_cost_usd": 4.96767,
+  "provider_models": {
+    "gpt-oss-120b": 780
+  },
+  "scope": "New conditions on previously inspected130-question cohort. Paired outcomes, single model/round. Primary contrast frozen before new inference; not a new held-out dataset.",
+  "stats": {
+    "R0_all": {
+      "correct": 25,
+      "em": 19.23076923076923,
+      "f1": 22.170329670329668,
+      "n": 130
+    },
+    "historical_peer_all": {
+      "correct": 91,
+      "em": 70.0,
+      "f1": 77.26132841517456,
+      "n": 130
+    },
+    "peer_SP": {
+      "correct": 78,
+      "em": 60.0,
+      "f1": 65.0901662440124,
+      "n": 130
+    },
+    "peer_all": {
+      "correct": 96,
+      "em": 73.84615384615384,
+      "f1": 80.44547759932375,
+      "n": 130
+    },
+    "peer_order012": {
+      "correct": 96,
+      "em": 73.84615384615384,
+      "f1": 80.44547759932375,
+      "n": 130
+    },
+    "peer_order021": {
+      "correct": 96,
+      "em": 73.84615384615384,
+      "f1": 80.44547759932375,
+      "n": 130
+    },
+    "peer_order102": {
+      "correct": 97,
+      "em": 74.61538461538461,
+      "f1": 81.21470836855451,
+      "n": 130
+    },
+    "peer_order120": {
+      "correct": 97,
+      "em": 74.61538461538461,
+      "f1": 81.21470836855451,
+      "n": 130
+    },
+    "peer_order201": {
+      "correct": 96,
+      "em": 73.84615384615384,
+      "f1": 80.44547759932375,
+      "n": 130
+    },
+    "peer_order210": {
+      "correct": 97,
+      "em": 74.61538461538461,
+      "f1": 81.21470836855451,
+      "n": 130
+    },
+    "peer_sink": {
+      "correct": 74,
+      "em": 56.92307692307692,
+      "f1": 60.9967596506058,
+      "n": 130
+    },
+    "peer_sink_R0_leaves": {
+      "correct": 78,
+      "em": 60.0,
+      "f1": 65.0901662440124,
+      "n": 130
+    },
+    "peer_sink_private_leaves": {
+      "correct": 78,
+      "em": 60.0,
+      "f1": 65.0901662440124,
+      "n": 130
+    },
+    "private_all": {
+      "correct": 22,
+      "em": 16.923076923076923,
+      "f1": 19.926739926739927,
+      "n": 130
+    },
+    "private_order012": {
+      "correct": 22,
+      "em": 16.923076923076923,
+      "f1": 19.926739926739927,
+      "n": 130
+    },
+    "private_order021": {
+      "correct": 22,
+      "em": 16.923076923076923,
+      "f1": 19.926739926739927,
+      "n": 130
+    },
+    "private_order102": {
+      "correct": 22,
+      "em": 16.923076923076923,
+      "f1": 19.926739926739927,
+      "n": 130
+    },
+    "private_order120": {
+      "correct": 22,
+      "em": 16.923076923076923,
+      "f1": 19.926739926739927,
+      "n": 130
+    },
+    "private_order201": {
+      "correct": 22,
+      "em": 16.923076923076923,
+      "f1": 19.926739926739927,
+      "n": 130
+    },
+    "private_order210": {
+      "correct": 22,
+      "em": 16.923076923076923,
+      "f1": 19.926739926739927,
+      "n": 130
+    }
+  },
+  "status": "COMPLETE_130"
+}

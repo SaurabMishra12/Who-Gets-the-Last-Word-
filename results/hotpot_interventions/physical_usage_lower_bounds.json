@@ -1,0 +1,16 @@
+{
+  "scope": "All original attempt IDs in WEBExtension/artifacts, including archived caps, pilots and preserved prior study; ledger copies de-duplicated by attempt ID",
+  "unique_attempts": 18568,
+  "outcomes": {
+    "success": 18524,
+    "rejected": 30,
+    "uncertain": 14
+  },
+  "reported_input_tokens_lower_bound": 18617820,
+  "reported_output_tokens_lower_bound": 4829904,
+  "attempts_missing_input_usage": 44,
+  "attempts_missing_output_usage": 117,
+  "refusals": 139,
+  "monetary_cost": null,
+  "reason": "No verified deployment price; missing/refusal/error usage remains unknown, not zero"
+}

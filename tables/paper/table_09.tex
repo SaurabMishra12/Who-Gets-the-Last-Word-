@@ -1,0 +1,26 @@
+% Fragment transcribed from the supplied TeX; see paper/reference.json.
+\begin{table*}[!t]
+\centering
+\caption{\textbf{Experimental protocol register.} Shared question IDs and multi-seed runs are analysed as paired designs.}
+\label{tab:master_protocols}
+\scriptsize
+\setlength{\tabcolsep}{3.8pt}
+\renewcommand{\arraystretch}{1.02}
+\resizebox{0.96\textwidth}{!}{%
+\begin{tabular}{@{}lllll@{}}
+\toprule
+\textbf{Protocol} & \textbf{Dataset / Regime} & \textbf{Cohort Size} & \textbf{Primary Intervention} & \textbf{Statistical Procedure} \\
+\midrule
+2Wiki Pilot / Ext. / Pooled & 2WikiMultihopQA train / $P$ & $20$ / $130$ / $150$ paired & $7$ routing arms $\times 3$ readouts ($\Rsink,\Rsp,\Raa$) & Paired bootstrap CI; exact McNemar \\
+HotpotQA E1 & \texttt{fullwiki} dev / $R,P$ & $300$ paired ($240$ dev / $60$ tune) & $2\times 4$ evidence regime $\times$ routing & Paired bootstrap; sign randomization \\
+HotpotQA E2 \& E3-v2 & \texttt{fullwiki} dev / $R$ & $300$ (E2); $299$ eligible (E3-v2) & Frozen CW vs.\ CCW (E2); $128$-tok prefix vs.\ crop (E3-v2) & Paired bootstrap; sign randomization \\
+HotpotQA E4 \& E5 & \texttt{fullwiki} / $R,P$ & $300$ test ($\times 3$ seeds in E5) & Consensus-stop replay (E4); $55$-action PPO & Bootstrap; Holm ($M=20$ in E5) \\
+HotpotQA Gold Strata & E1/E5 shared test IDs & $62$ Disjoint / $14$ Co-loc / $224$ Miss & Post-hoc gold-coverage $\times$ readout audit & Paired bootstrap; exact McNemar \\
+Reasoning P1 / P1b & GSM8K / AQuA / HotpotQA & P1: $300\times 3$; P1b: $551/254/863$ & NoComm vs.\ MAD vs.\ \sys{} & BCa bootstrap; one-sided NI ($\delta=5$ pp) \\
+Reasoning P2b \& P3 & GSM8K diagnostic & P2b: $150$; P3: $150$ matched & $2\times 2$ routing $\times$ filtering (P2b); $6$ static motifs (P3) & Question-clustered CR1; Holm ($M=12$) \\
+Reasoning P4 \& P5 & Arithmetic diagnostics & P4: $150\times(15+5)$; P5: $100$ & All $15$ two-edge supports (P4); $2\times 2$ route $\times$ stop (P5) & Wilson CI; BCa bootstrap; exact McNemar \\
+Web W1--W4 & HotpotQA \texttt{fullwiki} val & $100$ paired ($1{,}500$ traces) & Policy, sentence rationing, and consensus stopping & Paired bootstrap; Holm adjustment \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

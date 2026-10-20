@@ -1,0 +1,4 @@
+pipeline,successes,reported_input_tokens,successful_inputs_missing,reported_output_tokens_lower_bound,successful_outputs_missing,original_unresolved_attempts,attempts
+controlled,6134,5960203,0,1582163,29,8,6153
+controller,10019,10130139,0,2640066,37,5,10037
+E3_v2,598,902605,0,166539,6,0,601

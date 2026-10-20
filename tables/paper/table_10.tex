@@ -1,0 +1,24 @@
+% Fragment transcribed from the supplied TeX; see paper/reference.json.
+\begin{table}[!h]
+\centering
+\caption{P4 exhaustive two-edge support sweep by motif family ($N=150$) and learned PPO comparison.}
+\label{tab:p4_15supports}
+\scriptsize
+\setlength{\tabcolsep}{3.5pt}
+\renewcommand{\arraystretch}{1.03}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}lcccc@{}}
+\toprule
+\textbf{Support Family / Policy} & \textbf{Acc. ($\bar{V}=50$)} & \textbf{Realized $V_{50}$} & \textbf{Acc. ($\bar{V}=100$)} & \textbf{Realized $V_{100}$} \\
+\midrule
+Out-Star motifs (3 supports) & $75.56\%$ & $22.5$ & $78.22\%$ & $44.8$ \\
+In-Star motifs (3 supports) & $75.78\%$ & $22.5$ & $78.44\%$ & $44.7$ \\
+Reciprocal Dyads (3 supports) & $76.22\%$ & $22.5$ & $79.78\%$ & $44.7$ \\
+Relay Paths (6 supports) & $75.67\%$ & $22.5$ & $79.56\%$ & $44.7$ \\
+Static Out-Star $S_1$ ($0\to 1,0\to 2$) & $73.33\%$ & $22.7$ & $76.67\%$ & $45.3$ \\
+All 15 two-edge supports (mean $\pm$ SD) & $75.78\pm 2.43\%$ & $22.5$ & $79.11\pm 2.74\%$ & $44.7$ \\
+\textbf{Learned PPO (5 seeds, mean $\pm$ SD)} & $\mathbf{91.87\pm 1.81\%}$ & $\mathbf{15.1}$ & $\mathbf{92.00\pm 1.33\%}$ & $\mathbf{31.5}$ \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}

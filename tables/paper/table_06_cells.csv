@@ -1,0 +1,23 @@
+tabular,row,column,cell_tex
+1,1,1,"\toprule
+\textbf{Audit Dimension}"
+1,1,2,\textbf{Confound / Quantity}
+1,1,3,\textbf{Required Reporting Control}
+1,2,1,"\midrule
+Terminal readout"
+1,2,2,Final answer selection
+1,2,3,"Report Fixed Sink ($\Rsink$), Fallback ($\Rsp$), and Vote ($\Raa$)."
+1,3,1,Abstention semantics
+1,3,2,Uninformed \texttt{noanswer} ballots
+1,3,3,Audit $\Rorig$ vs.\ $\Raa$ under partitioned retrieval (Prop.~\ref{prop:veto}).
+1,4,1,Recipient computation
+1,4,2,Edge count vs.\ LLM calls
+1,4,3,"Report $|\mathcal{G}|$, $|U(\mathcal{G})|$, and total logical tokens (Thm.~\ref{thm:multiplicity})."
+1,5,1,Centralization boundary
+1,5,2,Distributed vs.\ single prompt
+1,5,3,Include a single-call Full-Union baseline when feasible.
+1,6,1,Volume \
+1,6,2,stopping
+1,6,3,Nominal cap vs.\ realized cost
+1,6,4,"Log realized tokens, stopping depth, and gold-coverage strata."
+1,7,1,\bottomrule

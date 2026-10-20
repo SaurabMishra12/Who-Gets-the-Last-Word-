@@ -1,0 +1,105 @@
+% Fragment transcribed from the supplied TeX; see paper/reference.json.
+\begin{table*}[!t]
+\centering
+\caption{\textbf{Co-located reasoning efficiency and component attribution (Protocols P1--P5).}
+Panel A separates the 3-seed P1 evaluation cohort ($N=300\times 3$ per benchmark; reporting seed $\text{mean}\pm\text{SD}$) from the P1b paired non-inferiority cohort ($N=551$ GSM8K, $254$ AQuA-RAT, $863$ closed-book HotpotQA; reporting paired BCa bootstrap contrasts $\Delta$ and one-sided non-inferiority $p$-values at $\delta=5$ pp).
+Panel B compares static and learned policies under nominal token ceilings $\bar{V}\in\{50,100\}$ in P4 ($N=150$).
+Panel C isolates routing support selection and adaptive stopping in P5 ($N=100$).}
+\label{tab:colocated_main}
+\scriptsize
+\setlength{\tabcolsep}{3.8pt}
+\renewcommand{\arraystretch}{1.02}
+
+\textbf{Panel A: End-to-End Quality--Cost Performance across P1 ($300\times 3$ Multi-Seed) and P1b (Paired Non-Inferiority Cohort)}
+
+\vspace{1pt}
+\resizebox{0.96\textwidth}{!}{%
+\begin{tabular}{lccccccc}
+\toprule
+\textbf{Benchmark}
+& \textbf{P1 NoComm (\%)}
+& \textbf{P1 MAD (\%)}
+& \textbf{P1 \sys{} (\%)}
+& \textbf{P1 MAD $\to$ \sys{} Tokens}
+& \textbf{P1b Cohort ($N$)}
+& \textbf{P1b Paired $\Delta$ vs.\ MAD (95\% BCa CI)}
+& \textbf{P1b NI $p$ ($\delta=5$ pp)} \\
+\midrule
+GSM8K
+& $87.00\pm0.67$
+& $96.22\pm0.19$
+& $95.00\pm0.88$
+& $530.8\to52.2$ ($-90.2\%$)
+& $551$
+& $-1.09$ pp $[-3.81,+1.27]$
+& $\mathbf{0.002}$ \\
+
+AQuA-RAT
+& $79.52\pm5.46$
+& $85.34\pm2.33$
+& $86.28\pm0.31$
+& $850.3\to421.6$ ($-50.4\%$)
+& $254$
+& $-0.39$ pp $[-2.64,+0.39]$
+& $\mathbf{<0.001}$ \\
+
+HotpotQA (Closed)
+& $30.00\pm2.33$
+& $34.00\pm3.48$
+& $31.67\pm4.26$
+& $2914.1\to473.2$ ($-83.8\%$)
+& $863$
+& $-2.43$ pp $[-4.17,-1.04]$
+& $\mathbf{0.0012}$ \\
+\bottomrule
+\end{tabular}%
+}
+
+\vspace{3pt}
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\textbf{Panel B: Static Supports vs.\ Learned Policy (P4, $N=150$)}
+
+\vspace{1pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Policy} & \textbf{Support} & \textbf{Acc$_{50}$} & \textbf{$V_{50}$} & \textbf{Acc$_{100}$} & \textbf{$V_{100}$} \\
+\midrule
+NoComm & $0$ edges & $78.67\%$ & $0.0$ & $78.67\%$ & $0.0$ \\
+Complete & $6$ edges & $78.67\%$ & $50.0$ & $75.33\%$ & $100.0$ \\
+Bidirectional Star & $4$ edges & $80.00\%$ & $50.0$ & $76.00\%$ & $100.0$ \\
+15-Support Mean & $2$ edges & $75.78\pm2.43\%$ & $22.5$ & $79.11\pm2.74\%$ & $44.7$ \\
+Static Out-Star ($S_1$) & $0\to 1,0\to 2$ & $73.33\%$ & $22.7$ & $76.67\%$ & $45.3$ \\
+\textbf{Learned PPO (5 seeds)} & Adaptive & $\mathbf{91.87\pm1.81\%}$ & $\mathbf{15.1}$ & $\mathbf{92.00\pm1.33\%}$ & $\mathbf{31.5}$ \\
+Learned PPO (Peak) & Adaptive & $95.33\%$ & $49.7$ & $92.67\%$ & $95.1$ \\
+\bottomrule
+\end{tabular}%
+}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\centering
+\textbf{Panel C: Routing vs.\ Adaptive Stopping Isolation (P5, $N=100$)}
+
+\vspace{1pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Routing} & \textbf{Stopping} & \textbf{Accuracy (95\% CI)} & \textbf{Tokens} & \textbf{Rounds} & \textbf{Paired Contrast} \\
+\midrule
+Static $S_1$ & Fixed ($T=3$) & $91.00\%$ $[83.8,95.2]$ & $46.0$ & $3.00$ & Reference \\
+Learned Top-2 & Fixed ($T=3$) & $91.00\%$ $[83.8,95.2]$ & $46.0$ & $3.00$ & $\Delta_{\mathrm{route}}=0.00$ pp \\
+Static $S_1$ & Adaptive & $93.00\%$ $[86.3,96.6]$ & $14.0$ & $1.00$ & $\Delta_{\mathrm{stop}}=+2.00$ pp \\
+Learned Top-2 & Adaptive & $93.00\%$ $[86.3,96.6]$ & $14.0$ & $1.00$ & $\Delta_{\mathrm{route}}=0.00$ pp \\
+\bottomrule
+\end{tabular}%
+}
+\end{minipage}
+
+\vspace{2pt}
+\parbox{0.96\textwidth}{\footnotesize
+\textit{Notes.}
+In Panel A, P1 columns report 3-seed $\text{mean}\pm\text{SD}$ ($N=300\times 3$), where seed-mean differences $\sys{}-\text{MAD}$ are $-1.22$ pp (GSM8K), $+0.94$ pp (AQuA-RAT), and $-2.33$ pp (HotpotQA), and $\sys{}-\text{NoComm}$ differences are $+8.00$, $+6.76$, and $+1.67$ pp. P1b columns report paired BCa bootstrap contrasts on the separate P1b cohorts ($N=551, 254, 863$), where paired $\sys{}-\text{NoComm}$ gains are $+8.53$, $+3.94$, and $+1.51$ pp. In Panel C, Learned Top-2 selects $S_1$ on every round; adaptive stopping cuts tokens by $69.6\%$ ($\Delta_{\mathrm{stop}}=+2.00$ pp, 95\% CI $[-2.0,+5.0]$, exact McNemar $p=0.625$).
+}
+\end{table*}
