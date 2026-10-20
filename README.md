@@ -66,14 +66,8 @@ All saved requests in the selected canonical Web run directories are included. S
 
 Logical calls and tokens describe an execution policy. Physical ledgers describe provider attempts. Shared cached responses make arm totals nonadditive. Missing usage and unresolved attempts remain unknown; token lower bounds are not a measured currency bill.
 
-## Version and figure provenance
-
-This release refers to `Agentic_AI (5).pdf`, identified by SHA-256 in `paper/reference.json`. The earlier TeX bundle predates the peer/private table. Figure renderings preserve released observations but do not reproduce the original artwork pixel for pixel.
 
 ## Rights
 
 Benchmark excerpts retain their upstream terms. No blanket license is asserted over third-party data or model outputs. No model or dataset license is changed by this repository.
 
-## Verification limits
-
-The offline scripts check released scores and selected readouts. They do not independently verify factual faithfulness, data contamination, source necessity, scientific novelty, or every historical confidence interval. Lean checks the stated encoded assumptions, not the empirical behavior of the model.
